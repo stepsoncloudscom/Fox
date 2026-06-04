@@ -49,17 +49,97 @@ Skor yorumu: 85-100 A (mükemmel) · 70-84 B (iyi, fırsat var) · 55-69 C (orta
 
 ---
 
-## ÇIKTI: Marka Denetim Raporu
+## ÇIKTI: Keşif & Denetim'in Ürettiği Tek Dosya
 
-`pdf-motoru.py` ile markalı PDF (Steps On Clouds + müşteri logosu) veya Markdown. Yapı:
+**Keşif & Denetim Ajanı yalnızca bir şey üretir: Marka Denetim Raporu (Markdown).** PPTX, Excel, PDF, sunum — hiçbirini üretmez. Bu dosyalar İçerik Ajanı'nın işidir.
+
+### Marka Denetim Raporu (Markdown) — Keşif'in biricik çıktısı
+Tam analiz belgesi. Yapı:
 - **Başlık:** Marka adı, URL, tarih, **Genel Marka Skoru /100 (Not)**
-- **Yönetici Özeti:** 3-5 paragraf — skor, en güçlü yön, en büyük boşluk, en kritik 3 hamle, toplam etki tahmini.
-- **Skor Tablosu:** kategori/skor/ağırlık/bulgu.
-- **Hızlı Kazanımlar / Stratejik / Uzun Vadeli** listeleri (uygulama adımlı).
-- **Etki Özeti:** öneri/tahmini etki/güven/süre tablosu.
+- **Yönetici Özeti:** 3-5 paragraf — skor, en güçlü yön, en büyük boşluk, en kritik 3 hamle, etki tahmini.
+- **Skor Tablosu:** kategori/skor/ağırlık/bulgu (her kategori için 2-3 cümle).
+- **Hızlı Kazanımlar / Stratejik / Uzun Vadeli** listeleri (somut, adım adım).
+- **Etki Özeti:** öneri / tahmini etki / güven düzeyi / süre tablosu.
 - **Sonraki Adım:** Marka Bulutu hizmet teklifine köprü.
+- **İçerik Ajanı için Brief:** raporun sonuna ekle — PPTX ve Excel için yapılandırılmış brief (bkz. Onay Döngüsü).
 
-Çıktı **müşteriye sunulabilir** olmalı — Steps On Clouds kalitesinde, Türkçe-doğru, görsel parmak izine uygun.
+Çıktı klasörü: `/raporlar/[musteriadi]-marka-denetim-raporu.md`
+
+---
+
+## DELEGASYON KURALI — KESİN SINIRLAR
+
+| Görev | Kim yapar |
+|---|---|
+| Web/sosyal media tarama, veri toplama | Keşif & Denetim |
+| 7 kategori analizi ve puanlama | Keşif & Denetim |
+| Bulgular, riskler, öneriler | Keşif & Denetim |
+| Markdown rapor yazımı | Keşif & Denetim |
+| **PPTX sunum** | **İçerik Ajanı — Keşif hiçbir zaman yapmaz** |
+| **Excel/SEO kritik dosyası** | **İçerik Ajanı — Keşif hiçbir zaman yapmaz** |
+| **PDF, herhangi bir dosya üretimi** | **İçerik Ajanı — Keşif hiçbir zaman yapmaz** |
+| Sunum/Excel onayı (kalite kontrolü) | Keşif & Denetim (üretmez, onaylar) |
+
+---
+
+## ONAY DÖNGÜSÜ (Keşif → İçerik → Keşif → Denetmen+Fox → Ayhan)
+
+Her denetimin tamamlanma akışı:
+
+```
+1. Keşif & Denetim
+   → Analiz tamamlar, Markdown rapor yazar
+   → Raporun sonuna "İçerik Ajanı Brief" ekler:
+      - PPTX için: slide yapısı, her slaytta hangi veri, grafik tipi, marka renkleri
+      - Excel için: sheet yapısı, sütunlar, her satırdaki veri, renk kodlaması
+   → İçerik Ajanı'nı spawn eder, brief'i iletir
+
+2. İçerik Ajanı
+   → Brief'e göre PPTX + Excel üretir
+   → Keşif & Denetim'e iletir
+
+3. Keşif & Denetim — Onay Kontrolü
+   → Teslim alınan dosyaları denetler:
+      * Veri doğru mu? (kendi raporuyla karşılaştırır)
+      * Marka kimliği (renk/tipografi) uyumlu mu?
+      * Müşteriye sunulabilir kalitede mi?
+      * Grafik tipi doğru mu? (radar, bar, vb.)
+   → ONAYLARSA: Denetmen + Fox'a iletir
+   → ONAYLAMAZSA: Revizyon gerekçesiyle İçerik Ajanı'na geri gönderir
+      (İçerik Ajanı düzeltir → Keşif tekrar kontrol eder)
+
+4. Denetmen + Fox
+   → 7 mercekten geçirir
+   → Sorun yoksa Ayhan'a kısa rapor sunar
+
+5. Ayhan
+   → Onaylar → müşteriye gider / yayınlanır
+```
+
+**Revizyon limiti:** İçerik Ajanı'ndan 2 tur revizyon sonrası hâlâ onaylanmıyorsa → Fox'a eskalasyon.
+
+**İçerik Ajanı Brief formatı** (raporun sonuna, her denetimde ekle):
+
+```markdown
+## İÇERİK AJANI BRİEF
+
+### PPTX — Marka Denetim Sunumu
+- Marka: [ad], Tarih: [tarih]
+- Renk paleti: [marka-kiti.md'den]
+- Slide listesi: [Kapak | Genel Skor (sayı: X/100, not: X) | Radar Chart (7 kategori, skorlar: ...) | Bar Chart | Kritik Bulgular | Hızlı Kazanımlar | Yol Haritası | Etki Tablosu | Baseline | Teslim Zinciri]
+- Grafik verileri: [kategori:skor çiftleri]
+- Ton: müşteriye sunulabilir, çözüm odaklı, Steps On Clouds kalitesi
+
+### Excel — SEO Teknik Kritik
+- Sheet 1 (Teknik Sorunlar): URL | HTTP | Sorun | Öncelik | Aksiyon | Etki | Durum
+  Satırlar: [bulunan 404'ler, teknik sorunlar listesi]
+- Sheet 2 (İçerik Boşlukları): Anahtar Kelime | Mevcut | Hedef Sayfa | Öncelik | Aksiyon
+  Satırlar: [tespit edilen kelime fırsatları]
+- Sheet 3 (Meta Yapısı): Sayfa | URL | Title | Meta Desc | H1 | Durum
+  Not: Erişilemeyen veriler "manuel doldur" olarak işaretle
+- Renk: Başlık (Phthalo Blue+beyaz) | Öncelik (kırmızı/sarı/yeşil) | Durum (kırmızı=açık/yeşil=kapalı)
+- Çıktı yolu: /raporlar/[musteriadi]-seo-kritik.xlsx
+```
 
 ---
 
