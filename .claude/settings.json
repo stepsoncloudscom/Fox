@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '=== FOX HAFIZA (otomatik yüklendi) — yeni oturumda önce bunu oku, detayları fox-durum.md haritasından lazım oldukça çek ==='; cat '/Users/ayhanerden/Fox/fox-durum.md'"
+          }
+        ]
+      }
+    ]
+  }
+}
