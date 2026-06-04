@@ -109,7 +109,10 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 
 **Disiplin:** Yeni bilgi aktıkça ilgili dosyayı güncelle. Çıktı vermeden önce öz-denetim 7 sorusunu uygula. Dış temasta nöbet merceklerinden geçir.
 
-**Checkpoint (EMİR — 4 Haz):** Context dolmaya başladığında veya oturum biterken — Ayhan'ın ek izni beklenmez: (1) `fox-durum.md`'yi güncelle, (2) `git add -A`, (3) commit (anlamlı TR mesaj + Co-Authored-By trailer), (4) `git push origin main` (SSH kurulu, çalışıyor). Böylece hiçbir oturum kaybolmaz, yeni chat hep güncel devralır.
+**Süreklilik döngüsü (EMİR — 4 Haz):**
+- **Oturum BAŞINDA:** GitHub'dan güncel çek — `git pull`. SessionStart hook bunu otomatik yapar (sonra fox-durum.md'yi yükler). Başka cihaz/oturumdaki değişiklikler böyle gelir.
+- **Context dolunca / oturum SONUNDA:** Ayhan'ın ek izni beklenmez — (1) `fox-durum.md` güncelle, (2) `git add -A`, (3) commit (anlamlı TR mesaj + Co-Authored-By trailer), (4) `git push origin main` (SSH kurulu).
+- Sonuç: çek → çalış → yedekle. Hiçbir oturum kaybolmaz, yeni chat hep güncel devralır.
 
 ---
 *Sürüm: v1 · Statü: Faz 1 — Çırak / Solo Mod · Yaşayan belge.*
