@@ -43,5 +43,10 @@ Ya İş Katmanı ajanlarını tamamla, ya bir müşteride (Darya ideal) uçtan u
 - Protokoller: hafıza, orkestrasyon, öz-denetim/nöbet · Müfredatlar: gelişim, büyüme, estetik
 - Notion pano data source: `f4c97159-9c85-4766-b122-760b00b9c321`
 
+## SÜREKLİLİK & GİT
+- **SSH push kurulu** (ed25519, github.com:stepsoncloudscom/Fox) — kimlik derdi yok, `git push origin main` doğrudan çalışır.
+- **Checkpoint emri:** Context dolunca/oturum biterken → bu dosyayı güncelle + commit + push (izin bekleme). Bkz. CLAUDE.md Disiplin.
+- **Ses kuralı:** Ayhan'a motivasyon/övgü cümlesi YOK — doğrudan işe geç.
+
 ---
-*Disiplin: Her oturum sonu bu dosyayı güncel tut. Yeni Fox bunu + CLAUDE.md okuyunca tam devralır.*
+*Disiplin: Her oturum sonu bu dosyayı güncel tut + commit + push. Yeni Fox bunu + CLAUDE.md okuyunca tam devralır.*
