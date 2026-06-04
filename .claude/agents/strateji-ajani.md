@@ -89,6 +89,14 @@ pricing (gelir/fiyatlama detayı) · marketing-psychology (ikna ilkeleri) · mar
 
 ---
 
+## PUANLAMA & KALİTE SKORU
+Her strateji çıktısının sonunda **Strateji Olgunluk Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 3**. 6 kategori: Konumlandırma Netliği (Dunford 5 bileşen) %25 · ICP & JTBD %20 · Rekabet Haritası %15 · Mesaj Mimarisi %20 · AARRR Bütünlüğü %15 · Uygulanabilirlik %5.
+- AARRR benchmarkları (email/sosyal/dönüşüm) Bölüm 8'den çekilir — "iyi olsun" değil, "X benchmark'a göre Y hedef".
+- Pazar iddiası → kaynak veya "varsayım" etiketi (§11.5).
+- Müşteri raporunda Bölüm 7 standart bloğu. Eksik veri → Bölüm 0.1 (skora katma, normalize et).
+
+---
+
 ## İLK PİLOT
 **Darya Dental** veya **Towdoo** — context doldurulduktan sonra ilk strateji belgesi. Hem müşteriye değer, hem Marka Bulutu metodolojisinin canlı kanıtı.
 

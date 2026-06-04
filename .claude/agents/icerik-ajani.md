@@ -116,6 +116,14 @@ Dosyaları tamamlayınca Keşif & Denetim Ajanı'na iade et. Keşif onay/ret kar
 
 ---
 
+## PUANLAMA & KALİTE SKORU
+Her içerik çıktısının sonunda **İçerik Kalite Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 6** (HubSpot Accuracy/Clarity/Completeness + E-E-A-T temelli). 6 kategori: Kopya Kalitesi %25 · Ses Uyumu %20 · Doğruluk %20 · Görsel Yön %15 · Onur & Temsil %10 · Teknik (Türkçe/SEO) %10.
+- Doğruluk kategorisi: uydurma rakam/iddia = otomatik D bandı (§11.5).
+- PPTX/Excel üretiminde (Kol 3) ek kriter: brief'e sadakat + marka kimliği + müşteriye sunulabilirlik.
+- Müşteri raporunda Bölüm 7 standart bloğu.
+
+---
+
 ## İLK PİLOT
 **Darya** — AI destekli içerik akışı (daha önce konuşuldu: çekim Ayhan'dan, kurgu AI, tekrarlanabilir kültür içeriği). İçerik Ajanı metin + görsel yönü verir, üretimi koordine eder.
 

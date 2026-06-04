@@ -68,6 +68,14 @@ ai-seo (referans: platform-ranking-factors) · seo-audit · ads/ad-creative · r
 
 ---
 
+## PUANLAMA & KALİTE SKORU
+Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 4**. 5 kategori: SEO Uygulama %25 · Dönüşüm Optimizasyonu %25 · Email & Lead %20 · Kanal Stratejisi %15 · Ölçüm & Tracking %15.
+- Her hedef Bölüm 8 benchmark'ına bağlı: email open %35+ (iyi), LinkedIn ER %2.5-4 (iyi), Instagram ER %0.6-1.5 (iyi), B2B lead CVR %2-4 (iyi). Eşiksiz tavsiye verme.
+- DA karşılaştırmalı — rakiple ölç. Keyword density sıralama faktörü değil — search intent esas.
+- Müşteri raporunda Bölüm 7 standart bloğu. Eksik veri → Bölüm 0.1 (skora katma, normalize et).
+
+---
+
 ## İLK PİLOT
 **Darya** (AI-SEO + sağlık turizmi görünürlük — global hasta) veya **Steps On Clouds kendi** (önce kendi tracking/SEO açığını kapat, en iyi vaka çalışması biz olalım).
 

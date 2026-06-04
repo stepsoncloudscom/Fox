@@ -23,21 +23,27 @@ Görevin: Bir markayı çok boyutlu denetlemek, puanlamak, **baseline kurmak** v
 3. **Sayfa haritası çıkar:** Hangi varlıklar var, hangileri eksik.
 
 ### Faz 2 — Çok Boyutlu Değerlendirme
-Her boyutu 0-100 puanla. Marka Bulutu denetim kategorileri:
+Her boyutu 0-100 puanla. **Puanlama serbest değil — `marka-bulutu-os-puanlama-rubrigi.md` Bölüm 2'ye bağlı.** Her kategorinin 5 seviyeli somut kriteri vardır; puan o kritere göre verilir ve **kanıtla gerekçelendirilir** ("28 çünkü şu üç gözlem"). Sezgiyle puan verilmez.
 
-| Kategori | Ağırlık | Ne ölçer |
+| Kategori | Ağırlık (varsayılan) | Ne ölçer |
 |---|---|---|
 | **İçerik & Mesaj** | %25 | Değer önerisi netliği, ikna, hikâye, marka sesi |
 | **Dönüşüm** | %20 | CTA, form, güven sinyali, sürtünme |
 | **Görünürlük (SEO)** | %15 | On-page/teknik SEO, içerik yapısı |
 | **Konumlandırma** | %15 | Farklılaşma, rakip farkındalığı, kategori |
 | **Marka & Güven** | %10 | Tutarlılık, görsel kimlik, sosyal kanıt |
-| **Onur & Temsil** | %10 | (Sosyal etki/ampüte markaları için kritik) Onur merkezli mi? Acıma/ilham pornosu var mı? Güç, fail, gündelik gerçeklik var mı? |
+| **Onur & Temsil** | %10 | (Sosyal etki/insan-merkezli) Güç vs. acıma — Nielsen 2024 temelli 0-4 skala |
 | **Büyüme & Strateji** | %5 | Fiyatlama, kanal, sadakat, genişleme |
 
-**Bileşik Marka Skoru** = ağırlıklı ortalama. (Onur & Temsil kategorisi yalnızca sosyal etki/insan-merkezli markalarda; değilse ağırlığı Marka & Güven'e ekle.)
+**Bağlam ağırlıkları (kritik):** Varsayılan ağırlıklar yalnızca başlangıç. Müşterinin sektörüne göre rubrik **Bölüm 2.2**'den uyarlanır: Klinik/Sağlık · Moda/Perakende · Sosyal Etki · KOBİ/Hizmet · E-ticaret. Her birinin kendi ağırlık tablosu + ek kriterleri var. İş tipini belirledikten (Faz 1) sonra doğru bağlamı seç.
 
-Skor yorumu: 85-100 A (mükemmel) · 70-84 B (iyi, fırsat var) · 55-69 C (orta, ciddi boşluk) · 40-54 D (büyük revizyon) · 0-39 F (kritik).
+**Bileşik Marka Skoru** = Σ(kategori × ağırlık).
+- **Eksik veri kuralı (Bölüm 0.1 — ZORUNLU):** Ölçülemeyen kategori "N/A" işaretlenir, skora KATILMAZ, kalan kategoriler normalize edilir. Eksik veri ASLA varsayım puanı eklemez/çıkarmaz. *(SOC raporundaki 39.75→48 hatası tekrarlanmaz.)*
+- Onur & Temsil yalnızca insan-merkezli markalarda; değilse ağırlığı Marka & Güven'e ekle.
+
+Skor yorumu (Master Skala, Bölüm 1): 85-100 A · 70-84 B · 55-69 C · 40-54 D · 0-39 F.
+
+Benchmark gerektiren her bulgu (SEO skoru, dönüşüm oranı, engagement) **Bölüm 8 kaynaklı referans tablosundan** çekilir — uydurma eşik yok.
 
 ### Faz 3 — Sentez & Öneriler
 Önerileri sınıfla:

@@ -57,6 +57,14 @@ Müşteriye sunulabilir marka kılavuzu (`pdf-motoru.py` ile markalı PDF):
 
 ---
 
+## PUANLAMA & KALİTE SKORU
+Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 5**. 5 kategori: Sözel Kimlik %25 · Görsel Kimlik %25 · Brand Book Tamlığı %20 · Kanal-Arası Tutarlılık %20 · Onur & Temsil (görsel) %10.
+- SOC özel: iki register ayrımı (Ayhan Erden iş / Steps On Clouds misyon) korunuyor mu? marka-kiti.md ile çelişki var mı?
+- Onur görseli: güç çerçevesi, gerçek prodüksiyon (ampüte/gerçek kişide AI yüz yok).
+- Müşteri raporunda Bölüm 7 standart bloğu. Eksik veri → Bölüm 0.1 (skora katma, normalize et).
+
+---
+
 ## İLK PİLOT
 **Towdoo** (mevcut görsel kimlik dönüşümü var — derinleştir) veya yeni müşteri marka kimliği. Steps On Clouds'un kendi marka kiti zaten güçlü referans.
 
