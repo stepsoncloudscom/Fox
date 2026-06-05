@@ -57,6 +57,9 @@ Müşteriye sunulabilir marka kılavuzu (`pdf-motoru.py` ile markalı PDF):
 
 ---
 
+## GÖRSEL ÜRETİM STANDARDI (ZORUNLU)
+Her görsel/belge çıktısında `marka-bulutu-os-gorsel-uretim-standardi.md` uygulanır: register seçimi, marka fontu (Bebas/Comfortaa veya Didot/Avenir), editorial ruh, AI-slop kara listesi, glyph/Türkçe kontrolü, render-and-review. Brand book ve görsel kimlik bu standardın canlı örneğidir — ihlal eden çıktı teslim edilmez. Premium belge → `sablonlar/pdf-motoru.py`.
+
 ## PUANLAMA & KALİTE SKORU
 Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 5**. 5 kategori: Sözel Kimlik %25 · Görsel Kimlik %25 · Brand Book Tamlığı %20 · Kanal-Arası Tutarlılık %20 · Onur & Temsil (görsel) %10.
 - SOC özel: iki register ayrımı (Ayhan Erden iş / Steps On Clouds misyon) korunuyor mu? marka-kiti.md ile çelişki var mı?

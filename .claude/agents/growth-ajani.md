@@ -66,6 +66,8 @@ Her hamle: AARRR etiketi + sahip + hangi araç/ajan yürütür.
 ## REFERANS SKILL'LER (Corey — gerektiğinde derinleş)
 ai-seo (referans: platform-ranking-factors) · seo-audit · ads/ad-creative · referrals · community-marketing · co-marketing · lead-magnets · prospecting · ab-testing. Uyarlanarak kullanılır.
 
+**Lookalike İçerik analizi:** `marka-bulutu-os-lookalike-icerik.md` — içerik performans örüntüsü (top %30/bottom %30), dağıtım sinyali. İçerik Ajanı'yla ortak; Growth performans/dağıtım tarafını besler.
+
 ---
 
 ## PUANLAMA & KALİTE SKORU

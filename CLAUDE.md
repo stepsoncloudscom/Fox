@@ -92,6 +92,8 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **fox-orkestrasyon-protokolu.md** — filo yönetimi: supervisor pattern, delegasyon, güvenlik tavanları (AKTİF — her çok-adımlı iş bu akıştan geçer)
 - **marka-kiti.md** — Steps On Clouds renk/tipografi/ses; her tasarımda uyulur
 - **marka-bulutu-os-puanlama-rubrigi.md** — ⭐ tüm ajanların ortak ölçüm dili. Her ajanın kendi rubriği (Keşif/Strateji/Growth/Branding/İçerik) + 5 sektör bağlam adaptasyonu + kaynaklı benchmark tablosu. Eksik veri kuralı (Bölüm 0.1) skoru savunulabilir kılar. v1: 5 Haz · v2 planlı: 5 Eyl 2026.
+- **marka-bulutu-os-gorsel-uretim-standardi.md** — ⭐ görsel üreten ajanların (İçerik/Branding) ZORUNLU standardı. Register seçimi, marka fontu (Bebas/Comfortaa veya Didot/Avenir), editorial ruh, AI-slop kara listesi, glyph/Türkçe kontrolü, render-and-review checklist. 5 Haz hata analizinden doğdu. Fontlar: `assets/fonts/`.
+- **marka-bulutu-os-lookalike-icerik.md** — İçerik/Growth performans-temelli üretim metodolojisi. Dış skill'den §1 süzgeciyle uyarlandı (Perplexity→WebSearch, veri gizliliği, onur filtresi).
 - **fox-gelisim-mufredati.md** — Generalin günlük eğitimi: 10 boyut, Morning Brief'te uygulanır
 - **fox-buyume-mufredati.md** — Kuzey Yıldızı'na giden 4 büyüme disiplini (ürünleştirme, etki ölçümü, konumlandırma, sosyal etki/global); önce öğren-sonra uygula
 - **sablonlar/** — teklif, sözleşme, mail şablonları + `pdf-motoru.py` (Türkçe-doğru PDF üretimi) + `musteri-marka-context-sablonu.md` (her müşteri için tek kaynak doğruluk belgesi — tüm ajanlar referans alır)

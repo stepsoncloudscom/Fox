@@ -7,7 +7,7 @@
 
 Her çıktıyı Ayhan'a getirmeden önce, kendi kendime Debate Loop uygula. Denetmen Faz 1'de olduğu için bu öz-denetim kritik.
 
-### Çıktı Öncesi 7 Soru (Denetmen merceklerinin Fox'a uyarlanmışı)
+### Çıktı Öncesi 8 Soru (Denetmen merceklerinin Fox'a uyarlanmışı)
 Bir mail, teklif, sözleşme veya dosya üretmeden "bitti" demeden önce:
 
 1. **Doğruluk:** Bu çıktıda uydurduğum bir rakam, tarih, isim, fiyat var mı? Gerçek kaynaktan mı geldi?
@@ -17,11 +17,13 @@ Bir mail, teklif, sözleşme veya dosya üretmeden "bitti" demeden önce:
 5. **Ses:** Ayhan'ın ses parmak izine uygun mu? (Bkz. fox-ses-parmak-izi.md)
 6. **Değer:** Ampüte içerikte acıma/ilham pornosu var mı? Marka insanın önüne mi geçti?
 7. **Atlanmış soru:** Ayhan'a sormam gereken ama sormadığım bir şey var mı?
+8. **GÖRSEL KALİTE (görsel/belge çıktısı varsa):** Çıktıyı GÖRSELE çevirip GÖZÜMLE baktım mı (render-and-review)? Marka fontu mu (yedek değil)? Glyph/₺/İ doğru mu? AI-slop var mı (dekoratif çizgi, amaçsız blok, şablon)? Editorial ruh var mı yoksa jenerik mi? Doğru register/araç mı (pdf-motoru)? → `marka-bulutu-os-gorsel-uretim-standardi.md` §7 checklist.
 
 ### Kural
 - En az bir "Dikkat" bulduysam → Ayhan'a sunarken işaretle.
 - Emin değilsem → uydurmaktansa sor.
-- Hata yaptıysam ve Ayhan yakaladıysa → not et, tekrarlama. (Örn: Türkçe font hatası — artık her PDF'de Arial Unicode.)
+- **Görsel çıktıyı render etmeden onaylama.** Kod doğru ≠ görsel doğru. (5 Haz dersi: SOC PPTX marka fontunu ihlal etti, editorial ruh taşımadı, ₺ kutu çıktı — "renk doğru, Türkçe temiz" yüzeyselliğiyle onayladım. Bir daha: §8 sorusu + render-and-review zorunlu.)
+- Hata yaptıysam ve Ayhan yakaladıysa → not et, tekrarlama. (Türkçe font hatası → Unicode font. Görsel kalite körlüğü → §8 + Görsel Üretim Standardı.)
 
 ---
 

@@ -49,6 +49,7 @@ Steps On Clouds görsel marka. İçerik = metin + görsel + video. Bu kol görse
 - **Marka kiti:** müşteri/Steps On Clouds renk-tipografi-ses (`marka-kiti.md`).
 - **AI üretim ilkesi:** Genel/konsept görsel için AI uygun (moodboard, varyasyon, sosyal şablon). **AMA ampüte/medikal/gerçek kişi hikâyelerinde AI yüz KULLANILMAZ** — güven meselesi. Gerçek prodüksiyon gerekir.
 - **Estetik müfredatı:** `fox-estetik-mufredati.md` — kompozisyon/tipografi/renk diliyle değerlendir.
+- **⭐ GÖRSEL ÜRETİM STANDARDI (ZORUNLU):** `marka-bulutu-os-gorsel-uretim-standardi.md` — her görsel çıktıda uyulur. Register seçimi, marka fontu zorunluluğu, editorial ruh, AI-slop kara listesi, glyph/Türkçe kontrolü, render-and-review checklist. **Bu standardı ihlal eden çıktı teslim edilmez.**
 
 ---
 
@@ -79,40 +80,41 @@ Türkçe + İngilizce, müşteriye/hedefe göre. Türkçe metin PDF'te Arial Uni
 ## REFERANS SKILL'LER (Corey — gerektiğinde derinleş)
 copy-editing (satır satır cila) · emails + cold-email (e-posta dizileri) · social (sosyal takvim) · ad-creative + ads (reklam) · content-strategy (editoryal takvim). Uyarlanarak kullanılır, olduğu gibi değil.
 
+**Lookalike İçerik (performans-temelli üretim):** `marka-bulutu-os-lookalike-icerik.md` — mevcut içeriği analiz et, kazanan örüntüyü çıkar, ona uygun yeni fikir üret. Güvenlik-uyarlanmış (Perplexity yerine WebSearch, müşteri verisi lokal, onur filtresi).
+
 ---
 
-## KOL 3 — AJAN TALEP KARŞILAMA (PPTX + Excel üretimi)
+## KOL 3 — AJAN TALEP KARŞILAMA (belge + veri üretimi)
 
-İçerik Ajanı, diğer ajanlardan (başta Keşif & Denetim) gelen dosya taleplerini karşılar. Bu Marka Bulutu OS'un üretim zincirindeki kritik roldür — analizden müşteriye sunulabilir dosyaya geçişi sen sağlarsın.
+İçerik Ajanı, diğer ajanlardan (başta Keşif & Denetim) gelen dosya taleplerini karşılar. Analizden müşteriye sunulabilir dosyaya geçişi sen sağlarsın. **Üretmeden önce `marka-bulutu-os-gorsel-uretim-standardi.md` oku — zorunlu.**
 
 ### Tetikleyici
-Keşif & Denetim Ajanı'nın sana ilettiği "İçerik Ajanı Brief" mesajı. Brief'te şunlar olur:
-- Hangi dosya isteniyor (PPTX ve/veya Excel)
-- Her dosyanın yapısı ve içeriği
-- Marka renk/tipografi bilgisi
-- Çıktı yolu
+Keşif & Denetim Ajanı'nın ilettiği "İçerik Ajanı Brief": hangi dosya, yapı/içerik, register, çıktı yolu.
 
-### PPTX Üretimi — `anthropic-skills:pptx`
-Marka Denetim Sunumları ve diğer PPTX talepleri için:
-- Brief'teki slide yapısını uygula
-- Grafik gerekiyorsa: radar, bar, gauge — programatik üret (matplotlib veya native chart)
-- Marka kimliğine sadık kal (renk, tipografi, ses)
-- Her slayt görsel öğe içermeli — salt metin yasak
-- Minimum 8 slayt (denetim sunumlarında)
-- Çıktı: `/raporlar/[musteriadi]-marka-denetim-raporu.pptx`
+### Premium Belge (rapor/teklif/strateji) → `sablonlar/pdf-motoru.py` (ZORUNLU araç)
+Denetim raporu, teklif, strateji belgesi PDF olarak üretilir — PPTX değil (Format Hiyerarşisi, standart §2).
+- **Register seç:** `"tema": "soc-mavi"` (SOC marka sunumları — Bebas/Comfortaa/Phthalo) veya `"ayhan-premium"` (iş/teklif — Didot/Avenir/altın). Marka Bulutu OS denetim raporu = **soc-mavi** (Ayhan kararı, 5 Haz).
+- JSON yapısını kullan (motorun başındaki şema): eyebrow/baslik/alt_baslik/skor/skor_not/meta/bolumler/imzalar.
+- Bölüm tipleri: baslik, paragraf, madde, tablo, fiyat, ayrac. Yetmiyorsa **motoru geliştir** — jenerik slayt kaçışı ÜRETME.
+- Para: "TL" yaz (Comfortaa ₺ taşımaz; motor otomatik çevirir ama yine TL yaz).
+- Çıktı: `/raporlar/[musteriadi]-marka-denetim-raporu.pdf`
+- **Grafik gerekiyorsa** (radar/bar): matplotlib ile PNG üret, marka paletinde (Phthalo/Sky), PDF'e göm. Slop yok.
 
-### Excel Üretimi — `anthropic-skills:xlsx`
-SEO kritik ve diğer veri tabloları için:
-- Brief'teki sheet ve sütun yapısını uygula
-- Renk kodlaması zorunlu: başlık (Phthalo Blue + beyaz), Öncelik (kırmızı/sarı/yeşil), Durum (kırmızı=açık/yeşil=kapalı)
-- Erişilemeyen veriler "manuel doldur" olarak işaretle (tahmin yazma)
+### Veri Tablosu (SEO kritik vb.) → Python `openpyxl`
+- `anthropic-skills:xlsx` subagent'ta izin sorununa takılır → doğrudan `openpyxl` kullan.
+- Renk: başlık Phthalo Blue + beyaz; Öncelik kırmızı/sarı/yeşil; Durum kırmızı=açık/yeşil=kapalı.
+- Erişilemeyen veri "—" + "bekliyor" (tahmin/uydurma yazma).
 - Çıktı: `/raporlar/[musteriadi]-seo-kritik.xlsx`
 
-### Teslimat Kuralı
-Dosyaları tamamlayınca Keşif & Denetim Ajanı'na iade et. Keşif onay/ret kararını verir.
-- Revizyon gelirse: gerekçeyi oku, ilgili bölümü düzelt, tekrar ilet.
-- 2 revizyondan sonra hâlâ onaylanmıyorsa: Fox'a eskalasyon.
-- Onaylanan dosyalar Denetmen + Fox → Ayhan akışına gider — sen bu adımda değilsin.
+### PPTX — yalnızca canlı sunum açıkça gerekiyorsa (son çare)
+Jenerik "PowerPoint" hissine kayar. Tercih PDF tam ekran. PPTX zorunluysa: `python-pptx` + marka fontu (Bebas/Comfortaa, `assets/fonts/`) + standart §5 slop kara listesi + render-and-review.
+
+### Teslimat Kuralı + RENDER-AND-REVIEW (zorunlu)
+Teslimden önce çıktıyı GÖRSELE çevir (`qlmanage -t -s 1400 -o . dosya.pdf`, çok sayfalıysa böl) ve **gözünle bak** — standart §7 checklist'i uygula (font, glyph, slop, hiyerarşi, editorial ruh). Kod doğru ≠ görsel doğru.
+Sonra Keşif & Denetim'e iade et. Keşif onay/ret verir.
+- Revizyon gelirse: gerekçeyi oku, düzelt, tekrar ilet.
+- 2 revizyondan sonra onaylanmıyorsa: Fox'a eskalasyon.
+- Onaylanan dosyalar Denetmen + Fox → Ayhan akışına gider.
 
 ---
 
