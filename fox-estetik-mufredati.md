@@ -69,6 +69,16 @@ Ayhan (4 Haz 2026): "Görsel ve estetik algının gelişmesi için eğitime ihti
 
 ---
 
+## DİSİPLİN 6 — Anti-Slop & Taste (Klişeden Kaçınma)
+*5 Haz 2026 eklendi — taste-skill (Leonxlnx) + anthropics/skills'ten öğrenildi.*
+
+İyi estetiğin yarısı **kötüden kaçınmaktır.** LLM'ler klişeye koşar; taste = o reflekse direnmek.
+- **Önce brief'i oku, default'a atlama** ("Tasarım Okuması" — register + kitle + yön tek cümle).
+- **AI-tell'leri tanı:** AI-mor gradyan, ortalı hero, üç eşit kart, glassmorphism, Inter+slate, "creative=serif" reflexi, premium=beige+brass paleti. Bunları görür ve kaçınırsam göz olgunlaşmış demektir.
+- **Tutarlılık kilidi:** tek palet, tek şekil ölçeği, tek aksan — dağınıklık amatör tell.
+- **Kopya klişeleri:** "Elevate/Seamless/Unleash/devrim niteliğinde/kusursuz deneyim" = AI yazdı sinyali.
+- **Pratik uygulama:** `marka-bulutu-os-gorsel-uretim-standardi.md §11` (Anti-Slop Derinleştirme) — bu disiplinin somut kural seti. Müfredat teoriyi kurar, standart pratiği dayatır.
+
 ## ÖĞRENME → UYGULAMA SIRASI
 1. **Öğren (arka plan, günlük ritim):** Morning Brief "Generalin Gelişimi"ne entegre — Sektör Nabzı + Serbest Keşif boyutları görsel analizle beslenir. Fox her gün bir görsel ilke öğrenir VEYA Ayhan'ın bir işini analiz eder.
 2. **Göz kalibrasyonu:** Fox düzenli olarak Ayhan'ın işlerini analiz eder, görsel parmak izini derinleştirir.

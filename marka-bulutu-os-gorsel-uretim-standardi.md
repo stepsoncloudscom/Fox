@@ -139,4 +139,48 @@ Ampüte/engelli/sosyal etki görselinde (Anayasa §9, görsel parmak izi):
 Bu standart, İçerik Ajanı'nın Puanlama Rubriği (Bölüm 6) "Görsel Yön Kalitesi" + "Teknik" kategorilerinin somut ölçütüdür. Görsel çıktı bu standardı ihlal ediyorsa → o kategoriler otomatik düşük puan → Keşif onaylamaz → Denetmen bayraklar.
 
 ---
-*Görsel Üretim Standardı v1 · 5 Haziran 2026 · Fox · Zemin: marka-kiti + görsel parmak izi + estetik müfredatı + 5 Haz hata analizi · Yaşayan belge.*
+
+## 11 · ANTİ-SLOP DERİNLEŞTİRME
+*Kaynak: taste-skill (Leonxlnx, "Anti-Slop Frontend") + anthropics/skills, Anayasa §1 süzgeciyle damıtıldı. Web/landing-spesifik teknik detaylar (Tailwind/React) elendi; estetik disiplin alındı, SOC bağlamına (belge + sosyal + web) uyarlandı.*
+
+### 11.A "Tasarım Okuması" (üretimden önce — zorunlu)
+Kod/tasarıma dokunmadan önce **brief'i oku, varsayılan estetiğe ATLAMA.** Tek cümle yaz: *"Bunu şöyle okuyorum: [tür] için [kitle], [register/vibe] dilinde, [estetik yön]'e meyilli."* — Kötü çıktının kök nedeni: model brief'i okumadan default'a koşar. (5 Haz: register okunmadan jenerik PPTX'e koşuldu.)
+
+### 11.B Anti-Default Disiplini — LLM Görsel Klişe Kara Listesi
+Bunlar "yapay zekâ üretti" parmak izidir. **Bilinçli olarak ötesine geç:**
+- ❌ AI-mor/mavi gradyan parıltısı (**"Lila Kuralı"**: otomatik mor buton glow, rastgele neon gradyan yok)
+- ❌ Koyu mesh üzeri ortalanmış hero (anti-center: tek mesaj/manifesto değilse ortalama)
+- ❌ Üç eşit "özellik kartı" dizilimi
+- ❌ Her şeyde glassmorphism, sonsuz mikro-animasyon
+- ❌ Inter + slate-900 (LLM default fontu/rengi)
+- ❌ **Premium palet tuzağı:** beige/krem + pirinç/kil + espresso — "el yapımı/lüks brief = bu palet" reflexi markayı GÖRÜNMEZ yapar. Marka brief'i açıkça istemedikçe kullanma.
+
+### 11.C Tipografi Disiplini (en çok test edilen AI-tell)
+- **"Yaratıcı = serif" reflexi yanlış.** Serif default reach değildir. *Bizde Didot (ayhan-premium) bilinçli bir editorial/lüks iş register kararıdır — default refleks değil; bağlamı bellidir.* SOC-mavi register zaten Bebas (sans display). Serif'i "premium hissettirir" diye rastgele ekleme.
+- Generic font yasağı: Inter/Roboto/Open Sans default'una düşme; marka fontu esas.
+- **Vurgu kuralı:** başlıkta bir kelimeyi vurgularken AYNI fontun italik/bold'unu kullan — sans başlığa rastgele serif kelime sokma (amatör tell).
+
+### 11.D Tutarlılık Kilitleri (mandatory)
+- **Renk kilidi:** Bir aksan rengi seçildiyse TÜM çıktıda o kullanılır. SOC-mavi'de section 7'de aniden yeşil CTA çıkmaz. Bitirmeden her öğeyi denetle.
+- **Şekil kilidi:** Tek köşe-yuvarlaklık ölçeği seç (hepsi keskin / hepsi yumuşak / hepsi pill) ve her yerde uygula. Kare düzende yuvarlak buton = bozuk.
+- **Tek palet/tek sistem:** Sıcak ve soğuk griyi aynı projede karıştırma.
+
+### 11.E AI Kopya Klişeleri Yasağı (metin — İçerik Ajanı'na da)
+Şu kelimeler "AI yazdı" sinyalidir, YASAK (marka brief'i istemedikçe):
+- EN: Elevate, Seamless, Unleash, Next-Gen, Game-changer, Delve, Empower, Revolutionize, Cutting-edge, Leverage (pazarlama anlamında).
+- TR: "bir adım öteye taşı", "kusursuz deneyim", "oyunun kurallarını değiştir", "yeni nesil", "potansiyelini ortaya çıkar", "devrim niteliğinde", "zahmetsizce" — klişe doldurma.
+- **Placeholder yasağı** (laziness research): "John Doe / Acme Corp / Lorem Ipsum / örnek metin" KULLANMA — gerçekçi, bağlamsal içerik üret. Eksik veri varsa "—" + "bekliyor" işaretle (uydurma).
+
+### 11.F CTA & Form Disiplini (web/landing — Growth'a da)
+- Tek niyet = tek etiket: "İletişime geç" + "Bize ulaşın" + "Konuşalım" aynı sayfada = hata. Bir etiket seç, her yerde kullan.
+- Buton kontrastı WCAG AA (4.5:1). Beyaz buton + beyaz metin, fotoğraf üzeri kontrastsız ghost buton = yasak.
+- CTA masaüstünde tek satıra sığar (2-3 satıra sarması = bozuk).
+
+### 11.G Dürüstlük Kuralı
+Resmi bir tasarım sistemi/araç varsa onu KULLAN, elle taklit etme. Bir trendi "resmi sistem" gibi sunma. (Bizde: pdf-motoru var → jenerik slayt üretme; marka fontu var → yedek font'a kaçma.)
+
+### 11.H Eksiksizlik (laziness research'ten)
+Çıktı tam ve eksiksiz olmalı. "// kalan kısım", "[devam]", boş ellipsis, yarım tablo = yasak. Çıktı limitine yaklaşırsan temiz bir kırılma noktasında dur ve nereden devam edileceğini söyle — aceleyle özetleyip kapatma.
+
+---
+*Görsel Üretim Standardı v1 · 5 Haziran 2026 · Fox · Zemin: marka-kiti + görsel parmak izi + estetik müfredatı + 5 Haz hata analizi + taste-skill/anthropics-skills (§1 süzgeci) · Yaşayan belge.*
