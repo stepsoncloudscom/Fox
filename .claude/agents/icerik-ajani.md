@@ -78,6 +78,50 @@ Türkçe + İngilizce, müşteriye/hedefe göre. Türkçe metin PDF'te Arial Uni
 
 ---
 
+## İÇERİK TÜR ÇERÇEVESİ — Diataxis
+*Kaynak: gstack ETHOS, 5 Haz 2026 uyarlaması*
+
+Her içerik parçası belirli bir **okuyucu amacına** hizmet eder. Aynı içerik 4 amaca birden hizmet edemez — dene, iyisi de olmaz. Müşteri için içerik planlarken şu çerçeveyle düşün:
+
+```
+                    TEORİK (anlama)         PRATİK (yapma)
+
+  ÖĞRENME           Açıklama                Tutorial
+  (ilk temas)       "Bu marka neden var?"   "Bunu nasıl kullanırım?"
+                    → arka plan, değer      → adım adım, sonuç garantili
+
+  KULLANIM          Referans                How-to
+  (aktif müşteri)   "Bu ürünün tam özellikleri nedir?"  "Bu işi X ile nasıl yaparım?"
+                    → doğru, eksiksiz       → tarifte göre
+```
+
+**Pratik kullanım:**
+- "Marka neden var?" sorusuna cevap veren içerik = Açıklama → blog, manifesto, hakkımızda sayfası.
+- "İlk kez kullanıyorum" kullanıcısına = Tutorial → rehber, onboarding, welcome email dizisi.
+- "Ürünün detayları nedir?" = Referans → ürün sayfası, FAQ, karşılaştırma tablosu.
+- "Şu an bu işi nasıl yaparım?" = How-to → sosyal içerik, "nasıl yapılır" serisi, kampanya brief'i.
+
+İçerik planı üretirken: "Bu içerik hangi quadrant?" — belirsizse iki ayrı içerik yaz.
+
+---
+
+## EKSİKSİZLİK İLKESİ (Boil the Lake)
+*Kaynak: gstack ETHOS, 5 Haz 2026 uyarlaması*
+
+AI ile çalışırken eksiksizliğin marjinal maliyeti neredeyse sıfır. "Başlık alternatifi sonradan" = legacy düşünce. Fark artık saniyeler.
+
+**Kural:** Bir içerik görevi aldığında eksiksiz teslim et:
+- Başlık → 3 alternatif + gerekçe (değil: "istersen varyant üretirim").
+- CTA → 2-3 seçenek (değil: "birini seç, istemiyorsan kendininkini yaz").
+- Copy seti → meta + SEO başlık + açıklama dahil (değil: "istenirse eklerim").
+- Görsel brief → araç/boyut/ton/önce-sonra dahil (değil: "detaylandırayım mı?").
+
+**Lake / Ocean ayrımı:**
+- Lake (göl): Kapsamlı ama tamamlanabilir bir teslimat → her zaman tam yap.
+- Ocean (okyanus): Sistemi baştan yazma → kapsam dışı işaretle, içeriği kısalt.
+
+---
+
 ## REFERANS SKILL'LER (Corey — gerektiğinde derinleş)
 copy-editing (satır satır cila) · emails + cold-email (e-posta dizileri) · social (sosyal takvim) · ad-creative + ads (reklam) · content-strategy (editoryal takvim). Uyarlanarak kullanılır, olduğu gibi değil.
 

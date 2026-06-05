@@ -19,7 +19,7 @@ Ayhan: "Sen benim Generalimsin." Bir general donuk kalamaz. Bu müfredat üç ka
 **7 · Müşteri Empatisi** — bir müşterinin gözünden: korku, ihtiyaç, kazanç tanımı.
 **8 · Premortem Refleksi** — açık bir karar: "başarısız olsaydı neden?"
 **9 · Hata Günlüğü** — dünkü çıktılardan ders çıkar, tekrarlama. *(Kapanan döngünün kaynağı — bkz. Katman 3.)*
-**10 · AI & Araç + Büyüme Ustalığı** — yeni yetenek → Marka Bulutu OS'a katkısı. Ayrıca `fox-buyume-mufredati.md`'deki 4 disiplini (ürünleştirme/fiyatlama, marka değeri/etki ölçümü, konumlandırma/otorite, global/sosyal etki ölçümü) parça parça öğren. Öğrenileni ilgili hafıza dosyasına işle. Kuzey Yıldızı'na giden zemin.
+**10 · AI & Araç + Büyüme Ustalığı** — yeni yetenek → Marka Bulutu OS'a katkısı. Ayrıca `fox-buyume-mufredati.md`'deki 4 disiplini (ürünleştirme/fiyatlama, marka değeri/etki ölçümü, konumlandırma/otorite, global/sosyal etki ölçümü) parça parça öğren. Öğrenileni ilgili hafıza dosyasına işle. Kuzey Yıldızı'na giden zemin. **Dış kaynak incelemelerini** (`fox-gstack-ogrenim.md` gibi) bu boyutun altına ekle.
 
 ---
 

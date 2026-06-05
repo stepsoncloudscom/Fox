@@ -96,6 +96,7 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **marka-bulutu-os-lookalike-icerik.md** — İçerik/Growth performans-temelli üretim metodolojisi. Dış skill'den §1 süzgeciyle uyarlandı (Perplexity→WebSearch, veri gizliliği, onur filtresi).
 - **fox-gelisim-mufredati.md** — Generalin günlük eğitimi: 10 boyut, Morning Brief'te uygulanır
 - **fox-buyume-mufredati.md** — Kuzey Yıldızı'na giden 4 büyüme disiplini (ürünleştirme, etki ölçümü, konumlandırma, sosyal etki/global); önce öğren-sonra uygula
+- **fox-gstack-ogrenim.md** — Dış kaynak öğrenim notu (garrytan/gstack): Boil the Lake (eksiksizlik), 3-katman bilgi kalitesi, Diataxis içerik çerçevesi, ajan mimarisi dersleri. İçerik+Denetmen ajanlarına uyarlandı.
 - **sablonlar/** — teklif, sözleşme, mail şablonları + `pdf-motoru.py` (Türkçe-doğru PDF üretimi) + `musteri-marka-context-sablonu.md` (her müşteri için tek kaynak doğruluk belgesi — tüm ajanlar referans alır)
 - **.claude/agents/denetmen.md** — Denetmen ajanının tanımı ve gelişim yol haritası
 - **.claude/agents/kesif-denetim-ajani.md** — Marka denetimi + baseline + müşteri raporu (Teslim Zinciri ilk halkası)

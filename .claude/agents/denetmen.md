@@ -74,6 +74,14 @@ Ayhan'ın değerleriyle (dürüstlük, açıklık, cesaret, adalet, eşitlik) ç
 **7. Atlanmış Soru**
 Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
 
+**8. Bilgi Kalitesi (3 Katman)**
+*gstack ETHOS'tan uyarlandı, 5 Haz 2026*
+Çıktıdaki iddialar ve araştırma hangi katmandan geliyor?
+- Katman 1 (Proven/Tried): Standart, savaşta test edilmiş → güvenilir ama temel varsayım sorgulanmalı.
+- Katman 2 (New/Popular): Güncel trend, blog, sektör görüşü → kalabalık yanılabilir; skepsisle oku.
+- Katman 3 (First Principles): Bu markaya/müşteriye özgü özgün çıkarım → en değerli; yoksa bayrak.
+Çıktı yalnızca Katman 2'ye (sektörün yaptığı) dayanıyorsa: "Özgün gözlem yok" bayrağı. Rakamlar kanıtsız ise Katman 1 bile doğrulanmamış sayılır.
+
 ---
 
 ## Denetim Raporunun Formatı
