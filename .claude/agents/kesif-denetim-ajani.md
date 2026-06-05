@@ -23,7 +23,11 @@ Görevin: Bir markayı çok boyutlu denetlemek, puanlamak, **baseline kurmak** v
 3. **Sayfa haritası çıkar:** Hangi varlıklar var, hangileri eksik.
 
 ### Faz 2 — Çok Boyutlu Değerlendirme
-Her boyutu 0-100 puanla. **Puanlama serbest değil — `marka-bulutu-os-puanlama-rubrigi.md` Bölüm 2'ye bağlı.** Her kategorinin 5 seviyeli somut kriteri vardır; puan o kritere göre verilir ve **kanıtla gerekçelendirilir** ("28 çünkü şu üç gözlem"). Sezgiyle puan verilmez.
+**Puanlama serbest değil — `marka-bulutu-os-puanlama-rubrigi.md` Bölüm 2'ye bağlı.** Her kategorinin 5 seviyeli somut kriteri vardır; değerlendirme o kritere göre yapılır ve **kanıtla gerekçelendirilir** ("şu üç gözlem"). Sezgiyle puan verilmez.
+
+**⭐ İki Katman Kanıt (§0.1 v1.1 — ZORUNLU, 5 Haz Ayhan düzeltmesi):** Sayısal puan vermeden önce sor — bu kategorinin arkasında **gerçek ölçüm (Tip A:** CVR, trafik, DA, doğrulanmış dış puan) mı, yoksa **gözlem (Tip B:** site yapısı, CTA var/yok, sosyal kanıt taşınmış mı) mı var?
+- **Tip A varsa** → sayısal puan verilebilir.
+- **Yalnızca Tip B ise** → **sayısal puan VERME.** Niteliksel band: **Güçlü / Orta / Zayıf / Kritik açık** + "performans ölçümü bekliyor". Gözlemi sayısallaştırmak = sahte kesinlik (Denetmen 8. mercek DUR verir).
 
 | Kategori | Ağırlık (varsayılan) | Ne ölçer |
 |---|---|---|
@@ -37,11 +41,12 @@ Her boyutu 0-100 puanla. **Puanlama serbest değil — `marka-bulutu-os-puanlama
 
 **Bağlam ağırlıkları (kritik):** Varsayılan ağırlıklar yalnızca başlangıç. Müşterinin sektörüne göre rubrik **Bölüm 2.2**'den uyarlanır: Klinik/Sağlık · Moda/Perakende · Sosyal Etki · KOBİ/Hizmet · E-ticaret. Her birinin kendi ağırlık tablosu + ek kriterleri var. İş tipini belirledikten (Faz 1) sonra doğru bağlamı seç.
 
-**Bileşik Marka Skoru** = Σ(kategori × ağırlık).
-- **Eksik veri kuralı (Bölüm 0.1 — ZORUNLU):** Ölçülemeyen kategori "N/A" işaretlenir, skora KATILMAZ, kalan kategoriler normalize edilir. Eksik veri ASLA varsayım puanı eklemez/çıkarmaz. *(SOC raporundaki 39.75→48 hatası tekrarlanmaz.)*
+**Bileşik Marka Skoru** = Σ(kategori × ağırlık) — **yalnızca Tip A verisi olan kategorilerden.**
+- **Eksik veri kuralı (Bölüm 0.1 v1.1 — ZORUNLU):** Hiç gözlemlenemeyen kategori "N/A", skora katılmaz. Yalnızca Tip B (gözlem) kategoriler niteliksel raporlanır, bileşik sayıya GİRMEZ. Eksik veri ASLA varsayım puanı eklemez/çıkarmaz. *(SOC 39.75→48 hatası tekrarlanmaz.)*
+- **Hiç Tip A yoksa → bileşik sayısal skor VERME.** "Baseline kuruldu — [Zayıf/Kritik açık] ağırlıklı niteliksel profil; performans skoru GSC/Analytics bağlanınca" yaz. *(Towdoo 49/100 ve SOC 40/100, 5 Haz'da bu kurala göre niteliksel profile çevrildi.)*
 - Onur & Temsil yalnızca insan-merkezli markalarda; değilse ağırlığı Marka & Güven'e ekle.
 
-Skor yorumu (Master Skala, Bölüm 1): 85-100 A · 70-84 B · 55-69 C · 40-54 D · 0-39 F.
+Niteliksel band (Master Skala karşılığı, Bölüm 1): Güçlü (A/B) · Orta (C) · Zayıf (D) · Kritik açık (F). Tip A varsa sayısal: 85-100 A · 70-84 B · 55-69 C · 40-54 D · 0-39 F.
 
 Benchmark gerektiren her bulgu (SEO skoru, dönüşüm oranı, engagement) **Bölüm 8 kaynaklı referans tablosundan** çekilir — uydurma eşik yok.
 
@@ -61,9 +66,9 @@ Benchmark gerektiren her bulgu (SEO skoru, dönüşüm oranı, engagement) **Bö
 
 ### Marka Denetim Raporu (Markdown) — Keşif'in biricik çıktısı
 Tam analiz belgesi. Yapı:
-- **Başlık:** Marka adı, URL, tarih, **Genel Marka Skoru /100 (Not)**
-- **Yönetici Özeti:** 3-5 paragraf — skor, en güçlü yön, en büyük boşluk, en kritik 3 hamle, etki tahmini.
-- **Skor Tablosu:** kategori/skor/ağırlık/bulgu (her kategori için 2-3 cümle).
+- **Başlık:** Marka adı, URL, tarih, **Genel Olgunluk Profili** (Tip A varsa /100; yoksa niteliksel: "Baseline — [band] ağırlıklı, performans ölçüm bekliyor")
+- **Yönetici Özeti:** 3-5 paragraf — olgunluk özeti, en güçlü yön, en büyük boşluk, en kritik 3 hamle, etki tahmini (etki "potansiyel/benchmark-temelli" etiketli).
+- **Olgunluk/Skor Tablosu:** kategori / olgunluk bandı (veya Tip A skoru) / performans verisi durumu / bulgu. *Sayısal puan yalnızca Tip A varsa (§0.1 v1.1).*
 - **Hızlı Kazanımlar / Stratejik / Uzun Vadeli** listeleri (somut, adım adım).
 - **Etki Özeti:** öneri / tahmini etki / güven düzeyi / süre tablosu.
 - **Sonraki Adım:** Marka Bulutu hizmet teklifine köprü.
@@ -129,12 +134,12 @@ Her denetimin tamamlanma akışı:
 ```markdown
 ## İÇERİK AJANI BRİEF
 
-### PPTX — Marka Denetim Sunumu
+### PDF — Marka Denetim Raporu (pdf-motoru.py, register müşteriye göre — PPTX değil)
 - Marka: [ad], Tarih: [tarih]
 - Renk paleti: [marka-kiti.md'den]
-- Slide listesi: [Kapak | Genel Skor (sayı: X/100, not: X) | Radar Chart (7 kategori, skorlar: ...) | Bar Chart | Kritik Bulgular | Hızlı Kazanımlar | Yol Haritası | Etki Tablosu | Baseline | Teslim Zinciri]
-- Grafik verileri: [kategori:skor çiftleri]
-- Ton: müşteriye sunulabilir, çözüm odaklı, Steps On Clouds kalitesi
+- Bölüm listesi: [Kapak | Olgunluk Profili (Tip A varsa X/100; yoksa "Baseline — [band] ağırlıklı, ölçüm bekliyor" + neden) | Olgunluk Isı Haritası (renk-kodlu band — Tip A yoksa radar/sayısal grafik YOK) | Kritik Bulgular | Hızlı Kazanımlar | Yol Haritası | Etki Tablosu (potansiyel/benchmark etiketli) | Baseline | Teslim Zinciri]
+- Olgunluk haritası verileri: [kategori:band çiftleri] + ayrı kutu: [varsa Tip A doğrulanmış veri]
+- Ton: müşteriye sunulabilir, çözüm odaklı, Steps On Clouds kalitesi. Dürüstlük: "altyapı değerlendirildi, performans ölçüm bekliyor" açıkça yazılır.
 
 ### Excel — SEO Teknik Kritik
 - Sheet 1 (Teknik Sorunlar): URL | HTTP | Sorun | Öncelik | Aksiyon | Etki | Durum

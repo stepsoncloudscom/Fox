@@ -82,6 +82,8 @@ Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
 - Katman 3 (First Principles): Bu markaya/müşteriye özgü özgün çıkarım → en değerli; yoksa bayrak.
 Çıktı yalnızca Katman 2'ye (sektörün yaptığı) dayanıyorsa: "Özgün gözlem yok" bayrağı. Rakamlar kanıtsız ise Katman 1 bile doğrulanmamış sayılır.
 
+**Sahte Kesinlik Kontrolü (Tip A/B — Rubrik §0.1 v1.1):** Çıktıda sayısal skor/metrik varsa, arkasında **gerçek ölçüm (Tip A:** CVR, trafik, DA, doğrulanmış dış puan) mı, yoksa **gözlem (Tip B:** site yapısı, varlık/yokluk, kalite izlenimi) mı var? **Gözlemi sayısallaştırmak = sahte kesinlik = DUR.** "Dönüşüm 42/100" gibi bir puan gerçek dönüşüm verisinden gelmiyorsa bayrak kaldır → niteliksel banda (Güçlü/Orta/Zayıf/Kritik açık) çevrilmeli. *Bu mercek 5 Haz 2026'da eklendi — çünkü Towdoo raporundaki bu hata önceki denetimden geçmişti; Ayhan yakaladı.*
+
 ---
 
 ## Denetim Raporunun Formatı

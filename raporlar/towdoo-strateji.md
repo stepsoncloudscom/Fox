@@ -4,7 +4,7 @@
 **Hazırlayan:** Strateji Ajanı — Marka Bulutu OS
 **Tarih:** 5 Haziran 2026
 **Sektör Bağlamı:** Moda / Sürdürülebilir Lüks Perakende (Rubrik §2.2-B)
-**Önceki Faz:** Marka Denetim Raporu (Baseline: 49/100 — D, 5 Haz 2026)
+**Önceki Faz:** Marka Denetim Raporu (Baseline: Zayıf ağırlıklı niteliksel profil, 5 Haz 2026; §0.1 v1.1)
 **Statü:** Faz 2 — Strateji & Konumlandırma
 **Para Birimi:** TL (birincil) · döviz potansiyeli mevcut (gelişmemiş)
 
@@ -14,7 +14,7 @@
 
 ## YÖNETİCİ ÖZETİ (60 saniye)
 
-Towdoo'nun sorunu ürün değil — **ürün kanıtlanmış** (Trendyol 4.3/5, 619 yorum). Sorun, kanıtın kendi kanalında görünmemesi ve markanın "kim için, neden premium" sorusuna keskin bir cevap vermemesi. Denetim bunu 49/100 ile belgeledi: en yüksek kategori Marka & Güven (58), en düşük Dönüşüm (42) ve Görünürlük (35). Bu strateji, mevcut kanıtı satışa çeviren ve markayı net bir rafa oturtan 12 aylık bir yol haritasıdır.
+Towdoo'nun sorunu ürün değil — **ürün kanıtlanmış** (Trendyol 4.3/5, 619 yorum). Sorun, kanıtın kendi kanalında görünmemesi ve markanın "kim için, neden premium" sorusuna keskin bir cevap vermemesi. Denetim bunu niteliksel olarak belgeledi: en güçlü alan Marka & Güven (Orta), en zayıf Dönüşüm (Zayıf) ve Görünürlük (Kritik açık). Bu strateji, mevcut kanıtı satışa çeviren ve markayı net bir rafa oturtan 12 aylık bir yol haritasıdır.
 
 **Üç büyük bahis:**
 
@@ -25,7 +25,7 @@ Towdoo'nun sorunu ürün değil — **ürün kanıtlanmış** (Trendyol 4.3/5, 6
 3. **Materyal eğitimi içeriğini kur — hem SEO hem itiraz kırıcı.** "Cupro nedir / vegan ipek ne demek" araması yanıtsız (denetim §5: 3 yazı/yıl). Bu içerik aynı anda iki iş yapar: organik görünürlük + "neden bu fiyat?" itirazını kırma (denetim §3 fiyat görünürlüğü açığı).
 
 **90 günde:** Sosyal kanıt + V-Label görünürlüğü + email yakalama + 2 temel SEO içeriği → dönüşüm altyapısı kurulur.
-**12 ayda:** Konumlandırma net, materyal eğitimi sütunu yayında, sadakat döngüsü çalışıyor, ikinci denetim skoru hedefi **60–63 bandı (D→C üst).** Bu bant, kategori artışlarının ağırlıklı aritmetiğiyle tutarlıdır (§6'da açık hesap) — agresif bir 65 yerine savunulabilir bir hedef; çünkü Görünürlük kategorisi GSC/Analytics erişimi olmadan sınırlı artar.
+**12 ayda:** Konumlandırma net, materyal eğitimi sütunu yayında, sadakat döngüsü çalışıyor, ikinci denetimde **olgunluk bandı ilerlemesi** (Zayıf→Orta ağırlıklı; §6'da kategori bazında) + **GSC/Analytics bağlanınca gerçek performans baseline'ı.** Sayısal skor hedefi değil — band ilerlemesi ara gösterge, gerçek metrik (CVR/trafik) nihai kanıt (Rubrik §0.1 v1.1).
 
 ---
 
@@ -174,7 +174,7 @@ Her hamle bir funnel aşamasına etiketli. Marka ve içerik **kesişen katman** 
 
 ### AKTİVASYON (Activation) — Farkında → İlk Değerli Deneyim
 
-**Mevcut durum (baseline):** Dönüşüm en zayıf kategori (42/100, denetim §3). Sosyal kanıt sıfır, "neden bu fiyat" yanıtsız, CTA ikna etmiyor.
+**Mevcut durum (baseline):** Dönüşüm altyapısı en zayıf alanlardan (Zayıf bandı, denetim §3; gerçek CVR ölçüm bekliyor). Sosyal kanıt sıfır, "neden bu fiyat" yanıtsız, CTA ikna etmiyor.
 
 **Stratejik hamleler:**
 | Hamle | Kanıt bağı | Hedef (benchmark) |
@@ -258,7 +258,7 @@ Her hamle: AARRR etiketi + sahip + yürütücü ajan/araç. Sahipler önerilmiş
 | "Neden Cupro?" değer-gerekçe landing sayfası | Gelir | SOC | İçerik + Growth |
 | UGC "Towdoo Ailesi" galeri kurulumu + #hertasarımbirhikaye teşviki | Tavsiye | SOC + Towdoo | Growth Ajanı |
 | 2. materyal içeriği ("Neden ipekten iyi?" / "Doğada nasıl çözünür?") | Edinim | SOC | İçerik Ajanı |
-| **90 gün ölçüm:** denetim alt-skorlarını yeniden bak (Dönüşüm, Marka&Güven) | (ölçüm) | SOC | Keşif/Denetim Ajanı |
+| **90 gün ölçüm:** denetim olgunluk bantlarını yeniden bak (Dönüşüm, Marka&Güven) + GSC bağlanmışsa gerçek CVR/trafik | (ölçüm) | SOC | Keşif/Denetim Ajanı |
 
 ---
 
@@ -269,28 +269,28 @@ Her hamle: AARRR etiketi + sahip + yürütücü ajan/araç. Sahipler önerilmiş
 | **Ç1 (Ay 1–3)** | Dönüşüm altyapısı | Sosyal kanıt + V-Label + email + 2 SEO içeriği (90 gün planı) | Aktivasyon + Retention |
 | **Ç2 (Ay 4–6)** | İçerik otoritesi | Materyal eğitimi sütunu tam (4–5 içerik) + Dialogue serisi (3 elçi) + UGC sistemi | Edinim + Tavsiye |
 | **Ç3 (Ay 7–9)** | Sadakat + döviz hazırlığı | Email sadakat döngüsü olgun + /en sitesi tamamla + kapsül set paketleri | Retention + Gelir |
-| **Ç4 (Ay 10–12)** | Büyütme + ölçüm | Uluslararası kanal pilotu (koşullu) + 2. tam denetim → **hedef 60–63 bandı** | Gelir + (ölçüm) |
+| **Ç4 (Ay 10–12)** | Büyütme + ölçüm | Uluslararası kanal pilotu (koşullu) + 2. tam denetim → **olgunluk band ilerlemesi + gerçek performans baseline'ı (GSC)** | Gelir + (ölçüm) |
 
-### 12 ay sonu hedefi (baseline'a referanslı — açık aritmetik)
-- **Denetim skoru:** 49 → **60–63 bandı** (D→C üst). Bu bant uydurma değil; her kategori hedefi savunulabilir ve ağırlıklı toplam okuyan tarafından doğrulanabilir. Moda ağırlıkları (Rubrik §2.2-B): Marka&Güven %25, İçerik %20, Dönüşüm %20, Konumlandırma %15, Görünürlük %10, Büyüme&Strateji %10.
+### 12 ay sonu hedefi (baseline'a referanslı — niteliksel band ilerlemesi)
 
-  | Kategori | Baseline | 12-ay hedef | Ağırlık | Katkı | Gerekçe (neden bu artış savunulabilir) |
-  |---|---|---|---|---|---|
-  | Marka & Güven | 58 | 68 | %25 | 17.00 | 619 yorum siteye taşınır + V-Label görünür + doğrulama linki — en güçlü, en kesin hamle |
-  | İçerik | 50 | 62 | %20 | 12.40 | Materyal eğitimi sütunu (4–5 yazı) + koleksiyon hikâye katmanı + Dialogue serisi — somut teslimatlar |
-  | Dönüşüm | 42 | 60 | %20 | 12.00 | Sosyal kanıt + "neden bu fiyat" mikro-kopya + CTA + email yakalama — altyapı kurulur (ölçüm GSC ile doğrulanacak) |
-  | Konumlandırma | 52 | 62 | %15 | 9.30 | Net konumlandırma beyanı + mesaj mimarisi bu fazın çekirdek teslimatı (verbatim gelince daha yükseğe açık) |
-  | Görünürlük | 35 | 48 | %10 | 4.80 | **GSC/Analytics yok** — SEO yavaş bileşir, küçük içerik tabanı; yapısal artış (indekslenebilir içerik + Trendyol→site köprüsü) gerçekçi, agresif 55 değil |
-  | Büyüme & Strateji | 48 | 60 | %10 | 6.00 | Email/sadakat sistemi + kapsül set paketleri + konumlandırma netliği |
-  | **Ağırlıklı toplam** | **49.0** | **61.5** | %100 | **61.5** | → **60–63 bandı** |
+**Önemli (Rubrik §0.1 v1.1):** Denetim, gözlemlenebilir altyapıyı niteliksel bantta ölçer; gerçek performans (CVR, trafik) GSC/Analytics bağlanınca kurulur. Bu yüzden 12-ay hedefi **sayısal skor artışı değildir** (49→61.5 gibi bir aritmetik, gözlemi performans gibi sayısallaştıran sahte kesinlik olurdu). Hedef: **band ilerlemesi + gerçek ölçüm vaadi.**
 
-  > **Aritmetik şeffaflığı:** Katkılar toplamı = 17.00 + 12.40 + 12.00 + 9.30 + 4.80 + 6.00 = **61.5**. Okuyan müşteri bu satırı kendi hesaplayabilir. Hedefi "65" demek için Görünürlük'ün GSC olmadan 35→55'e çıktığını varsaymak gerekirdi — bu savunulamaz (ölçemediğimiz kategoride agresif rakam = uydurma). Bunun yerine her kategori için gerçekçi, gerekçeli bir artış konuldu; toplam dürüstçe 60–63 bandına oturdu. **Aritmetiğin tutmadığı bir 65 yerine, tutan bir 60–63.**
+  | Kategori | Baseline (band) | 12-ay hedef (band) | Hamle (somut, savunulabilir teslimat) |
+  |---|---|---|---|
+  | Marka & Güven | Orta | Güçlü | 619 yorum siteye taşınır + V-Label görünür + doğrulama linki — en kesin hamle |
+  | İçerik & Mesaj | Zayıf | Orta | Materyal eğitimi sütunu (4–5 yazı) + koleksiyon hikâye katmanı + Dialogue serisi |
+  | Dönüşüm | Zayıf | Orta (altyapı) | Sosyal kanıt + "neden bu fiyat" + CTA + email yakalama. *Gerçek CVR ancak GSC/Analytics ile doğrulanır — band yalnızca altyapı hazırlığını gösterir.* |
+  | Konumlandırma | Zayıf | Orta–Güçlü | Net konumlandırma beyanı + mesaj mimarisi (verbatim gelince daha yükseğe açık) |
+  | Görünürlük (SEO) | Kritik açık | Zayıf–Orta | İndekslenebilir içerik + Trendyol→site köprüsü. *GSC yok — SEO yavaş bileşir; agresif sıçrama vaat edilmez.* |
+  | Büyüme & Strateji | Zayıf | Orta | Email/sadakat sistemi + kapsül set paketleri + konumlandırma netliği |
+
+  > **Dürüstlük notu:** Eski sürüm bu hedefi sayısal aritmetikle (49→61.5) kurmuştu — gözlemi performans gibi sayısallaştıran sahte kesinlik (Ayhan düzeltmesi 5-6 Haz; Rubrik §0.1 v1.1). Yerine niteliksel band ilerlemesi kondu. **Gerçek, savunulabilir başarı kanıtı = GSC/Analytics bağlandıktan sonra ölçülen performans baseline'ı** (web CVR, organik trafik, email büyüme). Band ilerlemesi ara göstergedir; nihai metrik gerçek veridir.
 - **Site sosyal kanıt:** 0 → siteye taşınmış 619 yorum + UGC galeri.
 - **Email listesi:** 0 → kurulu sistem (aylık 50–100 abone hedefi, denetim §6).
 - **Blog/SEO içerik:** 3 → materyal eğitimi sütunu + Dialogue serisi (10+ derinlikli içerik).
 - **Organik trafik & web CVR:** GSC/Analytics erişimi sağlandığında baseline kurulup ölçülecek — *şu an N/A (denetim §5, Rubrik §0.1).*
 
-> ⚠️ Sayısal trafik/dönüşüm hedefleri **GSC + Google Analytics erişimi olmadan verilemez** (Rubrik §0.1: veri yoksa varsayım yapılmaz). Erişim sağlandığında bu bölüm somut KPI'larla güncellenir. Denetim skoru hedefi (60–63 bandı) ise gözlemlenebilir kriterlere dayalı, ağırlıklı aritmetiği tutan, savunulabilir bir hedeftir. **Not:** Görünürlük kategorisi tam da bu erişim eksikliği nedeniyle ihtiyatlı tutuldu (35→48); GSC bağlanıp organik trafik gerçekten artarsa bu kategori ve dolayısıyla toplam yukarı revize edilebilir.
+> ⚠️ Sayısal trafik/dönüşüm hedefleri **GSC + Google Analytics erişimi olmadan verilemez** (Rubrik §0.1 v1.1: veri yoksa sayısal hedef/varsayım yapılmaz). Erişim sağlandığında bu bölüm somut KPI'larla güncellenir. Olgunluk band hedefi (Zayıf→Orta ağırlıklı) gözlemlenebilir altyapı kriterlerine dayalıdır — bir performans iddiası değil, hazırlık göstergesidir. **Not:** Görünürlük kategorisi erişim eksikliği nedeniyle en ihtiyatlı tutuldu (Kritik açık→Zayıf-Orta); gerçek başarı kanıtı GSC sonrası organik trafik baseline'ıdır.
 
 ---
 
@@ -304,9 +304,9 @@ Her hamle: AARRR etiketi + sahip + yürütücü ajan/araç. Sahipler önerilmiş
 | Retention | Email open/click, tekrar alım | 0 (sistem yok) | Email platformu | Open %35+, Click %2–3 |
 | Tavsiye | UGC sayısı, referans | 0 sistematik | Instagram/site | — |
 | Gelir | Ort. sipariş değeri, döviz oranı | TL ağırlıklı | Shopify | — |
-| **Bileşik** | Denetim skoru | **49/100 (D)** | Denetim raporu | Hedef 60–63 bandı (12 ay, §6 açık aritmetik) |
+| **Bileşik** | Marka olgunluk profili | **Baseline: Zayıf ağırlıklı (niteliksel)** | Denetim raporu | Hedef band ilerlemesi (12 ay, §6) + GSC sonrası gerçek baseline |
 
-> Eksik veri (N/A) kuralı: Bu göstergeler erişim sağlandığında ölçülecek. Şu an varsayım puanı eklenmez (Rubrik §0.1). Denetim skoru gözlemlenebilir ve tekrar ölçülebilir — birincil bileşik gösterge odur.
+> Eksik veri kuralı (Rubrik §0.1 v1.1): Bu göstergeler erişim sağlandığında ölçülecek; şu an varsayım/sayısal puan eklenmez. **Bileşik gösterge sayısal denetim skoru değil, niteliksel olgunluk profilidir** — gerçek bileşik performans baseline'ı GSC/Analytics bağlanınca kurulur ve birincil gösterge o olur.
 
 ---
 
@@ -354,12 +354,12 @@ Bu strateji belgesi, sonraki ajanlara net brief bırakır:
 
 **Ölçülemeyen:** Web CVR, organik trafik (GSC/Analytics yok — §0.1, skora katılmadı, normalize edildi).
 ─────────────────────────────────
-Bu skor 5 Haziran 2026 baseline'ıdır. Skor, stratejinin **kalitesini** ölçer (markanın değil — marka skoru 49/100). Verbatim doğrulama + veri erişimi sonrası 85+ (A) hedeflenir.
+Bu skor 5 Haziran 2026 baseline'ıdır. Skor, stratejinin **kalitesini** ölçer (markanın değil — markanın olgunluğu: Zayıf ağırlıklı niteliksel profil). Strateji olgunluğu, belge elimizde olduğu için doğrudan değerlendirilebilir (Tip A'ya yakın: belgenin kendisi kanıttır); marka performansından farklı kategoridir. Verbatim doğrulama + veri erişimi sonrası 85+ (A) hedeflenir.
 ─────────────────────────────────
 
 ---
 
 *Strateji Ajanı v1 · Marka Bulutu OS · 5 Haziran 2026*
 *Metodoloji: April Dunford 5 bileşen konumlandırma · AARRR (Pirate Metrics) · Corey Haines marketing-plan (özümsenerek uyarlandı)*
-*Kanıt zinciri: Towdoo Marka Denetim Raporu (49/100) + Müşteri Marka Context + canlı doğrulama (niLuu konumlandırma, cupro sürdürülebilirlik). Tüm hedefler baseline'a referanslı; uydurma yok (§11.5).*
+*Kanıt zinciri: Towdoo Marka Denetim Raporu (Zayıf ağırlıklı niteliksel profil) + Müşteri Marka Context + canlı doğrulama (niLuu konumlandırma, cupro sürdürülebilirlik). Tüm hedefler baseline'a referanslı; uydurma/sahte kesinlik yok (§11.5, Rubrik §0.1 v1.1).*
 *Denetmen onayı bekliyor — Kademe 2 (Ayhan onayı sonrası müşteriye gider).*

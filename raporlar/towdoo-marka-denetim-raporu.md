@@ -9,12 +9,13 @@
 
 ---
 
-## GENEL MARKA SKORU
+## GENEL MARKA OLGUNLUK PROFİLİ
 
-**49 / 100 — D**  
-*(Yetersiz. Temel altyapı var, büyük revizyon gerekli. Konumlandırma ve SEO boşlukları marka değerine zarar veriyor.)*
+**Baseline — Niteliksel Profil** · *(performans skoru ölçüm bekliyor)*
 
-> Bu skor, 7 kategoriden 6'sının ağırlıklı toplamıdır. Görünürlük (SEO) kategorisi kısmen ölçülebildi; teknik SEO araç verisi (Semrush/Ahrefs) olmaksızın normalize edilmiş alt-skor verildi. Rubrik §2.2-B (Moda/Perakende) ağırlık adaptasyonu uygulandı: Marka & Güven %25, İçerik & Mesaj %20, Dönüşüm %20, Konumlandırma %15, Görünürlük %10, Büyüme & Strateji %10. Onur & Temsil bu marka için N/A — ağırlığı Marka & Güven'e dahil edildi. Hiçbir varsayım puanı eklenmedi (Rubrik §0.1).
+**Olgunluk özeti:** Genel tablo **Zayıf** ağırlıklı. Sağlam ürün/materyal temeli ve doğrulanmış müşteri memnuniyeti (Trendyol 4.3/5 — 619 yorum) var; ancak kendi kanalında (web) bu değeri performansa çevirecek altyapı — sosyal kanıt aktarımı, dönüşüm kopyası, SEO içeriği, email — büyük ölçüde eksik.
+
+> **Neden sayısal genel skor yok (Rubrik §0.1 v1.1):** Towdoo'da hiçbir kategoride gerçek performans verisi (dönüşüm oranı, organik trafik, domain authority) yok — GSC / Analytics / Ahrefs erişimi sağlanmadı. Bu denetim, gözlemlenebilir **altyapı/hazırlık** durumunu değerlendirir (Tip B kanıt), gerçek pazarlama performansını değil (Tip A). Gözlemi sayısallaştırıp "49/100" demek **sahte kesinlik** üretir ve ileride "42'den 65'e çıkardık" gibi **sahte bir before/after**'a yol açar — ikisi de gözlem olur, gerçek ölçüm değil. Bunun yerine her kategori niteliksel banda (Güçlü / Orta / Zayıf / Kritik açık) yerleştirilir; tek doğrulanmış nicel veri (Trendyol) ayrıca gösterilir. **Gerçek performans baseline'ı, ölçüm araçları bağlandığında kurulacaktır.** Rubrik §2.2-B (Moda/Perakende) kategori çerçevesi kullanıldı; hiçbir varsayım puanı eklenmedi.
 
 ---
 
@@ -34,26 +35,28 @@ SEO açısından marka görünürlüğü organik arama kanalında neredeyse yok.
 
 ---
 
-## SKOR TABLOSU
+## OLGUNLUK TABLOSU (gözlem-temelli — Tip B)
 
-| Kategori | Ağırlık (B: Moda) | Puan | Ağırlıklı | Bulgu Özeti |
-|---|---|---|---|---|
-| **Marka & Güven** | %25 | 58 | 14.5 | Görsel kimlik tutarlı ve premium; ancak siteye taşınmış sosyal kanıt sıfır. Trendyol'da 619 yorum var, ana sitede hiçbiri yok. |
-| **İçerik & Mesaj** | %20 | 50 | 10.0 | Hero başlığı yönü doğru ama materyal vaadini tam kurmayan jenerik bir çerçeve. Koleksiyon hikayelerinin ikna gücü yüzeysel. Müşteri dili kullanılmıyor. |
-| **Dönüşüm** | %20 | 42 | 8.4 | CTA'lar işlevsel ama ikna edici değil. Sosyal kanıt ana sitede yok. Sepet öncesi fiyat görünürlüğü zayıf. |
-| **Konumlandırma** | %15 | 52 | 7.8 | Farklılaştırıcı (cupro, V-Label, koleksiyon hikayeleri) var ama net ve keskin bir konumlandırma ifadesine kavuşmamış. Rakip bilincincilik belirsiz. |
-| **Görünürlük (SEO)** | %10 | 35† | 3.5 | †Teknik SEO alt-skoru: N/A — GSC/Ahrefs erişimi yok, ölçülemedi. İçerik alt-skoru: 25/100 — 3 blog yazısı/yıl. Kategori skoru yalnızca içerik gözlemine dayalıdır; araç erişiminde revize edilecek. |
-| **Büyüme & Strateji** | %10 | 48 | 4.8 | Çok kanallı satış (web, Trendyol, Milagron) olumlu sinyal. Email/sadakat sistemi görünmüyor. Yurt dışı yönelim (İngilizce /en) var ama gelişmemiş. |
-| **Onur & Temsil** | N/A | N/A | — | Bu kategori Moda/Perakende bağlamında uygulanmaz; ağırlığı Marka & Güven'e dahil edilmiştir. |
-| **TOPLAM** | %100 | — | **49.0** | 6 kategori gözlemlendi. Teknik SEO araç erişimi olmadan Görünürlük skoru konservatif tutuldu. Erişim sağlandığında revize edilecek. |
+Her kategori, site gözlemine dayalı niteliksel banda yerleştirilmiştir (Güçlü / Orta / Zayıf / Kritik açık). Sayısal puan **verilmez** (Rubrik §0.1 v1.1) — gözlem performans değildir. Performans metriği gerektiren kategoriler "ölçüm bekliyor" taşır.
 
-> **Normalizasyon notu:** Onur & Temsil N/A olduğu için kalan 6 kategorinin ağırlıkları %100'e normalize edildi. Bileşik skor bu 6 kategori üzerinden hesaplanmıştır.
+| Kategori | Olgunluk (gözlem) | Performans verisi | Bulgu Özeti |
+|---|---|---|---|
+| **Marka & Güven** | Orta | Ölçüm bekliyor · Trendyol 4.3/5 doğrulanmış (Tip A) | Görsel kimlik tutarlı ve premium; ancak siteye taşınmış sosyal kanıt sıfır. Trendyol'da 619 yorum var, ana sitede hiçbiri yok. |
+| **İçerik & Mesaj** | Zayıf | Gözlem yeterli (niteliksel kategori) | Hero başlığı yönü doğru ama materyal vaadini tam kurmayan jenerik bir çerçeve. Koleksiyon hikayelerinin ikna gücü yüzeysel. Müşteri dili kullanılmıyor. |
+| **Dönüşüm** | Zayıf | Ölçüm bekliyor · gerçek CVR yok (GSC/Analytics) | CTA'lar işlevsel ama ikna edici değil. Sosyal kanıt ana sitede yok. Sepet öncesi fiyat görünürlüğü zayıf. *Bu, sitenin dönüşüm altyapısıdır — gerçek dönüşüm performansı değil.* |
+| **Konumlandırma** | Zayıf | Gözlem yeterli (niteliksel kategori) | Farklılaştırıcı (cupro, V-Label, koleksiyon hikayeleri) var ama net ve keskin bir konumlandırma ifadesine kavuşmamış. Rakip bilinci belirsiz. |
+| **Görünürlük (SEO)** | Kritik açık | Ölçüm bekliyor · GSC/Ahrefs yok | Son 12 ayda 3 blog yazısı. Organik görünürlük neredeyse yok. Teknik SEO ölçülemedi; içerik gözlemi kritik açık gösteriyor. |
+| **Büyüme & Strateji** | Zayıf | Ölçüm bekliyor · email/retention metriği yok | Çok kanallı satış (web, Trendyol, Milagron) olumlu sinyal. Email/sadakat sistemi görünmüyor. Yurt dışı yönelim (İngilizce /en) var ama gelişmemiş. |
+| **Onur & Temsil** | N/A | — | Bu kategori Moda/Perakende bağlamında uygulanmaz. |
+
+**Doğrulanmış veri (Tip A — tek ölçülmüş gösterge):** Trendyol 4.3/5 (619 yorum, 43+ ürün) — bağımsız müşteri memnuniyeti kanıtı, **güçlü.** Ancak bu Trendyol kanalına ait; markanın kendi kanalının (web) gerçek performansı hakkında elimizde veri yok. Strateji web+email'i North Star yaptığı için, bu kanalın baseline'ı GSC/Analytics bağlanınca öncelikli kurulmalı.
+> **Neden bileşik sayısal skor yok:** 6 kategorinin hiçbirinde Tip A (ölçülmüş performans) verisi yok — tümü gözlem (Tip B). Rubrik §0.1 v1.1 gereği gözlem bileşik sayıya çevrilmez. Profil niteliksel: **Zayıf ağırlıklı** (1 Orta, 4 Zayıf, 1 Kritik açık). Gerçek bileşik performans baseline'ı GSC/Analytics bağlanınca kurulur.
 
 ---
 
 ## KATEGORİ BULGULARI (Detay)
 
-### 1. Marka & Güven — 58/100
+### 1. Marka & Güven — Orta (gözlem)
 
 **Güçlü yan — görsel kimlik:** Ana site beyaz zemin, minimalist tipografi ve ürün odaklı fotoğraflarla tutarlı bir estetik sunuyor. Logo yerleşimi ve renk uygulaması kanal genelinde (web, Trendyol görsel dili) büyük ölçüde tutarlı. Ürün fotoğrafları kaliteli ve editorial yaklaşımla çekilmiş — bu Moda/Perakende segmentinde temel bir puan kazandırıcı.
 
@@ -63,11 +66,11 @@ SEO açısından marka görünürlüğü organik arama kanalında neredeyse yok.
 
 **Basın/medya:** İnternette kayda değer basın izi görünmüyor. Modacalling.com'da yer almış. Vogue Türkiye, Elle, Habertürk gibi yayınlarda yer almamış (araştırma kapsamında).
 
-**Skor gerekçesi: 58** — Görsel tutarlılık ve kaliteli ürün fotoğrafları için 55 baz. Trendyol varlığı ve yorum kalitesi için +5. Güven sinyallerinin (sertifika, basın, referans) sitede yokluğu nedeniyle 70+ eşiğini aşamıyor.
+**Olgunluk gerekçesi (Orta):** Görsel tutarlılık ve kaliteli ürün fotoğrafları güçlü; Trendyol'da doğrulanmış müşteri memnuniyeti (4.3/5, 619 yorum — Tip A) marka güvenini destekliyor. Ancak güven sinyalleri (sertifika rozeti, basın, siteye taşınmış referans) sitede yok — bu yüzden "Güçlü" değil "Orta". Trendyol puanı dışında ölçülmüş performans verisi yok.
 
 ---
 
-### 2. İçerik & Mesaj — 50/100
+### 2. İçerik & Mesaj — Zayıf (gözlem)
 
 **Hero bölümü — 5 saniye testi:** "Sürdürülebilir Lüks, Doğaya Saygılı Vegan İpek Cupro" başlığı ne yapıldığını söylüyor ama kime ve neden için sorusunu yanıtsız bırakıyor. "Her design tells a story" İngilizce tagline güzel ama hero'da değer önerisini taşımıyor. Tüketici bakış açısıyla: "Bu kumaş benim için ne yapar? Neden normal ipekten farklı?"
 
@@ -79,11 +82,11 @@ SEO açısından marka görünürlüğü organik arama kanalında neredeyse yok.
 
 **Müşteri dili yok:** "Saten/ipeğe benzer ama hayvan zararlı değil" veya "en sıcak günde serinleten kumaş" gibi gerçek müşteri cümlelerine benzer kopya yok. Ürün açıklamaları teknik ama duygusal yok.
 
-**Skor gerekçesi: 50** — Değer önerisi var ama bulanık (55-69 bandı kriterlerinin alt ucu). Koleksiyon isimleri ve "Dialogue" varlığı için +5 baz. Müşteri dili ve derinlikli anlatı eksikliği nedeniyle 55 eşiğinin altında.
+**Olgunluk gerekçesi (Zayıf):** Değer önerisi var ama bulanık. Koleksiyon isimleri ve "Dialogue" içeriği olumlu zemin. Müşteri dili ve derinlikli anlatı eksik. Bu kategori gözlem/editöryal değerlendirmeyle ölçülür (performans metriği gerektirmez); niteliksel olarak Zayıf.
 
 ---
 
-### 3. Dönüşüm — 42/100
+### 3. Dönüşüm — Zayıf (altyapı gözlemi; gerçek CVR ölçüm bekliyor)
 
 **CTA analizi:** Ana sayfada 3 CTA tespit edildi: "Şimdi Alışverişe Başla", "Tasarımları Keşfet", "Keşfetmeye Başla." Üçü de kullanıcıyı ürün listesine yönlendiriyor — bu doğru. Ancak "neden şimdi al?" sorusunu yanıtlamıyor. Satın alma niyeti yaratan bir CTA (örn. "Vegan İpek Farkını Hisset") yok.
 
@@ -97,11 +100,11 @@ SEO açısından marka görünürlüğü organik arama kanalında neredeyse yok.
 
 **Sepet/checkout sürtüklüğü:** Shopify altyapısı standart deneyim sunuyor — bu bir temel beklenti. Moda CVR benchmarkı %1-2 (DynamicYield/Invespcro); mevcut durumda sosyal kanıt boşluğu nedeniyle bu ortalamanın altında kalmak bekleniyor.
 
-**Skor gerekçesi: 42** — CTA var ve işlevsel için 50 baz. Sosyal kanıtın tamamen yokluğu, ikna edici kopya eksikliği ve ücretsiz kargo/teslimat avantajlarının öne çıkarılmaması nedeniyle 42'ye gerildi. 40-54 bandı (D): "CTA yanlış hedefe götürüyor veya yok. Sosyal kanıt yok." — tam bu tabloya karşılık geliyor, yalnızca CTA'nın var olması 40 eşiğinden üst tuttu.
+**Olgunluk gerekçesi (Zayıf):** Değerlendirilen şey sitenin **dönüşüm altyapısı** — gerçek dönüşüm performansı (CVR) değil; o veri yok. CTA var ve işlevsel ama sosyal kanıt tamamen yok, ikna edici kopya eksik, kargo/teslimat avantajları öne çıkarılmamış. Altyapı niteliksel olarak Zayıf. **Gerçek dönüşüm oranı Analytics bağlanınca ölçülecek** — "iyileştirdik" iddiası ancak o metriğe dayanabilir.
 
 ---
 
-### 4. Konumlandırma — 52/100
+### 4. Konumlandırma — Zayıf (gözlem)
 
 **Farklılaştırıcılar — ne var:**
 - Türkiye'nin tek V-Label sertifikalı cupro üreticisinden (İpeker/Bursa) temin edilen materyal
@@ -122,17 +125,17 @@ SEO açısından marka görünürlüğü organik arama kanalında neredeyse yok.
 
 **Dunford 5 bileşen değerlendirmesi:** (1) Rekabet alternatifi — kısmen net. (2) Benzersiz özellikler — V-Label/VTP var ama web sitesinde yeterince öne çıkmıyor. (3) Değer kanıtı — müşteri yorumları var ama sitede gösterilmiyor. (4) Hedef müşteri — "lüksü önemseyen sürdürülebilir kadın" var ama kişiliği somutlaşmamış. (5) Kategori bağlamı — "sürdürülebilir lüks moda Türkiye" net.
 
-**Skor gerekçesi: 52** — Konumlandırma var ama genel (55-69 kriterleri karşılanıyor ama alt bandda). Farklılaştırıcılar mevcut fakat sitede net ve tutarlı şekilde vurgulanmıyor. 52: "Farklılaştırıcılar var ama rakiple benzer yüzeysellikte" kriterinin tam üstü.
+**Olgunluk gerekçesi (Zayıf):** Farklılaştırıcılar mevcut ama sitede net ve tutarlı vurgulanmıyor; rakiple (niLuu) benzer yüzeysellikte. Konumlandırma gözlem/rakip analiziyle değerlendirilir (performans metriği gerektirmez); niteliksel olarak Zayıf.
 
 ---
 
-### 5. Görünürlük (SEO) — 35/100
+### 5. Görünürlük (SEO) — Kritik açık (içerik gözlemi; teknik SEO ölçüm bekliyor)
 
 **Metodoloji notu (Rubrik §0.1):** Bu kategori iki alt-skora ayrılmıştır:
 - **Teknik SEO alt-skoru: N/A** — GSC/Ahrefs/Semrush erişimi olmadan ölçülemedi. Teknik performans (crawl, backlink, core web vitals, DA) bu denetimde skorlanmamıştır.
-- **İçerik alt-skoru: 25/100** — Yalnızca doğrudan gözlemlenebilen veriye dayanır: 3 blog yazısı (son 12 ay), düşük içerik derinliği (1 dk okuma süresi), anahtar kelime boşluğu tespiti.
+- **İçerik boyutu (gözlem):** 3 blog yazısı (son 12 ay), düşük içerik derinliği (1 dk okuma süresi), anahtar kelime boşluğu. Gözlem net biçimde kritik açık gösteriyor; sayısal skor verilmez — performans verisi (trafik, sıralama) yok.
 
-Kategori bileşik skoru (35) ağırlıklı hesaplamada kullanılmıştır. Teknik araç erişimi sağlandığında bu kategori yeniden hesaplanacak ve bileşik skor güncellenecektir.
+Bu kategori **Kritik açık** bandında (içerik gözlemi). Teknik SEO performansı araç erişiminde ölçülecek; gerçek görünürlük baseline'ı (organik trafik, sıralama, DA) o zaman kurulur.
 
 **İçerik hacmi — kritik boşluk:** 3 blog yazısı (1 yıllık dönemde) tespit edildi. Türkiye'de "sürdürülebilir moda", "cupro kumaş", "vegan ipek elbise", "kapsül dolap" aramalarında sıralamaya girebilecek içerik altyapısı yok. Mevcut yazılar konusal olarak doğru ancak düşük derinlikte (1 dakika okuma süresi).
 
@@ -144,11 +147,11 @@ Kategori bileşik skoru (35) ağırlıklı hesaplamada kullanılmıştır. Tekni
 
 **Teknik gözlemler:** Site erişilebilir ve sayfalar yükleniyor. 404'ler: /about, /shop, /collections/all gibi tahmin edilen URL'ler 404 döndürdü — muhtemelen Shopify standart dışı yollardır, gerçek kırık link sorunu için GSC kontrolü gerekli. Product-page URL yapısı biraz uzun (SEO için kısaltılabilir).
 
-**Skor gerekçesi: 35** — Teknik altyapı (Shopify) için 40 baz. İçerik hacminin son derece düşük olması (3 yazı), organik arama varlığının kısıtlı görünmesi ve araç verisi yokluğunda konservatif davranma zorunluluğu nedeniyle 35. 0-39 bandı: "İçerik yok" — 3 yazı tamamen yok değil, ama yakın.
+**Olgunluk gerekçesi (Kritik açık):** Teknik altyapı (Shopify) sağlam ama içerik hacmi son derece düşük (son 12 ayda 3 yazı), organik arama varlığı kısıtlı görünüyor. İçerik gözlemi kritik açık gösteriyor. **Teknik SEO performansı (DA, organik trafik, sıralama) GSC/Ahrefs olmadan ölçülemedi** — o boyut ölçüm bekliyor; buradaki değerlendirme yalnızca içerik gözlemine dayanır.
 
 ---
 
-### 6. Büyüme & Strateji — 48/100
+### 6. Büyüme & Strateji — Zayıf (gözlem)
 
 **Kanal çeşitliliği — olumlu:** Kendi web sitesi + Trendyol (43 ürün, 619 yorum) + Milagron (10 ürün, plaj segmenti) + Hepsiburada varlığı. Çoklu kanal hem görünürlük hem de riski dağıtma açısından iyi. Trendyol kampanyaları mevcut (flaş indirimler, kargo promosyonu).
 
@@ -160,7 +163,7 @@ Kategori bileşik skoru (35) ağırlıklı hesaplamada kullanılmıştır. Tekni
 
 **Mevsimsel/koleksiyon stratejisi:** Spring Summer '26 duyurusu var — mevsimsel koleksiyon döngüsü mevcut. Bu büyüme için pozitif sinyal.
 
-**Skor gerekçesi: 48** — Çoklu kanal ve uluslararasılaşma girişimi için 50 baz. Email/sadakat sistemi yokluğu, uluslararası stratejinin gelişmemişliği ve "neden bu fiyat?" argümanının kurulmamış olması nedeniyle 48.
+**Olgunluk gerekçesi (Zayıf):** Çoklu kanal ve uluslararasılaşma girişimi olumlu sinyal. Email/sadakat sistemi yok, uluslararası strateji gelişmemiş, "neden bu fiyat?" argümanı kurulmamış. Niteliksel olarak Zayıf. **Email büyüme ve retention metrikleri ölçüm bekliyor.**
 
 ---
 
@@ -266,7 +269,7 @@ Bu denetim, Towdoo'nun dijital varlığının mevcut durumunu belgeleyen baselin
 
 | Metrik | Mevcut Değer | Kaynak | Not |
 |---|---|---|---|
-| Marka Denetim Skoru | 49/100 (D) | Bu rapor | 5 Haz 2026 |
+| Marka Olgunluk Profili | Baseline: Zayıf ağırlıklı (niteliksel) | Bu rapor | Performans skoru ölçüm bekliyor (§0.1 v1.1) |
 | Trendyol Puanı | 4.3/5 | Trendyol | 619 yorum |
 | Trendyol Ürün Sayısı | 43+ | Trendyol | Haziran 2026 |
 | Blog Yazısı (son 12 ay) | 3 | Towdoo.com | Ağu 2025, Oca 2025, tarihsiz |
@@ -277,28 +280,28 @@ Bu denetim, Towdoo'nun dijital varlığının mevcut durumunu belgeleyen baselin
 
 ---
 
-*Denetim Skoru: 5 Haziran 2026 baseline. Sonraki ölçüm: iyileştirmeler uygulandıktan sonra.*
+*Olgunluk baseline'ı: 5 Haziran 2026 (niteliksel). Gerçek performans baseline'ı GSC/Analytics bağlanınca kurulur; sonraki ölçüm iyileştirmeler + araç erişiminden sonra.*
 
 ---
 
 ## İÇERİK AJANI BRİEF
 
-### PPTX — Towdoo Marka Denetim Sunumu
-- **Marka:** Towdoo, **Tarih:** 5 Haziran 2026
+### PDF — Towdoo Marka Denetim Raporu (pdf-motoru.py, register müşteriye göre)
+- **Marka:** Towdoo, **Tarih:** 5 Haziran 2026 · **Format:** PDF (PPTX değil — Format Hiyerarşisi)
 - **Renk paleti:** Marka kiti'nden Phthalo Blue (#1F3A5F) + Sky Blue (#7AB8D4) + beyaz + Towdoo'nun kendi yeşil-beyaz minimalist paleti
-- **Slide listesi:**
+- **Bölüm listesi:**
   1. Kapak — "Towdoo Marka Denetim Raporu | 5 Haziran 2026 | Marka Bulutu OS"
-  2. Genel Skor — 49/100 büyük rakamla, D notu, "Temel var, büyük revizyon gerekli"
-  3. Radar Chart — 6 kategori, skorlar: Marka&Güven:58, İçerik&Mesaj:50, Dönüşüm:42, Konumlandırma:52, Görünürlük(içerik):25, Büyüme&Strateji:48
-  4. Güçlü Yönler — 3 madde: V-Label materyal, Trendyol kanıtı (4.3/5 - 619 yorum), Koleksiyon anlatı zemini
+  2. Olgunluk Profili — **sayısal genel skor YOK** (§0.1 v1.1); "Baseline kuruldu — Zayıf ağırlıklı, performans ölçümü bekliyor" mesajı + neden açıklaması
+  3. Olgunluk Isı Haritası — 6 kategori renk-kodlu bant (Güçlü/Orta/Zayıf/Kritik açık); **radar/sayısal grafik değil** — niteliksel haritada gözlem gösterilir
+  4. Güçlü Yönler — 3 madde: V-Label materyal, Trendyol kanıtı (4.3/5 - 619 yorum — Tip A doğrulanmış), Koleksiyon anlatı zemini
   5. Kritik Açıklar — 3 madde: Sosyal kanıt boşluğu, SEO içerik yok, Email/sadakat sistemi yok
-  6. Hızlı Kazanımlar — 4 madde tablo (öneri / süre / beklenen etki)
-  7. Stratejik Yol Haritası — 3 ay takvimli gantt/timeline
+  6. Hızlı Kazanımlar — 4 madde tablo (öneri / süre / beklenen etki — etki "potansiyel, benchmark-temelli" etiketli)
+  7. Stratejik Yol Haritası — 3 ay takvimli timeline
   8. Etki Tablosu — öneri/etki/güven/süre
-  9. Baseline Kayıt — mevcut değerler tablosu
-  10. Sonraki Adım — Marka Bulutu OS faz zinciri
-- **Grafik verileri:** Radar: Marka&Güven=58, İçerik&Mesaj=50, Dönüşüm=42, Konumlandırma=52, Görünürlük(içerik alt-skor)=25, Büyüme&Strateji=48
-- **Ton:** Müşteriye sunulabilir, çözüm odaklı, "bizi tanımışlar" hissi
+  9. Baseline Kayıt — mevcut değerler tablosu + "performans metrikleri ölçüm bekliyor" satırı
+  10. Sonraki Adım — Marka Bulutu OS faz zinciri + **GSC/Analytics bağlantısı (gerçek baseline için ön koşul)**
+- **Olgunluk haritası verileri:** Marka&Güven=Orta · İçerik&Mesaj=Zayıf · Dönüşüm=Zayıf · Konumlandırma=Zayıf · Görünürlük=Kritik açık · Büyüme&Strateji=Zayıf. Ayrı kutu: Trendyol 4.3/5 (Tip A — tek doğrulanmış nicel veri).
+- **Ton:** Müşteriye sunulabilir, çözüm odaklı, "bizi tanımışlar" hissi. Dürüstlük: "performansı henüz ölçmedik, altyapıyı değerlendirdik" açıkça söylenir — bu güven verir, zayıflık değil.
 
 ### Excel — Towdoo SEO Teknik Kritik
 - **Sheet 1 (Teknik Sorunlar):** URL | HTTP | Sorun | Öncelik | Aksiyon | Etki | Durum

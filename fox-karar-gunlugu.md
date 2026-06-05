@@ -17,6 +17,15 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Puanlama Metodolojisi — İki Katman Kanıt (5-6 Haz)
+- **Tetikleyici:** Ayhan, Towdoo denetim raporundaki "Dönüşüm 42/100" puanını sorguladı: "Dönüşümü neyin dönüşümü olarak ele aldın?" → "Satışı nasıl tespit ettin?" → **"Bu kabul edilemez bir durum."** Ortaya çıktı: gerçek performans verisi (CVR/trafik/DA) olmadan kategorilere sayısal puan verilmiş; gözlem, ölçüm gibi sunulmuş (sahte kesinlik).
+- **Karar (Ayhan seçti):** **İki katman ayır.** Tip A (gerçek ölçüm/doğrulanmış dış veri) → sayısal puan olur. Tip B (gözlem/altyapı) → niteliksel band (Güçlü/Orta/Zayıf/Kritik açık) + "ölçüm bekliyor". Hiç Tip A yoksa genel sayısal skor verilmez.
+- **Gerekçe:** Kuzey Yıldızı "gerçek etki göster" diyor — verisiz "42→65 iyileştirdik" sahte before/after olur, ürünün temel vaadini çürütür. §11.5 (rakam uydurulmaz) ruhu.
+- **Uygulandı (aynı oturum):** Rubrik §0.1 → v1.1 (Tip A/B). Towdoo raporu: 49/100 → niteliksel profil (Zayıf ağırlıklı; tek Tip A = Trendyol 4.3/5). SOC raporu: 40/100 → niteliksel (Kritik açık ağırlıklı). Denetmen 8. mercek → Sahte Kesinlik Kontrolü. Keşif Ajanı → iki-katman metodolojisi + brief PPTX→PDF.
+- **Önemli ders:** Hata Denetmen + konsensüsten geçmişti; yakalayan Ayhan oldu (5 Haz görsel-kalite dersinin tekrarı). Kural: hata bulununca çıktıyla birlikte **denetim merceğini de** güncelle.
+- **Strateji raporu da düzeltildi:** İçindeki "denetim skoru 49→60-63 bandı" sayısal hedefi (49→61.5 aritmetiği) niteliksel band ilerlemesine + "gerçek baseline GSC sonrası" vaadine çevrildi. Bağlam referansları (49/100, kategori sayıları) niteliksele güncellendi.
+- **Strateji Olgunluk Skoru 80/100 KALDI (meşru):** Bu skor stratejinin *kendi belge kalitesini* ölçer (markanın performansını değil) — belge elimizde, kriterler gözlemlenebilir (Dunford 5 bileşen net mi, AARRR 5 aşama kapsandı mı). Tip A'ya yakın: belgenin kendisi kanıttır. Marka denetim skorundan kategorik olarak farklı; sahte kesinlik değil.
+
 ### Towdoo — 6 Aylık Teklif: 45.000 TL/ay
 - **Karar:** Aylık danışmanlık 45.000 TL, 6 ay, toplam 270.000 TL. Operasyon (çekim, kurgu) kapsam dışı, ayrıca bütçelenir.
 - **Gerekçe:** Ayhan'ın rolü strateji + kreatif yön; operasyon değil. Towdoo'dan gelecek garanti TL gelire ihtiyaç var (AI araçlarına yatırım için). Tuğba ile ilişki nedeniyle TL kabul ediliyor (normalde döviz önceliği var).

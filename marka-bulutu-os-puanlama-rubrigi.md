@@ -23,14 +23,24 @@ Eşik değerleri (SEO skoru, dönüşüm oranı, engagement vb.) ise gerçek end
 
 # BÖLÜM 0 — KULLANIM İLKELERİ (tüm ajanlar)
 
-### 0.1 Eksik Veri Kuralı (Denetmen sorununun çözümü)
-Bir kategori **gözlemlenemezse** (örn. bot koruması nedeniyle Instagram, GSC erişimi olmadan meta etiketler):
-- O kategori **"N/A — Ölçülemedi"** olarak işaretlenir.
-- **Skora dahil EDİLMEZ.** Skor, yalnızca ölçülen kategoriler üzerinden, ağırlıkları yeniden normalize edilerek hesaplanır.
-- **Eksik veri ASLA "muhafazakâr yorumla" puan eklemez veya çıkarmaz.** Veri yoksa varsayım yapılmaz (SOC raporundaki 39.75→48 hatası bir daha tekrarlanmaz).
-- Raporda açıkça yazılır: "Bu skor, ölçülebilen X kategori üzerinden hesaplandı. Y ve Z kategorileri [sebep] nedeniyle ölçülemedi; erişim sağlandığında yeniden hesaplanacak."
+### 0.1 Eksik Veri Kuralı + İki Katman Kanıt (v1.1 — 5 Haz 2026, Ayhan düzeltmesi)
 
-**Normalizasyon örneği:** 7 kategoriden 2'si ölçülemiyorsa, kalan 5 kategorinin ağırlıkları toplamı (örn. 0.85) 1.0'a bölünerek yeniden ölçeklenir. Skor 0-100 bandında kalır, kıyaslanabilirliği korur.
+**Çözülen açık (5 Haz):** §0.1 v1 yalnızca "hiç gözlemlenemeyen" kategoriyi N/A yapıyordu. Ama "gözlemlenen ama performansı ölçülemeyen" kategorileri (örn. Dönüşüm: site açıldı, CTA görüldü — ama gerçek CVR/trafik verisi yok) yine de sayısal puanladık (Towdoo Dönüşüm 42, Marka&Güven 58). Sonuç: **altyapı gözlemi, performans ölçümü gibi okundu — sahte kesinlik.** Düzeltme: her puan, hangi kanıt tipine dayandığını beyan eder.
+
+**Tip A — Ölçülmüş / Doğrulanmış veri → sayısal puan VERİLEBİLİR**
+Gerçek metrik veya doğrulanmış dış kaynak: CVR (Analytics), organik trafik (GSC), DA (Ahrefs/Moz), PageSpeed (Lighthouse), Core Web Vitals, doğrulanmış platform puanı (örn. Trendyol 4.3/5 — 619 yorum). Sayı, gerçek bir ölçümü temsil eder.
+
+**Tip B — Gözlem / Altyapı değerlendirmesi → sayısal puan VERİLMEZ**
+Site yapısı, varlık/yokluk, kalite gözlemi (CTA var mı, sosyal kanıt taşınmış mı, hero değer önerisi içeriyor mu, blog kaç ay önce). Bunlar gerçek **gözlem** ama performans değil — **hazırlık/altyapı.** Niteliksel raporlanır: **Güçlü / Orta / Zayıf / Kritik açık** + "performans ölçümü bekliyor (kaynak: GSC/Analytics/…)".
+
+**Kurallar:**
+1. Bir kategori yalnızca **Tip B** kanıta dayanıyorsa → **sayısal puan verilmez.** Niteliksel değerlendirme + eksik performans verisi açıkça listelenir.
+2. **Genel skor yalnızca Tip A verisi olan kategorilerden** hesaplanır (normalizasyon: kalan ağırlıklar 1.0'a ölçeklenir). **Hiç Tip A yoksa → genel sayısal skor verilmez;** "Baseline kuruldu — performans skoru [GSC/Analytics/…] bağlanınca hesaplanacak" yazılır.
+3. **Hiç gözlemlenemeyen** kategori (bot koruması, erişim yok) → eskisi gibi "N/A — Ölçülemedi", skora hiç girmez.
+4. Eksik veri ASLA varsayım puanı eklemez/çıkarmaz (SOC 39.75→48 hatası tekrarlanmaz).
+5. Bir kategori hem Tip A hem Tip B içerebilir → Tip A kısmı sayısal, Tip B kısmı niteliksel; ayrı gösterilir, karıştırılmaz.
+
+**Neden kritik (Kuzey Yıldızı bağı):** Hedefimiz "markalarda gerçek etki göster." Tip B'yi sayısallaştırırsak before/after **sahte** olur (42→65 deriz ama ikisi de gözlem, gerçek metrik değil). Tip A/B ayrımı, "iyileştirdik" dediğimizde sözün gerçek bir ölçüme dayanmasını garanti eder — ürünün temel vaadi budur.
 
 ### 0.2 Her Skor Kanıta Bağlanır
 Hiçbir puan gerekçesiz verilmez. Her kategori skorunun yanında **en az bir somut gözlem** bulunur: "Hero başlığı değer önerisi içermiyor" / "3 sayfada CTA yok" / "blog son güncelleme 8 ay önce". Tahminse "tahmin" denir.
@@ -53,7 +63,7 @@ Her ajan çıktısının sonunda **kendi rubriğine göre bir Kalite/Olgunluk Sk
 | **40–54** | D | Yetersiz | Büyük revizyon gerekli. Mevcut hâli marka değerine zarar veriyor. |
 | **0–39** | F | Kritik | Yok sayılabilir veya aktif zarar veriyor. Sıfırdan inşa. |
 
-**Bileşik skor** = Σ (kategori skoru × ağırlık), eksik veri kuralıyla normalize. Yorumda harf notu + tek cümle.
+**Bileşik skor** = Σ (kategori skoru × ağırlık), eksik veri + iki katman kuralıyla (§0.1) normalize. **Yalnızca Tip A (ölçülmüş/doğrulanmış) verisi olan kategoriler bileşik skora girer.** Tip B (gözlem/altyapı) kategoriler niteliksel raporlanır, sayıya çevrilmez. Hiç Tip A yoksa bileşik sayısal skor verilmez. Yorumda harf notu + tek cümle.
 
 ---
 
@@ -375,6 +385,7 @@ Eşik değerleri gerçek endüstri benchmarklarıdır. Ağırlıklar bizim metod
 | Sürüm | Tarih | Tetikleyici | Kapsam |
 |---|---|---|---|
 | **v1** | 5 Haz 2026 | İlk kuruluş | 5 ajan rubriği + 5 bağlam + benchmark |
+| **v1.1** | 5 Haz 2026 | Ayhan düzeltmesi — Towdoo dönüşüm puanı | §0.1 İki Katman Kanıt: Tip A (ölçülmüş→sayısal) / Tip B (gözlem→niteliksel). Gözlemi performans gibi sayısallaştırma açığı kapatıldı. |
 | **v2** | 5 Eyl 2026 | 3 ay sonra (planlı) | Ajan artışı + kalite algısı yükselişi + saha verisi |
 
 **v2'de gözden geçirilecekler:**
@@ -388,5 +399,5 @@ Eşik değerleri gerçek endüstri benchmarklarıdır. Ağırlıklar bizim metod
 
 ---
 
-*Marka Bulutu OS — Puanlama Rubriği v1 · 5 Haziran 2026 · Fox*
+*Marka Bulutu OS — Puanlama Rubriği v1.1 · 5 Haziran 2026 · Fox*
 *Kaynak araştırması: Semrush, Moz, Google, Invespcro, Ruler Analytics, MailerLite, Hootsuite, April Dunford, HubSpot, Nielsen. Ağırlıklar SOC metodolojisi (kaynak-bilgili, endüstri standardı değil — §11.5).*
