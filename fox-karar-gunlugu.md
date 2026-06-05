@@ -22,6 +22,11 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 - **Gerekçe:** Ayhan'ın rolü strateji + kreatif yön; operasyon değil. Towdoo'dan gelecek garanti TL gelire ihtiyaç var (AI araçlarına yatırım için). Tuğba ile ilişki nedeniyle TL kabul ediliyor (normalde döviz önceliği var).
 - **Sunum:** Cuma 5 Haziran görüşmesi. PDF teklif + Canva sunum + AI projeksiyon dosyası hazır.
 
+### Towdoo — Strateji Belgesi İç Çalışma (5 Haz)
+- **Karar:** Faz 2 Strateji belgesi (Olgunluk 80/100 B, Fox+Denetmen konsensüs onaylı) müşteriye verilmeyecek; **iç çalışma olarak bekletilecek.** Faz 3 İçerik'e geçilmeyecek.
+- **Gerekçe:** Towdoo "Teklif Gönderildi" aşamasında — iş henüz imzalı değil (45k TL/ay, 5 Haz sunum). Teklif kapanmadan tam strateji teslim etmek bedava iş riski (Anayasa §11.3). Marka Bulutu OS Teslim Zinciri teklif sürecinde tam çalıştırıldı (Faz 1 Denetim + Faz 2 Strateji) ama çıktı kapı dışına çıkmıyor.
+- **Statü:** Belgeler dosyada hazır bekliyor (`raporlar/towdoo-strateji.md`, `towdoo-marka-denetim-raporu.md`). Teklif netleşince → teslim + Faz 3 İçerik (619 yorum verbatim analizi) devam eder. Ayhan'ın kararı: "İç çalışma, beklet" (5 Haz).
+
 ### Ala Skateboards — İş Modeli (GÜNCEL 4 Haz)
 - **Yeni karar:** Ödeme YOK, komisyon YOK. Tuncay bedelsiz alan veriyor, biz kullanıyoruz. Model A/B sözleşmeleri geçersiz kaldı.
 - **Karşılık:** Para değil, **birlikte içerik + ortak gol.** Amputasyon × kaykay — Ayhan kaykay yapacak, birlikte video/proje üretecekler.
