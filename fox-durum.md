@@ -1,12 +1,14 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 5 Haziran 2026 · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 5 Haziran 2026 (Towdoo Faz 2 sonu) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
 ## ŞU AN NEREDEYİZ (özet)
-5 Haziran: Marka Bulutu OS'u **SOC'nin kendi markasına uyguladık** (canlı referans + öz-geliştirme). Teslim Zinciri çalıştı: Keşif & Denetim → SOC marka denetim raporu (40/100, D — baseline). Denetmen turu tam yapıldı, 5 bulgu düzeltildi. İki büyük sistem kuruldu: **Puanlama Rubriği v1** (ölçüm dili) + **Görsel Üretim Standardı v1** (görsel kalite). pdf-motoru v3'e çıktı (iki register teması). Lookalike içerik metodolojisi dış skill'den güvenle uyarlandı.
+**Towdoo gerçek ilk müşteri pilotu** — Teslim Zinciri canlı çalışıyor. Faz 1 Keşif & Denetim (49/100 D, Moda/Perakende) ✅ + Faz 2 Strateji (Olgunluk 80/100 B) ✅ tamam. Strateji Denetmen'in tam 7-mercek denetiminden + 4 düzeltme + re-check'ten geçti; Fox+Denetmen konsensüs sağlandı. **Ayhan'ın masasında: strateji onayı** (Kademe 2). Onay sonrası Faz 3 İçerik devralır.
+
+Daha önce (5 Haz): Marka Bulutu OS'u **SOC'nin kendi markasına uyguladık** (öz-pilot + öz-geliştirme). İki büyük sistem kuruldu: **Puanlama Rubriği v1** (ölçüm dili) + **Görsel Üretim Standardı v1** (görsel kalite). pdf-motoru v3'e çıktı (iki register teması). Lookalike içerik metodolojisi dış skill'den güvenle uyarlandı.
 
 **KRİTİK DERS (5 Haz):** İlk SOC denetim PPTX'i marka fontunu ihlal etti + editorial ruh taşımadı + AI-slop + ₺ kutu — ve Fox denetiminden geçti. Ayhan yakaladı. Kök neden: Fox'un görsel kalite merceği zayıftı. Kapatıldı: öz-denetim 8. soru (görsel) + render-and-review zorunlu + Görsel Üretim Standardı.
 
@@ -21,15 +23,25 @@ Fox (orkestratör) · Denetmen (7 mercek) · Keşif&Denetim · Strateji · İçe
 - **pdf-motoru v3** (`sablonlar/pdf-motoru.py`): iki tema → `soc-mavi` (Bebas/Comfortaa/Phthalo, marka/misyon) + `ayhan-premium` (Didot/Avenir/altın, iş). Fontlar: `assets/fonts/`.
 
 ## AÇIK İŞLER — Ayhan'ın masasında
-1. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. Eski yanlış-standart PPTX silindi.
-2. **Darya takip maili** — taslak hazır (Gmail draft), gönderim Ayhan'da
-3. **gmail-personal** (stepsonclouds@) — OAuth yarım
-4. **Scheduled task'lar** — bir kez "Run now" ile onayla
-5. **Canva brand kit** — manuel kurulum
-6. **Nesa/Luxmed** — çıkar çatışması, sözleşme öncesi stratejik karar
-7. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
+1. **⭐ Towdoo strateji onayı** — Faz 2 Strateji (`raporlar/towdoo-strateji.md`) konsensüs onaylı, Ayhan'ın son onayı bekliyor (Kademe 2). Onay → müşteriye teslim + Faz 3 İçerik başlar. İstenirse premium PDF'e dökülebilir.
+2. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. Eski yanlış-standart PPTX silindi.
+3. **Darya takip maili** — taslak hazır (Gmail draft), gönderim Ayhan'da
+4. **gmail-personal** (stepsonclouds@) — OAuth yarım
+5. **Scheduled task'lar** — bir kez "Run now" ile onayla
+6. **Canva brand kit** — manuel kurulum
+7. **Nesa/Luxmed** — çıkar çatışması, sözleşme öncesi stratejik karar
+8. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
 
-## SOC PİLOT — Teslim Zinciri durumu
+## ⭐ TOWDOO PİLOT — gerçek ilk müşteri (Teslim Zinciri)
+Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. Context: `sablonlar/towdoo-marka-context.md`.
+- ✅ **Faz 1 Keşif & Denetim:** `raporlar/towdoo-marka-denetim-raporu.md` — 49/100 D (Moda/Perakende §2.2-B). Denetmen onaylı.
+- ✅ **Faz 2 Strateji:** `raporlar/towdoo-strateji.md` — Olgunluk 80/100 B. Konumlandırma: **"erişilebilir vegan lüks"** (niLuu'nun terk ettiği TL/yerel alan). North Star: kendi kanal (web+email), Trendyol değil. Denetmen tam denetim + 4 düzeltme + re-check ✅. **Ayhan onayı bekliyor.**
+- ⬜ **Faz 3 İçerik** → Faz 4 Growth (→ Branding gerekirse).
+- **Denetmen kısıtları (devam eden):** (1) VTP "patent" iddiası doğrulanmadı — konumlandırmada YOK, sadece V-Label; müşteri belge sunarsa eklenir. (2) Greenwashing sınırı — çevresel iddia abartılmaz, vegan/etik ayağa ağırlık. (3) Verbatim müşteri sesi yok — mesaj mimarisi `[VARSAYIM]`, Faz 3'te 619 yorum analizi + verbatim toplantısıyla kalibre edilecek.
+- **Açık veri eksiği:** GSC/Analytics yok → sayısal trafik hedefi verilemedi (dürüst N/A). Fiyat alt sınırı 119 TL (müşteri teyidi bekliyor).
+- **Köprü hipotezi (🟡 izlenecek):** aksesuar→giyim "yükseltme" varsayımı kanıtlanmadı; Faz 4'te ölçülecek (§8.8).
+
+## SOC ÖZ-PİLOT — Teslim Zinciri durumu (öğrenme amaçlı)
 - ✅ **Faz 1 Keşif & Denetim:** rapor (`raporlar/soc-marka-denetim-raporu.md`, 40/100 D) + SEO Excel (`soc-seo-kritik.xlsx`, Keşif onaylı). SOC context: `sablonlar/soc-marka-context.md`.
 - ⏳ **PDF üretimi:** raporun premium PDF hali (soc-mavi) bekliyor.
 - ⬜ **Faz 2 Strateji** (konumlandırma çatallanması çöz) → Faz 3 Branding → Faz 4 İçerik → Faz 5 Growth.
@@ -43,7 +55,7 @@ Fox (orkestratör) · Denetmen (7 mercek) · Keşif&Denetim · Strateji · İçe
 - **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
 
 ## SIRADAKİ BÜYÜK ADIM (öneri)
-SOC denetim raporunu yeni standartla PDF'e dök (İçerik Ajanı → Keşif onay → Denetmen+Fox → Ayhan). Sonra Faz 2 Strateji: SOC konumlandırma çatallanmasını çöz.
+**Ayhan Towdoo stratejisini onaylayınca → Faz 3 İçerik Ajanı.** İlk görev net (strateji §9 devir notu): 619 Trendyol yorumunun sistematik analizi → mesaj mimarisini gerçek verbatim'le kalibre et (`[VARSAYIM]` etiketlerini gerçek müşteri diliyle değiştir). Sonra koleksiyon hikâye kopyası + materyal eğitimi içeriği + Dialogue editorial serisi. İstenirse strateji belgesi premium PDF'e (ayhan-premium veya marka teması) dökülebilir.
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Kim/vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md`

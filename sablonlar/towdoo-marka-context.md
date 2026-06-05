@@ -13,7 +13,10 @@
 
 ## 1. Marka / Ürün Genel Bakış
 
-- **Tek cümle:** Türkiye'nin tek V-Label sertifikalı cupro üreticisinden temin edilen vegan ipek kumaşla üretilmiş, koleksiyon hikayeleriyle çerçevelenmiş sürdürülebilir lüks kadın giyim markası.
+- **Tek cümle:** Türkiye'nin tek V-Label sertifikalı cupro üreticisinden temin edilen vegan ipek kumaşla üretilmiş, koleksiyon hikayeleriyle çerçevelenmiş erişilebilir vegan lüks kadın giyim markası.
+
+- **⭐ KONUMLANDIRMA BEYANI (Strateji Ajanı, 5 Haz — `raporlar/towdoo-strateji.md` §2.2):** *"İpek hisli giyim isteyen ama hiçbir canlıya zarar vermek istemeyen bilinçli Türk kadını için, Towdoo, Türkiye'nin tek V-Label sertifikalı vegan ipeğinden (cupro) üretilmiş, her parçası bir hikâye taşıyan erişilebilir lüks giyim markasıdır. Saten ipeğin estetiğini, hayvansal bedeli olmadan sunar — ve bunu 619 gerçek müşterinin doğruladığı bir kaliteyle, Türkiye fiyatlarıyla yapar."*
+  - **Raf:** Türkiye vegan lüks moda (niLuu = global/dolar; Towdoo = yerel/TL/erişilebilir). Tüm ajanlar bu konumlandırmayı referans alır.
 
 - **Ne yapar (2-3 cümle):** Towdoo, vegan ipek olarak da bilinen cupro kumaşı kullanarak kadın giyimi tasarlar ve satar. Her koleksiyona anlatı çerçevesi kazandırır (evren, doğa, mitoloji). Türkiye'deki kendi web sitesinden, Trendyol ve Milagron üzerinden satış yapar; İngilizce site versiyonu ile uluslararası erişim hedefliyor.
 
@@ -21,7 +24,8 @@
 
 - **Tip:** Moda / Sürdürülebilir Lüks Perakende + potansiyel E-ticaret (Shopify altyapısı, çok kanallı satış)
 
-- **İş modeli & fiyat:** D2C web sitesi + marketplace (Trendyol, Milagron, Hepsiburada). Fiyat aralığı: 159 TL (aksesuar) – 9.800 TL (premium kimono/sabahlık). Giysiler 5.300-9.800 TL arası. Aksesuar/plaj ürünleri 119-750 TL. Trendyol'da taksit seçeneği mevcut. Ücretsiz kargo koşulları belirsiz (sitede net değil).
+- **İş modeli & fiyat:** D2C web sitesi + marketplace (Trendyol, Milagron, Hepsiburada). Fiyat aralığı: 119 TL (aksesuar) – 9.800 TL (premium kimono/sabahlık). Giysiler 5.300-9.800 TL arası. Aksesuar/plaj ürünleri 119-750 TL. Trendyol'da taksit seçeneği mevcut. Ücretsiz kargo koşulları belirsiz (sitede net değil). *(Alt sınır 119 TL olarak standartlaştırıldı — 5 Haz Denetmen düzeltmesi; canlı kaynakta müşteri teyidi bekliyor.)*
+  - **⭐ Fiyat çatallanması çözümü (Strateji, 5 Haz):** 119–9.800 TL geniş aralığı konumlandırma belirsizliği DEĞİL, **iki ürün hattı**: (1) **Giyim hattı** 5.300–9.800 TL = çekirdek, V-Label cupro, lüks konum. (2) **Aksesuar/plaj hattı** 119–750 TL = giriş ürünleri, farklı materyal. Stratejik rol: aksesuar = funnel girişi (acquisition kapısı, en çok yorum buradan geliyor), giyim = gelir motoru. Aksesuar premium konumu sulandırmaz; iletişimde "giriş" vs "lüks" ayrı tutulur.
 
 ---
 
@@ -74,12 +78,13 @@
 ## 6. Farklılaşma
 
 - **Anahtar farklılaştırıcılar:**
-  1. V-Label sertifikalı cupro: Türkiye'nin tek sertifikalı tedarikçisi (İpeker/Bursa, 100+ yıllık tekstil mirası) — gerçek, tescilli, doğrulanabilir.
-  2. VTP (Vegan Textile Process) patenti: Üretim sürecinde sertifikalı kontrol. Greenwashing değil.
+  1. V-Label sertifikalı cupro: Türkiye'nin tek sertifikalı tedarikçisi (İpeker/Bursa, 100+ yıllık tekstil mirası) — gerçek, tescilli, doğrulanabilir. **[BİRİNCİL farklılaştırıcı — konumlandırmanın çekirdeği]**
+  2. ~~VTP (Vegan Textile Process) patenti~~ — **⚠️ DOĞRULANMADI (Denetmen, 5 Haz): patent iddiası bağımsız kaynakla teyit edilmedi. Konumlandırmada KULLANILMIYOR. Müşteri resmi belge (patent no/tescil) sunarsa ikinci katman farklılaştırıcı olarak eklenir. O zamana kadar yalnızca V-Label üzerine konumlanılır.**
   3. Koleksiyon anlatısı: Evren, doğa, mitoloji temelli koleksiyonlar — fast fashion'da bu derinlik yok.
   4. "Dialogue" kültür projesi: Sanatçı, dövme ustası, yaratıcı bireylerle içerik — sadece ürün değil, söyleşi ve anlam.
 
-- **Nasıl farklı çözüyoruz:** Lüks ve sürdürülebilirliği trade-off olmaktan çıkarıyoruz. V-Label = kanıtlanmış vegan. Cupro = ipek hissi + doğada çözünme. Koleksiyon hikayesi = kıyafetle kimlik bütünleşmesi.
+- **Nasıl farklı çözüyoruz:** İpek estetiğini hayvansal bedel olmadan sunuyoruz (vegan/etik ayak — V-Label ile doğrulanabilir, GÜÇLÜ). Koleksiyon hikayesi = kıyafetle kimlik bütünleşmesi.
+  - **⚠️ Greenwashing sınırı (Strateji, 5 Haz):** "Sürdürülebilir" iddiası iki ayrıdır. **Vegan/etik ayak** doğrulanabilir (V-Label = ProVeg) — öne çıkar. **Çevresel ayak SINIRLI** — cupro bağımsız kaynaklarda "Class E, viskon seviyesinde, otomatik sürdürülebilir değil; ancak sorumlu/kapalı-döngü üretimle savunulabilir" (trvst.world, goodonyou.eco, sustainablejungle.com). Mesajda "pamuk atığından / kapalı döngü / doğada çözünür" gibi spesifik-doğrulanabilir ifadeler kullanılır; "tamamen sürdürülebilir / sıfır etki" gibi savunulamaz iddialardan kaçınılır.
 
 - **Neden daha iyi:** Trendyol yorumları kanıtlıyor (4.3/5, 619 yorum): "piyasada bu kaliteye bu fiyata gelemizsın." Müşteri güveni var, sadece sitede gösterilmiyor.
 
@@ -140,6 +145,8 @@
 
 - **Birincil iş hedefi:** Web sitesi dönüşümünü artırmak + organik arama görünürlüğü kazanmak + sadakat/tekrar alım sistemi kurmak.
 - **Ana dönüşüm aksiyonu:** Ürün sayfasından sepet tamamlama + email listesi kaydı.
+- **⭐ North Star metriği (Strateji, 5 Haz):** Web sitesi üzerinden tamamlanan sipariş + email liste büyümesi (Trendyol geliri değil — orası kanıt deposu/edinim kanalı). 12 ay denetim skoru hedefi: **49 → 60–63 bandı** (D→C üst; ağırlıklı aritmetik 61.5, açık hesap `raporlar/towdoo-strateji.md` §6). *(5 Haz Denetmen düzeltmesi: önceki "65+" aritmetiği tutmuyordu — Görünürlük GSC olmadan agresif varsayım gerektiriyordu; savunulabilir banda revize edildi.)* Detay: §6-7.
+- **Faz durumu:** Faz 1 (Denetim 49/100) ✓ · **Faz 2 (Strateji) ✓ — 5 Haz 2026, Olgunluk 80/100 B** · Faz 3 (İçerik — 619 yorum analizi + verbatim + koleksiyon/materyal kopyası) sıradaki · Faz 4 (Growth — email/SEO/UGC/tracking).
 - **Mevcut metrikler (baseline — 5 Haz 2026):**
   - Denetim skoru: 49/100
   - Trendyol puanı: 4.3/5 (619 yorum)
