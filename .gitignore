@@ -1,2 +1,5 @@
 .DS_Store
-**/.DS_Store
+raporlar/_chk/
+raporlar/_kesif/
+*.pyc
+__pycache__/

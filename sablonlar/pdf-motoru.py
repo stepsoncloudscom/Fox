@@ -28,6 +28,7 @@ JSON yapısı:
     {"tip":"madde","maddeler":[...]},
     {"tip":"tablo","basliklar":[...],"satirlar":[[...]]},
     {"tip":"fiyat","satirlar":[["Kalem","Tutar"]]},
+    {"tip":"gorsel","yol":"/yol/grafik.png","genislik_cm":14,"aciklama":"opsiyonel altyazı"},
     {"tip":"ayrac"}
   ],
   "imzalar": [["Steps On Clouds","Ayhan Erden"]]  // opsiyonel
@@ -159,6 +160,32 @@ def _section_heading(metin, T, S):
             HRFlowable(width=38, thickness=2, color=T['accent2'], spaceAfter=6, hAlign='LEFT'),
             Paragraph(cap, S['h'])]
 
+def _auto_widths(basliklar, satirlar, avail):
+    """Sütun genişliklerini İÇERİĞE göre orantıla (sabit kalıp varsayma).
+    Her sütunun ağırlığı = max(başlık, gövde ort.) karakter uzunluğu.
+    Sayısal/kısa sütunlar (Skor, Süre, Öncelik) doğal olarak daralır;
+    uzun metin taşıyan sütun (Bulgu, Etki) — hangi konumda olursa olsun — genişler.
+    Her sütuna min %14 taban / max %62 tavan; kalan orantılı paylaştırılır.
+    """
+    n = len(basliklar)
+    if n <= 1:
+        return [avail]
+    cols = list(zip(*([basliklar] + satirlar))) if satirlar else [(h,) for h in basliklar]
+    raw = []
+    for j in range(n):
+        hlen = len(str(basliklar[j]))
+        body = [len(str(satirlar[i][j])) for i in range(len(satirlar))] if satirlar else [0]
+        # gövde ortalaması ağırlıklı, başlık taban; uzun metni öne çıkar
+        raw.append(max(hlen, (sum(body) / len(body)) * 0.85 if body else hlen, 4))
+    total = sum(raw)
+    frac = [r / total for r in raw]
+    lo, hi = 0.14, 0.62
+    frac = [min(max(f, lo), hi) for f in frac]
+    s = sum(frac)
+    frac = [f / s for f in frac]  # tekrar normalize (clamp sonrası)
+    return [avail * f for f in frac]
+
+
 def _zebra_table(basliklar, satirlar, col_widths, T, S):
     rows = [[Paragraph(h, S['th']) for h in basliklar]]
     for sat in satirlar:
@@ -249,12 +276,11 @@ def build(data, out_path):
                 story.append(Paragraph(f'<font color="#{ac}">—</font>&nbsp;&nbsp;{m}', S['body']))
         elif t == 'tablo':
             n = len(b['basliklar'])
-            if n == 3:
-                cw = [4.2*cm, 2.6*cm, avail-6.8*cm]
-            elif n == 2:
+            if n == 2:
                 cw = [avail*0.32, avail*0.68]
             else:
-                cw = [avail/n]*n
+                # İçeriğe göre orantılı (uzun metin sütununu daraltma — bkz. _auto_widths)
+                cw = _auto_widths(b['basliklar'], b['satirlar'], avail)
             story.append(Spacer(1,0.15*cm))
             story.append(_zebra_table(b['basliklar'], b['satirlar'], cw, T, S))
         elif t == 'fiyat':
@@ -271,6 +297,25 @@ def build(data, out_path):
                 ('LEFTPADDING',(0,0),(-1,-1),9),
             ]))
             story.append(Spacer(1,0.15*cm)); story.append(ft)
+        elif t == 'gorsel':
+            # Grafik/görsel gömme (radar, bar chart vb. — matplotlib PNG, marka paletinde).
+            yol = b.get('yol')
+            if yol and os.path.exists(yol):
+                try:
+                    from PIL import Image as PILImage
+                    iw, ih = PILImage.open(yol).size
+                    w = b.get('genislik_cm', 14) * cm
+                    h = w * ih / iw
+                except Exception:
+                    w = b.get('genislik_cm', 14) * cm; h = w * 0.6
+                story.append(Spacer(1,0.2*cm))
+                img = RLImage(yol, width=w, height=h); img.hAlign = 'CENTER'
+                story.append(img)
+                if b.get('aciklama'):
+                    story.append(Spacer(1,0.1*cm))
+                    cap = ParagraphStyle('cap', parent=S['small'], alignment=1)
+                    story.append(Paragraph(b['aciklama'], cap))
+                story.append(Spacer(1,0.2*cm))
         elif t == 'ayrac':
             story.append(Spacer(1,0.3*cm))
             story.append(HRFlowable(width=38, thickness=2, color=T['accent2'], hAlign='LEFT'))
