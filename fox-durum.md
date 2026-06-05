@@ -6,7 +6,8 @@
 ---
 
 ## ŞU AN NEREDEYİZ (özet)
-**Towdoo gerçek ilk müşteri pilotu** — Teslim Zinciri canlı çalışıyor. Faz 1 Keşif & Denetim (49/100 D, Moda/Perakende) ✅ + Faz 2 Strateji (Olgunluk 80/100 B) ✅ tamam. Strateji Denetmen'in tam 7-mercek denetiminden + 4 düzeltme + re-check'ten geçti; Fox+Denetmen konsensüs sağlandı. **Ayhan'ın masasında: strateji onayı** (Kademe 2). Onay sonrası Faz 3 İçerik devralır.
+**Towdoo (Tuğba Hanım'ın markası) — ilk gerçek müşteri, teklif aşamasında.** Notion durumu "Teklif Gönderildi" (45k TL/ay, 6 ay; bugün 12:00 sunum vardı). Teslim Zinciri çalıştı: Faz 1 Keşif & Denetim (49/100 D, Moda) ✅ + Faz 2 Strateji (Olgunluk 80/100 B) ✅. Strateji Denetmen tam denetim + 4 düzeltme + re-check'ten geçti; Fox+Denetmen konsensüs. **Ayhan'ın masasında: strateji onayı** (Kademe 2) + bir karar: bu strateji belgesinin teklif sürecindeki rolü (satış kapısı mı / kazanılmış işin teslimatı mı — bedava iş riskine dikkat, Anayasa §11.3).
+> ⚠️ **İlişki hassas:** Tuğba = Ayhan'ın zor döneminde ~1 yıl yanında duran kişi (anne figürü, annesini kaybetti). Kızı Sanem + ekip arka planda Ayhan aleyhine referans. Towdoo işinde Sanem faktörü hesaba katılır. Detay: `fox-iliski-hafizasi.md`.
 
 Daha önce (5 Haz): Marka Bulutu OS'u **SOC'nin kendi markasına uyguladık** (öz-pilot + öz-geliştirme). İki büyük sistem kuruldu: **Puanlama Rubriği v1** (ölçüm dili) + **Görsel Üretim Standardı v1** (görsel kalite). pdf-motoru v3'e çıktı (iki register teması). Lookalike içerik metodolojisi dış skill'den güvenle uyarlandı.
 
@@ -32,8 +33,8 @@ Fox (orkestratör) · Denetmen (7 mercek) · Keşif&Denetim · Strateji · İçe
 7. **Nesa/Luxmed** — çıkar çatışması, sözleşme öncesi stratejik karar
 8. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
 
-## ⭐ TOWDOO PİLOT — gerçek ilk müşteri (Teslim Zinciri)
-Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. Context: `sablonlar/towdoo-marka-context.md`.
+## ⭐ TOWDOO — ilk gerçek müşteri (teklif aşaması, Teslim Zinciri)
+Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Hanım** (hassas ilişki — yukarı bak). Notion: "Teklif Gönderildi", 45k TL/ay × 6 ay, Öncelik Yüksek, İlgili: Tuğba + Furkan. Context: `sablonlar/towdoo-marka-context.md`.
 - ✅ **Faz 1 Keşif & Denetim:** `raporlar/towdoo-marka-denetim-raporu.md` — 49/100 D (Moda/Perakende §2.2-B). Denetmen onaylı.
 - ✅ **Faz 2 Strateji:** `raporlar/towdoo-strateji.md` — Olgunluk 80/100 B. Konumlandırma: **"erişilebilir vegan lüks"** (niLuu'nun terk ettiği TL/yerel alan). North Star: kendi kanal (web+email), Trendyol değil. Denetmen tam denetim + 4 düzeltme + re-check ✅. **Ayhan onayı bekliyor.**
 - ⬜ **Faz 3 İçerik** → Faz 4 Growth (→ Branding gerekirse).
