@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 6 Haziran 2026 (Towdoo iptal + Darya sessiz — pipeline sıfırlandı, yeniden odak) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 6 Haziran 2026 — ikinci oturum: SOC Pazarlama Planı + Excel şablon + Google Drive kurulumu tamamlandı · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -44,6 +44,12 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 6. **Scheduled task'lar** — bir kez "Run now" ile onayla
 7. **Canva brand kit** — manuel kurulum
 8. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
+9. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
+
+## 6 HAZ OTURUMU — Teslim Edilenler
+- `raporlar/soc-pazarlama-iletisim-plani-6ay.md` — Haz-Kas 2026 stratejik plan (Denetmen v1.1 onaylı)
+- `sablonlar/SOC_2026_Pazarlama_Plani.xlsx` — Tam yıl şablon: Pardot kaldırıldı, LinkedIn B2B / YouTube B2C / GEO-AI-SEO / Hizmet Odağı, Temmuz'dan içerik aktif
+- Google Drive kurulumu: Marka Bulutu OS → Şablonlar klasörü + native Sheets (ID: `17jYBLidpGWoYPDVXrhd6pqujS9S2RS_uh2Eb_PDsYvA`)
 
 > **Darya: kapatıldı** (Ayhan kararı 6 Haz — aktif takip yok, bırakıldı). Notion: Beklemede. Pasif; kendi dönerse açılır.
 
