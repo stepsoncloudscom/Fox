@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 6 Haziran 2026 — ikinci oturum: SOC Pazarlama Planı + Excel şablon + Google Drive kurulumu tamamlandı · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 7 Haziran 2026 — üçüncü oturum: CloudOne ürün referansı + Wix site yönetimi keşfi + fiyat güncelleme · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -97,8 +97,16 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
 - **Fotoğraf:** ✅ 10 profesyonel görsel tamamlandı (stüdyo + model, tüm açılar)
 - **Referans:** `soc-urun-cloudone.md` (görsel indeks + kanal rehberi)
-- **Açık:** Beden/fiyat/materyal henüz yok
-- **Kullanım:** Ala Skateboards B2B (mevcut) · Shopify listesi · sosyal içerik (hazır)
+- **Wix fiyatı:** ✅ 550 TL (7 Haz güncellendi — ürün ID: `df19c1f7-07d8-a265-42f8-e8dfa824cc6e`)
+- **Açık:** Beden/materyal henüz yok
+- **Kullanım:** Ala Skateboards B2B (mevcut) · Wix Store (canlı, 550 TL) · sosyal içerik (hazır)
+
+## 7 HAZ OTURUMU — Teslim Edilenler
+- `soc-urun-cloudone.md` — CloudOne ürün referans dosyası (10 görsel indeksi, kanal rehberi, yapı detayları)
+- **Wix site keşfi:** stepsonclouds.com bağlandı, 24 koleksiyon tarandı (hepsi WIX_APP — statik sayfa içeriği API ile değiştirilemiyor)
+- **Wix fiyat güncelleme:** CloudOne 700→450→550 TL — endpoint keşfedildi: `POST /stores/v1/bulk/products/update`
+- **Wix kısıt tespiti:** Metin/başlık/layout → Editor UI gerekli. CMS koleksiyonu bağlanırsa API ile yönetilebilir (kurulum planı hazır)
+- **Görsel üretim denemesi:** Adobe Firefly/Canva araçları text-to-image fotoğraf üretmiyor — ChatGPT/Firefly web arayüzü önerildi (promtlar hazır)
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Kim/vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md`
