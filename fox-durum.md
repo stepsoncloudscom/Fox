@@ -7,10 +7,10 @@
 
 ## ŞU AN NEREDEYİZ (özet)
 **⚠️ PIPELINE SIFIRLANDI (6 Haz):** İki ana iş düştü.
-- **Towdoo — İPTAL.** Tuğba Hanım'ın markası, teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). İş bitti. **Sebep henüz teyit edilmedi.** Notion: Kapandı. ⚠️ **İlişki ≠ iş:** Tuğba = Ayhan'ın anne figürü (zor döneminde ~1 yıl yanında durdu, Esmod bursunu karşıladı, yakınlarda annesini kaybetti). İş bitse de bağ korunmalı. Sanem/ekip arka plan gerilimi iptalde rol oynamış olabilir — sebep nazikçe öğrenilmeli. Emek boşa değil: Marka Bulutu Teslim Zinciri (Faz 1 Denetim + Faz 2 Strateji) gerçek vakada test edildi, çalıştı; belgeler + metodoloji kanıtı dosyada kaldı.
-- **Darya — DÖNÜŞ YOK.** Sağlık turizmi, döviz işi (~95K), Kuzey Yıldızı açısından değerliydi. Teklif sonrası sessiz. Ölü değil — sessiz. Takip draft'ı hazır (Gmail), gönderim kararı Ayhan'da.
+- **Towdoo — İPTAL.** Tuğba Hanım'ın markası, teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). İş bitti. Notion: Kapandı. **Ayhan kararı (6 Haz): sebep sorgulanmayacak, iş konuşulmayacak — Tuğba ile yalnız KİŞİSEL bağ korunur** (anne figürü, sevgiden, işten bağımsız). Emek boşa değil: Marka Bulutu Teslim Zinciri (Faz 1 Denetim + Faz 2 Strateji) gerçek vakada test edildi; belgeler + metodoloji kanıtı dosyada (vaka/portföy değeri).
+- **Darya — BIRAKILDI.** Sağlık turizmi, döviz işi (~95K). Dönüş yok. **Ayhan kararı (6 Haz): aktif takip yok, bırakıldı** — peşinden gidilmeyecek. Notion: Beklemede. Ölü ilan edilmedi; Darya kendi dönerse yeniden açılır.
 
-**Net durum:** Bağlanmış gelir kaybı YOK (ikisi de imzasızdı) — kaybedilen *beklenti*. Ama pipeline'da sıcak iş kalmadı. Odak şimdi: (a) Pzt Luxmed görüşmesi, (b) döviz/global yüksek-değer arayışı (gerçek Kuzey Yıldızı — TL işleri zaten ikincildi), (c) SOC öz-pilotu (en iyi vaka biz olalım).
+**Net durum:** Bağlanmış gelir kaybı YOK (ikisi de imzasızdı) — kaybedilen *beklenti*. **Pipeline'da tek aktif/sıcak temas: Luxmed (Pzt).** Odak: (a) Pzt Luxmed görüşmesi, (b) döviz/global yüksek-değer yeniden inşa (gerçek Kuzey Yıldızı — TL işleri zaten ikincildi), (c) SOC öz-pilotu (en iyi vaka biz olalım).
 
 Daha önce (5 Haz): Marka Bulutu OS'u **SOC'nin kendi markasına uyguladık** (öz-pilot + öz-geliştirme). İki büyük sistem kuruldu: **Puanlama Rubriği v1** (ölçüm dili) + **Görsel Üretim Standardı v1** (görsel kalite). pdf-motoru v3'e çıktı (iki register teması). Lookalike içerik metodolojisi dış skill'den güvenle uyarlandı.
 
@@ -36,14 +36,16 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 - **pdf-motoru v3** (`sablonlar/pdf-motoru.py`): iki tema → `soc-mavi` (Bebas/Comfortaa/Phthalo, marka/misyon) + `ayhan-premium` (Didot/Avenir/altın, iş). Fontlar: `assets/fonts/`.
 
 ## AÇIK İŞLER — Ayhan'ın masasında
-1. **⭐ Towdoo iptal — ilişki yönetimi** — İş bitti (Notion: Kapandı). Karar bekleyen: (a) İptal sebebi öğrenilecek mi, nasıl? (b) Tuğba ile kişisel bağ nasıl korunacak (Bursa ziyareti niyeti vardı — sevgiden). Towdoo belgeleri (strateji/denetim) arşivde, metodoloji kanıtı olarak kalır.
-2. **⭐ Darya — takip kararı** — Dönüş yok. Hazır draft gönderilsin mi, yoksa yeni değer kapısı (AI-SEO/GEO açısı) ile mi yaklaşılsın? Ayhan kararı.
-3. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — Şu an en sıcak fırsat. Medikal/protez, Brand Growth. (⚠️ Nesa çıkar çatışması sözleşme öncesi çözülmeli.)
-4. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. En iyi vaka çalışması biz olalım.
+1. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — Şu an TEK sıcak fırsat. Medikal/protez, Brand Growth. (⚠️ Nesa çıkar çatışması sözleşme öncesi çözülmeli.) Fox brifing hazırlayabilir (Kademe 1).
+2. **⭐ Döviz/global pipeline yeniden inşa** — Towdoo+Darya düştü; gerçek Kuzey Yıldızı hedefi (döviz/global). Marka elçiliği temasları doğru kanalla yenilenebilir (§10 bounce dersi).
+3. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. En iyi vaka çalışması biz olalım.
+4. **Tuğba — kişisel bağ** (iş değil) — Bursa ziyareti niyeti, sevgiden. İş konuşulmaz.
 5. **gmail-personal** (stepsonclouds@) — OAuth yarım
 6. **Scheduled task'lar** — bir kez "Run now" ile onayla
 7. **Canva brand kit** — manuel kurulum
 8. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
+
+> **Darya: kapatıldı** (Ayhan kararı 6 Haz — aktif takip yok, bırakıldı). Notion: Beklemede. Pasif; kendi dönerse açılır.
 
 ## TOWDOO — İPTAL (6 Haz) · arşiv + ilişki notu
 **İş iptal oldu** (Notion: Kapandı). Sebep teyit bekliyor. Aşağıdaki bilgi referans/arşiv olarak korunuyor — ilişki devam edebilir, metodoloji kanıtı değerlidir.
@@ -68,17 +70,16 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 
 ## RİSK BAYRAKLARI
 - **⚠️ Pipeline boşluğu (6 Haz):** Towdoo iptal + Darya sessiz = sıcak iş yok. Tek aktif temas Luxmed (Pzt). Gelir köprüsü zayıfladı. Öncelik: yeniden inşa, ama körlemesine outreach yok (§10).
-- **⚠️ Tuğba ilişkisi:** İş kaybı kişisel bağa sıçramamalı (anne figürü, hassas dönem). İptal sebebi öğrenilirken Sanem faktörü varsayılmaz.
+- **⚠️ Tuğba ilişkisi:** İş kaybı kişisel bağa sıçramamalı (anne figürü, hassas dönem). Ayhan kararı: sebep sorgulanmaz, yalnız kişisel bağ.
 - Nesa↔Luxmed çatışması · SOC kendi tracking'i yok (GSC bağlanmalı — meta/Instagram baseline ölçülemedi)
 - **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
 
 ## SIRADAKİ BÜYÜK ADIM (öneri — pipeline sıfırlandı)
-İki iş düştü; pipeline sıfırdan kuruluyor. Gerçekçi öncelik sırası:
-1. **Pzt 8 Haz Luxmed/Enes araması** — eldeki en sıcak temas. Hazırlık: Luxmed context + Brand Growth çerçevesi + Nesa çatışması netliği. (Bu görüşmeye Fox brifing hazırlayabilir — Kademe 1.)
-2. **Darya'yı diriltme** — sessizliği değer kapısıyla kır: AI-SEO/GEO açısı ("ChatGPT/Google AI'da sizi bulunur kılalım" — sağlıkta %88 AI Overview kapsama, somut + yeni). Draft güncellenebilir. Ayhan kararı.
-3. **Yeni döviz/global pipeline** — Kuzey Yıldızı'nın gerçek hedefi bu (TL işleri ikincildi). Marka elçiliği temasları (LCW/Salomon/GoPro vb.) doğru kanalla yenilenebilir (önceki bounce dersi — §10).
-4. **SOC öz-pilotu** — boş döngüde en iyi vaka biz olalım: denetim raporu premium PDF → Faz 2 Strateji.
-**İlke:** Panik yok, körlemesine outreach yok. Önce eldeki sıcak temas (Luxmed), sonra sistemli yeniden inşa. Towdoo'da proaktif iş yok (iş bitti); sadece ilişki.
+İki iş düştü (Towdoo iptal, Darya bırakıldı); pipeline sıfırdan kuruluyor. Gerçekçi öncelik sırası:
+1. **Pzt 8 Haz Luxmed/Enes araması** — eldeki TEK sıcak temas. Hazırlık: Luxmed context + Brand Growth çerçevesi + Nesa çatışması netliği. (Fox brifing hazırlayabilir — Kademe 1.)
+2. **Yeni döviz/global pipeline** — Kuzey Yıldızı'nın gerçek hedefi bu (TL işleri ikincildi). Marka elçiliği temasları (LCW/Salomon/GoPro vb.) doğru kanalla yenilenebilir (önceki bounce dersi — §10). Değer kapısı: GEO/AI-SEO açısı güçlü ve güncel.
+3. **SOC öz-pilotu** — boş döngüde en iyi vaka biz olalım: denetim raporu premium PDF → Faz 2 Strateji.
+**İlke:** Panik yok, körlemesine outreach yok. Önce eldeki sıcak temas (Luxmed), sonra sistemli yeniden inşa. Towdoo'da iş yok; sadece Tuğba ile kişisel bağ. Darya pasif (bırakıldı).
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Kim/vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md`

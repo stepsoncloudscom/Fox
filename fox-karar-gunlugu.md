@@ -19,12 +19,12 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ### Towdoo İptal + Darya Sessizlik — Pipeline Sıfırlanması (6 Haz)
 - **Durum:** Ayhan bildirdi — "Towdoo işi iptal, Darya'dan da dönüş yok." İki ana iş aynı anda düştü.
-- **Towdoo:** Teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). İptal sebebi henüz teyit edilmedi. Notion → Kapandı. **İlişki kararı:** İş ≠ ilişki. Tuğba anne figürü; bağ korunur (§0 İnsan→Ayhan→marka). İptal sebebi nazikçe öğrenilecek (Sanem/ekip gerilimi rol oynamış olabilir ama varsayılmaz). Towdoo belgeleri arşiv + vaka çalışması değeri.
-- **Darya:** Dönüş yok (sessiz, ölü değil). Döviz işiydi (~95K, Kuzey Yıldızı değerli). Takip draft hazır. **Açık karar:** mevcut draft mı, yeni değer kapısı (AI-SEO/GEO) mı? → Ayhan'a soruldu.
-- **Finansal gerçek:** Bağlanmış gelir kaybı YOK (ikisi imzasızdı) — kaybedilen beklenti. Ama sıcak pipeline boş.
+- **Towdoo:** Teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). Notion → Kapandı. **Ayhan kararı (6 Haz): "Sadece kişisel bağ."** Sebep sorgulanmayacak, iş konuşulmayacak. Tuğba ile temas yalnız kişisel/sevgiden (anne figürü, §0 İnsan→Ayhan→marka). Towdoo belgeleri arşiv + vaka çalışması değeri.
+- **Darya:** Dönüş yok. Döviz işiydi (~95K). **Ayhan kararı (6 Haz): "Herhangi bir aksiyon almayacağız, bırakabiliriz."** Aktif takip yok; peşinden gidilmeyecek. Notion → Beklemede (ölü ilan edilmedi; kendi dönerse açılır).
+- **Finansal gerçek:** Bağlanmış gelir kaybı YOK (ikisi imzasızdı) — kaybedilen beklenti. Sıcak pipeline'da tek aktif: Luxmed.
 - **Stratejik okuma (Fox):** Towdoo TL işiydi (Tuğba istisnası); Darya döviz. Gerçek Kuzey Yıldızı zaten döviz/global/yüksek-değer. Bu, asıl hedefe yeniden odaklanma fırsatı — TL beklentisine bağımlılığı azalt. Panik değil, yeniden inşa.
-- **Sıradaki adımlar:** (1) Pzt Luxmed görüşmesi (en sıcak), (2) Darya diriltme değer kapısıyla, (3) yeni döviz/global pipeline (doğru kanalla — §10 bounce dersi), (4) SOC öz-pilot boş döngüde.
-- **Statü:** AÇIK — Ayhan'ın iki kararı bekleniyor (Towdoo ilişki yaklaşımı + Darya takip yöntemi).
+- **Sıradaki adımlar:** (1) Pzt Luxmed görüşmesi (TEK sıcak), (2) döviz/global pipeline yeniden inşa (doğru kanalla — §10 bounce dersi; GEO değer kapısı), (3) SOC öz-pilot boş döngüde.
+- **Statü:** KAPANDI — Ayhan kararını verdi (Towdoo: kişisel bağ / Darya: bırak). Fox kayıtları güncelledi.
 
 
 ### Puanlama Metodolojisi — İki Katman Kanıt (5-6 Haz)
