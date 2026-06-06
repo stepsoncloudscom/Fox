@@ -57,6 +57,25 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 **[Hata Günlüğü] Görsel kalite + render-and-review** — önceki oturumdan DEVAM
 - SOC PPTX marka fontunu ihlal etti, editorial ruh taşımadı. Kural: görsel çıktıyı render etmeden onaylama. Standart: `marka-bulutu-os-gorsel-uretim-standardi.md` §7. Her görsel üretimde §8 sorusu zorunlu.
 
+### 7 Haziran 2026 — Yeni Öğrenmeler:
+
+**[AI & Araç — Araç Sınırları] MCP araçları text-to-image üretmiyor**
+- Adobe Firefly MCP: görüntü düzenleme (arka plan, genişlet, dolgu) — sıfırdan fotoğraf üretmiyor.
+- Canva MCP: grafik tasarım şablonu — photorealistic kampanya fotoğrafı değil.
+- **Kural:** Photorealistic üretim için → Firefly web (firefly.adobe.com) veya ChatGPT/DALL-E. Promtlar hazır (`soc-urun-cloudone.md` yanında tutulabilir). Araç sormadan önce sınırı teyit et.
+
+**[AI & Araç — Wix API Mimarisi] Wix Editor vs Studio kısıtları**
+- Wix Editor sitesinde statik sayfa öğeleri (text box, section, hero, layout) REST API ile değiştirilemiyor.
+- Çözüm: CMS koleksiyonu oluştur → Editor'da bağla (1 seferlik) → sonra API ile yönet.
+- **Keşfedilen endpoint:** `POST /stores/v1/bulk/products/update` → Catalog V1 ürün fiyat/özellik güncelleme. CloudOne ürün ID: `df19c1f7-07d8-a265-42f8-e8dfa824cc6e`.
+- **Kural:** Wix işine başlamadan önce site editor tipini (Editor/Studio) ve catalog versiyonunu (V1/V3) teyit et — yanlış endpoint 404 verir.
+
+**[Sektör Nabzı + Estetik Göz] Kampanya görseli prompt mühendisliği**
+- 3 frame yapısı (genel alan / yakın detay / hissiyat) Nike/Adidas editorial yaklaşımını birebir taklit eder.
+- Ortak bağlam bloğu + frame-spesifik yön = AI tutarlılığı için en iyi strateji.
+- Karakter tutarlılığı: aynı sohbet penceresi + önceki görseli yükle = en iyi sonuç.
+- **Kural:** Kampanya görseli brifi her zaman lens/açı/ışık/hareket/mood belirt. Genel "güzel fotoğraf" komutu AI'ya çok geniş alan bırakır.
+
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.
@@ -85,4 +104,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2.1 · 6 Haziran 2026 · Fox · v2.1: Rotasyon kuyruğu güncellendi (geçmiş gündem temizlendi, öğrenme bulguları işlendi, Çözülenler Arşivi genişledi).*
+*Sürüm: v2.2 · 7 Haziran 2026 · Fox · v2.2: 7 Haz öğrenmeleri eklendi — Wix API mimarisi, araç sınırları (text-to-image), kampanya prompt mühendisliği.*
