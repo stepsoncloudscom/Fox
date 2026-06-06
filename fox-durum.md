@@ -37,14 +37,20 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 
 ## AÇIK İŞLER — Ayhan'ın masasında
 1. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — Şu an TEK sıcak fırsat. Medikal/protez, Brand Growth. (⚠️ Nesa çıkar çatışması sözleşme öncesi çözülmeli.) Fox brifing hazırlayabilir (Kademe 1).
-2. **⭐ Döviz/global pipeline yeniden inşa** — Towdoo+Darya düştü; gerçek Kuzey Yıldızı hedefi (döviz/global). Marka elçiliği temasları doğru kanalla yenilenebilir (§10 bounce dersi).
-3. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. En iyi vaka çalışması biz olalım.
-4. **Tuğba — kişisel bağ** (iş değil) — Bursa ziyareti niyeti, sevgiden. İş konuşulmaz.
-5. **gmail-personal** (stepsonclouds@) — OAuth yarım
-6. **Scheduled task'lar** — bir kez "Run now" ile onayla
-7. **Canva brand kit** — manuel kurulum
-8. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
-9. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
+2. **⭐ ALA SKATEBOARDS B2B — 9 Haz BASKISI (⏰ 3 gün)** — Steps On Clouds çorapları House of Superstep/İstiklal Caddesi'nde satışa giriyor. **✅ TASARIMLAR ÜRETİLDİ** — `raporlar/ala-materyaller/` 4 baskıya-hazır PDF (hang tag + shelf talker + A2 poster + QR kart; 3mm bleed, gömülü marka fontu, soc-mavi). Üretici: `sablonlar/ala-print-materyaller.py`. Render-and-review'dan geçti (4 kusur düzeltildi). ⏳ Bekleyen: **Ayhan onayı** + (opsiyonel) Denetmen görsel kapısı → baskı. Açık: poster fotoğrafı (yoksa tipografik hazır), RGB→ofset ise CMYK prova, Ala logosu izni.
+3. **⭐ Döviz/global pipeline yeniden inşa** — Towdoo+Darya düştü; gerçek Kuzey Yıldızı hedefi (döviz/global). Marka elçiliği temasları doğru kanalla yenilenebilir (§10 bounce dersi).
+4. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. En iyi vaka çalışması biz olalım.
+5. **Tuğba — kişisel bağ** (iş değil) — Bursa ziyareti niyeti, sevgiden. İş konuşulmaz.
+6. **gmail-personal** (stepsonclouds@) — OAuth yarım
+7. **Scheduled task'lar** — bir kez "Run now" ile onayla
+8. **Canva brand kit** — manuel kurulum
+9. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
+10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
+11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx'e Ala SKT adımları eklendi (lokal); Drive'daki native Sheets manüel güncelleme gerekiyor (Sale Point Check-in satırı: Haz W2→ALA SKATEBOARDS KURULUM, Haz W3→ALA SKT 1. KONTROL, Ağu-Eyl-Eki W1→AYLIK ZİYARET; Events: Tem W2→İÇERİK ÇEKİMİ).
+
+## 6 HAZ OTURUMU (devam) — Ala Skateboards B2B
+- `raporlar/ala-skateboards-fiziksel-materyal-brief.md` — 4 fiziksel materyal brief: hang tag + shelf talker + A2 poster (A+B birleşim, motto: "Düş, Kalk, Yeniden Dene / Sen de Adım At, Hareketi Sürdür") + QR kart. Kararlar alındı, baskı 9 Haz.
+- `sablonlar/SOC_2026_Pazarlama_Plani.xlsx` — B2B Sale Point Check-in satırına Ala SKT adımları eklendi (Haz W2-W3 + Ağu-Eyl-Eki aylık).
 
 ## 6 HAZ OTURUMU — Teslim Edilenler
 - `raporlar/soc-pazarlama-iletisim-plani-6ay.md` — Haz-Kas 2026 stratejik plan (Denetmen v1.1 onaylı)
