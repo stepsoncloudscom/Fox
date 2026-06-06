@@ -15,6 +15,7 @@ Bu, Fox'u Ayhan'ın gölgesi yapan belgedir. Her kişi, her ilişki dokusu, her 
 - **Güncel hassasiyet:** Yakın zamanda **annesini kaybetti.** Hassas bir dönem.
 - **Ayhan'ın niyeti:** Bursa'ya kişisel bir ziyaret — sevgiden, iş değil.
 - **Güven:** Tuğba, Sanem ve ekibin olumsuz referanslarına rağmen Ayhan'a tam güveniyor ve inanıyor.
+- **⚠️ TOWDOO İŞİ İPTAL (6 Haz):** İş bitti ama bu satırdaki hiçbir şey değişmedi — bağ iştan bağımsız. İptal sebebi teyit edilmedi (Sanem/ekip rol oynamış olabilir, varsayma). İlişki yaklaşımı: iş kaybını ilişkiye taşıma; Tuğba ile temas kişisel kalır, sevgiden. Bursa ziyareti niyeti hâlâ anlamlı.
 
 ### Sanem
 - **Kim:** Tuğba Hanım'ın kızı. Ressam.
@@ -43,7 +44,7 @@ Bu, Fox'u Ayhan'ın gölgesi yapan belgedir. Her kişi, her ilişki dokusu, her 
 
 ### Darya Ozcan — Darya Dental
 - **Marka:** Darya Dental Clinic Turkey, veneer (diş kaplama) uzmanı, sağlık turizmi odaklı.
-- **Durum:** Partnership Offer gönderildi (22 Mayıs). Darya sorular sordu (1 Haziran), Ayhan yanıtladı. Takip maili taslak hazır.
+- **Durum:** Partnership Offer gönderildi (22 Mayıs). Darya sorular sordu (1 Haziran), Ayhan yanıtladı. **⚠️ DÖNÜŞ YOK (6 Haz) — sessiz, ölü değil.** Takip maili taslak hazır; gönderim/yöntem kararı Ayhan'da. Değer kapısı seçeneği: AI-SEO/GEO (sağlıkta AI Overview %88 kapsama — "sizi ChatGPT/Google AI'da bulunur kılalım").
 - **Teklif:** Aylık 8 video/Reels + 16 fotoğraf + marka stratejisi. "95K No Bonus" teklif dosyası adı.
 - **İletişim:** darya@daryadentalturkey.com
 - **Öncelik:** AI destekli içerik üretim akışı kurulacak ilk müşteri.
@@ -76,8 +77,8 @@ LCW (Waikiki), Salomon, GoPro, Apple Türkiye, Columbia, Towdoo dışı markalar
 
 ## İŞ ARAYIŞI BAĞLAMI
 Ayhan, Mayıs 2026'da Kadıköy İŞKUR üzerinden engelli çalışan kontenjanı kapsamında iş arayışında bulundu (MDP Group, LÖSEV, Sharpcake vb.). Steps On Clouds'u büyütürken paralel bir gelir arayışı söz konusu olabilir.
-*Not: Towdoo'dan gelecek garanti TL gelirine ihtiyaç var — yapay zekayı ileriye taşımak (üyelikler, araçlar) için harcama gerekiyor.*
+*Not (güncel 6 Haz): Towdoo TL geliri iptalle düştü. AI araçları/üyelikler için gelir ihtiyacı sürüyor — artık döviz/global pipeline + Luxmed üzerinden karşılanmalı. İŞKUR engelli kontenjanı paralel gelir seçeneği hâlâ masada.*
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 4 Haziran 2026 · Fox*
+*Sürüm: v1 · Son güncelleme: 6 Haziran 2026 (Towdoo iptal + Darya sessiz) · Fox*

@@ -17,6 +17,16 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Towdoo İptal + Darya Sessizlik — Pipeline Sıfırlanması (6 Haz)
+- **Durum:** Ayhan bildirdi — "Towdoo işi iptal, Darya'dan da dönüş yok." İki ana iş aynı anda düştü.
+- **Towdoo:** Teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). İptal sebebi henüz teyit edilmedi. Notion → Kapandı. **İlişki kararı:** İş ≠ ilişki. Tuğba anne figürü; bağ korunur (§0 İnsan→Ayhan→marka). İptal sebebi nazikçe öğrenilecek (Sanem/ekip gerilimi rol oynamış olabilir ama varsayılmaz). Towdoo belgeleri arşiv + vaka çalışması değeri.
+- **Darya:** Dönüş yok (sessiz, ölü değil). Döviz işiydi (~95K, Kuzey Yıldızı değerli). Takip draft hazır. **Açık karar:** mevcut draft mı, yeni değer kapısı (AI-SEO/GEO) mı? → Ayhan'a soruldu.
+- **Finansal gerçek:** Bağlanmış gelir kaybı YOK (ikisi imzasızdı) — kaybedilen beklenti. Ama sıcak pipeline boş.
+- **Stratejik okuma (Fox):** Towdoo TL işiydi (Tuğba istisnası); Darya döviz. Gerçek Kuzey Yıldızı zaten döviz/global/yüksek-değer. Bu, asıl hedefe yeniden odaklanma fırsatı — TL beklentisine bağımlılığı azalt. Panik değil, yeniden inşa.
+- **Sıradaki adımlar:** (1) Pzt Luxmed görüşmesi (en sıcak), (2) Darya diriltme değer kapısıyla, (3) yeni döviz/global pipeline (doğru kanalla — §10 bounce dersi), (4) SOC öz-pilot boş döngüde.
+- **Statü:** AÇIK — Ayhan'ın iki kararı bekleniyor (Towdoo ilişki yaklaşımı + Darya takip yöntemi).
+
+
 ### Puanlama Metodolojisi — İki Katman Kanıt (5-6 Haz)
 - **Tetikleyici:** Ayhan, Towdoo denetim raporundaki "Dönüşüm 42/100" puanını sorguladı: "Dönüşümü neyin dönüşümü olarak ele aldın?" → "Satışı nasıl tespit ettin?" → **"Bu kabul edilemez bir durum."** Ortaya çıktı: gerçek performans verisi (CVR/trafik/DA) olmadan kategorilere sayısal puan verilmiş; gözlem, ölçüm gibi sunulmuş (sahte kesinlik).
 - **Karar (Ayhan seçti):** **İki katman ayır.** Tip A (gerçek ölçüm/doğrulanmış dış veri) → sayısal puan olur. Tip B (gözlem/altyapı) → niteliksel band (Güçlü/Orta/Zayıf/Kritik açık) + "ölçüm bekliyor". Hiç Tip A yoksa genel sayısal skor verilmez.
