@@ -31,25 +31,11 @@ MIDNIGHT= HexColor("#101010")
 MIST    = HexColor("#EAF6EB")
 
 # ---- Fontlar ----
-# NOT: repodaki Comfortaa-Bold.ttf iç PostScript adı yanlışlıkla "Comfortaa-Regular"
-# → reportlab Regular ile çakıştırıp bold'u Regular olarak basıyor. İç adı düzeltip
-# ayrı dosyaya kaydederek gerçek bold'u garanti ediyoruz (glifler zaten bold).
-def _fix_bold():
-    from fontTools.ttLib import TTFont as FTFont
-    src = os.path.join(FONTS, "Comfortaa-Bold.ttf")
-    ft = FTFont(src)
-    repl = {1:"Comfortaa Bold", 2:"Regular", 4:"Comfortaa Bold",
-            6:"Comfortaa-Bold", 16:"Comfortaa Bold", 17:"Bold"}
-    for rec in ft["name"].names:
-        if rec.nameID in repl:
-            rec.string = repl[rec.nameID]
-    out = os.path.join(TMP, "Comfortaa-Bold-fixed.ttf")
-    ft.save(out)
-    return out
-
+# Comfortaa-Bold.ttf iç PostScript adı kalıcı düzeltildi (6 Haz 2026) → doğrudan kayıt
+# yeterli; reportlab Regular ile çakışmadan gerçek bold'u gömer.
 pdfmetrics.registerFont(TTFont("Bebas", os.path.join(FONTS, "BebasNeue-Regular.ttf")))
 pdfmetrics.registerFont(TTFont("Comf", os.path.join(FONTS, "Comfortaa-Regular.ttf")))
-pdfmetrics.registerFont(TTFont("ComfB", _fix_bold()))
+pdfmetrics.registerFont(TTFont("ComfB", os.path.join(FONTS, "Comfortaa-Bold.ttf")))
 
 BLEED = 3*mm
 
