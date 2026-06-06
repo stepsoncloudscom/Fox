@@ -6,7 +6,7 @@
 
 ## Ürün Kimliği
 
-- **Ad:** CloudOne (CloudeOne)
+- **Ad:** CloudOne
 - **Kategori:** Atletik ekipman çorap (crew/uzun konç)
 - **Renk:** Beyaz
 - **Logo:** SOC işareti (bulut + insan figürü) — turkuaz/cyan renk, dokuma (işleme değil)
@@ -71,6 +71,6 @@
 
 ## Notlar
 
-- Ürün adı iki versiyonda görülüyor: **CloudOne** ve **CloudeOne** — Ayhan'dan netlik alınmalı, tüm kanallarda tutarlı kullanılacak.
+- Ürün adı: **CloudOne** (kesin, 6 Haz Ayhan kararı).
 - Beden bilgisi, fiyat, materyal kompozisyonu henüz bu dosyada yok — eklenecek.
 - Ala Skateboards B2B materyallerinde bu çorap referans ürün olarak kullanılıyor.

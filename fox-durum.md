@@ -97,7 +97,7 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
 - **Fotoğraf:** ✅ 10 profesyonel görsel tamamlandı (stüdyo + model, tüm açılar)
 - **Referans:** `soc-urun-cloudone.md` (görsel indeks + kanal rehberi)
-- **Açık:** Ürün adı standardı (CloudOne vs CloudeOne) · beden/fiyat/materyal henüz yok
+- **Açık:** Beden/fiyat/materyal henüz yok
 - **Kullanım:** Ala Skateboards B2B (mevcut) · Shopify listesi · sosyal içerik (hazır)
 
 ## DETAY HARİTASI (lazım oldukça oku)
