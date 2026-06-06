@@ -93,6 +93,13 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 3. **SOC öz-pilotu** — boş döngüde en iyi vaka biz olalım: denetim raporu premium PDF → Faz 2 Strateji.
 **İlke:** Panik yok, körlemesine outreach yok. Önce eldeki sıcak temas (Luxmed), sonra sistemli yeniden inşa. Towdoo'da iş yok; sadece Tuğba ile kişisel bağ. Darya pasif (bırakıldı).
 
+## SOC ÜRÜN — CloudOne Çorap
+- **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
+- **Fotoğraf:** ✅ 10 profesyonel görsel tamamlandı (stüdyo + model, tüm açılar)
+- **Referans:** `soc-urun-cloudone.md` (görsel indeks + kanal rehberi)
+- **Açık:** Ürün adı standardı (CloudOne vs CloudeOne) · beden/fiyat/materyal henüz yok
+- **Kullanım:** Ala Skateboards B2B (mevcut) · Shopify listesi · sosyal içerik (hazır)
+
 ## DETAY HARİTASI (lazım oldukça oku)
 - Kim/vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md`
 - Kararlar: `fox-karar-gunlugu.md` · Ses: `fox-ses-parmak-izi.md` · Görsel: `fox-gorsel-parmak-izi.md` + `fox-estetik-mufredati.md`
