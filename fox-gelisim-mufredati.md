@@ -43,35 +43,35 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 ## AKTİF ROTASYON KUYRUĞU
 *Morning Brief bunları önce işler. Boşaldıkça sabit müfredat + serbest keşif devreye girer.*
 
-### 5 Haziran 2026 (Cuma) için — Bu oturumdan tespit edilen + günün kritik işleri:
+### 6 Haziran 2026 — Güncel durum:
 
-**[Hata Günlüğü] Tarih & Zaman Hassasiyeti** ⚠️ TEKRARLAYAN
-- Bu oturumda 3 tarih hatası oldu: Cuma 6→5 düzeltmesi, Furkan "yarın→bugün", Össur Perşembe. Saat dilimi (Europe/Istanbul) ve "bugün hangi gün" her takvim işleminde önce teyit edilecek. Bir olay eklerken: gün adı + tarih + saat üçünü birden doğrula.
+**[Stratejik Zekâ + Büyüme Ustalığı] GEO/AEO → Growth Ajanı derinleştirmesi** ✅ Bu oturumda araştırıldı
+- Healthcare'de AI Overview 88% query kapsamı, moda görsel AI araması %312 büyüme (YoY). GEO için: expert quotes +41%, istatistik +30%, atıf +30% görünürlük artışı. Growth Ajanı güncellendi → ileri adım: Towdoo/Darya için GEO taktiklerini spesifik hale getir.
 
-**[Müşteri Empatisi] Tuğba Hanım'ın gözünden (Cuma 12:00 Towdoo)** ⚠️ HASSAS
-- Annesini yeni kaybetti. Sanem gerilimi arka planda. Ayhan'a tam güveniyor ama ekip olumsuz referans. Görüşmede 45K teklif sunulacak. Tuğba için bu sadece iş değil — Ayhan'a duyduğu güvenin sınanması. Empati: ona "satılan" değil, "yanında olunan" hissi.
+**[Büyüme Ustalığı D1] Blair Enns Value-Based Pricing** ✅ Bu oturumda araştırıldı
+- Temel içgörü: "zamanı değil, dönüşümü fiyatla." Üç aşamalı teklif (yüksek/orta/düşük) + extreme aversion = orta güvenli hissettiriyor. Fiyat = müşterinin kazandığı değerin kesiti. fox-buyume-mufredati.md güncellendi. İleri adım: Towdoo ve yeni tekliflerde üç-katman paket modeli uygula.
 
-**[Stratejik Zekâ] 45K Konumlandırma + AI Projeksiyon (Towdoo)**
-- 45.000 TL/ay nasıl çerçevelenir: operasyon hariç, strateji+kreatif yön. AI projeksiyon merak uyandırma aracı — satma, kapı aç. Greene Law 16: kıtlık/değer algısı.
+**[Büyüme Ustalığı D2] SROI metodolojisi** ✅ Bu oturumda araştırıldı
+- 6 aşama: kapsam+paydaş → sonuç haritası → değer kanıtı → etki tespiti → hesaplama → raporlama. Engelli spor: 3.39:1 (£1 = £3.39 sosyal değer). Ortopedik AFO çocuk: 20 yıl £8-12 değer/£1 yatırım. fox-buyume-mufredati.md güncellendi. İleri adım: SOC'nin Empati Koşusu gibi etkinliklere SROI modeli uygula.
 
-**[Premortem] Towdoo görüşmesi ters giderse?**
-- Olası çöküş noktaları: fiyat yüksek bulunur / Sanem araya girer / kapsam karışır / AI projeksiyon erken gelir. Her birine bir hazırlık.
-
-**[Ses Kalibrasyonu] Tuğba ile ton**
-- Sıcak ama profesyonel; anne figürüne saygı + iş netliği dengesi. Aşırı resmi değil, aşırı samimi değil.
-
-**[Serbest Keşif] Ala Skateboards buluşması (Cuma 14:00, Melek ile)**
-- Tuncay görüşmesi öncesi: Model A/B farkını 2 cümlede anlatabilecek netlik. Kaykay kültürü + ampüte görünürlüğü kesişimi neden güçlü?
+**[Hata Günlüğü] Görsel kalite + render-and-review** — önceki oturumdan DEVAM
+- SOC PPTX marka fontunu ihlal etti, editorial ruh taşımadı. Kural: görsel çıktıyı render etmeden onaylama. Standart: `marka-bulutu-os-gorsel-uretim-standardi.md` §7. Her görsel üretimde §8 sorusu zorunlu.
 
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.
 - **Scheduled task'lar** — henüz "Run now" ile pre-approve edilmedi; ilk çalışmada izin isteyebilir.
+- **Towdoo teklif sonucu** — beklemede. Netleşince: PDF + Faz 3 İçerik.
+- **SOC Faz 2 Strateji** — konumlandırma çatallanması çözülmeli (Ayhan zamanı olunca).
+- **Nesa/Luxmed** — sözleşme öncesi çıkar çatışması kararı.
 
 ---
 
 ## ÇÖZÜLENLER ARŞİVİ (Kurala Dönüşenler)
 - ✅ **Türkçe PDF font hatası** (4 Haz) → Kural: PDF üretiminde Arial Unicode zorunlu, Helvetica yasak. `pdf-motoru.py`'ye gömüldü.
+- ✅ **Sahte kesinlik açığı** (5-6 Haz) → Kural: Tip A/B kanıt ayrımı. Gözlem ≠ performans ölçümü. Rubrik §0.1 v1.1 uygulandı. (Towdoo Dönüşüm 42/100 hatası tekrarlanmaz.)
+- ✅ **Görsel kalite merceği zayıflığı** (5 Haz) → Kural: §8 sorusu + render-and-review zorunlu. Görsel Üretim Standardı v1 kuruldu.
+- ✅ **Tarih/saat hassasiyeti** (5 Haz) → Kural: Her takvim işleminde gün adı + tarih + saat üçlü doğrulama. `fox-durum.md`'de currentDate sistemi aktif.
 
 ---
 
@@ -85,4 +85,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2 · 4 Haziran 2026 · Fox · "Fox makineyi çalıştırır, Ayhan krallığı yönetir."*
+*Sürüm: v2.1 · 6 Haziran 2026 · Fox · v2.1: Rotasyon kuyruğu güncellendi (geçmiş gündem temizlendi, öğrenme bulguları işlendi, Çözülenler Arşivi genişledi).*

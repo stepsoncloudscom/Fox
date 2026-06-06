@@ -59,6 +59,20 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ---
 
+### Sahte Kesinlik Protokolü — Rubrik §0.1 v1.1 (5-6 Haz)
+- Bkz. "Puanlama Metodolojisi — İki Katman Kanıt" girişi (yukarıda detaylı). Ek not: Bu hata Denetmen + konsensüsten geçmişti; yakalayan Ayhan oldu. Kural: Hata bulununca çıktıyla birlikte denetim merceğini de güncelle.
+
+### SOC Öz-Pilot Devam Kararı (5 Haz)
+- **Karar:** Towdoo beklemedeyken SOC öz-pilotu sürdürülür. Faz 1 Denetim tamamlandı, PDF bekliyor. Faz 2 Strateji başlamadı (konumlandırma çatallanması çözülecek — Ayhan müsait olunca).
+- **Gerekçe:** En iyi vaka çalışması biz olalım ilkesi. SOC kendi tracking'ini de açmalı (GSC/Analytics bağlantısı yok — mevcut açık).
+
+### gstack Öğrenim Uyarlaması (5-6 Haz)
+- **Karar:** gstack'in Boil the Lake, 3-Katman Bilgi Kalitesi, Diataxis ve Grain Texture prensipleri Steps On Clouds sistemine uyarlandı. Düz kopya değil; §1 süzgecinden (güvenlik-uyarlama) geçirildi.
+- **Uyarlandı:** Boil the Lake → İçerik Ajanı (eksiksiz teslimat). 3 Katman → Denetmen + Keşif + Strateji Ajanları. Diataxis → İçerik Ajanı içerik çerçevesi.
+- **İleride:** Skeleton+sections (ajan dosyaları büyüyünce), LEARNINGS JSONL (rotasyon kuyruğu otomasyonu), Slop scan script.
+
+---
+
 ## KUZEY YILDIZI & BÜYÜME ÖĞRENMESİ
 - **4 Haz:** Ayhan üç hedefi netleştirdi (sistem satışı 400K-1M TL + ampüte misyonu + globalleşme). Kuzey Yıldızı dosyası kuruldu. Tek motor: kanıtlanabilir etki → marka değeri → premium fiyat.
 - **4 Haz:** Ayhan'ın düzeltmesi — "önce nasıl yapılacağını öğrenmek gerekir." Büyüme Müfredatı kuruldu (4 disiplin, gerçek ustalar). En güçlü keşif: SROI (engelli spor 3.39:1) misyonu ölçülebilir+fonlanabilir+marka değeri yapıyor.
@@ -71,4 +85,4 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 4 Haziran 2026 · Fox*
+*Sürüm: v1 · Son güncelleme: 6 Haziran 2026 · Fox*

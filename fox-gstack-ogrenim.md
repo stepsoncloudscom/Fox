@@ -113,15 +113,15 @@ gstack'in kendi sitesi için oluşturduğu tasarım sistemi. Doğrudan kullanmı
 | gstack konsepti | Uyarlama kararı | Nereye |
 |----------------|-----------------|--------|
 | Boil the Lake | ✅ Uyarlandı | İçerik Ajanı + Denetmen |
-| 3 Katman bilgi kalitesi | ✅ Uyarlandı | Keşif + Strateji + İçerik Ajanları |
+| 3 Katman bilgi kalitesi | ✅ Uyarlandı | Keşif + Strateji + İçerik + Denetmen Ajanları |
 | Kullanıcı Egemenliği | ✅ Zaten var, güçlendirildi | CLAUDE.md §3 ile örtüşüyor |
 | Diataxis (4 quadrant) | ✅ Uyarlandı | İçerik Ajanı |
-| Skeleton + sections | 🟡 İleride | Ajan tanımları büyüyünce |
-| LEARNINGS JSONL | 🟡 İleride | Bant genişliği açıkken |
-| Slop scan script | 🟡 İleride | Görsel Üretim Standardı'na eklenebilir |
-| Grain texture | 🟡 Değerlendirilebilir | Branding Ajanı / pdf-motoru v4 |
+| Skeleton + sections | 🟡 İleride — Değerlendirme: öncelik düşük | Ajan tanımları büyüyünce; şu an yeterli küçüklükte |
+| LEARNINGS JSONL | 🟡 İleride — fox-gelisim-mufredati.md Aktif Kuyruk aynı amacı görüyor | Otomasyona geçilince |
+| Slop scan script | 🟡 İleride — §11.E kara liste + render-and-review şimdilik yeterli | Görsel Üretim Standardı'na eklenebilir |
+| Grain texture | 🟡 Değerlendirilebilir — pdf-motoru v4'te dene | Branding Ajanı / pdf-motoru v4 |
 | gstack browser/QA altyapısı | ❌ Uygulanamaz | Yazılım değil, marka ajansı |
 
 ---
 
-*Bu dosya bir özettir. Birincil kaynaklar: gstack ETHOS.md, DESIGN.md, ARCHITECTURE.md, docs/explanation-diataxis-in-gstack.md — inceleme tarihi 5 Haz 2026.*
+*Bu dosya bir özettir. Birincil kaynaklar: gstack ETHOS.md, DESIGN.md, ARCHITECTURE.md, docs/explanation-diataxis-in-gstack.md — inceleme tarihi 5 Haz 2026. Uyarlama durumu güncellendi: 6 Haz 2026.*

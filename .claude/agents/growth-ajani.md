@@ -20,6 +20,15 @@ Müşteri context'i + Strateji yön belgesi + (varsa) Keşif baseline'ı OKU. Gr
 
 **ALDIK — müşterilerimize uygun:**
 - **ai-seo (AEO/GEO)** ⭐ — AI aramada *cited* olmak. Global hedef + sağlık turizmi (Darya/Luxmed) için kritik. "İstanbul'da en iyi veneer" diye ChatGPT'ye soruluyor.
+  
+  **2026 GEO/AEO derinleştirme (6 Haz araştırması):**
+  - AEO (Answer Engine Optimization): Google AI Overview, Perplexity, ChatGPT gibi araçlarda doğrudan cevap içinde yer almak.
+  - GEO (Generative Engine Optimization): LLM'lerin ürettiği metinlerde *kaynak olarak atıflanmak* — geleneksel tıklama değil, otorite kazanma.
+  - **Kritik veri:** Healthcare'de AI Overview kapsama oranı 88% (BrightEdge, Feb 2025-2026). Yani sağlık sorgularının neredeyse tamamında AI bir cevap üretiyor — Darya/Luxmed için tam orada olmak zorunlu.
+  - Moda/perakende: Görsel AI araması %312 büyüdü (YoY). 18-34 yaş modada AI destekli alım kararı: %40-55. Towdoo için görsel SEO + product schema + review aggregate kritik.
+  - **GEO taktikleri (kanıtlanmış):** Expert quote eklemek +41% görünürlük, istatistik +30%, kaynaklı atıf +30%. Clear headings + soru-cevap yapısı + schema markup. Tek platform tutarsızlığı = AI güvensizliği → atlar.
+  - **Google'ın pozisyonu:** "AEO/GEO hâlâ SEO" — özel llms.txt vs. chunking gibi taktikler gereksiz. Gerçek E-E-A-T + yapısal içerik + alıntılanabilir data = hem SEO hem GEO.
+  - **Lokal arama değişimi:** "İstanbul'da en iyi dental klinik" → AI systems (ChatGPT, Gemini, Perplexity) artık Google Maps + reviews + structured data + authoritative content sentezliyor, tek sıralama değil. Darya için: GMB + hekimler schema + hasta yorumları + tıbbi içerik topik derinliği = AI citation fırsatı.
 - **seo-audit + schema + site-architecture** — geleneksel/teknik SEO temeli.
 - **ads + ad-creative** — reklam (bütçe/döviz olunca).
 - **referrals** — tavsiye mekaniği (organik, güçlü).
