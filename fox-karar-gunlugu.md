@@ -24,6 +24,12 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 - **Raporu düzeltir:** Denetim raporu "Hero'yu Marka Bulutu OS konumlamasıyla değiştir, ICP siteye girince ne yapıldığını anlamıyor" diyordu. Bu varsayım **artık geçersiz** — hero sosyal etki olarak doğru. Ticari hedef kitle ayrı menü kolundan karşılanacak. Faz 2 Strateji bu yöne göre kurulacak.
 - **Gerekçe:** CLAUDE.md §9 iki register (Steps On Clouds = misyon / Ayhan Erden = iş). Site adı "Steps On Clouds" = misyon register'ı; sosyal etki önceliği register'la tutarlı. Ticari teklif kendi alanını korur ama misyonu gölgelemez (§0: İnsan → Ayhan → marka).
 - **Statü:** KARAR ALINDI — Faz 2 Strateji + site mimarisi bu karara göre ilerliyor.
+- **İkinci tur kararları (7 Haz, strateji §7 açık kararları kapatıldı):**
+  - **Bize Katıl** → Gönüllü katılım sayfası.
+  - **Akademi** → bir süre beklemede (ana mesaj mimarisinden çıkarıldı; aktive olunca eklenir).
+  - **Marka Bulutu OS yeri** → **Ajans kolu içinde** (ayrı site değil). Ajans = sosyal sorumluluk projeleri + MBOS B2B.
+  - **Gelir vurgusu** → **B2C Mağaza (CloudOne) önce**; Ajans/döviz ikincil.
+  - ⚠️ **Doğan register riski:** MBOS Ajans içine girince iki register (SOC misyon + premium B2B 400K-1M TL) aynı kolda. "Ajans" kelimesi premium algıyı yumuşatabilir → Faz 3 Branding'de Ajans sayfası alt-ayrımıyla çözülecek. Denetmen izliyor.
 
 ### Towdoo İptal + Darya Sessizlik — Pipeline Sıfırlanması (6 Haz)
 - **Durum:** Ayhan bildirdi — "Towdoo işi iptal, Darya'dan da dönüş yok." İki ana iş aynı anda düştü.

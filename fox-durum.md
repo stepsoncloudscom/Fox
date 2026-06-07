@@ -78,7 +78,8 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - ✅ **Faz 2 Strateji:** `raporlar/soc-strateji.md` — Dunford 5 bileşen + mesaj mimarisi + sayfa amaçları + AARRR + 90gün/12ay + niteliksel ölçüm (sayısal hedef YOK, GSC yok). **Denetmen denetledi (7 bulgu → hepsi düzeltildi, "Düzeltmelerle Onayla"). ⏳ Ayhan onayı bekliyor.**
 - ⏳ **PDF üretimi:** denetim raporunun premium PDF hali (soc-mavi) bekliyor.
 - ⬜ **Faz 3 Branding** → Faz 4 İçerik (web copy) → Faz 5 Growth (SEO/email/tracking).
-- **5 açık karar (strateji §7):** Bize Katıl içeriği · "Ajans" adı vs premium B2B · Akademi gerçek aktifliği (doğrula) · MBOS nerede yaşayacak (Ajans içi mi, ayrı site mi) · gelir modeli vurgusu (döviz Ajans mı, B2C Mağaza mı).
+- **Açık kararlar kapatıldı (7 Haz 2. tur):** Bize Katıl=Gönüllü · Akademi=beklemede · MBOS=Ajans kolu içinde · Gelir=B2C Mağaza önce. ⚠️ Kalan: register riski (MBOS+SOC aynı kolda) → Faz 3 Branding'de Ajans alt-ayrımı çözecek.
+- **Faz 2 onay:** Strateji belgesi kararlarla güncellendi (v1.1). Ayhan onayı + Faz 3/4 seçimi bekliyor.
 
 ## YAKLAŞAN TAKVİM
 - **Pazar 7 Haz:** 07:30-14:00 Empati Koşusu
