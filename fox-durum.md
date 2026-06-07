@@ -46,7 +46,7 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 8. **Canva brand kit** — manuel kurulum
 9. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
 10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
-11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx'e Ala SKT adımları eklendi (lokal); Drive'daki native Sheets manüel güncelleme gerekiyor (Sale Point Check-in satırı: Haz W2→ALA SKATEBOARDS KURULUM, Haz W3→ALA SKT 1. KONTROL, Ağu-Eyl-Eki W1→AYLIK ZİYARET; Events: Tem W2→İÇERİK ÇEKİMİ).
+11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx lokal olarak güncel (7 Haz: SOC Faz 2 Strateji milestone satırı eklendi — "SOC WEB SİTESİ — TESLİM ZİNCİRİ", Row 18, açık mavi, Haz-Ağu 12 hafta + Ala SKT B2B satırları). Drive'daki native Sheets **manüel güncelleme bekliyor** — xlsx açıp kopyala-yapıştır yeterli. ⚠️ Not: Temmuz W1 "GSC BAĞLANTISI" hücresi strateji çatışması işaretlendi (yorum var); strateji GSC'yi Ağustos W4'e taşıyor. **Drive Google Doc da oluşturuldu:** SOC_Strateji_Faz2_2026 (ID: 1JuZ83vvByR98eYbyyMnB82rr1TOrJjL29H_vV_O17YA, Marka Bulutu OS klasörü).
 
 ## 6 HAZ OTURUMU (devam) — Ala Skateboards B2B
 - `raporlar/ala-skateboards-fiziksel-materyal-brief.md` — 4 fiziksel materyal brief: hang tag + shelf talker + A2 poster (A+B birleşim, motto: "Düş, Kalk, Yeniden Dene / Sen de Adım At, Hareketi Sürdür") + QR kart. Kararlar alındı, baskı 9 Haz.
