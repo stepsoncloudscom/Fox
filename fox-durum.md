@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 7 Haziran 2026 — üçüncü oturum: CloudOne ürün referansı + Wix site yönetimi keşfi + fiyat güncelleme · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 7 Haziran 2026 — SOC web sitesi oturumu: Marka Bulutu OS aktif, konumlandırma kararı + menü mimarisi + Faz 2 Strateji (Denetmen onaylı) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -91,12 +91,13 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - Nesa↔Luxmed çatışması · SOC kendi tracking'i yok (GSC bağlanmalı — meta/Instagram baseline ölçülemedi)
 - **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
 
-## SIRADAKİ BÜYÜK ADIM (öneri — pipeline sıfırlandı)
-İki iş düştü (Towdoo iptal, Darya bırakıldı); pipeline sıfırdan kuruluyor. Gerçekçi öncelik sırası:
-1. **Pzt 8 Haz Luxmed/Enes araması** — eldeki TEK sıcak temas. Hazırlık: Luxmed context + Brand Growth çerçevesi + Nesa çatışması netliği. (Fox brifing hazırlayabilir — Kademe 1.)
-2. **Yeni döviz/global pipeline** — Kuzey Yıldızı'nın gerçek hedefi bu (TL işleri ikincildi). Marka elçiliği temasları (LCW/Salomon/GoPro vb.) doğru kanalla yenilenebilir (önceki bounce dersi — §10). Değer kapısı: GEO/AI-SEO açısı güçlü ve güncel.
-3. **SOC öz-pilotu** — boş döngüde en iyi vaka biz olalım: denetim raporu premium PDF → Faz 2 Strateji.
-**İlke:** Panik yok, körlemesine outreach yok. Önce eldeki sıcak temas (Luxmed), sonra sistemli yeniden inşa. Towdoo'da iş yok; sadece Tuğba ile kişisel bağ. Darya pasif (bırakıldı).
+## SIRADAKİ BÜYÜK ADIM (kaldığımız yer — SOC web sitesi aktif iş)
+**Aktif iş: SOC web sitesi, Marka Bulutu OS Teslim Zinciri ile.** Faz 1 (Denetim) + Faz 2 (Strateji) ✅ bitti. Konumlandırma: sosyal etki öncelikli, ticari (Ajans, MBOS dahil) menüyle ayrı. Açık kararlar kapandı (Bize Katıl=Gönüllü · Akademi=beklemede · MBOS=Ajans içinde · Gelir=B2C Mağaza önce).
+1. **⭐ Faz 4 İçerik — hero + ana sayfa metni** (KALDIĞIMIZ NOKTA). Fox öneriyi sundu, Ayhan onayı/sayfa seçimi bekliyor. Hero: "farklılıkları görünür kılan" → "**farklılığı güce çeviren**" (aktif/fail). Ses parmak izine sadık, B2C Mağaza öne çıkar. Üret → Denetmen → Ayhan → (Wix'e statik metin Ayhan'ın elle yapıştırması, API basamaz).
+   - ⚠️ Register ayrımı (MBOS Ajans içinde) Ajans sayfasına gelince çözülecek.
+2. **Pzt 8 Haz Luxmed/Enes araması** — sıcak temas, hazırlık gerekebilir (Luxmed context + Nesa çatışması netliği).
+3. **Yeni döviz/global pipeline** — Kuzey Yıldızı hedefi; doğru kanalla (§10 bounce dersi), GEO değer kapısı.
+**İlke:** SOC web sitesi sistemli ilerliyor (Teslim Zinciri). Wix kısıtı: statik içerik API'den değişmiyor — Fox metni hazırlar, Ayhan Editor'a basar. Luxmed paralel sıcak temas.
 
 ## SOC ÜRÜN — CloudOne Çorap
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
