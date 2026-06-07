@@ -71,10 +71,14 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Açık veri eksiği:** GSC/Analytics yok → sayısal trafik hedefi verilemedi (dürüst N/A). Fiyat alt sınırı 119 TL (müşteri teyidi bekliyor).
 - **Köprü hipotezi (🟡 izlenecek):** aksesuar→giyim "yükseltme" varsayımı kanıtlanmadı; Faz 4'te ölçülecek (§8.8).
 
-## SOC ÖZ-PİLOT — Teslim Zinciri durumu (öğrenme amaçlı)
+## SOC ÖZ-PİLOT — Teslim Zinciri durumu (web sitesi odaklı, AKTİF)
 - ✅ **Faz 1 Keşif & Denetim:** rapor (`raporlar/soc-marka-denetim-raporu.md`, **Baseline: Kritik açık ağırlıklı niteliksel profil** — §0.1 v1.1, sayısal skor yok) + SEO Excel (`soc-seo-kritik.xlsx`, Keşif onaylı). SOC context: `sablonlar/soc-marka-context.md`.
-- ⏳ **PDF üretimi:** raporun premium PDF hali (soc-mavi) bekliyor.
-- ⬜ **Faz 2 Strateji** (konumlandırma çatallanması çöz) → Faz 3 Branding → Faz 4 İçerik → Faz 5 Growth.
+- ✅ **Konumlandırma kararı (7 Haz):** Sosyal etki ÖNCELİKLİ, ticari (Ajans) menüyle ayrı/ikincil. Karar günlüğünde. Denetim raporunun "hero'yu MBOS'a çevir" varsayımını geçersiz kıldı.
+- ✅ **Menü mimarisi (7 Haz):** Ekip→Hakkımızda altı · Ajans=ticari kol · Mağaza aktif · Events→Etkinlikler · "More" kalkar · Bize Katıl beklemede (Ayhan kararı bekliyor).
+- ✅ **Faz 2 Strateji:** `raporlar/soc-strateji.md` — Dunford 5 bileşen + mesaj mimarisi + sayfa amaçları + AARRR + 90gün/12ay + niteliksel ölçüm (sayısal hedef YOK, GSC yok). **Denetmen denetledi (7 bulgu → hepsi düzeltildi, "Düzeltmelerle Onayla"). ⏳ Ayhan onayı bekliyor.**
+- ⏳ **PDF üretimi:** denetim raporunun premium PDF hali (soc-mavi) bekliyor.
+- ⬜ **Faz 3 Branding** → Faz 4 İçerik (web copy) → Faz 5 Growth (SEO/email/tracking).
+- **5 açık karar (strateji §7):** Bize Katıl içeriği · "Ajans" adı vs premium B2B · Akademi gerçek aktifliği (doğrula) · MBOS nerede yaşayacak (Ajans içi mi, ayrı site mi) · gelir modeli vurgusu (döviz Ajans mı, B2C Mağaza mı).
 
 ## YAKLAŞAN TAKVİM
 - **Pazar 7 Haz:** 07:30-14:00 Empati Koşusu

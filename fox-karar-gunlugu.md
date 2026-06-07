@@ -17,6 +17,14 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### stepsonclouds.com Konumlandırması — Sosyal Etki Öncelikli (7 Haz)
+- **Tetikleyici:** Marka Bulutu OS, SOC'nin kendi sitesine uygulanmaya başlandı (Faz 2 öncesi). Denetim raporunun en kritik bulgusu "konumlandırma çatallanması" (sosyal etki markası vs. Marka Bulutu OS ticari sistemi aynı sitede) Ayhan'a karar olarak soruldu.
+- **Ayhan kararı (7 Haz):** *"Menüler aracılığıyla böleceğiz fakat önceliğimiz Saf Sosyal Etki."*
+- **Anlam:** stepsonclouds.com'un birincil kimliği = **sosyal etki markası** (Steps On Clouds register, misyon). Hero/ton/hikaye onur merkezli, sosyal etki. Marka Bulutu OS / ticari danışmanlık tamamen atılmıyor ama **navigasyonda ayrı + ikincil** konumlanıyor.
+- **Raporu düzeltir:** Denetim raporu "Hero'yu Marka Bulutu OS konumlamasıyla değiştir, ICP siteye girince ne yapıldığını anlamıyor" diyordu. Bu varsayım **artık geçersiz** — hero sosyal etki olarak doğru. Ticari hedef kitle ayrı menü kolundan karşılanacak. Faz 2 Strateji bu yöne göre kurulacak.
+- **Gerekçe:** CLAUDE.md §9 iki register (Steps On Clouds = misyon / Ayhan Erden = iş). Site adı "Steps On Clouds" = misyon register'ı; sosyal etki önceliği register'la tutarlı. Ticari teklif kendi alanını korur ama misyonu gölgelemez (§0: İnsan → Ayhan → marka).
+- **Statü:** KARAR ALINDI — Faz 2 Strateji + site mimarisi bu karara göre ilerliyor.
+
 ### Towdoo İptal + Darya Sessizlik — Pipeline Sıfırlanması (6 Haz)
 - **Durum:** Ayhan bildirdi — "Towdoo işi iptal, Darya'dan da dönüş yok." İki ana iş aynı anda düştü.
 - **Towdoo:** Teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). Notion → Kapandı. **Ayhan kararı (6 Haz): "Sadece kişisel bağ."** Sebep sorgulanmayacak, iş konuşulmayacak. Tuğba ile temas yalnız kişisel/sevgiden (anne figürü, §0 İnsan→Ayhan→marka). Towdoo belgeleri arşiv + vaka çalışması değeri.
