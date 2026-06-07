@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 7 Haziran 2026 — SOC web sitesi oturumu: Marka Bulutu OS aktif, konumlandırma kararı + menü mimarisi + Faz 2 Strateji (Denetmen onaylı) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 7 Haziran 2026 (2. oturum) — SOC Faz 4 İçerik tamamlandı: tüm sayfa copy'leri (Denetmen onaylı) + CloudOne Wix güncelleme + Notion operasyon tablosu + Drive strateji doc · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -72,14 +72,19 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Köprü hipotezi (🟡 izlenecek):** aksesuar→giyim "yükseltme" varsayımı kanıtlanmadı; Faz 4'te ölçülecek (§8.8).
 
 ## SOC ÖZ-PİLOT — Teslim Zinciri durumu (web sitesi odaklı, AKTİF)
-- ✅ **Faz 1 Keşif & Denetim:** rapor (`raporlar/soc-marka-denetim-raporu.md`, **Baseline: Kritik açık ağırlıklı niteliksel profil** — §0.1 v1.1, sayısal skor yok) + SEO Excel (`soc-seo-kritik.xlsx`, Keşif onaylı). SOC context: `sablonlar/soc-marka-context.md`.
-- ✅ **Konumlandırma kararı (7 Haz):** Sosyal etki ÖNCELİKLİ, ticari (Ajans) menüyle ayrı/ikincil. Karar günlüğünde. Denetim raporunun "hero'yu MBOS'a çevir" varsayımını geçersiz kıldı.
-- ✅ **Menü mimarisi (7 Haz):** Ekip→Hakkımızda altı · Ajans=ticari kol · Mağaza aktif · Events→Etkinlikler · "More" kalkar · Bize Katıl beklemede (Ayhan kararı bekliyor).
-- ✅ **Faz 2 Strateji:** `raporlar/soc-strateji.md` — Dunford 5 bileşen + mesaj mimarisi + sayfa amaçları + AARRR + 90gün/12ay + niteliksel ölçüm (sayısal hedef YOK, GSC yok). **Denetmen denetledi (7 bulgu → hepsi düzeltildi, "Düzeltmelerle Onayla"). ⏳ Ayhan onayı bekliyor.**
+- ✅ **Faz 1 Keşif & Denetim:** `raporlar/soc-marka-denetim-raporu.md` + SEO Excel (`soc-seo-kritik.xlsx`).
+- ✅ **Konumlandırma kararı (7 Haz):** Sosyal etki ÖNCELİKLİ, ticari (Ajans) menüyle ayrı/ikincil.
+- ✅ **Menü mimarisi (7 Haz):** Ekip→Hakkımızda altı · Ajans=ticari kol · Events→Etkinlikler · "More" kalkar.
+- ✅ **Faz 2 Strateji:** `raporlar/soc-strateji.md` — Denetmen onaylı. Drive'a Google Doc olarak yüklendi (`SOC_Strateji_Faz2_2026`, Marka Bulutu OS klasörü). **Ayhan onayı: "evet devam edelim" → Faz 4'e geçildi.**
+- ✅ **Faz 4 İçerik (7 Haz 2. oturum):** `raporlar/soc-web-copy-faz4.md` — TÜM sayfa copy'leri tamamlandı + Denetmen onaylı.
+  - **Tur 1 (onaylı):** Ana Sayfa hero + 3 kolon (Projeler/Mağaza/Ajans sırası) + misyon bloku · Hakkımızda · İletişim · Bize Katıl
+  - **Tur 2 (onaylı):** Ekip · Projeler · Mağaza giriş · Etkinlikler · Ajans · Blog taslağı
+  - **API ile yapılanlar:** CloudOne ürün açıklaması ("Attığın her adım misyonu taşır") + SEO meta → Wix API ile canlıda ✅
+  - **Wix kısıtı:** Statik sayfa metinleri → Ayhan Wix Editor'a elle yapıştıracak. Notion operasyon tablosu rehber.
 - ⏳ **PDF üretimi:** denetim raporunun premium PDF hali (soc-mavi) bekliyor.
-- ⬜ **Faz 3 Branding** → Faz 4 İçerik (web copy) → Faz 5 Growth (SEO/email/tracking).
-- **Açık kararlar kapatıldı (7 Haz 2. tur):** Bize Katıl=Gönüllü · Akademi=beklemede · MBOS=Ajans kolu içinde · Gelir=B2C Mağaza önce. ⚠️ Kalan: register riski (MBOS+SOC aynı kolda) → Faz 3 Branding'de Ajans alt-ayrımı çözecek.
-- **Faz 2 onay:** Strateji belgesi kararlarla güncellendi (v1.1). Ayhan onayı + Faz 3/4 seçimi bekliyor.
+- ⬜ **Faz 3 Branding** → Faz 5 Growth (SEO/email/tracking). Faz 4 fiziksel uygulama Ayhan'da.
+- ⚠️ **Register riski (MBOS+SOC aynı kolda):** Faz 3 Branding'de Ajans alt-ayrımı çözecek.
+- ⚠️ **Açık karar:** Mağaza mekanizması — "destekler" (mevcut, temkinli) mi, "finanse eder" (açık taahhüt) mi? Ayhan kararı bekliyor.
 
 ## YAKLAŞAN TAKVİM
 - **Pazar 7 Haz:** 07:30-14:00 Empati Koşusu
@@ -91,13 +96,13 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - Nesa↔Luxmed çatışması · SOC kendi tracking'i yok (GSC bağlanmalı — meta/Instagram baseline ölçülemedi)
 - **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
 
-## SIRADAKİ BÜYÜK ADIM (kaldığımız yer — SOC web sitesi aktif iş)
-**Aktif iş: SOC web sitesi, Marka Bulutu OS Teslim Zinciri ile.** Faz 1 (Denetim) + Faz 2 (Strateji) ✅ bitti. Konumlandırma: sosyal etki öncelikli, ticari (Ajans, MBOS dahil) menüyle ayrı. Açık kararlar kapandı (Bize Katıl=Gönüllü · Akademi=beklemede · MBOS=Ajans içinde · Gelir=B2C Mağaza önce).
-1. **⭐ Faz 4 İçerik — hero + ana sayfa metni** (KALDIĞIMIZ NOKTA). Fox öneriyi sundu, Ayhan onayı/sayfa seçimi bekliyor. Hero: "farklılıkları görünür kılan" → "**farklılığı güce çeviren**" (aktif/fail). Ses parmak izine sadık, B2C Mağaza öne çıkar. Üret → Denetmen → Ayhan → (Wix'e statik metin Ayhan'ın elle yapıştırması, API basamaz).
-   - ⚠️ Register ayrımı (MBOS Ajans içinde) Ajans sayfasına gelince çözülecek.
-2. **Pzt 8 Haz Luxmed/Enes araması** — sıcak temas, hazırlık gerekebilir (Luxmed context + Nesa çatışması netliği).
-3. **Yeni döviz/global pipeline** — Kuzey Yıldızı hedefi; doğru kanalla (§10 bounce dersi), GEO değer kapısı.
-**İlke:** SOC web sitesi sistemli ilerliyor (Teslim Zinciri). Wix kısıtı: statik içerik API'den değişmiyor — Fox metni hazırlar, Ayhan Editor'a basar. Luxmed paralel sıcak temas.
+## SIRADAKİ BÜYÜK ADIM (kaldığımız yer)
+1. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — TEK sıcak temas. Hazırlık gerekebilir.
+2. **⭐ Hakan Uysal ara (Pzt 8 Haz 09:00)** — takvimde var.
+3. **SOC Wix Editor uygulaması** — Ayhan Notion tablosuna bakarak copy'leri yapıştırır. Sıra: Acil (Etkinlikler Sürüm B) → 14 Haz engelleri → 28 Haz temel copy.
+4. **Mağaza mekanizması kararı** — "destekler" mi "finanse eder" mi? (Açık karar)
+5. **SOC Faz 3 Branding** — Ayhan hazır olunca başlatılır (register riski çözülecek).
+6. **Yeni döviz/global pipeline yeniden inşa** — Kuzey Yıldızı, Luxmed sonrası netleşir.
 
 ## SOC ÜRÜN — CloudOne Çorap
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
@@ -107,12 +112,18 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Açık:** Beden/materyal henüz yok
 - **Kullanım:** Ala Skateboards B2B (mevcut) · Wix Store (canlı, 550 TL) · sosyal içerik (hazır)
 
-## 7 HAZ OTURUMU — Teslim Edilenler
+## 7 HAZ OTURUMU (1. tur) — Teslim Edilenler
 - `soc-urun-cloudone.md` — CloudOne ürün referans dosyası (10 görsel indeksi, kanal rehberi, yapı detayları)
-- **Wix site keşfi:** stepsonclouds.com bağlandı, 24 koleksiyon tarandı (hepsi WIX_APP — statik sayfa içeriği API ile değiştirilemiyor)
-- **Wix fiyat güncelleme:** CloudOne 700→450→550 TL — endpoint keşfedildi: `POST /stores/v1/bulk/products/update`
-- **Wix kısıt tespiti:** Metin/başlık/layout → Editor UI gerekli. CMS koleksiyonu bağlanırsa API ile yönetilebilir (kurulum planı hazır)
-- **Görsel üretim denemesi:** Adobe Firefly/Canva araçları text-to-image fotoğraf üretmiyor — ChatGPT/Firefly web arayüzü önerildi (promtlar hazır)
+- **Wix fiyat güncelleme:** CloudOne 550 TL canlıda
+- **Wix kısıt tespiti:** Statik sayfa metinleri → Editor UI gerekli
+
+## 7 HAZ OTURUMU (2. tur) — Teslim Edilenler
+- **Drive:** `SOC_Strateji_Faz2_2026` Google Doc (Marka Bulutu OS klasörü) — Faz 2 Strateji referans belgesi
+- **Drive:** `SOC_2026_Pazarlama_Plani` → SOC web sitesi haftalık km taşları eklendi (lokal xlsx → Drive sync hâlâ açık görev)
+- **Wix API:** CloudOne ürün açıklaması + SEO meta güncellendi (canlıda)
+- **`raporlar/soc-web-copy-faz4.md`:** Faz 4 İçerik — 12 sayfa copy bloğu, Denetmen onaylı, Wix Editor'a hazır
+- **Takvim:** Pazartesi Hakan Uysal araması → 08 Haz 09:00-09:30 (popup hatırlatıcı)
+- **Notion:** SOC Web Operasyon Takip tablosu — 25 satır, tarih/öncelik/detayla (https://app.notion.com/p/fa0ab45434bc4ea79146b5d561137536)
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Kim/vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md`
