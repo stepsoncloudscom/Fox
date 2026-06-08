@@ -87,8 +87,8 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - ⚠️ **Açık karar:** Mağaza mekanizması — "destekler" (mevcut, temkinli) mi, "finanse eder" (açık taahhüt) mi? Ayhan kararı bekliyor.
 
 ## YAKLAŞAN TAKVİM
+- **Sal 9 Haz 16:00:** Luxmed / Enes — yüz yüze görüşme, Cevizlibağ (takvime eklendi) · Strateji: Nesa meselesini toplantı başında proaktif aç; dinleme modu; döviz kapasitesini sor; kapsam + exclusive clause netleştir.
 - **Pazar 5 Tem:** Empati Koşusu / Run For Empathy — Caddebostan Sahili (ertelendi: 7 Haz → 5 Tem)
-- **Pzt 8 Haz:** 10:00 Enes/Luxmed araması
 
 ## RİSK BAYRAKLARI
 - **⚠️ Pipeline boşluğu (6 Haz):** Towdoo iptal + Darya sessiz = sıcak iş yok. Tek aktif temas Luxmed (Pzt). Gelir köprüsü zayıfladı. Öncelik: yeniden inşa, ama körlemesine outreach yok (§10).
