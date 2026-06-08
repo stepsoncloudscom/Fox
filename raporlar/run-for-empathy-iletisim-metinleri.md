@@ -258,7 +258,7 @@ Kültür ve Sosyal İşler Müdürlüğü'ne
 
 **Konu:** 5 Temmuz 2026 Tarihli "Run For Empathy / Empati Koşusu" — Etkinlik İzni ve İş Birliği Talebi
 
-Sayın Yetkililer,
+Sayın Yetkili,
 
 Steps On Clouds adına 5 Temmuz 2026 tarihinde, saat [XX:XX]–[XX:XX] arasında Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenlemeyi planlıyoruz.
 
@@ -448,7 +448,7 @@ TÜRK KIZILAY DERNEĞİ
 
 **Konu:** 5 Temmuz 2026 Tarihli "Run For Empathy / Empati Koşusu" — Sağlık Destek Talebi
 
-Sayın Yetkililer,
+Sayın Yetkili,
 
 Steps On Clouds adına 5 Temmuz 2026 tarihinde Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenliyoruz. Etkinlik; ampute ve engelli bireyleri, ailelerini, destekçilerini ve koşu topluluklarını aynı rotada buluşturan sosyal etki odaklı bir koşu deneyimidir.
 
