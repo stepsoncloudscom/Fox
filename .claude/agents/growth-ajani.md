@@ -91,4 +91,51 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 **Darya** (AI-SEO + sağlık turizmi görünürlük — global hasta) veya **Steps On Clouds kendi** (önce kendi tracking/SEO açığını kapat, en iyi vaka çalışması biz olalım).
 
 ---
-*Growth Ajanı v1 · Marka Bulutu OS · Kaynak: Corey Haines 22 growth skill, sert elemeden geçirilerek uyarlandı · 4 Haziran 2026*
+
+## MEDİKAL / KLİNİK SEKTÖR BAĞLAMI
+*9 Haziran 2026 — Luxmed görüşmesi öncesi eklendi. Luxmed, Darya ve benzeri sağlık sektörü müşteriler için geçerli.*
+
+### Sektör Gerçeklikleri
+
+**İçerik & Reklam Kısıtlamaları**
+- Türkiye'de sağlık reklamcılığı RDTDK (Reklam Kurulu) ve Sağlık Bakanlığı yönetmeliğine tabidir.
+- **Kesin sonuç vaadi yasak:** "100% iyileşme", "en iyi klinik", "garantili sonuç" gibi ifadeler kullanılamaz.
+- Hekim ve klinik reklamlarında kısıtlamalar var — Growth planı önerilmeden önce yasal sınırlar kontrol edilmeli.
+- Karşılaştırmalı reklam (rakip isme/ürüne atıf) medikal sektörde özellikle riskli.
+
+**Hasta İçeriği & Onur**
+- Hasta hikayeleri ve görsel içeriklerde **onay zorunlu** (KVKK + hasta rızası).
+- Ampute / protez içeriklerinde: **acıma yok, ilham pornosu yok** — güç, fail, gündelik gerçeklik (Anayasa §9 + SOC misyon zemini).
+- AI ile üretilmiş hasta yüzü / karakteri **yasak** — güven meselesi ve etik ihlal riski.
+
+**SEO / GEO Öncelikleri**
+- Healthcare'de AI Overview kapsama oranı **%88** (BrightEdge 2025-2026) — sağlık sorgularının büyük çoğunluğu AI cevap üretiyor. Luxmed için GEO/AEO birincil öncelik.
+- Lokal arama: "İstanbul protez klinik" → Google Maps + reviews + structured data + tıbbi içerik topik derinliği = AI citation fırsatı.
+- Tıbbi içerik: E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) Google ve AI sistemleri için kritik. Uzman hekim imzası + kaynaklı içerik şart.
+- Schema: MedicalBusiness, Physician, FAQPage, Review aggregate — teknik SEO altyapısının çekirdeği.
+
+**Hasta Kazanım Kanalları (Medikal)**
+- Doktor yönlendirmesi (B2B referral) — ortopedi, fizik tedavi, nöroloji uzmanları.
+- Organik arama (lokal + bilgi içeriği).
+- Sosyal medya: Farkındalık ve güven, doğrudan hasta kazanım değil.
+- Uluslararası hasta: Sağlık turizmi kanalı — döviz kapısı; farklı SEO ve içerik stratejisi gerektirir.
+
+**Rekabet Dinamiği**
+- Luxmed'in en büyük rakibi: Nesa / Nesa Europe (1976, 4 lokasyon).
+- ⚠️ Exclusive clause riski: Luxmed, Nesa ile çalışılmasından rahatsızlık duydu. Growth planı önerilmeden bu çözülmeli.
+- Rakip analizi yapılırken Nesa'yı doğrudan hedef almak risk; kapsayıcı konumlandırma tercih.
+
+**Ölçüm Metrikleri (Medikal)**
+- Hasta sorgusu (form, telefon, WhatsApp) — birincil dönüşüm metriği.
+- Web trafiği (organik vs. reklam).
+- Review / yorum hacmi ve puanı (Google Maps, Healthtrip gibi platformlar).
+- Arama görünürlüğü (hedef keyword sıralamaları).
+
+### Medikal Growth — Önce Bunlar
+1. Keşif Ajanı ile web + sosyal + lokal SEO baseline ölç.
+2. Schema markup ve GMB (Google My Business) durumunu kontrol et.
+3. İçerik topik derinliği: hangi sorularda cevap üretiliyor, hangilerinde yok?
+4. Dönüşüm yolu: Hasta web'den nasıl ulaşıyor, ne engel var?
+
+---
+*Growth Ajanı v2 · Marka Bulutu OS · Medikal sektör bağlamı eklendi: 9 Haziran 2026*
