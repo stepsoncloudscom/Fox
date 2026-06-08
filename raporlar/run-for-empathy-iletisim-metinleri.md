@@ -8,6 +8,8 @@
 
 | # | Hedef | Alan | Kanal |
 |---|-------|------|-------|
+| **U.1** | **Uludağ İçecek — SOC iş birliği** | Su&İkram + Çapraz | **E-posta (taslak ✅ Gmail)** |
+| **U.2** | **Uludağ İçecek — Ayhan kişisel UPUT 6K** | Katılım | **E-posta (taslak ✅ Gmail)** |
 | 1.1 | Saka Su / Hayat Su | Su & İkram | E-posta (kurumsal) |
 | 1.2 | Saka / Hayat | Su & İkram | WhatsApp (distribütör/yetkili) |
 | 1.3 | Doğadan | Su & İkram | E-posta |
@@ -492,6 +494,77 @@ Etkinlikte teknik/sağlık destek partneri olarak yerel bir fizyoterapi kliniği
 
 ---
 
+---
+
+## ULUDAĞ İÇECEK — Özel Metinler
+
+> Her iki taslak Gmail Taslaklar'a kaydedildi (8 Haz 2026).
+> Alıcı: tuketicitemsilcisi@uludagicecek.com.tr — sponsorluk/etkinlik birimi için **@uludagevent.tr Instagram DM paralel açılmalı.**
+
+---
+
+### U.1 · Uludağ İçecek — Steps On Clouds İş Birliği (3 İstek)
+
+**Konu:** İş Birliği Teklifi — Run For Empathy × Uludağ Premium Ultra Trail · 5 Temmuz 2026
+
+---
+
+Merhaba,
+
+Ben Ayhan Erden. Moda, reklam ve hikâye anlatıcılığı alanlarında çalışan bir yaratıcı profesyonelim; uzun süredir ampute bireylerin ve protez kullanıcılarının hikâyelerini görünür kılmak için içerikler üretiyorum. Bu çalışmaları Steps On Clouds çatısı altında yürütüyorum.
+
+5 Temmuz 2026'da Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenliyoruz. Bu etkinlik; ampute ve engelli bireyleri, ailelerini, destekçilerini ve koşu topluluklarını aynı rotada buluşturan sosyal etki odaklı bir koşu deneyimi.
+
+Uludağ Premium Ultra Trail'in koşu kültürüne olan köklü bağını ve 7 yıllık etkinlik ekosisteminizi yakından takip ediyorum. Bu nedenle Run For Empathy için üç alanda iş birliği önerisinde bulunmak istedim:
+
+**1. UPUT Sporcu Desteği — Ön Isınma**
+Etkinliğimize UPUT ailesinden bir sporcunun ön ısınma lideri olarak katılmasını çok isteriz. İki etkinlik topluluğunu birbirine bağlayan, her iki tarafa da içerik ve görünürlük değeri taşıyan anlamlı bir an olur.
+
+**2. Steps On Clouds Nokta — UPUT Etkinlik Alanı**
+Run For Empathy'nin misyonunu UPUT katılımcılarıyla buluşturmak için etkinlik alanında bir Steps On Clouds noktası açmak istiyoruz. İki topluluğun kesiştiği bu alan; katılımcılarla birebir temas ve ortak içerik üretimi için güçlü bir zemin sağlayacak.
+
+**3. Çorap Sponsorluğu — Run For Empathy Katılımcıları**
+Run For Empathy katılımcılarına verilecek hediye paketine UPUT/Uludağ markasıyla çorap desteği sağlanmasını değerlendirmenizi isteriz. "Adımlar" teması üzerinden iki etkinliğin ortak bir nesneyle buluşması, her iki topluluğa da anlamlı bir dokunuş.
+
+Bu üç öneriden herhangi biri ilginizi çekiyor mu? Detayları kısa bir görüşmede paylaşmaktan memnuniyet duyarım.
+
+Saygılarımla,
+Ayhan Erden
+Steps On Clouds
++90 538 955 5531
+stepsonclouds.com
+instagram.com/ayhanerden_/
+
+---
+
+### U.2 · Ayhan Erden Kişisel — UPUT Kamp 6K Katılım Talebi
+
+**Konu:** UPUT Kamp 6K — Katılım Talebi · Ayhan Erden
+
+> ⚠️ **[AYHAN DOLDURACAK]** işaretli alanlar kişisel detay gerektiriyor — iskele kuruldu, ruh Ayhan'da.
+
+---
+
+Merhaba,
+
+Ben Ayhan Erden. Moda, reklam ve hikâye anlatıcılığı alanlarında çalışan bir yaratıcı profesyonelim. Ampute bir birey olarak hareket özgürlüğünü ve farklı bedenlerin aktif yaşama katılımını görünür kılmak için çalışıyorum.
+
+Uludağ Premium Ultra Trail Kamp 6K'ya bireysel olarak katılmak istiyorum.
+
+**[AYHAN DOLDURACAK: Ampütasyon durumu — hangi uzuv, ne zamandan beri; kullandığın protez/yardımcı araç varsa; koşu / yürüyüş geçmişin; UPUT ile ilk temasın nasıl oldu]**
+
+Katılım sürecinde ihtiyaç duyabileceğim teknik ve lojistik desteğe dair bilgi almak, ve bu deneyimi içerik olarak da belgelemek istiyorum. Farklı bir bedenle bu parkurda olmak — hem benim için hem de bu hikâyeyi görmesi gereken insanlar için anlamlı bir şey.
+
+Olası bir iş birliği modelini ya da katılım desteğini değerlendirmek üzere kısa bir görüşme ayarlayabilir miyiz?
+
+Saygılarımla,
+Ayhan Erden
++90 538 955 5531
+instagram.com/ayhanerden_/
+stepsonclouds.com
+
+---
+
 ## Gönderim Notları
 
 - **Belediye ve Kızılay yazıları:** Resmi başvuru — fiziksel veya kurumsal e-posta kanalıyla.
@@ -512,4 +585,4 @@ instagram.com/ayhanerden_/
 
 ---
 
-*Dosya: run-for-empathy-iletisim-metinleri.md · v1 · 8 Haziran 2026*
+*Dosya: run-for-empathy-iletisim-metinleri.md · v2 · 8 Haziran 2026*
