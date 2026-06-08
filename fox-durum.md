@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 7 Haziran 2026 (2. oturum) — SOC Faz 4 İçerik tamamlandı: tüm sayfa copy'leri (Denetmen onaylı) + CloudOne Wix güncelleme + Notion operasyon tablosu + Drive strateji doc · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 8 Haziran 2026 (3. oturum) — Run For Empathy sponsor altyapısı kuruldu: tarih güncellendi (5 Tem, Caddebostan) + sponsor dosyası + 22 iletişim metni (5 alan × hedef × kanal) + Uludağ İçecek odak (2 Gmail taslak: SOC iş birliği + Ayhan kişisel UPUT 6K) + Kadıköy Belediyesi Gmail taslak (bilal.gezen@kadikoy.bel.tr) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -99,10 +99,11 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 ## SIRADAKİ BÜYÜK ADIM (kaldığımız yer)
 1. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — TEK sıcak temas. Hazırlık gerekebilir.
 2. **⭐ Hakan Uysal ara (Pzt 8 Haz 09:00)** — takvimde var.
-3. **SOC Wix Editor uygulaması** — Ayhan Notion tablosuna bakarak copy'leri yapıştırır. Sıra: Acil (Etkinlikler Sürüm B) → 14 Haz engelleri → 28 Haz temel copy.
-4. **Mağaza mekanizması kararı** — "destekler" mi "finanse eder" mi? (Açık karar)
-5. **SOC Faz 3 Branding** — Ayhan hazır olunca başlatılır (register riski çözülecek).
-6. **Yeni döviz/global pipeline yeniden inşa** — Kuzey Yıldızı, Luxmed sonrası netleşir.
+3. **Run For Empathy — Gmail taslakları gönder:** (a) Kadıköy Belediyesi (bilal.gezen — saat + katılımcı sayısı doldur), (b) Uludağ İçecek SOC iş birliği, (c) Uludağ İçecek Ayhan kişisel UPUT 6K (kişisel detayları doldur). Ayrıca @uludagevent.tr Instagram DM paralel atılacak.
+4. **SOC Wix Editor uygulaması** — Ayhan Notion tablosuna bakarak copy'leri yapıştırır. Sıra: Acil (Etkinlikler Sürüm B) → 14 Haz engelleri → 28 Haz temel copy.
+5. **Mağaza mekanizması kararı** — "destekler" mi "finanse eder" mi? (Açık karar)
+6. **SOC Faz 3 Branding** — Ayhan hazır olunca başlatılır (register riski çözülecek).
+7. **Yeni döviz/global pipeline yeniden inşa** — Kuzey Yıldızı, Luxmed sonrası netleşir.
 
 ## SOC ÜRÜN — CloudOne Çorap
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
