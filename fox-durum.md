@@ -87,7 +87,7 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - ⚠️ **Açık karar:** Mağaza mekanizması — "destekler" (mevcut, temkinli) mi, "finanse eder" (açık taahhüt) mi? Ayhan kararı bekliyor.
 
 ## YAKLAŞAN TAKVİM
-- **Pazar 7 Haz:** 07:30-14:00 Empati Koşusu
+- **Pazar 5 Tem:** Empati Koşusu / Run For Empathy — Caddebostan Sahili (ertelendi: 7 Haz → 5 Tem)
 - **Pzt 8 Haz:** 10:00 Enes/Luxmed araması
 
 ## RİSK BAYRAKLARI
