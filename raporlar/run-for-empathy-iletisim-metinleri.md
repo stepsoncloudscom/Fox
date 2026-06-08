@@ -251,6 +251,8 @@ stepsonclouds.com
 
 **8 Haziran 2026**
 
+**Alıcı:** bilal.gezen@kadikoy.bel.tr
+
 T.C.
 KADIKÖY BELEDİYE BAŞKANLIĞI
 Kültür ve Sosyal İşler Müdürlüğü'ne
@@ -258,7 +260,7 @@ Kültür ve Sosyal İşler Müdürlüğü'ne
 
 **Konu:** 5 Temmuz 2026 Tarihli "Run For Empathy / Empati Koşusu" — Etkinlik İzni ve İş Birliği Talebi
 
-Sayın Yetkili,
+Sayın Bilal Bey,
 
 Steps On Clouds adına 5 Temmuz 2026 tarihinde, saat [XX:XX]–[XX:XX] arasında Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenlemeyi planlıyoruz.
 
