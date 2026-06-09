@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 8 Haziran 2026 (3. oturum) — Run For Empathy sponsor altyapısı kuruldu: tarih güncellendi (5 Tem, Caddebostan) + sponsor dosyası + 22 iletişim metni (5 alan × hedef × kanal) + Uludağ İçecek odak (2 Gmail taslak: SOC iş birliği + Ayhan kişisel UPUT 6K) + Kadıköy Belediyesi Gmail taslak (bilal.gezen@kadikoy.bel.tr) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 9 Haziran 2026 (4. oturum) — Luxmed görüşmesi takvimde (16:00 Cevizlibağ) + CloudOne ambalaj hallendi + SOC mağaza copy + slogan kararları · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -97,13 +97,21 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
 
 ## SIRADAKİ BÜYÜK ADIM (kaldığımız yer)
-1. **⭐ Pzt 8 Haz 10:00 Luxmed/Enes araması** — TEK sıcak temas. Hazırlık gerekebilir.
-2. **⭐ Hakan Uysal ara (Pzt 8 Haz 09:00)** — takvimde var.
-3. **Run For Empathy — Gmail taslakları gönder:** (a) Kadıköy Belediyesi (bilal.gezen — saat + katılımcı sayısı doldur), (b) Uludağ İçecek SOC iş birliği, (c) Uludağ İçecek Ayhan kişisel UPUT 6K (kişisel detayları doldur). Ayrıca @uludagevent.tr Instagram DM paralel atılacak.
-4. **SOC Wix Editor uygulaması** — Ayhan Notion tablosuna bakarak copy'leri yapıştırır. Sıra: Acil (Etkinlikler Sürüm B) → 14 Haz engelleri → 28 Haz temel copy.
-5. **Mağaza mekanizması kararı** — "destekler" mi "finanse eder" mi? (Açık karar)
-6. **SOC Faz 3 Branding** — Ayhan hazır olunca başlatılır (register riski çözülecek).
-7. **Yeni döviz/global pipeline yeniden inşa** — Kuzey Yıldızı, Luxmed sonrası netleşir.
+1. **⭐ Sal 9 Haz 16:00 Luxmed/Enes görüşmesi** — Cevizlibağ, yüz yüze. Strateji hazır (fox-durum + luxmed-marka-context.md).
+2. **SOC mağaza copy — açık kararlar:**
+   - Mağaza açıklama metni: "Bir hayır kurumu değil" çıkarıldı, yeni seçenekler hazır — Ayhan onaylayacak.
+   - "Farklılığı Güce Çevir" sloganı: uygun değil kararı verildi. Yeni seçenekler hazır (hareket/spor odaklı, Bebas-güvenli).
+   - "Steps On Clouds; farklılıkları görünür kılan..." cümlesi: düzenleme devam ediyor.
+   - Mağaza mekanizması: "destekler" mi "finanse eder" mi? (Açık karar)
+3. **Run For Empathy — Gmail taslakları gönder:** (a) Kadıköy Belediyesi (saat + katılımcı sayısı doldur), (b) Uludağ İçecek SOC + kişisel UPUT 6K. @uludagevent.tr DM paralel.
+4. **SOC Wix Editor uygulaması** — copy'ler yapıştırılacak.
+5. **SOC Faz 3 Branding** — Ayhan hazır olunca.
+6. **Yeni döviz/global pipeline** — Luxmed sonrası netleşir.
+
+## KARARLAR (9 Haz)
+- **CloudOne ambalaj:** "Onesize fit all" → "One size fits all" düzeltildi. Ambalaj hallendi. ✅
+- **Bebas font:** Uppercase İ yok — "i" içeren kelimelerde Comfortaa tercih edilecek veya "i"siz kelimeler seçilecek.
+- **Fox takvim kuralı:** Gece 00:00 geçtikten sonra "yarın" denildiğinde — saat teyit edilecek.
 
 ## SOC ÜRÜN — CloudOne Çorap
 - **Ürün:** CloudOne atletik crew çorap · beyaz + turkuaz SOC logosu · dokuma
