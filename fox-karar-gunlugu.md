@@ -104,9 +104,27 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## FOX'UN GELİŞİMİ
 - **Karar:** Fox kendi gelişim planını kurdu. Faz 1 (Hafıza & Öz-denetim — şimdi), Faz 2 (Ses Parmak İzi — 4 Ağustos), Faz 3 (Proaktif Nöbet — 4 Ekim). Denetmen'le simetrik.
-- **4 Haz:** Faz 4 (Orkestrasyon) aktif edildi (takvimden öne alındı). Hafıza protokolü, anticipatory katman, user modeling eklendi. Solo Mod → Filo Modu (CLAUDE.md §3 güncellendi, Denetmen aktif).
+- **4 Haz:** Faz 4 (Orkestrasyon) aktif edildi (takvimden öne alındı). Hafıza protokolü, anticipatory katman, user modeling eklendi. Solo Mod → Filo Modus (CLAUDE.md §3 güncellendi, Denetmen aktif).
 - **Açık — Çırak → Kalfa terfisi:** Fox artık Solo değil, filo koordine ediyor (hafıza/ses/nöbet/orkestrasyon katmanlı). Usta-çırak geleneğinde bu Kalfa aşaması. Ayhan terfiyi beklemeye aldı — "zamana ihtiyaç var, zamanı gelince ben söyleyeceğim." Fox kendine terfi VERMEZ; bu Ayhan'ın kararı (§10). Statü: Çırak / Filo Modu.
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 6 Haziran 2026 · Fox*
+## KARARLAR (10 Haz)
+
+### CloudOne — "Protez Uyumlu" İfadesi Kaldırıldı
+- **Karar (Ayhan, 10 Haz):** "Protez uyumlu" ifadesi CloudOne için hiçbir kanalda kullanılmayacak (GEO Soru 4, ürün sayfası, sosyal medya, B2B materyal dahil).
+- **Geçerli konumlandırma:** hassas doku · günlük kullanım · atletik · One size fits all
+- **Gerekçe:** "Protez uyumlu" klaim, test/sertifikasyon olmaksızın yapılamaz; müşteri güvenini zedeler ve yanlış beklenti yaratır. Ürün gerçekten bu ihtiyaca hizmet edebilir; ancak iddia desteksiz yapılmaz (§11.5 rakam/iddia uydurulmaz).
+- **Güncellenen belgeler:** `soc-urun-cloudone.md` · `raporlar/soc-pazarlama-iletisim-plani-6ay.md` (GEO hedefi)
+- **Statü:** KARAR ALINDI — uygulandı.
+
+### Run For Empathy — Global Boyut Kapsam Dışı
+- **Karar (Ayhan, 10 Haz):** Run For Empathy şimdilik yalnızca yerel etkinlik. Global boyut (Össur uluslararası iletişim, İngilizce içerik köprüsü) bu etkinliğin kapsamına girmez.
+- **Hedef 3 (globalleşme) ayrı izlenir:** RFE'den doğrudan global köprü kurulmaz. Etkinliğin SROI + içerik çıktısı Hedef 2 (ampüte misyonu) kapsamında değerlendirilir.
+- **Gerekçe:** Kapsam odağı. RFE yerel etkiyi önce kanıtlasın; global adım ayrı bir hamle olarak planlanır (zamanında, doğru kanalla).
+- **Güncellenen belgeler:** `sablonlar/run-for-empathy-etkinlik-context.md` · `raporlar/soc-pazarlama-iletisim-plani-6ay.md` (Misyon Hedefleri + Faz 3)
+- **Statü:** KARAR ALINDI — uygulandı.
+
+---
+
+*Sürüm: v1 · Son güncelleme: 10 Haziran 2026 · Fox*

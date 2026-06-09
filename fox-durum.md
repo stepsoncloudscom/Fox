@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 9 Haziran 2026 (4. oturum) — Luxmed görüşmesi takvimde (16:00 Cevizlibağ) + CloudOne ambalaj hallendi + SOC mağaza copy + slogan kararları · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 10 Haziran 2026 (5. oturum) — Uludağ İçecek mail taslağı Gmail'e kaydedildi · SOC Notion operasyon takip kontrolü (9 Done/16 Not started) · Marka Bulutu OS SOC için tümü çalıştırıldı: Faz 3 Branding + Faz 5 Growth (Denetmen onaylı v1.1) · Run For Empathy context güncellendi (50 kişi, 09:00-13:00, bulut mekaniği, Össur elçiliği) · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -82,8 +82,10 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
   - **API ile yapılanlar:** CloudOne ürün açıklaması ("Attığın her adım misyonu taşır") + SEO meta → Wix API ile canlıda ✅
   - **Wix kısıtı:** Statik sayfa metinleri → Ayhan Wix Editor'a elle yapıştıracak. Notion operasyon tablosu rehber.
 - ⏳ **PDF üretimi:** denetim raporunun premium PDF hali (soc-mavi) bekliyor.
-- ⬜ **Faz 3 Branding** → Faz 5 Growth (SEO/email/tracking). Faz 4 fiziksel uygulama Ayhan'da.
-- ⚠️ **Register riski (MBOS+SOC aynı kolda):** Faz 3 Branding'de Ajans alt-ayrımı çözecek.
+- ✅ **Faz 3 Branding (10 Haz):** `raporlar/soc-branding-faz3.md` v1.1 — Denetmen onaylı. İki register netleşti · Ajans sayfası iki-bölüm çözümü · UGC sınırları kalıcılandı · Sözel/görsel kimlik kararları.
+  - ⚠️ **Ayhan eylemi:** (1) Canva Brand Kit kurulumu (önce) → (2) Ajans sayfası mock-up onayı (Branding Ajanı üretecek)
+- ✅ **Faz 5 Growth (10 Haz):** `raporlar/soc-faz5-growth-plani.md` v1.1 — Denetmen onaylı. Üretim sorumluluk tablosu · Run For Empathy funnel · Sosyal medya takvimi · GEO/SEO altyapısı.
+  - ⚠️ **Açık bayraklar:** KVKK rıza formu (Fox taslak hazırlayacak) · GSC bağlantısı teyidi (bu hafta) · CloudOne "One size fits all" — "protez uyumlu" çıkarıldı (10 Haz Ayhan kararı)
 - ⚠️ **Açık karar:** Mağaza mekanizması — "destekler" (mevcut, temkinli) mi, "finanse eder" (açık taahhüt) mi? Ayhan kararı bekliyor.
 
 ## YAKLAŞAN TAKVİM
@@ -105,7 +107,7 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
    - Mağaza mekanizması: "destekler" mi "finanse eder" mi? (Açık karar)
 3. **Run For Empathy — Gmail taslakları gönder:** (a) Kadıköy Belediyesi (saat + katılımcı sayısı doldur), (b) Uludağ İçecek SOC + kişisel UPUT 6K. @uludagevent.tr DM paralel.
 4. **SOC Wix Editor uygulaması** — copy'ler yapıştırılacak.
-5. **SOC Faz 3 Branding** — Ayhan hazır olunca.
+5. **SOC Faz 3 Branding** — ✅ v1.1 tamamlandı (10 Haz) · Denetmen 4 düzeltme onayladı · `raporlar/soc-branding-faz3.md` · Açık: Canva brand kit (Ayhan yapacak) + Ajans mock-up (önce mock-up → Ayhan onayı → Faz 4).
 6. **Yeni döviz/global pipeline** — Luxmed sonrası netleşir.
 
 ## KARARLAR (9 Haz)

@@ -43,11 +43,11 @@
 4. **Instagram:** Mevcut follower'ın %30 büyümesi (baseline kurulunca ölçülür). Kaydetme + paylaşma oranı artar (erişimden önemli).
 5. **LinkedIn:** 500+ bağlantı, aylık 5K+ erişim (6. ay sonu).
 6. **Web/SEO:** GSC kurulu, 10+ indexlenmiş sayfa, organik tıklama başlıyor.
-7. **GEO:** "Marka stratejisi Türkiye", "protez/ampüte içerik", "brand growth Istanbul" gibi sorgularda LLM kapsama.
+7. **GEO:** "Marka stratejisi Türkiye", "ampüte içerik", "brand growth Istanbul" gibi sorgularda LLM kapsama. CloudOne ürün konumlandırması: "hassas doku, günlük kullanım, atletik, One size fits all" — "protez uyumlu" ifadesi GEO dahil hiçbir içerikte yer almaz (10 Haz Ayhan kararı).
 
 ### Misyon Hedefleri
 8. **1 medya/platform çıkışı** — ampüte görünürlük, onur merkezli (gazete/dergi/podcast).
-9. **Empati Koşusu 2026** — SROI hazırlığı başlıyor (girdi-çıktı kaydı).
+9. **Empati Koşusu 2026** — SROI hazırlığı başlıyor (girdi-çıktı kaydı). **⚠️ Kapsam notu (10 Haz):** Run For Empathy şimdilik yalnızca yerel plan. Global boyut (Össur uluslararası, İngilizce içerik köprüsü) kapsam dışı — Hedef 3 (globalleşme) bu etkinlikten ayrı izlenir, RFE'den doğrudan köprü kurulmaz.
 
 ---
 
@@ -123,6 +123,7 @@
 - [ ] İngilizce içerik ritme giriyor (haftada 1 İngilizce LinkedIn / blog)
 - [ ] Uluslararası platform/etkinlik hedefi: 1 (hangi şehir, hangi event — Ayhan belirler)
 - [ ] Hedef: "disabled athlete brands", "brand growth Turkey" → LLM kapsama kontrol
+- ⚠️ **Global boyut şimdilik kapsam dışı (10 Haz Ayhan kararı):** Run For Empathy global boyuta (Össur uluslararası, İngilizce içerik köprüsü) bağlanmayacak. Hedef 3 (globalleşme) bu etkinlikten bağımsız izlenir; köprü kurulmaz.
 
 **Misyon görünürlüğü:**
 - [ ] 1 medya çıkışı (gazete / dergi / podcast — Türkçe veya İngilizce)
@@ -300,3 +301,4 @@
 ---
 
 *v1.1 · Fox + Denetmen · 6 Haz 2026 · Denetmen 8 bulgu → 5 düzeltme uygulandı · 2 madde Ayhan kararına açık · Ayhan son onayı verir*
+*v1.2 · 10 Haz 2026 · İki Ayhan kararı işlendi: (1) CloudOne "protez uyumlu" kaldırıldı — GEO + ürün sayfası "hassas doku, günlük kullanım, atletik, One size fits all" konumlaması. (2) Run For Empathy global boyut kapsam dışı — Hedef 3 ayrı izlenir, RFE'den köprü kurulmaz.*

@@ -74,3 +74,11 @@
 - Ürün adı: **CloudOne** (kesin, 6 Haz Ayhan kararı).
 - Beden bilgisi, fiyat, materyal kompozisyonu henüz bu dosyada yok — eklenecek.
 - Ala Skateboards B2B materyallerinde bu çorap referans ürün olarak kullanılıyor.
+
+## Konumlandırma Kararı (10 Haz Ayhan)
+
+**"Protez uyumlu" ifadesi KALDIRILDI.** Hiçbir kanalda (GEO Soru 4, ürün sayfası, sosyal medya, B2B materyal) yer almayacak.
+
+**Geçerli konumlandırma:** hassas doku · günlük kullanım · atletik · One size fits all
+
+Bu dört özellik ürün sayfası copy'sinde ve GEO içeriklerinde kullanılır. "Protez uyumlu" iddiası kapsam, test ve onay olmaksızın yapılabilecek bir klaim değil — çıkarıldı.

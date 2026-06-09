@@ -14,8 +14,27 @@
 - **Format:** Performans yarışı değil — birlikte hareket etme, kapsayıcılık, empati.
 - **Amaç:** Farklı bedenlerin sosyal hayata katılımını görünür kılmak; empati kültürünü güçlendirmek.
 - **Katılımcı profili:** Ampute bireyler + aileleri + sağlıklı koşucular + destekçiler
-- **Beklenen katılımcı sayısı:** [Ayhan dolduracak]
-- **Etkinlik saati:** [Ayhan dolduracak — Belediye yazısı için de gerekli]
+- **Beklenen katılımcı sayısı:** ~50 kişi
+- **Etkinlik saati:** 09:00–13:00
+
+### Etkinlik Programı
+1. **Ön ısınma** — koşu öncesi grup ısınma seansı
+2. **Koşu** — ana rota, tüm katılımcılar birlikte
+3. **Esneme & Yoga** — koşu sonrası toparlanma seansı
+
+### Etkileşim Öğesi
+- Güzergah boyunca **bulut şekilleri** yerleştirilecek
+- Katılımcılar bulutlarla fotoğraf çekip **etiketleyerek** çekilişe katılır
+- Çekiliş ödülü: **Steps On Clouds ürünleri**
+
+### Teknik & Sağlık
+- **Protez Teknisyeni:** 1 uzman teknisyen etkinlik boyunca sahada (sponsorluk kapsamında)
+
+### Görsel Üretim
+- Etkinlik **profesyonel görüntüleme ekibi** tarafından kayıt altına alınacak (fotoğraf + video)
+
+### Organizatör Profili
+- **Ayhan Erden** — Össur Türkiye Marka Elçisi · moda, reklam ve hikâye anlatıcılığı alanlarında yaratıcı profesyonel · ampute birey
 
 ---
 
@@ -78,4 +97,15 @@
 
 ---
 
-*Run For Empathy context v1 · 9 Haziran 2026 · Fox*
+## 7. Kapsam Sınırı (10 Haz Ayhan kararı)
+
+**Global boyut şimdilik kapsam dışı.** Run For Empathy yalnızca yerel etkinlik olarak planlanıyor. Aşağıdakiler bu etkinliğin kapsamına girmez:
+- Össur uluslararası iletişim veya global ortak arayışı
+- İngilizce içerik üretimi RFE çıkışlı
+- Hedef 3 (globalleşme) ile doğrudan köprü kurulması
+
+Hedef 3 ayrı izlenir. Bu etkinlikten elde edilen SROI verisi ve içerik Hedef 2 (ampüte misyonu) kapsamında değerlendirilir.
+
+---
+
+*Run For Empathy context v1.1 · 10 Haziran 2026 · Fox*
