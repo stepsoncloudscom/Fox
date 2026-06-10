@@ -72,7 +72,7 @@ Tam analiz belgesi. Yapı:
 - **Hızlı Kazanımlar / Stratejik / Uzun Vadeli** listeleri (somut, adım adım).
 - **Etki Özeti:** öneri / tahmini etki / güven düzeyi / süre tablosu.
 - **Sonraki Adım:** Marka Bulutu hizmet teklifine köprü.
-- **İçerik Ajanı için Brief:** raporun sonuna ekle — PPTX ve Excel için yapılandırılmış brief (bkz. Onay Döngüsü).
+- **İçerik Ajanı için Brief:** raporun sonuna ekle — PDF ve Excel için yapılandırılmış brief (bkz. Onay Döngüsü; Format Hiyerarşisi gereği PDF, PPTX değil).
 
 Çıktı klasörü: `/raporlar/[musteriadi]-marka-denetim-raporu.md`
 
@@ -101,12 +101,12 @@ Her denetimin tamamlanma akışı:
 1. Keşif & Denetim
    → Analiz tamamlar, Markdown rapor yazar
    → Raporun sonuna "İçerik Ajanı Brief" ekler:
-      - PPTX için: slide yapısı, her slaytta hangi veri, grafik tipi, marka renkleri
+      - PDF için: bölüm yapısı, her bölümde hangi veri, grafik tipi, register/tema (pdf-motoru)
       - Excel için: sheet yapısı, sütunlar, her satırdaki veri, renk kodlaması
    → İçerik Ajanı'nı spawn eder, brief'i iletir
 
 2. İçerik Ajanı
-   → Brief'e göre PPTX + Excel üretir
+   → Brief'e göre PDF (pdf-motoru.py) + Excel üretir
    → Keşif & Denetim'e iletir
 
 3. Keşif & Denetim — Onay Kontrolü

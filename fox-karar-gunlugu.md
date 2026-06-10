@@ -7,15 +7,18 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## AÇIK STRATEJİK KARARLAR
 
-### Nesa vs. Luxmed — Rakip Müşteri İkilemi
-- **Durum:** Luxmed ve Nesa, Türkiye protez-ortez sektöründe en büyük rakipler. İkisiyle de çalışmak çıkar çatışması yaratır. Luxmed rahatsızlığını tatlı dille belirtti.
-- **Fox önerisi:** Seçenek C+A — önce Nesa'yı keşif görüşmesiyle tanı (teklif yok, dinleme modu), sonra iki tarafı kıyasla (bütçe, karar hızı, döviz kapasitesi, ilişki kalitesi), güçlü olanla devam et.
-- **⚠️ Risk bayrağı:** Sözleşme imzalanmadan önce karar verilmeli. Gizlilik / rakip çalışma yasağı maddesi imzadan önce kontrol edilecek (Kademe 3).
-- **Statü:** AÇIK — Ayhan'ın kararı bekleniyor.
+### SOC Mağaza Mekanizması — "destekler" mi "finanse eder" mi?
+- **Durum:** Mağaza copy'sinde misyon bağı nasıl ifade edilecek — temkinli "destekler" mi, açık taahhüt "finanse eder" mi?
+- **Statü:** AÇIK — Ayhan'ın kararı bekleniyor (10 Haz'dan beri).
 
 ---
 
 ## VERİLEN KARARLAR
+
+### Nesa vs. Luxmed — Rakip Müşteri İkilemi → KAPANDI (10 Haz)
+- **Durum (tarihçe):** Luxmed ve Nesa, protez-ortez sektörünün en büyük rakipleri; ikisiyle çalışmak çıkar çatışmasıydı. Luxmed rahatsızlığını tatlı dille belirtmişti. Fox önerisi iki tarafı kıyaslamaktı.
+- **Karar (10 Haz):** **Nesa ile çalışılmıyor.** Temas hiç açılmadı; Luxmed tek medikal müşteri. Rekabet yasağı/exclusive clause meselesi kalmadı — strateji temiz zeminde.
+- **Ders (filo geneline işlendi):** Exclusive/rakip çatışması sorusu müşteri onboarding'inin İLK adımında sorulmalı — projenin ortasında çıkması gecikme yarattı. Denetmen + Strateji + Keşif ajan dosyalarına kural olarak eklendi (11 Haz).
 
 ### stepsonclouds.com Konumlandırması — Sosyal Etki Öncelikli (7 Haz)
 - **Tetikleyici:** Marka Bulutu OS, SOC'nin kendi sitesine uygulanmaya başlandı (Faz 2 öncesi). Denetim raporunun en kritik bulgusu "konumlandırma çatallanması" (sosyal etki markası vs. Marka Bulutu OS ticari sistemi aynı sitede) Ayhan'a karar olarak soruldu.
@@ -127,4 +130,14 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 10 Haziran 2026 · Fox*
+## KARARLAR (11 Haz)
+
+### Filo Eğitim Sistemi Kuruldu
+- **Karar (Ayhan: "diğer ajanları da eğitmemiz gerekiyor, sana büyük görev düşüyor"):** Ajan eğitimi Fox'un sorumluluğuna verildi. Dört mekanizma kuruldu: (1) stale bilgi temizliği, (2) vaka dersleri her projeden sonra tüm ajan dosyalarına işlenir, (3) her ajanın kendi Gelişim Yol Haritası (Faz 1-3), (4) Filo Senkronizasyon Kuralı (orkestrasyon protokolü §6 — proje kapanınca otomatik, Kademe 1).
+
+### A'dan Z'ye Sistem Check-up (Fable 5)
+- **Karar (Ayhan):** Tüm hafıza/protokol/ajan dosyaları Fable 5 ile baştan denetlendi ve derinleştirildi. 4 mercek: bayatlık, iç çelişki, hata, derinleşme ihtiyacı. Bulgular düzeltildi (bu oturum); YOLO bayat-bilgi hatası aynı gün yakalanıp düzeltildi → öz-denetim 1. soruya "Bilgi Tazeliği" eklendi.
+
+---
+
+*Sürüm: v1.1 · Son güncelleme: 11 Haziran 2026 · Fox*

@@ -75,10 +75,9 @@ Kurulduktan sonra Fox `list-brand-kits` ile erişip tüm Canva tasarımlarında 
 
 ## MÜŞTERİ MARKA KİTLERİ
 Her müşteri için ayrı kit buraya eklenecek (renk, font, ses). Şu an:
-- *Darya Dental — TODO (Instagram'dan çıkarılacak)*
-- *Luxmed — TODO*
-- *Towdoo — cupro, sürdürülebilir lüks, editorial; detay TODO*
-- *Ala Skateboards — siyah/beyaz, kaykay kültürü, ä logosu*
+- **Luxmed — KİMLİK HAZIR ✅** → `raporlar/luxmed-branding-kimlik.md` (Faz 3 Branding çıktısı, 10 Haz: tagline B finali, marka sesi 5 nitelik, sözel kimlik; Ayhan onayı sonrası müşteriye sunulacak)
+- **Ala Skateboards — aktif** — siyah/beyaz, kaykay kültürü, ä logosu (B2B materyaller: `raporlar/ala-materyaller/`)
+- *Arşiv (iş kapandı, referans değeri):* Towdoo — cupro, sürdürülebilir lüks, editorial (`sablonlar/towdoo-marka-context.md`) · Darya Dental — kit çıkarılmadı
 
 ---
 *Sürüm: v1 · 4 Haziran 2026 · Fox · Kaynak: Steps On Clouds Brand Identity Guide v1.0*

@@ -46,15 +46,15 @@ Corey'nin dehası: `product-marketing` skill'i tek bir **context belgesi** oluş
 
 ---
 
-## KURULUM SIRASI
+## KURULUM SIRASI — TAMAMLANDI ✅
 1. ✅ Keşif & Denetim Ajanı (zubair tabanlı)
 2. ✅ Müşteri Marka Context şablonu (Corey product-marketing tabanlı)
-3. **Strateji Ajanı** (Corey product-marketing + pricing + positioning + Dunford) — SIRADAKİ
-4. İçerik Ajanı (Corey copywriting/emails/social + parmak izleri)
-5. Growth Ajanı
-6. Branding Ajanı
+3. ✅ Strateji Ajanı (Corey product-marketing + pricing + Dunford)
+4. ✅ İçerik Ajanı (Corey copywriting/emails/social + parmak izleri)
+5. ✅ Growth Ajanı
+6. ✅ Branding Ajanı
 
-Her ajan: uyarla → Denetmen'le test → Darya/Luxmed pilot → sistemleştir.
+**Pilot da tamamlandı:** Luxmed — 5 fazın tamamı canlı vakada çalıştırıldı (10 Haz 2026). Towdoo'da Faz 1-2 test edilmişti (iş iptal, metodoloji kanıtı arşivde). Sıradaki aşama: sistemleştir → yeni müşteride tekrarla → vaka çalışmasına çevir.
 
 ---
 

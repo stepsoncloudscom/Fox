@@ -80,4 +80,4 @@ Sıcak ama kurumsal değil. Profesyonel ama mesafeli değil. (Darya yazışması
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 4 Haziran 2026 · Fox · Faz 2 tamamlandı*
+*Sürüm: v1 · Son güncelleme: 4 Haziran 2026 · Fox · v1 zemin kuruldu; Faz 2 derinleştirme (daha çok gerçek metinle kalibrasyon) 4 Ağu 2026 planlı — CLAUDE.md §10 ile uyumlu.*

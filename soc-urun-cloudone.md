@@ -61,8 +61,8 @@
 
 | Kanal | Önerilen görsel(ler) |
 |-------|---------------------|
-| Shopify ana ürün görseli | #1 (hero, beyaz bg) |
-| Shopify ikincil görseller | #2, #3, #5 |
+| Wix Store ana ürün görseli | #1 (hero, beyaz bg) |
+| Wix Store ikincil görseller | #2, #3, #5 |
 | Instagram kare | #6, #7 |
 | Instagram stories/reel önizleme | #4, #8 |
 | B2B materyal (hang tag, poster) | #1 |

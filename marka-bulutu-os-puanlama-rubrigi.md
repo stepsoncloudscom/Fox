@@ -188,7 +188,7 @@ Her ajan çıktısının sonunda **kendi rubriğine göre bir Kalite/Olgunluk Sk
 
 Her keşif bağlamında ağırlıklar ve ek kriterler değişir. Genel rubrik temel; bağlam üstüne biner.
 
-### A) KLİNİK / SAĞLIK (Darya Dental, Luxmed, Nesa)
+### A) KLİNİK / SAĞLIK (örn. Luxmed)
 **YMYL alanı — güven çıtası yüksek (Google).**
 
 | Kategori | Ağırlık (değişim) |
@@ -203,7 +203,7 @@ Her keşif bağlamında ağırlıklar ve ek kriterler değişir. Genel rubrik te
 
 **Ek kriterler:** Hekim/uzman kimliği görünür mü (E-E-A-T Expertise)? Hasta yorumları + öncesi/sonrası (etik sınırda)? Sertifika/akreditasyon? Gizlilik/KVKK güveni?
 
-### B) MODA / PERAKENDE (Towdoo, Ala)
+### B) MODA / PERAKENDE (örn. Ala; arşiv vaka: Towdoo)
 **Görsel-öncelikli + e-ticaret dönüşümü.**
 
 | Kategori | Ağırlık (değişim) |
@@ -390,7 +390,7 @@ Eşik değerleri gerçek endüstri benchmarklarıdır. Ağırlıklar bizim metod
 
 **v2'de gözden geçirilecekler:**
 - Yeni ajanlar (İş Katmanı: Satış/Finans/Hukuk) için rubrik eklenir mi?
-- Gerçek müşteri verisiyle eşikler kalibre edilir (SOC + Darya + Towdoo baseline'ları).
+- Gerçek müşteri verisiyle eşikler kalibre edilir (SOC + Luxmed baseline'ları; Towdoo arşiv vakası referans).
 - Ağırlıklar saha sonuçlarına göre ayarlanır.
 - Kalite çıtası yükseldikçe "85-100 A" tanımı sıkılaşır (bugünün A'sı yarının B'si olabilir).
 - Bağlam sayısı artar mı (yeni sektörler)?

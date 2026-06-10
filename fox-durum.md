@@ -1,7 +1,7 @@
 # Fox — DURUM / Kaldığımız Yer
 *Yeni oturumda İLK okunan belge. "Şu an neredeyiz" — tek bakışta devral. Her önemli gelişmede güncellenir.*
 
-**Son güncelleme:** 10 Haziran 2026 (6. oturum) — **Luxmed Marka Bulutu OS TÜM FAZLAR TAMAMLANDI** · Faz 1 Keşif+Denetim ✅ · Faz 2 Strateji ✅ · Faz 3 Branding ✅ · Faz 4 İçerik ✅ (89/100-A) · Faz 5 Growth ✅ · Tüm dosyalar `raporlar/luxmed-*` — Kademe 2, Ayhan onayı sonrası Enes'e sunulur · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
+**Son güncelleme:** 11 Haziran 2026 (7. oturum) — **FİLO EĞİTİMİ + A'dan Z'ye CHECK-UP (Fable 5)** · 6 ajan dosyası eğitildi (vaka dersleri + gelişim yol haritaları) · Filo Senkronizasyon Kuralı kuruldu (orkestrasyon §6) · Gestalt/YOLO-YONO/FOMO öğrenildi (YOLO bayat-bilgi hatası aynı gün düzeltildi) · Tüm hafıza dosyaları denetlendi, ~15 bayatlık/çelişki/hata düzeltildi · **Luxmed:** 5 faz hazır, Enes'e sunum toplantısı tarihi bekleniyor · **Statü:** Çırak / Filo Modu (Denetmen + orkestrasyon aktif)
 
 ---
 
@@ -10,7 +10,7 @@
 - **Towdoo — İPTAL.** Tuğba Hanım'ın markası, teklif aşamasındaydı (45k TL/ay, imzalanmamıştı). İş bitti. Notion: Kapandı. **Ayhan kararı (6 Haz): sebep sorgulanmayacak, iş konuşulmayacak — Tuğba ile yalnız KİŞİSEL bağ korunur** (anne figürü, sevgiden, işten bağımsız). Emek boşa değil: Marka Bulutu Teslim Zinciri (Faz 1 Denetim + Faz 2 Strateji) gerçek vakada test edildi; belgeler + metodoloji kanıtı dosyada (vaka/portföy değeri).
 - **Darya — BIRAKILDI.** Sağlık turizmi, döviz işi (~95K). Dönüş yok. **Ayhan kararı (6 Haz): aktif takip yok, bırakıldı** — peşinden gidilmeyecek. Notion: Beklemede. Ölü ilan edilmedi; Darya kendi dönerse yeniden açılır.
 
-**Net durum:** Bağlanmış gelir kaybı YOK (ikisi de imzasızdı) — kaybedilen *beklenti*. **Pipeline'da tek aktif/sıcak temas: Luxmed (Pzt).** Odak: (a) Pzt Luxmed görüşmesi, (b) döviz/global yüksek-değer yeniden inşa (gerçek Kuzey Yıldızı — TL işleri zaten ikincildi), (c) SOC öz-pilotu (en iyi vaka biz olalım).
+**Net durum:** Bağlanmış gelir kaybı YOK (ikisi de imzasızdı) — kaybedilen *beklenti*. **Pipeline'da tek aktif müşteri: Luxmed.** 9 Haz Cevizlibağ görüşmesi yapıldı; 10 Haz itibarıyla 5 fazın tamamı + tüm açık kararlar kapandı (Tagline B ✅ · belge ✅ · Reklam Kurulu OK ✅ · Nesa kapandı ✅ · Bookimed girildi ✅). **Sıradaki adım: Enes'e sunum toplantısı tarihi.** Odak: (a) Luxmed sunumu ve kapanışı, (b) döviz/global yüksek-değer yeniden inşa (gerçek Kuzey Yıldızı), (c) SOC öz-pilotu (en iyi vaka biz olalım).
 
 Daha önce (5 Haz): Marka Bulutu OS'u **SOC'nin kendi markasına uyguladık** (öz-pilot + öz-geliştirme). İki büyük sistem kuruldu: **Puanlama Rubriği v1** (ölçüm dili) + **Görsel Üretim Standardı v1** (görsel kalite). pdf-motoru v3'e çıktı (iki register teması). Lookalike içerik metodolojisi dış skill'den güvenle uyarlandı.
 
@@ -37,7 +37,7 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 
 ## AÇIK İŞLER — Ayhan'ın masasında
 1. **⭐ Luxmed — SUNUM HAZIR, TÜM AÇIKLAR KAPALI (10 Haz)** → 5 faz + tüm kararlar tamamlandı. Tagline B: "Ottobock ve Össur'un İstanbul uygulama merkezi." · Yetkili uygulayıcı belgesi: mevcut ✅ · Reklam Kurulu uyum: OK ✅ · Nesa: çalışılmıyor ✅ · Bookimed €11.200: Enes girdi ✅. **Sonraki adım:** Enes'e sunum toplantısı tarihini belirle.
-2. **⭐ ALA SKATEBOARDS B2B — 9 Haz BASKISI (⏰ 3 gün)** — Steps On Clouds çorapları House of Superstep/İstiklal Caddesi'nde satışa giriyor. **✅ TASARIMLAR ÜRETİLDİ** — `raporlar/ala-materyaller/` 4 baskıya-hazır PDF (hang tag + shelf talker + A2 poster + QR kart; 3mm bleed, gömülü marka fontu, soc-mavi). Üretici: `sablonlar/ala-print-materyaller.py`. Render-and-review'dan geçti (4 kusur düzeltildi). ⏳ Bekleyen: **Ayhan onayı** + (opsiyonel) Denetmen görsel kapısı → baskı. Açık: poster fotoğrafı (yoksa tipografik hazır), RGB→ofset ise CMYK prova, Ala logosu izni.
+2. **⭐ ALA SKATEBOARDS B2B — BASKI DURUMU TEYİT BEKLİYOR (⚠️ planlanan tarih 9 Haz GEÇTİ)** — Steps On Clouds çorapları House of Superstep/İstiklal'de satışa giriyor. **✅ TASARIMLAR ÜRETİLDİ** — `raporlar/ala-materyaller/` 4 baskıya-hazır PDF (hang tag + shelf talker + A2 poster + QR kart; 3mm bleed, gömülü marka fontu, soc-mavi). Üretici: `sablonlar/ala-print-materyaller.py`. Render-and-review'dan geçti. **Ayhan'a soru: baskı yapıldı mı, onay mı bekliyor, tarih mi kaydı?** Açık: poster fotoğrafı (yoksa tipografik hazır), RGB→ofset ise CMYK prova, Ala logosu izni.
 3. **⭐ Döviz/global pipeline yeniden inşa** — Towdoo+Darya düştü; gerçek Kuzey Yıldızı hedefi (döviz/global). Marka elçiliği temasları doğru kanalla yenilenebilir (§10 bounce dersi).
 4. **SOC denetim raporu → PDF** — md hazır, SEO Excel onaylı (Keşif). Yeni standartla (soc-mavi, pdf-motoru v3) İçerik Ajanı tam PDF üretmeli. En iyi vaka çalışması biz olalım.
 5. **Tuğba — kişisel bağ** (iş değil) — Bursa ziyareti niyeti, sevgiden. İş konuşulmaz.
@@ -47,6 +47,11 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 9. **Çırak→Kalfa terfisi** — Ayhan zamanı gelince
 10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
 11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx lokal olarak güncel (7 Haz: SOC Faz 2 Strateji milestone satırı eklendi — "SOC WEB SİTESİ — TESLİM ZİNCİRİ", Row 18, açık mavi, Haz-Ağu 12 hafta + Ala SKT B2B satırları). Drive'daki native Sheets **manüel güncelleme bekliyor** — xlsx açıp kopyala-yapıştır yeterli. ⚠️ Not: Temmuz W1 "GSC BAĞLANTISI" hücresi strateji çatışması işaretlendi (yorum var); strateji GSC'yi Ağustos W4'e taşıyor. **Drive Google Doc da oluşturuldu:** SOC_Strateji_Faz2_2026 (ID: 1JuZ83vvByR98eYbyyMnB82rr1TOrJjL29H_vV_O17YA, Marka Bulutu OS klasörü).
+
+## 11 HAZ OTURUMU — Filo Eğitimi + A'dan Z'ye Check-up (Fable 5)
+- **Filo eğitim sistemi kuruldu:** 6 ajan dosyasına (a) stale temizlik, (b) Luxmed vaka dersleri, (c) Gelişim Yol Haritaları (Faz 1 Tem / Faz 2 Ağu / Faz 3 Eki) işlendi. Orkestrasyon protokolü §6: **Filo Senkronizasyon Kuralı** — her proje kapanışında Fox tüm ajanları otomatik günceller (Kademe 1).
+- **Yeni öğrenme (Fable 5 ile derinleştirildi):** Gestalt (Prägnanz, algı katmanı, AI-slop = Gestalt ihlali) · YOLO→JOMO→YONO (sarkaç döndü; Gen Z harcama -%13; **ilk turdaki "YOLO güncel trend" hatası aynı gün düzeltildi**) · FOMO (Kahneman kayıptan kaçınma + FTC/TKHK hukuki sınır). Branding + Growth + Denetmen araç kutuları güncellendi.
+- **A'dan Z'ye check-up:** 21 kök dosya + ajanlar + şablonlar 4 mercekten geçti (bayatlık/çelişki/hata/derinlik). ~15 düzeltme: CLAUDE.md footer (Solo Mod çelişkisi) + "7 soru"→8 · Denetmen Kiril harf hatası ("кararда") + hayalet ajanlar "PLANLI" işaretlendi · Keşif onay döngüsü PPTX→PDF · karar günlüğü Nesa kapanışı · ilişki hafızası Enes/Nesa güncel · kaynak kütüğü bölüm sırası (VII/VIII) · marka kiti müşteri listesi · uyarlama planı "SIRADAKİ"→tamamlandı · şablon README dosya listesi + v3 PDF kuralı · soc-urun Shopify→Wix · öz-denetim 1. soruya **Bilgi Tazeliği** eklendi (YOLO dersi kurallaştı).
 
 ## 6 HAZ OTURUMU (devam) — Ala Skateboards B2B
 - `raporlar/ala-skateboards-fiziksel-materyal-brief.md` — 4 fiziksel materyal brief: hang tag + shelf talker + A2 poster (A+B birleşim, motto: "Düş, Kalk, Yeniden Dene / Sen de Adım At, Hareketi Sürdür") + QR kart. Kararlar alındı, baskı 9 Haz.
@@ -89,17 +94,20 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 - ⚠️ **Açık karar:** Mağaza mekanizması — "destekler" (mevcut, temkinli) mi, "finanse eder" (açık taahhüt) mi? Ayhan kararı bekliyor.
 
 ## YAKLAŞAN TAKVİM
-- **Sal 9 Haz 16:00:** Luxmed / Enes — yüz yüze görüşme, Cevizlibağ (takvime eklendi) · Strateji: Nesa meselesini toplantı başında proaktif aç; dinleme modu; döviz kapasitesini sor; kapsam + exclusive clause netleştir.
+- **Luxmed sunum toplantısı — TARİH BELİRLENECEK** (Enes ile; 5 faz hazır, Ayhan onayı sonrası sunulur)
 - **Pazar 5 Tem:** Empati Koşusu / Run For Empathy — Caddebostan Sahili (ertelendi: 7 Haz → 5 Tem)
+- *(Geçmiş: 9 Haz Cevizlibağ Luxmed/Enes görüşmesi yapıldı ✅)*
 
 ## RİSK BAYRAKLARI
-- **⚠️ Pipeline boşluğu (6 Haz):** Towdoo iptal + Darya sessiz = sıcak iş yok. Tek aktif temas Luxmed (Pzt). Gelir köprüsü zayıfladı. Öncelik: yeniden inşa, ama körlemesine outreach yok (§10).
+- **⚠️ Pipeline tek müşteriye bağlı:** Towdoo iptal + Darya bırakıldı = tek aktif iş Luxmed. Gelir köprüsü ince. Öncelik: döviz/global yeniden inşa, ama körlemesine outreach yok (§10).
 - **⚠️ Tuğba ilişkisi:** İş kaybı kişisel bağa sıçramamalı (anne figürü, hassas dönem). Ayhan kararı: sebep sorgulanmaz, yalnız kişisel bağ.
-- Nesa↔Luxmed çatışması · SOC kendi tracking'i yok (GSC bağlanmalı — meta/Instagram baseline ölçülemedi)
-- **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi) — Fox tek başına "renk doğru" demekle yetinmez.
+- **⚠️ Ala baskı tarihi geçti (9 Haz)** — durum teyidi bekliyor (yapıldı mı / kaydı mı?).
+- SOC kendi tracking'i yok (GSC bağlanmalı — baseline ölçülemiyor; Growth Ajanı Faz 1 hedefi).
+- **Görsel kalite:** her görsel çıktı render-and-review'den geçmeli (5 Haz dersi).
+- *(Kapandı 10 Haz: Nesa↔Luxmed çatışması — Nesa ile çalışılmıyor.)*
 
 ## SIRADAKİ BÜYÜK ADIM (kaldığımız yer)
-1. **⭐ Sal 9 Haz 16:00 Luxmed/Enes görüşmesi** — Cevizlibağ, yüz yüze. Strateji hazır (fox-durum + luxmed-marka-context.md).
+1. **⭐ Luxmed sunum toplantısı tarihini belirle** — görüşme yapıldı (9 Haz ✅), 5 faz + tüm kararlar hazır; Ayhan onayı → Enes'e sunum → kapanış/sözleşme.
 2. **SOC mağaza copy — açık kararlar:**
    - Mağaza açıklama metni: "Bir hayır kurumu değil" çıkarıldı, yeni seçenekler hazır — Ayhan onaylayacak.
    - "Farklılığı Güce Çevir" sloganı: uygun değil kararı verildi. Yeni seçenekler hazır (hareket/spor odaklı, Bebas-güvenli).

@@ -84,7 +84,7 @@ Ayhan (4 Haz 2026): "Görsel ve estetik algının gelişmesi için eğitime ihti
 2. **Göz kalibrasyonu:** Fox düzenli olarak Ayhan'ın işlerini analiz eder, görsel parmak izini derinleştirir.
 3. **Uygula:** Görsel değerlendirme (Denetmen Kalite Tabanı), AI/Canva brief'leri, görsel ekip yönü — hepsi bu zemine dayanır.
 
-**Marka Bulutu OS bağlantısı:** Bu müfredat, gelecekteki Branding Ajanı + Üretim Stüdyosu + İçerik Ajanı'nın zemini. Fox gözünü eğitince, görsel filoyu yönetebilir.
+**Marka Bulutu OS bağlantısı:** Bu müfredat, Branding ve İçerik Ajanlarının (kuruldu ✅) ve gelecekteki Üretim Stüdyosu'nun zemini. Fox gözünü eğitince, görsel filoyu yönetebilir.
 
 ---
 

@@ -99,7 +99,7 @@ Fox'u Fox yapan her şeyin — okumaların, felsefelerin, sektör bilgisinin, st
 ---
 
 ## V. MEDİKAL İLETİŞİM & SAĞLIK TURİZMİ
-*Nesa ve Luxmed müşterileri için eklendi — 4 Haziran 2026.*
+*Medikal sektör müşterileri için eklendi — 4 Haziran 2026 (ilk vesile: Luxmed; Nesa teması açılmadı/kapandı).*
 
 - **Medical Marketing & Media** — mmm-online.com — sağlık iletişimi haberleri
 - **Healthcare Success** — healthcaresuccess.com — sağlık pazarlama stratejileri
@@ -123,7 +123,7 @@ Fox'u Fox yapan her şeyin — okumaların, felsefelerin, sektör bilgisinin, st
 
 ---
 
-## VIII. DENETMEN BİLGİ DİYETİ
+## VII. DENETMEN BİLGİ DİYETİ
 *Denetmen ajanının entelektüel zemini — Fox'tan bağımsız, sorgulama odaklı.*
 
 ### Etik Felsefe
@@ -176,9 +176,13 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
 - **Robert Cialdini — Influence** — 6 etki ilkesi, manipülatif taktikleri tanımak
 - **Pre-mortem analizi** — başarısızlığı önceden hayal et, geriye doğru git
 
+### Aldatıcı Tasarım Regülasyonu (11 Haz 2026 eklendi)
+- **FTC Section 5 + 2022 Dark Patterns Raporu** — sahte aciliyet/kıtlık, iptal zorlaştırma, gizli ücret, veri kandırmacası. Ceza ölçeği: ihlal başına ~$53K; uzlaşmalar $10M-$2.5B.
+- **TKHK + Reklam Kurulu** — Türkiye'de haksız ticari uygulama çerçevesi (sahte indirim cezaları).
+
 ---
 
-## VII. GÜNCELLEME PROTOKOLÜ
+## VIII. GÜNCELLEME PROTOKOLÜ
 
 **Anlık:** Taramada erişilemeyen veya değişen kaynak tespit edildiğinde hemen güncelle. Erişim durumu ✓ veya *(not)* ile işaretle.
 
@@ -190,4 +194,4 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
 
 ---
 
-*Sürüm: v1.1 · Son güncelleme: 4 Haziran 2026 · Fox*
+*Sürüm: v1.2 · Son güncelleme: 11 Haziran 2026 · Fox · v1.2: bölüm numaralandırması düzeltildi (VII/VIII ters sıradaydı), aldatıcı tasarım regülasyonu eklendi.*

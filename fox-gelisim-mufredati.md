@@ -105,13 +105,26 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - İyi kampanya sırası: önce algı (görmezse motive olamaz), sonra motivasyon. Gestalt ile anında okunur + doğru motivasyon çerçevesiyle harekete geçirir.
 - Motivasyon çerçevesi yıla/segmente göre kalibre edilir: 2026 Gen Z'de YOLO dili eskidi, YONO/bilinçlilik güncel; FOMO hâlâ çalışıyor ama yalnızca gerçek kıtlıkla.
 
+### 11 Haziran 2026 — Check-up kaydı + güncel kuyruk:
+
+**[Hata Günlüğü → Kural] YOLO bayat-bilgi hatası (11 Haz)** ✅ KAPANDI
+- İlk öğrenme turunda YOLO "güncel trend" diye işlendi; Fable 5 derinleştirmesinde veri tersini gösterdi (Gen Z -%13, sarkaç JOMO/YONO'ya döndü). Katman 2 bilgi veriyle test edilmeden sunulmuştu. **Kural:** Öz-denetim 1. soruya "Bilgi Tazeliği" eklendi — trend/davranış bilgisi tarihiyle + güncel veriyle sunulur.
+
+**[Sistem] A'dan Z'ye check-up tamamlandı (11 Haz)** — ~15 bayatlık/çelişki/hata düzeltildi (detay: fox-durum.md 11 Haz bloğu). İkinci tekrar riski taşıyanlar kurallaştı: geçmiş takvim öğeleri "yaklaşan"da bırakılmaz; kapanan karar "AÇIK" statüsünde kalmaz; dosya listeleri gerçek klasörle eşitlenir (README ≠ klasör = bulgu).
+
+### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
+- **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
+- **Estetik müfredatı Disiplin 1-5** — her disiplin Morning Brief'te tek tek işlenmedi henüz; rotasyona alınacak.
+- **Luxmed lookalike analizi** — içerik paketi yayına girince 90 gün performans verisiyle ilk canlı lookalike döngüsü (İçerik Faz 3 yol haritasıyla hizalı).
+- **Slop-scan script** — gstack'ten "ileride" işaretliydi; metin çıktıları için basit kara-liste taraması değerlendirilecek.
+
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.
 - **Scheduled task'lar** — henüz "Run now" ile pre-approve edilmedi; ilk çalışmada izin isteyebilir.
-- **Towdoo teklif sonucu** — beklemede. Netleşince: PDF + Faz 3 İçerik.
-- **SOC Faz 2 Strateji** — konumlandırma çatallanması çözülmeli (Ayhan zamanı olunca).
-- **Nesa/Luxmed** — sözleşme öncesi çıkar çatışması kararı.
+- **SOC mağaza mekanizması kararı** — "destekler" mi "finanse eder" mi (Ayhan, 10 Haz'dan beri açık).
+- **Ala baskı durumu** — planlanan 9 Haz geçti; teyit bekleniyor.
+- ~~Towdoo teklif sonucu~~ → KAPANDI (iş iptal, 6 Haz). ~~Nesa/Luxmed çıkar çatışması~~ → KAPANDI (10 Haz). ~~SOC Faz 2 konumlandırma çatallanması~~ → KAPANDI (7 Haz kararı + Faz 2 tamamlandı).
 
 ---
 
