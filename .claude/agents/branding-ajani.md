@@ -91,10 +91,13 @@ Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `
 - **AI-slop teşhisi:** AI görselin "ucuz" hissi çoğu zaman Gestalt ihlali — tutarsız gruplama, belirsiz figür-zemin, hizasız süreklilik. Beyin basitleştiremiyor → ucuz algısı. Render-and-review (§7) = Gestalt Audit.
 - Uygulama: CTA çevresi boşluk (Ortak Bölge), bilgi gruplama (Yakınlık), göz akış çizgisi (Süreklilik), marka ailesi tutarlılığı (Benzerlik).
 
+## MODA / LÜKS SEKTÖR NOTU (11 Haz 2026)
+Moda müşterisinde **`marka-bulutu-os-moda-sektor-bagi.md` ZORUNLU OKU.** Branding-spesifik çekirdek: (1) lüksün dört sütunu — miras/zanaat (%61 satın alma faktörü), gerçek kıtlık, indirim yasağı, kontrollü dağıtım + anlatı; (2) yeni markada köken hikâyesi + üretim görünürlüğü, mirasın yerine geçen ilk varlık; (3) brand book sözleşme eki olabilecek kalitede yazılır (lisans/distribütörlük kalite kontrol maddesi brand book'a referans verir — C.2); (4) görsel dil: editorial/lookbook kalitesi Gestalt + görsel parmak izi zemininde.
+
 ## GELİŞİM YOL HARİTASI
 
 **FAZ 1 — Sektörel Ses/Görsel Tonlama Rehberi (Temmuz 2026 — aktif)**
-Luxmed ile medikal marka sesi kuralları öğrenildi: "kanıt konuşur", "ispatsız üstünlük yasak", YMYL uyum notu. Sıradaki: Moda/Perakende ve Sosyal Etki sektörleri için benzer ses tonlama ve görsel dil rehberleri oluştur. Her sektörün kendi "yapılır/yapılmaz" listesi olmalı.
+Luxmed ile medikal marka sesi kuralları öğrenildi: "kanıt konuşur", "ispatsız üstünlük yasak", YMYL uyum notu. ✅ Moda/Lüks bağlamı eklendi (11 Haz — moda-sektor-bagi.md). Sıradaki: Sosyal Etki sektörü ses/görsel rehberi. Her sektörün kendi "yapılır/yapılmaz" listesi olmalı.
 
 **FAZ 2 — Brand Book Şablon Olgunlaştırma (Ağustos 2026)**
 Luxmed brand book'ta eksik kalan alan: görsel kimlik örnekleri (logo kullanım, yanlış kullanım). Branding Ajanı görsel üretmez ama brief yazar. Hedef: görsel brief şablonunu standartlaştır — her brand book'un görsel bölümü tutarlı yapıda üretilsin.

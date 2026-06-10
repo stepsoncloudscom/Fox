@@ -48,6 +48,12 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
 11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx lokal olarak güncel (7 Haz: SOC Faz 2 Strateji milestone satırı eklendi — "SOC WEB SİTESİ — TESLİM ZİNCİRİ", Row 18, açık mavi, Haz-Ağu 12 hafta + Ala SKT B2B satırları). Drive'daki native Sheets **manüel güncelleme bekliyor** — xlsx açıp kopyala-yapıştır yeterli. ⚠️ Not: Temmuz W1 "GSC BAĞLANTISI" hücresi strateji çatışması işaretlendi (yorum var); strateji GSC'yi Ağustos W4'e taşıyor. **Drive Google Doc da oluşturuldu:** SOC_Strateji_Faz2_2026 (ID: 1JuZ83vvByR98eYbyyMnB82rr1TOrJjL29H_vV_O17YA, Marka Bulutu OS klasörü).
 
+## 11 HAZ OTURUMU (devam) — Moda Sektörü Hazırlık Paketi
+- **Senaryo:** "Kapıdan moda markası sahibi girerse A'dan Z'ye hazır mıyız?" — Ayhan talimatı. Derin araştırma (8 arama, 3 kol: high-fashion inşa + pazarlama kaynakları + uluslararası sözleşmeler).
+- **Çıktı:** `marka-bulutu-os-moda-sektor-bagi.md` — 6 bölüm: lüks inşa ilkeleri (A) · emerging launch playbook + birim ekonomisi (B) · hukuki katman: IP rejimleri/lisans-distribütörlük/CISG-Incoterms-L/C/influencer sözleşmeleri (C) · ajan görev haritası (D) · onboarding kontrol listesi — exclusive clause sorusu dahil (E) · kaynaklar (F).
+- **Bağlantılar:** Growth + Strateji + Branding ajanlarına sektör notları · Denetmen'e moda hukuku mercekleri (koşulsuz exclusivity = DUR; Ayhan'a gelen elçilik tekliflerinde süresiz imaj devri = DUR) · kaynak kütüğüne State of Fashion / TFL / Lyst / WIPO.
+- **Açık:** State of Fashion 2026 tam raporu okunacak (kuyruğa alındı). İlk moda müşterisi vakasında paket saha verisiyle kalibre edilecek.
+
 ## 11 HAZ OTURUMU — Filo Eğitimi + A'dan Z'ye Check-up (Fable 5)
 - **Filo eğitim sistemi kuruldu:** 6 ajan dosyasına (a) stale temizlik, (b) Luxmed vaka dersleri, (c) Gelişim Yol Haritaları (Faz 1 Tem / Faz 2 Ağu / Faz 3 Eki) işlendi. Orkestrasyon protokolü §6: **Filo Senkronizasyon Kuralı** — her proje kapanışında Fox tüm ajanları otomatik günceller (Kademe 1).
 - **Yeni öğrenme (Fable 5 ile derinleştirildi):** Gestalt (Prägnanz, algı katmanı, AI-slop = Gestalt ihlali) · YOLO→JOMO→YONO (sarkaç döndü; Gen Z harcama -%13; **ilk turdaki "YOLO güncel trend" hatası aynı gün düzeltildi**) · FOMO (Kahneman kayıptan kaçınma + FTC/TKHK hukuki sınır). Branding + Growth + Denetmen araç kutuları güncellendi.

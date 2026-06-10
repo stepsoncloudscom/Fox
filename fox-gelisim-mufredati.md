@@ -112,6 +112,11 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 
 **[Sistem] A'dan Z'ye check-up tamamlandı (11 Haz)** — ~15 bayatlık/çelişki/hata düzeltildi (detay: fox-durum.md 11 Haz bloğu). İkinci tekrar riski taşıyanlar kurallaştı: geçmiş takvim öğeleri "yaklaşan"da bırakılmaz; kapanan karar "AÇIK" statüsünde kalmaz; dosya listeleri gerçek klasörle eşitlenir (README ≠ klasör = bulgu).
 
+**[Büyüme Ustalığı + Sektör Nabzı] Moda Sektörü Hazırlık Paketi kuruldu (11 Haz)** ✅
+- Derin araştırma (Fable 5): high-fashion inşa (Hermès kıtlık/sessizlik, Chanel +%45 2025, miras %61 satın alma faktörü) · emerging launch (LTV:CAC 3:1, iade %30, marj %45-55, kanal 1+1+1) · lüks fiyatlama (Veblen, çapa — Blair Enns D1 ile aynı mekanizma) · hukuk (AB/ABD/TR IP rejim farkları, lisans vs distribütörlük, CISG/Incoterms/UCP600, influencer sözleşmeleri).
+- Çıktı: `marka-bulutu-os-moda-sektor-bagi.md` (merkezi) + Growth/Strateji/Branding bağlantıları + Denetmen hukuk mercekleri + kaynak kütüğü (State of Fashion, TFL, Lyst).
+- **2026 kritik sinyal:** McKinsey State of Fashion 2026 "When the Rules Change" — markalar yukarı kayıyor (brand elevation), orta segment sıkışıyor. YONO tüketicisi premium fiyatın meşrulaştırıcısı olabilir ("cost per wear"). İleri adım: State of Fashion 2026 tam raporu okunacak (PDF açık erişim).
+
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
 - **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
 - **Estetik müfredatı Disiplin 1-5** — her disiplin Morning Brief'te tek tek işlenmedi henüz; rotasyona alınacak.

@@ -60,9 +60,17 @@ Fox'u Fox yapan her şeyin — okumaların, felsefelerin, sektör bilgisinin, st
 - **It's Nice That** — itsnicethat.com — yaratıcı prodüksiyon, fotoğraf, grafik ✓
 
 ### Global — Trend & Strateji
+- **⭐ McKinsey × BoF — The State of Fashion** — yıllık ana stratejik rapor (her Kasım-Aralık; 2026: "When the Rules Change" — markalar yukarı kayıyor). MUTLAKA yıllık okunur.
+- **BoF Insights** — BoF'un veri/danışmanlık kolu; sektör araştırmaları.
+- **Lyst Index** — lyst.com — çeyreklik en sıcak marka/ürün sıralaması (talep sinyali).
 - **WGSN** — wgsn.com — trend forecasting *(ücretli, referans için)*
 - **Pinterest Trends** — görsel trend sinyalleri
 - **Vogue Runway** — koleksiyon arşivi, görsel referans
+
+### Moda Hukuku (11 Haz 2026 eklendi)
+- **The Fashion Law (TFL)** — thefashionlaw.com — moda hukuku birincil kaynağı (IP, sözleşme, regülasyon)
+- **WIPO Fashion & IP** — wipo.int/en/web/fashion — tasarım koruması uluslararası zemin
+- **Hukuki metinler:** CISG (UNCITRAL) · Incoterms 2020 (ICC) · UCP 600 (akreditif) · SMK 6769 (TÜRKPATENT)
 
 ### Global — Fotoğraf & Prodüksiyon
 - **Lürzer's Archive** — luerzersarchive.com — reklam yaratıcılığı

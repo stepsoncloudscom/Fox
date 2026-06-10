@@ -100,6 +100,17 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 
 ---
 
+## MODA / LÜKS SEKTÖR BAĞLAMI
+*11 Haziran 2026 — moda müşterisi hazırlığı. **Ana kaynak: `marka-bulutu-os-moda-sektor-bagi.md`** (ZORUNLU OKU — moda müşterisinde işe başlamadan önce).*
+
+**Growth-spesifik özet:**
+- **Kanal disiplini 1+1+1:** 1 birincil (sağlıklı ROAS) + 1 büyüyen ikincil + 1 test. Her yere yayılmak = ölüm.
+- **Birim ekonomisi eşikleri:** LTV:CAC ≥3:1 · iade ~%30 (plana baştan katılır) · brüt marj %45-55 bandı.
+- **Görsel AI araması +%312:** product schema + görsel SEO + GEO modada birincil görünürlük yatırımı.
+- **UGC > stüdyo:** kullanıcı içeriği tutarlı kazanıyor; hook ilk 3 saniye.
+- **Lüks segmentte performans reklamı marka inşasının İKAMESİ değil** (Hermès sessizliği) — editorial + PR + topluluk önce.
+- **Kıtlık mekanikleri yalnız GERÇEK kıtlıkla** (FOMO hukuki sınırı — FTC/TKHK). İndirim kültürü lüks konumlandırmayı kalıcı bozar; alternatif: private sale, arşiv satışı, sınırlı erişim.
+
 ## MEDİKAL / KLİNİK SEKTÖR BAĞLAMI
 *9 Haziran 2026 — Luxmed görüşmesi öncesi eklendi. Luxmed, Darya ve benzeri sağlık sektörü müşteriler için geçerli.*
 

@@ -110,10 +110,13 @@ Her strateji çıktısının sonunda **Strateji Olgunluk Skoru** ver — `marka-
 
 ---
 
+## MODA / LÜKS SEKTÖR NOTU (11 Haz 2026)
+Moda müşterisinde çalışmadan önce **`marka-bulutu-os-moda-sektor-bagi.md` ZORUNLU OKU.** Strateji-spesifik çekirdek: (1) segment kararı önce — lüks/premium/contemporary/mass, her şey buna bağlı; (2) DTC-toptan dengesi = ilk büyük ticari karar (B.1); (3) fiyat mimarisi Veblen + çapa + katmanlı erişim (B.3 — Blair Enns üç-katman mimarisiyle aynı mekanizma); (4) 2026 gerçeği: markalar yukarı kayıyor, YONO tüketicisi "az ama iyi" diyor — premium fiyatın meşrulaştırıcısı "cost per wear" anlatısı; (5) indirim kültürü lüks konumlandırmayı kalıcı bozar.
+
 ## GELİŞİM YOL HARİTASI
 
 **FAZ 1 — Sektörel Strateji Kütüphanesi (Temmuz 2026 — aktif)**
-Luxmed ile medikal/YMYL strateji zemini kuruldu. Sıradaki: Moda/Perakende ve Sosyal Etki bağlamları için şablon strateji çerçevesi oluştur. Her sektör tipinin kendi Dunford 5 bileşen tetikleyicisi, funnel vurgusu ve AARRR ağırlık tablosu olmalı.
+Luxmed ile medikal/YMYL strateji zemini kuruldu. ✅ Moda/Lüks bağlamı eklendi (11 Haz — moda-sektor-bagi.md). Sıradaki: Sosyal Etki bağlamı için şablon strateji çerçevesi. Her sektör tipinin kendi Dunford 5 bileşen tetikleyicisi, funnel vurgusu ve AARRR ağırlık tablosu olmalı.
 
 **FAZ 2 — Gerçek Müşteri Verisi Entegrasyonu (Ağustos 2026)**
 Strateji şu an context belgesinden üretiliyor. Hedef: müşteri görüşmesinden verbatim söylem toplama protokolü → ICP tanımını müşterinin kendi diliyle zenginleştir. "Strateji konuşması" soru şablonu oluştur.
