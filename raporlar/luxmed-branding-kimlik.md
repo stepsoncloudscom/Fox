@@ -18,10 +18,10 @@
 - TR: "Dünya standartları. İstanbul'da."
 - EN: "World standards. In Istanbul."
 
-**Aday B** — Yetki + kimlik (öneri: kurumsal, Bookimed, B2B)
+**Aday B ✅ FİNAL (Ayhan onayı — 10 Haz 2026)** — Yetki + kimlik
 - TR: "Ottobock ve Össur'un İstanbul uygulama merkezi."
 - EN: "Istanbul's authorized application center for Ottobock and Össur."
-- ⚠️ Reklam Kurulu uyum kontrolü zorunlu
+- ⚠️ Reklam Kurulu uyum kontrolü zorunlu (sunum öncesinde)
 
 **Aday C** — Hasta deneyimi + hareket (öneri: sosyal medya, kısa format)
 - TR: "Hareket burada başlar."
@@ -170,11 +170,11 @@ Wordmark (sadece tipografi) — minimal, uluslararası:
 
 ---
 
-## AYHAN'A BAYRAKLAR (3 Madde — Müşteriye Sunumdan Önce)
+## AYHAN'A BAYRAKLAR (Güncellendi — 10 Haz 2026)
 
-1. **Tagline final seçimi:** 3 aday Enes'e sunulup karar alınacak. Aday B için Reklam Kurulu uyum kontrolü önceden tamamlanmalı.
-2. **Ottobock/Össur IP kullanımı:** Luxmed'den yetkili uygulayıcı belgesi temin edilmeden tagline ve Bookimed kopyasında marka adı kullanılamaz.
-3. **"2.000+ uygulama" / "15 yıl" beyanları:** Enes doğrulayana kadar tüm materyalde "beyan edilen" kaydı tutulacak.
+1. ~~Tagline final seçimi~~ ✅ **KAPANDI** — Aday B seçildi. Reklam Kurulu uyum kontrolü sunum öncesinde yapılacak.
+2. **Ottobock/Össur IP kullanımı:** Yetkili uygulayıcı belgesi temin edilmeden tagline ve Bookimed kopyasında marka adı kullanılamaz. (Açık)
+3. **"2.000+ uygulama" / "15 yıl" beyanları:** Enes doğrulayana kadar tüm materyalde "beyan edilen" kaydı tutulacak. (Açık)
 
 ---
 

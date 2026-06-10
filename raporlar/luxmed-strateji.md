@@ -5,7 +5,7 @@
 
 ---
 
-> **⚠️ KAPSAM DIŞI:** Nesa exclusive meselesi bu strateji belgesinin kapsamı dışında bırakılmıştır. Eğer Nesa ile rekabet yasağı / exclusivity anlaşması varsa kanal stratejisi ve konumlandırma yeniden değerlendirilmeli. Bu soru Ayhan + Luxmed arasında ayrı karar belgesiyle netleştirilecek.
+> ~~**⚠️ KAPSAM DIŞI:** Nesa exclusive meselesi~~ ✅ **KAPANDI (10 Haz 2026):** Nesa ile çalışılmıyor. Rekabet yasağı yok. Strateji temiz zemin üstünde.
 
 > **⚠️ DOĞRULANMAMIŞ İDDİA:** "Çok dilli hizmet" (Rusça/Arapça/Fransızca/İngilizce) müşteri beyanına dayanmaktadır. Gerçek operasyonel altyapı (native-speaker personel, yazılı çeviri kapasitesi) Luxmed tarafından doğrulanmadan bu iddia mesaj mimarisinin merkezi yapılamaz. Doğrulanana kadar "beyan edilen kapasite" olarak işaretli tutulacak.
 

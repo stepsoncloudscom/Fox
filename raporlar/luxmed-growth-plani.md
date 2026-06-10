@@ -5,7 +5,7 @@
 
 ---
 
-> **KAPSAM UYARISI:** Nesa exclusive meselesi kapsam dışı. O karar netleşmeden Nesa ile ilgili hiçbir karşılaştırma/konumlandırma başlatılmaz.
+> ~~**KAPSAM UYARISI:** Nesa exclusive meselesi~~ ✅ **KAPANDI (10 Haz 2026):** Nesa ile çalışılmıyor. Rakip olarak analiz edilebilir; exclusivity riski yok.
 > **VERİ UYARISI:** Tüm sayısal hedefler "varsayım" etiketli — HTTP 403 çözümü + GSC bağlantısı sonrası kalibre edilir.
 
 ---
