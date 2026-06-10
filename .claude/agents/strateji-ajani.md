@@ -97,8 +97,29 @@ Her strateji çıktısının sonunda **Strateji Olgunluk Skoru** ver — `marka-
 
 ---
 
+## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 2)**
+- **Dunford 5 bileşen canlı vakada test edildi:** "Uluslararası hasta" konumlandırması rakip alternatiflerin boşluğundan çıktı — Nesa ve Teknik Ortopedi lokal hasta için kurgulanmış, uluslararası dijital kanal yok. Ders: farklılaşma rakibin neyi *yapmadığında* gizli; bileşen 1 (rekabet alternatifleri) her zaman önce gelir.
+- **YMYL strateji uyum notu:** "Hareket özgürlüğü merkezi" gibi kategori iddiaları Reklam Kurulu kısıtına çarpabilir. Her medikal strateji belgesine "⚠️ YMYL uyum — reklam materyalinde Reklam Kurulu onayı gerekebilir" notu eklenir.
+- **Doğrulanmamış iddiaları strateji dışı tut:** "Çok dilli hizmet" beyana dayalıydı. Strateji bunun üzerine inşa edildi ama "doğrulanana kadar mesaj mimarisinin merkezine koyma" notu eklendi. Ders: doğrulanmamış yetenek = strateji kaldıracı değil, hipotez.
+- **Exclusive clause zamanlaması:** Rakiple çıkar çatışması projenin başında sorgulanmalı. Luxmed'de Nesa sorusu ortada çıktı, gecikme yarattı. Kural: context doldururken "rakip/exclusive clause" sorusu onboarding adımı.
+
 ## İLK PİLOT
-**Darya Dental** veya **Towdoo** — context doldurulduktan sonra ilk strateji belgesi. Hem müşteriye değer, hem Marka Bulutu metodolojisinin canlı kanıtı.
+**Luxmed tamamlandı (Haziran 2026) — Marka Bulutu metodolojisinin canlı kanıtı.** Sıradaki müşteri: pipeline açık.
 
 ---
-*Strateji Ajanı v1 · Marka Bulutu OS · Kaynak: Corey Haines marketing-plan + product-marketing, özümsenerek uyarlandı · Dunford konumlandırma · 4 Haziran 2026*
+
+## GELİŞİM YOL HARİTASI
+
+**FAZ 1 — Sektörel Strateji Kütüphanesi (Temmuz 2026 — aktif)**
+Luxmed ile medikal/YMYL strateji zemini kuruldu. Sıradaki: Moda/Perakende ve Sosyal Etki bağlamları için şablon strateji çerçevesi oluştur. Her sektör tipinin kendi Dunford 5 bileşen tetikleyicisi, funnel vurgusu ve AARRR ağırlık tablosu olmalı.
+
+**FAZ 2 — Gerçek Müşteri Verisi Entegrasyonu (Ağustos 2026)**
+Strateji şu an context belgesinden üretiliyor. Hedef: müşteri görüşmesinden verbatim söylem toplama protokolü → ICP tanımını müşterinin kendi diliyle zenginleştir. "Strateji konuşması" soru şablonu oluştur.
+
+**FAZ 3 — Ölçüm Kapanışı (Ekim 2026)**
+Strateji belgesi "90 gün sonrası ne ölçülecek?" bölümüyle teslim edilir. Keşif baseline + Strateji tahmini + 90 gün sonrası gerçek → üçgen kapanır. Bu üçgen marka değerinin kanıtıdır.
+
+---
+*Strateji Ajanı v2 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*

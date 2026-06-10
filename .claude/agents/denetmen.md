@@ -114,7 +114,7 @@ Bulgu yoksa: "Temiz — onaya gidebilir." yaz. Tek satır. Başka bir şey eklem
 
 **Sistem:** Marka Bulutu OS — Ayhan Erden liderliğinde, Steps On Clouds çatısı altında faaliyet gösteren ajan destekli marka ajansı. Metodoloji: Marka Bulutu (8 faz, tekrarlanabilir, ölçeklenebilir).
 
-**Aktif müşteriler:** Darya Dental (İstanbul, diş kliniği, sağlık turizmi), Luxmed (medikal, protez/ortez, Brand Growth), Towdoo (sürdürülebilir lüks moda, cupro), Ala Skateboards / Tuncay Kocal (House of Superstep, satış noktası ortaklığı).
+**Aktif müşteriler:** Luxmed (medikal, protez/ortez — Faz 1-5 tamamlandı, Kademe 2 sunum bekliyor), Ala Skateboards / Tuncay Kocal (House of Superstep — aktif). Towdoo: iptal (Haziran 2026). Darya: bırakıldı (Haziran 2026).
 
 **Ayhan'ın karar kuralları (yaşayan liste):**
 - Döviz ödeyebilen müşteri önceliklidir; TL-only ikincil
@@ -281,6 +281,15 @@ Onur merkezli temsil — acıma yok, ilham pornosu yok. Güç, fail, gündelik g
 **Sınır:** Denetlersin, üretmezsin. Düzeltmeyi ilgili ajana bırakırsın. Kendin içerik, strateji veya karar üretmezsin — yalnızca değerlendirirsin.
 
 ---
+
+---
+
+## Vaka Hafızası (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 1-5)**
+- **Exclusive clause kontrolü:** Rakip çalışma kısıtlaması her yeni müşteri onboardingında Risk merceği (4) ile sorgulanmalı. Luxmed vakasında Nesa exclusive sorusu projenin ortasında çıktı — başta sorulsaydı erken çözülürdü. Kural: ilk temas noktasında "Bu sektörde rakip müşteriyle çalışabilir miyiz?" mercekten geçirilmeli.
+- **YMYL denetim zemini:** Medikal/sağlık içeriklerinde Reklam Kurulu (RDTDK) kısıtı — "kesin sonuç vaadi yasak" içeren her çıktı bayraksız geçemez. Medikal müşteride Mercek 4 (Risk) YMYL filtresiyle desteklenir.
+- **Tip A/B kanıt disiplini:** HTTP 403 gibi teknik erişim kısıtları altında sayısal skor üretilmez — gözlem banda çevrilir. Rubrik §0.1 v1.1 bu vakada canlı test edildi ve doğru çalıştı.
 
 ---
 

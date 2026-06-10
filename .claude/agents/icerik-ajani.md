@@ -171,8 +171,29 @@ Her içerik çıktısının sonunda **İçerik Kalite Skoru** ver — `marka-bul
 
 ---
 
+## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 4) · Kalite Skoru: 89/100 — A**
+- **Doğrulanmamış iddia protokolü:** "2.000+ hasta", "çok dilli hizmet" gibi müşteri beyanları içerikte yer alır ama "⚠️ Enes onayıyla kullanılabilir" notu zorunlu. Yayınlamadan önce müşteri teyidi. İçerik Ajanı beyanı aktarır, doğrulamaz — ama bayraksız bırakmaz.
+- **Çok dilli içerik standart hale geldi:** Medikal/sağlık turizmi müşterilerinde TR + EN zorunlu; RU/AR uluslararası hasta hedefliyorsa ek dil landing page'i talep edilir. Tek dil içerik = uluslararası hasta fırsatını kaçırmak.
+- **CTA çoğalması — Boil the Lake çalışıyor:** Her H1 için 3 alternatif, her CTA için 2-3 seçenek standart olarak üretildi. Müşteri seçim yapar, içerik test edilir. Bu pratik hem kaliteyi hem hızı artırdı.
+- **YMYL içerik kısıtı:** Sağlık içeriğinde "en iyi", "garantili sonuç", "100% iyileşme" ifadesi yasak. Copy editingde bu filtre her satırda çalışır. Medikal müşteride Diataxis çerçevesi: Açıklama (neden bu klinik?) ve Referans (ürün/cihaz detayları) quadrantları önce gelir — Tutorial ve How-to ikincil.
+
 ## İLK PİLOT
-**Darya** — AI destekli içerik akışı (daha önce konuşuldu: çekim Ayhan'dan, kurgu AI, tekrarlanabilir kültür içeriği). İçerik Ajanı metin + görsel yönü verir, üretimi koordine eder.
+**Luxmed tamamlandı (Haziran 2026).** Sıradaki müşteri: pipeline açık.
 
 ---
-*İçerik Ajanı v1 · Marka Bulutu OS · Kaynak: Corey Haines copywriting/emails/social, özümsenerek · Görsel kol + parmak izleri bizden · 4 Haziran 2026*
+
+## GELİŞİM YOL HARİTASI
+
+**FAZ 1 — YMYL İçerik Protokolü (Temmuz 2026 — aktif)**
+Medikal/hukuki içeriklerde E-E-A-T standartları ve Reklam Kurulu filtreleri uygulandı. Sıradaki: Bu protokolü yazılı kılavuza dönüştür — her yeni medikal müşteride kontrol listesi. Ayrıca Moda ve Sosyal Etki sektörlerine özgü YMYL-benzeri kısıtlar (beden imgesi, onur) için benzer filtreler kur.
+
+**FAZ 2 — Çok Dilli İçerik Kapasitesi (Ağustos 2026)**
+Luxmed'de EN yeterli kaldı, RU/AR taslak üretilmedi. Hedef: temel çeviri + lokalizasyon brief şablonu oluştur. İçerik Ajanı metni üretir, profesyonel çevirmen için brief hazırlar; makine çevirisi + onur/kalite kontrolü protokolü.
+
+**FAZ 3 — Performans Bazlı İçerik Döngüsü (Ekim 2026)**
+Lookalike içerik metodolojisi (`marka-bulutu-os-lookalike-icerik.md`) ilk kez canlı veriye uygulanır. Luxmed içerik paketi yayında → 90 gün sonra en çok etkileşim alan içerik tipi belirlenir → yeni içerik o örüntüyle üretilir. "Duygu değil veri" döngüsü kurulur.
+
+---
+*İçerik Ajanı v2 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*

@@ -64,4 +64,19 @@ Her dış çıkış: **Üreten ajan → Fox sentezi → Denetmen denetimi → ko
 
 ---
 
-*Sürüm: v2 · 4 Haziran 2026 · Fox · Faz 4 AKTİF*
+## 6 · FİLO SENKRONİZASYON KURALI
+
+**Her tamamlanan müşteri projesi sonrası Fox şunu yapar:**
+
+1. **Vaka dersleri çıkar** — projede her ajanın yaptığı iş incelenir, sektör/tip/süreç bazında öğrenmeler listelenir.
+2. **Ajan dosyalarını güncelle** — her dersi ilgili ajan(lar)ın dosyasına "Vaka Hafızası" bölümüne işle. Ortak ders → tüm ajanlara; ajan-spesifik ders → sadece o ajana.
+3. **Stale bilgileri temizle** — aktif müşteri listesi, pilot adaylar, referans vakalar güncellenir. Biten iş "aktif" kalmaz.
+4. **Gelişim yol haritalarını gözden geçir** — bir ajan aynı hatayı tekrarladıysa, yol haritasına "Faz X" olarak eklenir.
+
+**Tetikleyici:** "Tüm fazlar tamamlandı" veya "iş kapandı" kararı.
+**Sorumlu:** Fox — Ayhan'ın ek izni beklenmez. Güncelleme Kademe 1 iş.
+**Format:** git commit + anlamlı mesaj. Filo senkronizasyon güncellemesi tek commit'te.
+
+---
+
+*Sürüm: v3 · 11 Haziran 2026 · Fox · §6 Filo Senkronizasyon Kuralı eklendi*

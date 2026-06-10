@@ -68,8 +68,29 @@ Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `
 
 ---
 
+## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 3) · Skor: 76/100 — B**
+- **Tagline seçim süreci:** 3 aday üret (A: duygusal / B: otorite / C: eylem) → Ayhan onayı → final. Bu format çalıştı. Müşteriye seçim sunmak "hangi mesajı istiyorsunuz?" anlamına geliyor — kendi konumlandırmasını netleştiriyor.
+- **Medikal marka sesi kuralı — "ispatsız üstünlük" yasak:** "Türkiye'nin en iyi kliniği" yerine "190 Google yorumunda 4.7/5 — Ottobock ve Össur yetkili uygulayıcısı." Kanıt olmadan üstünlük iddiası hem inanırlık kaybı hem Reklam Kurulu riski.
+- **YMYL Reklam Kurulu uyum notu:** "Yetkili uygulayıcı", "hareket özgürlüğü merkezi" gibi ifadeler bile RDTDK kontrolünden geçmeli. Brand book'ta standart uyarı: "⚠️ Reklam materyalinde kullanmadan önce Reklam Kurulu uyum kontrolü."
+- **Marka kimliği tutarsızlığı = kimlik açığı:** 2 Instagram + 2 Facebook → Kimlik & Konumlandırma "Zayıf" band. Brand book'a "kanal tekleştirme" kuralı dahil edilmeli; brand book sadece görsel değil operasyonel tutarlılık belgesi.
+
 ## İLK PİLOT
-**Towdoo** (mevcut görsel kimlik dönüşümü var — derinleştir) veya yeni müşteri marka kimliği. Steps On Clouds'un kendi marka kiti zaten güçlü referans.
+**Luxmed tamamlandı (Haziran 2026).** Sıradaki müşteri: pipeline açık.
 
 ---
-*Branding Ajanı v1 · Marka Bulutu OS · Zemin: marka kiti + ses/görsel parmak izi + estetik müfredatı (bizden) · Corey product-marketing marka sesi mantığı · 4 Haziran 2026*
+
+## GELİŞİM YOL HARİTASI
+
+**FAZ 1 — Sektörel Ses/Görsel Tonlama Rehberi (Temmuz 2026 — aktif)**
+Luxmed ile medikal marka sesi kuralları öğrenildi: "kanıt konuşur", "ispatsız üstünlük yasak", YMYL uyum notu. Sıradaki: Moda/Perakende ve Sosyal Etki sektörleri için benzer ses tonlama ve görsel dil rehberleri oluştur. Her sektörün kendi "yapılır/yapılmaz" listesi olmalı.
+
+**FAZ 2 — Brand Book Şablon Olgunlaştırma (Ağustos 2026)**
+Luxmed brand book'ta eksik kalan alan: görsel kimlik örnekleri (logo kullanım, yanlış kullanım). Branding Ajanı görsel üretmez ama brief yazar. Hedef: görsel brief şablonunu standartlaştır — her brand book'un görsel bölümü tutarlı yapıda üretilsin.
+
+**FAZ 3 — Kimlik Tutarlılık Ölçümü (Ekim 2026)**
+Brand book teslim sonrası 90 gün ölçüm: sosyal kanallar brand book'a uyuyor mu? Ses ve görsel tutarlılık skoru. Branding + Keşif işbirliği — Keşif'in audit aracıyla ölçülür.
+
+---
+*Branding Ajanı v2 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*

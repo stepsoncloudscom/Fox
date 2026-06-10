@@ -87,8 +87,16 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 
 ---
 
+## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 5)**
+- **Doktor referral zinciri:** Medikal müşteride büyümenin en güçlü kanalı B2B referral — ortopedi, fizik tedavi, nöroloji uzmanları. Luxmed için doktor listesi çıkarıldı (fox-raporlar/luxmed-doktor-referral-listesi.md). Ders: sağlık turizmi müşterilerinde Edinim planı başlarken referral kanalı ayrı bir kol olarak planlanır.
+- **Uluslararası hasta = döviz kapısı:** "İstanbul'da protez" araması artık Rusya, Ukrayna, Orta Doğu'dan geliyor. GEO/AEO önceliği (AI Overview %88 healthcare kapsama) bu müşteri segmentinde birincil. Düz reklam bütçesi yerine yapısal içerik + schema ilk adım.
+- **Kanal tutarsızlığı growth'u öldürür:** 2 IG + 2 FB bölünmüş algoritma sinyali = organik erişim yarıya düşer. Growth planı her zaman "önce kanalı tekleştir" adımıyla başlar.
+- **Bookimed gibi 3. taraf platformlar:** Sağlık turizmi müşterilerinde organik aramanın dışında platform SEO kritik. Bookimed profili güçlendirmesi standart büyüme hamlesi olarak eklendi.
+
 ## İLK PİLOT
-**Darya** (AI-SEO + sağlık turizmi görünürlük — global hasta) veya **Steps On Clouds kendi** (önce kendi tracking/SEO açığını kapat, en iyi vaka çalışması biz olalım).
+**Luxmed tamamlandı (Haziran 2026).** Sıradaki müşteri: pipeline açık. **SOC kendi tracking açığı** hâlâ açık — en iyi vaka çalışması biz olalım.
 
 ---
 
@@ -137,5 +145,16 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 3. İçerik topik derinliği: hangi sorularda cevap üretiliyor, hangilerinde yok?
 4. Dönüşüm yolu: Hasta web'den nasıl ulaşıyor, ne engel var?
 
+## GELİŞİM YOL HARİTASI
+
+**FAZ 1 — Tracking Altyapısı Kurulumu (Temmuz 2026 — aktif)**
+SOC'nin kendi Analytics/GSC açığı hâlâ kapalı. Growth ölçemediğini satamaz. Birinci öncelik: Steps On Clouds'un kendi tracking zincirini kur — GA4, GSC, UTM yapısı. Hem SOC'nin kendi growth'u ölçülür hem müşterilere "biz de ölçüyoruz" kanıtı olur.
+
+**FAZ 2 — Doktor Referral Sistemi (Ağustos 2026)**
+Luxmed vakasında doktor listesi manuel çıkarıldı (37 doktor). Hedef: medikal müşteriler için B2B referral mekanizması şablonu — hedef liste oluşturma, outreach sırası, takip mekaniği. Bir kez kurulunca her medikal müşteride tekrar kullanılır.
+
+**FAZ 3 — Uluslararası Hasta Kanalı Sistematikleştirme (Ekim 2026)**
+GEO/AEO öğrenildi, Luxmed için plan yazıldı. Hedef: "sağlık turizmi müşterisinin uluslararası görünürlük paketi" ürünleştirilir — schema + GMB + Bookimed + GEO içerik + çok dilli landing page. Bir kez ürünleştirince fiyatlanır.
+
 ---
-*Growth Ajanı v2 · Marka Bulutu OS · Medikal sektör bağlamı eklendi: 9 Haziran 2026*
+*Growth Ajanı v3 · Marka Bulutu OS · v3: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*

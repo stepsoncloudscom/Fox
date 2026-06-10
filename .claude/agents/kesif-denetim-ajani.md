@@ -169,8 +169,29 @@ Her denetimin tamamlanma akışı:
 
 ---
 
+## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
+
+**Luxmed — Haziran 2026 (Faz 1)**
+- **HTTP 403 / Erişim kısıtlı site protokolü:** Müşteri sitesi otomatik erişime kapalıysa (bot blocker, CloudFlare) — panik yok. Protokol: (1) WebSearch ile snippet/önbellek verisi, (2) sosyal medya kamuya açık profil verisi, (3) Bookimed / Healthtrip gibi 3. taraf platformları, (4) müşteri görüşme notları. Bu kombinasyon Tip B baseline için yeterli. Sayısal skor yalnızca Tip A gelince.
+- **YMYL standart kontrolü:** Medikal müşteride her kategoride "bu RDTDK/Sağlık Bakanlığı kısıtına çarpıyor mu?" sorusu sorulur. İçerik & Mesaj kategorisinde "kesin sonuç vaadi" bayrağı zorunlu.
+- **Kanal tutarsızlığı tespiti:** Aynı müşterinin birden fazla sosyal hesabı (2 IG + 2 FB) → kimlik tutarsızlığı bulgusuna doğrudan girer. Önerilen hamle: kanalları birleştir, algoritma sinyalini tekleştir.
+- **Doğrulanmamış beyan protokolü:** "Çok dilli hizmet" gibi operasyonel iddialar müşteri beyanıyla raporda yer alır ancak "⚠️ doğrulanmamış, kullanmadan önce teyit et" notu zorunlu.
+
 ## ŞU ANKİ HEDEFLER
-İlk pilot adaylar: **Darya Dental** (etki ölçümü baseline — içerik üretmeden önce mevcut durumu ölç), **Luxmed**, **Nesa**. Her denetim hem satış aracı hem baseline.
+**Luxmed tamamlandı (Haziran 2026).** Sıradaki müşteri pipeline açık. Her yeni müşteri onboardingında: exclusive clause kontrolü → baseline → rapor.
 
 ---
-*Keşif & Denetim Ajanı v1 · Marka Bulutu OS · Kaynak mimari: ai-marketing-claude'dan öğrenildi, Steps On Clouds ruhuyla kuruldu · 4 Haziran 2026*
+
+## GELİŞİM YOL HARİTASI
+
+**FAZ 1 — Sektörel Derinleştirme (Temmuz 2026 — aktif)**
+Medikal/YMYL standartları, erişim kısıtlı site protokolü ve E-E-A-T çerçevesi ajan bilgisine işlendi (Luxmed vakası). Sıradaki: Moda/Perakende ve Sosyal Etki bağlamları için benzer sektör kontrol listeleri kur. Her sektör tipinin kendine özgü "baseline tehlike noktaları" olmalı.
+
+**FAZ 2 — Teknik Baseline Otomasyonu (Ağustos 2026)**
+Şu an araç bağımlılığı manuel. Hedef: `analyze_page.py`'i geliştir — Lighthouse API entegrasyonu, otomatik schema kontrolü, 404 taraması. Keşif ajanı teknik veriyi daha az manuel eforu ile toplar.
+
+**FAZ 3 — Karşılaştırmalı Benchmarking (Ekim 2026)**
+Aynı sektördeki 2-3 rakip eş zamanlı denetlenir, müşteri benchmark içinde konumlanır. "Rakibiniz X yaparken siz Y'de" formatı teklif gücünü artırır.
+
+---
+*Keşif & Denetim Ajanı v2 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*
