@@ -45,7 +45,7 @@ Uluslararası hasta potansiyeli marka için asıl döviz kapısı. Bookimed kayd
 | 4 | **Dijital Altyapı** | %15 | Tip B | — | **Kritik Açık** | HTTP 403 — dışarıdan erişim kısıtlı, crawler engeli muhtemel. PageSpeed/CWV ölçülemedi. Teknik SEO belirsiz. |
 | 5 | **İçerik & SEO** | %15 | Tip B | — | **Orta** | Blog içeriği Türkçe + /en İngilizce aktif. SGK, ünlüler, rehber yazıları görünüyor. Ahrefs/GSC verisi yok. Keyword fırsatı: uluslararası hasta terimleri. |
 | 6 | **SEO / Görünürlük** | %15 | Tip B | — | **Orta** | Arama sonuçlarında 1. sırada görünüyor ("protez bacak firmalar", "İstanbul ortez protez"). Rakip teknikortopedi.com ve provitalprotez.com da 1. sayfada. |
-| 7 | **Sosyal Medya** | %10 | Tip A (kısmi) | **7/10** | **İyi** | @luxmedprosthetic 14K takipçi. Google 4.7/5 — 190 yorum (bağımsız Tip A). Facebook 8.4K. YouTube aktif. Çift kanal tutarsızlığı puanı kırıyor. |
+| 7 | **Sosyal Medya** | %10 | Tip B | — | **Orta** | @luxmedprosthetic 14K takipçi. Facebook 8.4K. YouTube aktif. Çift kanal tutarsızlığı (2 IG + 2 FB) bölünmüş sinyal. Not: Google Maps 4.7/5 (190 yorum) güven sinyali sütununda gösterilmeli — sosyal medya metriği değil. |
 
 **Bileşik sayısal skor:** Tek Tip A kategorisi = Sosyal Medya 7/10. Genel sayısal skor verilemez (§0.1 v1.1). Niteliksel profil: **1 Kritik Açık · 3 Orta · 2 Zayıf · 1 İyi.**
 
@@ -147,9 +147,13 @@ Organik arama görünürlüğü blog içerikleriyle desteklenmiş ve anahtar ter
 
 5. **[Öncelik 5 — Uluslararası] Rusça/Arapça Dijital Varlık Yetersiz:** Hizmet varlığı var (çevirmen kadrosu) ama dijital karşılığı görünmüyor. Healthcare aramalarında AI Overview %88 kapsama; Rusça/Arapça "protez İstanbul" aramalarında görünmek Bookimed ötesinde içerik gerektirir.
 
-6. **[Öncelik 6 — Görsel] Onur & Temsil Riski:** Medikal/protez içeriğinde "inspiration porn" tuzağı yüksek risk. Hasta videoları ve "başarı hikayeleri" formatı acıma/güçsüzlük çerçevesiyle üretilmişse markanın klinik otoritesini zedeler. Güç, fail, gündelik yaşam çerçevesi — Nielsen 2024 standardı.
+6. **[Öncelik 6 — Görsel] Onur & Temsil Riski:** Medikal/protez içeriğinde "inspiration porn" tuzağı yüksek risk. Hasta videoları ve "başarı hikayeleri" formatı acıma/güçsüzlük çerçevesiyle üretilmişse markanın klinik otoritesini zedeler. Güç, fail, gündelik yaşam çerçevesi zorunludur — Nielsen 2024 standardı. **Eylem sorusu (Faz 2'ye girmeden önce):** Mevcut blog ve sosyal medya gönderilerinde acıma/ilham framing var mı? Instagram Reels ve hasta hikayesi videoları bu mercekten geçirilmeli. Tüm içerik üretiminde onur-merkezli dil koşul — strateji ajanına not geçildi.
 
 7. **[Öncelik 7 — SEO Teknik] Hreflang / Çok Dilli Yapı Belirsiz:** /en sayfalar var ama Türkçe/İngilizce hreflang yapılandırması bilinmiyor. Yanlış yapılandırma durumunda Google iki dili çakıştırabilir ya da EN içeriği TR aramalarına gösterebilir — uluslararası hasta hedeflemesi için kritik.
+
+8. **[Öncelik 8 — YMYL Güven] Güven Sinyalleri Eksik:** Medikal sektörde standart güven unsurları (CE sertifikaları, Ottobock/Össur resmi distribütör belgesi, uzman hekim özgeçmişleri, hasta gizliliği/KVKK politikası) raporda görülemedi. Google E-E-A-T ve Reklam Kurulu uyumu için zorunlu; bu sinyaller Nesa/Teknik Ortopedi'ye karşı farklılaştırıcı da olabilir. **Eylem sorusu:** Sertifika ve uzman bio'ları sitede var mı, görünmüyor mu (HTTP 403 engeli), yoksa hiç yayınlanmamış mı?
+
+9. **[Öncelik 9 — Platform Risk] Bookimed İçerik Denetimi:** Bookimed kaydında "klinik tarafından doğrulanmamış" veya yanlış içerik olup olmadığı bilinmiyor. Sağlık turizminde Bookimed profilindeki içerik kontrolü kritik — platform yazarsa ve Reklam Kurulu'na aykırı bir "sonuç garantisi" varsa sorumluluk klinike düşebilir. **Açık soru:** Bookimed profili Luxmed tarafından yönetiliyor mu?
 
 ---
 
@@ -165,7 +169,7 @@ Organik arama görünürlüğü blog içerikleriyle desteklenmiş ve anahtar ter
 | Uluslararası Dil Desteği | TR + EN (/en) + konuşma dilinde (Rusça/Arapça) | Site yapısı + hizmet bilgisi | Tip B | Dijital varlık ölçülemedi |
 | Organik Arama Görünürlüğü | 1. sayfa (tespit edilen terimler) | Google SERP gözlemi | Tip B | DA/trafik rakamı yok |
 | Kanal Sayısı (sosyal) | 5 aktif (2 IG + 2 FB + YT + LI) | Platform araması | Tip B | Tutarsızlık riski |
-| Hasta Uygulama Sayısı (beyan) | 2.000+ | Site/LinkedIn beyanı | Tip B (doğrulanmamış) | Üçüncü taraf teyidi yok |
+| Hasta Uygulama Sayısı (beyan) | 2.000+ | Site/LinkedIn copy (beyan edilen — doğrulanmamış) | Tip B | Kaynak: görüşme notu + LinkedIn hakkımızda metni. Üçüncü taraf teyidi yok. |
 | Organik Trafik | N/A | GSC erişimi yok | — | HTTP 403 engeli |
 | Domain Authority | N/A | Ahrefs/Moz erişimi yok | — | — |
 | PageSpeed / CWV | N/A | Lighthouse erişimi yok | — | HTTP 403 engeli |
@@ -184,12 +188,17 @@ Organik arama görünürlüğü blog içerikleriyle desteklenmiş ve anahtar ter
 
 ### Keşif'ten Strateji'ye Açık Sorular
 Bu sorular Strateji Ajanı'nın 9 Haz görüşme notlarından Ayhan'a sorarak doldurması gerekiyor:
-- [ ] Birincil hedef: lokal hasta mı, uluslararası hasta mı (döviz kapısı)?
-- [ ] Nesa exclusive meselesi görüşmede nasıl kapandı?
+
+⚠️ **BLOKE EDİCİ SORULAR — Bu ikisi yanıtlanmadan Strateji Ajanı başlamaz:**
+- [ ] **[BLOKE] Nesa exclusive meselesi görüşmede nasıl kapandı?** Nesa ile exclusivity anlaşması varsa kanal stratejisi, konumlandırma, hatta çalışılıp çalışılamayacağı buraya bağlı.
+- [ ] **[BLOKE] SGK hasta vs. serbest ödeme oranı nedir?** Bu oran bilinmeden "uluslararası hasta / döviz kapısı" konumlandırması savunulamaz; strateji yönü değişir.
+
+Diğer açık sorular (strateji üretimini zenginleştirir ama bloke etmez):
+- [ ] Birincil hedef: lokal hasta mı, uluslararası hasta mı?
 - [ ] Enes'in "Brand Growth" ile kastettiği: görünürlük mü, hasta hacmi mi, uluslararası genişleme mi?
 - [ ] Karar yapısı: Enes tek imzacı mı?
-- [ ] Mevcut hasta kazanım kanalı: nereden geliyor? (Arama mı, referans mı, Bookimed mi?)
-- [ ] SGK hasta vs. serbest ödeme oranı nedir?
+- [ ] Mevcut hasta kazanım kanalı: Arama mı, referans mı, Bookimed mi?
+- [ ] Bookimed profili Luxmed tarafından aktif yönetiliyor mu?
 
 ### Keşif'ten Strateji'ye Öneriler
 
