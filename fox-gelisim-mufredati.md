@@ -76,6 +76,28 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - Karakter tutarlılığı: aynı sohbet penceresi + önceki görseli yükle = en iyi sonuç.
 - **Kural:** Kampanya görseli brifi her zaman lens/açı/ışık/hareket/mood belirt. Genel "güzel fotoğraf" komutu AI'ya çok geniş alan bırakır.
 
+### 11 Haziran 2026 — Psikoloji & Pazarlama:
+
+**[Müşteri Empatisi + Büyüme Ustalığı] Gestalt Marketing**
+- Temel yasa: "Bütün, parçaların toplamından fazladır." 10 prensip: Yakınlık, Benzerlik, Kapatma, Figür-Zemin, Süreklilik, Ortak Kader, Simetri, Bölge, Bağlantı, Basitlik.
+- Pazarlama uygulaması: Logo negatif alan (FedEx oku, Amazon gülüşü), web CTA yönlendirmesi, menü grupları, rapor görsel hiyerarşisi.
+- 2026 kritik kural: AI-üretilen her görselde "Gestalt Audit" zorunlu — tutarsız kompozisyon "ucuz" olarak anında algılanır. `marka-bulutu-os-gorsel-uretim-standardi.md` §7 render-and-review bu auditin pratik versiyonu.
+- **Marka Bulutu bağlamı:** Branding Ajanı visual brief yazarken Gestalt mercekten geçirir. Figür-Zemin (logo) + Yakınlık (fiyat/ürün düzeni) + Kapatma (kısmi görsel merak) en sık kullanılan 3 prensip.
+
+**[Müşteri Empatisi + Büyüme Ustalığı] YOLO Marketing (You Only Live Once)**
+- Tanım: Post-pandemi tüketici davranışı — "belirsiz geleceğe saklamak yerine bugün harca." Hedonik tüketim: anlık deneyim, seyahat, lüks, sınırlı ürün.
+- Mekanizma: İmpulsif satın alma tetikler. Genç kitlede (18-35) güçlü. Dil: "Bu an geçmez", sınırlı koleksiyon, pop-up, anlık kampanya.
+- Dönüşüm: YOLO → JOMO (Joy of Missing Out) trendi büyüyor — aşırı tüketime tepki. Markalar "bu sana gerçekten anlam verir mi?" sorusunu da sormaya başladı.
+- **Marka Bulutu bağlamı:** Moda/perakende müşterilerde (sınırlı koleksiyon, pop-up) geçerli. Medikal/protez/sosyal etki müşterisinde (Luxmed tipi) YOLO dili uygunsuz — onur + güç anlatısıyla çelişir. Steps On Clouds misyon içeriğinde kullanılamaz.
+
+**[Müşteri Empatisi + Büyüme Ustalığı] FOMO Marketing (Fear of Missing Out)**
+- Tanım: Kaçırma korkusu. 3 sütun: Urgency (zaman kısıtı) + Scarcity (miktar kısıtı) + Social Proof (herkes yapıyor).
+- Nöroloji: Loss aversion — kaybetme acısı kazanma sevincinin 2x güçlü. FOMO dopamin salgılatır, prefrontal korteks (mantık) baskılanır → impulsive karar.
+- Rakamlar: %60 tüketici FOMO'yla 24 saat içinde impulsive satın alma. Urgency sinyali → dönüşüm %10+ artış. Doğru kullanımda %8-15 conversion artışı.
+- Taktikler: Geri sayım, "X kişi izliyor", "Son 3 yer", VIP erken erişim, exit-intent popup.
+- **Etik kırmızı çizgi:** Sahte timer/stok sayacı = güven katliamı. Ayhan'ın değerleriyle doğrudan çelişir — yasak.
+- **Marka Bulutu bağlamı:** Growth Ajanı dönüşüm çantasında. Sağlık turizmi: gerçek "Sonraki randevu X tarihinde" urgency meşru. E-ticaret: stok bazlı scarcity geçerli. B2B outreach: "rakiplerin hamlesi" FOMO çerçevesi.
+
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.

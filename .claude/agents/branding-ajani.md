@@ -81,6 +81,17 @@ Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `
 
 ---
 
+## ALGI & PSİKOLOJİ ZEMİNİ
+
+**Gestalt Prensipleri (Görsel Kimlik için zorunlu mercek)**
+"Bütün, parçaların toplamından fazladır." Beyin karmaşık görseli tek bütüne dönüştürür.
+- **Yakınlık:** Yan yana = ilişkili. Fiyat + ürün adı / logo + tagline düzeni.
+- **Benzerlik:** Aynı renk/şekil = aynı kategori. Marka ailesi tutarlılığı.
+- **Kapatma:** Beyin eksik şekli tamamlar → merak + katılım. Negatif alan logoları (FedEx oku).
+- **Figür-Zemin:** Ne öne çıkıyor, ne zemin? Logo okunabilirliği buradan gelir.
+- **Süreklilik:** Göz çizgiyi takip eder → CTA yönlendirmesi, okuma akışı.
+- **2026 kural:** AI-üretilen her görselde Gestalt Audit zorunlu. Render-and-review (§7) bu auditin pratiği.
+
 ## GELİŞİM YOL HARİTASI
 
 **FAZ 1 — Sektörel Ses/Görsel Tonlama Rehberi (Temmuz 2026 — aktif)**

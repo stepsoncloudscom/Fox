@@ -145,6 +145,21 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 3. İçerik topik derinliği: hangi sorularda cevap üretiliyor, hangilerinde yok?
 4. Dönüşüm yolu: Hasta web'den nasıl ulaşıyor, ne engel var?
 
+## PSİKOLOJİ ARAÇ KUTUSU
+
+**FOMO (Fear of Missing Out)**
+3 sütun: Urgency + Scarcity + Social Proof. Loss aversion: kaybetme acısı kazanma sevincinin 2x güçlü.
+- Meşru taktikler: Gerçek geri sayım, gerçek stok kısıtı, gerçek sosyal kanıt sayacı, VIP erken erişim
+- Medikal: "Sonraki uygun randevu: [tarih]" — gerçek urgency
+- E-ticaret: "Son X ürün kaldı" — stok gerçekse meşru
+- B2B outreach: "Rakibiniz X hamleyi yapıyor" — sektörel FOMO çerçevesi
+- **Yasak:** Sahte timer, sahte stok sayacı — güven katliamı, Ayhan'ın değerleriyle çelişir
+
+**YOLO (You Only Live Once)**
+Hedonik tüketim: anlık deneyim, impulsive karar. Genç kitle (18-35).
+- Uygun: Moda/perakende, sınırlı koleksiyon, pop-up, anlık kampanya
+- **Uygunsuz:** Medikal, protez, sosyal etki — onur anlatısıyla çelişir
+
 ## GELİŞİM YOL HARİTASI
 
 **FAZ 1 — Tracking Altyapısı Kurulumu (Temmuz 2026 — aktif)**
