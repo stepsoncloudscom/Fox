@@ -173,8 +173,8 @@ Wordmark (sadece tipografi) — minimal, uluslararası:
 ## AYHAN'A BAYRAKLAR (Güncellendi — 10 Haz 2026)
 
 1. ~~Tagline final seçimi~~ ✅ **KAPANDI** — Aday B seçildi. Reklam Kurulu uyum kontrolü sunum öncesinde yapılacak.
-2. **Ottobock/Össur IP kullanımı:** Yetkili uygulayıcı belgesi temin edilmeden tagline ve Bookimed kopyasında marka adı kullanılamaz. (Açık)
-3. **"2.000+ uygulama" / "15 yıl" beyanları:** Enes doğrulayana kadar tüm materyalde "beyan edilen" kaydı tutulacak. (Açık)
+2. ~~Ottobock/Össur IP kullanımı~~ ✅ **KAPANDI** — Yetkili uygulayıcı belgesi mevcut.
+3. **"2.000+ uygulama" / "15 yıl" beyanları:** Enes onaylı — "beyan edilen" etiketi kaldırılabilir.
 
 ---
 
