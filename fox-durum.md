@@ -48,6 +48,13 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
 11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx lokal olarak güncel (7 Haz: SOC Faz 2 Strateji milestone satırı eklendi — "SOC WEB SİTESİ — TESLİM ZİNCİRİ", Row 18, açık mavi, Haz-Ağu 12 hafta + Ala SKT B2B satırları). Drive'daki native Sheets **manüel güncelleme bekliyor** — xlsx açıp kopyala-yapıştır yeterli. ⚠️ Not: Temmuz W1 "GSC BAĞLANTISI" hücresi strateji çatışması işaretlendi (yorum var); strateji GSC'yi Ağustos W4'e taşıyor. **Drive Google Doc da oluşturuldu:** SOC_Strateji_Faz2_2026 (ID: 1JuZ83vvByR98eYbyyMnB82rr1TOrJjL29H_vV_O17YA, Marka Bulutu OS klasörü).
 
+## 11 HAZ OTURUMU (devam) — Empati Koşusu Site Güncellemesi (CANLI)
+- **Tetik:** Ayhan'ın yüklediği `Empati_Kosusu_Degerlendirme_Raporu.docx` + "yönergelere göre düzenle" talimatı.
+- **Yapıldı (Wix Events API, canlıda):** İki etkinlik sayfası güncellendi — Caddebostan (5 Tem) + Yoğurtçu Parkı (26 Tem, context'te yoktu, keşfedildi). Yeni yapı: hero shortDescription ("Bu bir yarış değil...") + Neden Farklı + Neden Katılmalıyım + Program (3 bölüm, saat akışı katılımcıya e-posta notuyla) + Bulut Çekilişi + Katılım Bedeli (mevcut pay-what-you-want metni korundu) + SSS (5 soru) + SOC Hareketi misyon bloğu. Yoğurtçu "Yoğurtçı" yazım hatası düzeltildi.
+- **Bilinçli dışarıda bırakıldı (dürüstlük):** kontenjan/son kayıt aciliyeti (gerçek rakam yok — Ayhan'dan), protez teknisyeni beyanı (sponsor teyitsiz), km/rota detayı (açık karar), katılımcı yorumları (ilk etkinlik — gerçek yorum yok; etkinlik sonrası eklenecek).
+- **Ayhan'dan bekleyen:** kontenjan konacak mı + son kayıt tarihi? · program saat dağılımı (agenda açılabilir) · rota/km netleşmesi.
+- **Rapor kalanları (Editor/ayrı iş):** blog stratejisi + SEO uzun içerik (Fox yapabilir, sıradaki), sponsor sayfası alanı (copy hazır), site geneli hero (Editor).
+
 ## 11 HAZ OTURUMU (devam) — Moda Sektörü Hazırlık Paketi
 - **Senaryo:** "Kapıdan moda markası sahibi girerse A'dan Z'ye hazır mıyız?" — Ayhan talimatı. Derin araştırma (8 arama, 3 kol: high-fashion inşa + pazarlama kaynakları + uluslararası sözleşmeler).
 - **Çıktı:** `marka-bulutu-os-moda-sektor-bagi.md` — 6 bölüm: lüks inşa ilkeleri (A) · emerging launch playbook + birim ekonomisi (B) · hukuki katman: IP rejimleri/lisans-distribütörlük/CISG-Incoterms-L/C/influencer sözleşmeleri (C) · ajan görev haritası (D) · onboarding kontrol listesi — exclusive clause sorusu dahil (E) · kaynaklar (F).

@@ -1,10 +1,12 @@
 # Etkinlik Context — Run For Empathy / Empati Koşusu
 *Tüm ajanların (Growth, İçerik, Branding) referans aldığı tek kaynak doğruluk belgesi.*
 
-**Etkinlik:** Run For Empathy / Empati Koşusu
-**Tarih:** 5 Temmuz 2026 (Pazar) · **Yer:** Caddebostan Sahili, İstanbul
+**Etkinlik:** Run For Empathy / Empati Koşusu — **İKİ ETKİNLİK** (seri)
+**1)** 5 Temmuz 2026 (Pazar) 09:00–13:00 · Caddebostan Sahili (Beltur) · `stepsonclouds.com/event-details/empati-kosusu-caddebostan`
+**2)** 26 Temmuz 2026 (Pazar) 10:00–13:00 · Yoğurtçu Parkı, Kadıköy · `stepsonclouds.com/event-details/empati-kosusu-yogurtcu-parki` *(11 Haz keşfi — sitede mevcuttu, context'e eklendi)*
 **Organizatör:** Ayhan Erden / Steps On Clouds
-**Son güncelleme:** 9 Haziran 2026
+**Kayıt modeli (sitedeki gerçek):** Bilet ücretli ama **tutar katılımcı tercihine bırakılmış** ("başka birinin ayakkabılarıyla koşulacak bu rotada...") — pay-what-you-want.
+**Son güncelleme:** 11 Haziran 2026 — **SİTE GÜNCELLENDİ:** Değerlendirme raporu yönergeleriyle iki etkinlik sayfası API ile yeniden yazıldı (hero/shortDescription + Neden Farklı + Neden Katılmalıyım + Program + Bulut Çekilişi + SSS + SOC Hareketi bölümleri). Yoğurtçu'daki "Yoğurtçı" yazım hatası düzeltildi.
 
 ---
 
