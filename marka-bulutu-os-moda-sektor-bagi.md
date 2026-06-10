@@ -128,7 +128,61 @@ Hermès geleneksel reklama neredeyse hiç para harcamaz; arzu, ürün + kıtlık
 
 ---
 
-## BÖLÜM F — KAYNAKLAR (kaynak kütüğüne de işlendi)
+## BÖLÜM F — VAKA KÜTÜPHANESİ: 6 MARKA YOLCULUĞU (11 Haz 2026 derin araştırma)
+*Her vaka: kuruluş → model çekirdeği → bizim ölçeğe çeviri. İki kamp: hız-güdümlü (Zara/Uniqlo/Shein) vs. marka-güdümlü (Nike/Lululemon/On).*
+
+### F.1 Zara (1975, Amancio Ortega) — "Hız stratejidir"
+- **Model:** Dikey entegrasyon + talep-güdümlü zincir. Tasarım→raf 2 hafta. Küçük parti test → satanı ölçekle. Markdown oranı %15-20 (sektör ortalaması %30-40). Yakın-kıyı üretim (İspanya/Portekiz/**Türkiye**/Fas) — birim maliyet değil HIZ optimize edilir (Galiçya'dan Avrupa'daki her mağazaya 48 saat). Kumaş boyama üretim başladıktan SONRA — geç farklılaştırma, renk gerçek talebe göre. Mağaza = veri sensörü. Geleneksel reklam neredeyse sıfır — bütçe lokasyon + vitrine.
+- **Bizim ölçeğe çeviri:** "Küçük parti + haftalık sinyal + satanı tekrarla" KOBİ'de birebir uygulanabilir. Türkiye'nin Zara tedarik üssü olması = müşterilerimiz için yerli fason hız avantajı (aynı coğrafi kart bizde de var).
+
+### F.2 Uniqlo (1984, Tadashi Yanai; LifeWear 2012) — "Anti-moda: az ama mükemmel"
+- **Model:** Fast fashion görünür ama tersi: az SKU, yıllarca yaşayan çekirdek ürünler — Heattech (2003, Toray kimya ortaklığı), AIRism, Ultra Light Down — sezonluk değişim değil ARTIMLI iyileştirme. "Basics mükemmelliği" + malzeme inovasyonu = fiyat/kalite konumu. Yılda 1.3 milyar parça, modüler gardırop mantığı. LifeWear = atılabilirliğe açık meydan okuma.
+- **Bizim ölçeğe çeviri:** Küçük marka için EN uygulanabilir model — dar ürün ailesi, her sezon yeniden icat yok, kalıp/malzeme mükemmelliği. "Hero ürün + yıllık artımlı iyileştirme" formülü CloudOne için de geçerli. Malzeme ortaklığı (Toray modeli küçüğü): yerli tekstil Ar-Ge'siyle ko-geliştirme.
+
+### F.3 Shein (2008/2012) — "Sinyal→ürün gecikmesi sıfır" (mekanik al, modeli reddet)
+- **Model:** TikTok/Pinterest/arama sinyali endüstriyel ölçekte kazınır → 100-200 adetlik test partisi → satan anında ölçeklenir. Günde on binlerce yeni stil, ~5.400 fason üretici. Tahmin riski tamamen elenmiş — moda perakendesinin ana riskini (sezon bahsi) ortadan kaldırdı.
+- **Karanlık yüz (belgelenmiş):** 75 saatlik çalışma haftaları + işçi ihlalleri (Public Eye/Anti-Slavery raporları) · 16.7M ton CO2 (2023 — bir yılda yaklaşık 2x artış; fast fashion'ın en büyük kirleticisi) · kumaşın %76'sı polyester, yalnız %6'sı geri dönüştürülmüş · sistematik tasarım intihal suçlamaları · Fransa gümrük denetimi: 320K pakette %25 uyumsuzluk.
+- **Bizim ölçeğe çeviri:** MEKANİK alınır (mikro-test, sinyal okuma, düşük gecikme), MODEL reddedilir (İnsan→Ayhan→marka; etik ihlal müşteriye itibar bulaşığıdır).
+
+### F.4 Nike (1964/72; "Just Do It" 1988) — "Hikâye imparatorluğu + kanal dersi"
+- **Model:** Kahraman sporcu + duygusal konumlandırma; ürün değil ZAFER anlatısı satar.
+- **Kanal dersi (2017-2025, sektörün en pahalı dersi):** 2017 "Consumer Direct Offense" → toptan hesaplar %50+ kesildi, Amazon'dan çıkıldı (2019), veri "DTC daha kârlı" diyordu. Sonuç: FY2024 dijitalde 2015'ten beri ilk düşüş; FY2025'te -%20'yi aşan çeyrekler. Görünmeyen şey: toptan raflar KEŞİF altyapısıydı — boşalan rafları Hoka/On/New Balance doldurdu. 2024-25 geri dönüş: toptan yeniden kuruldu, Amazon'a dönüldü; 2025 "Why Do It?" kampanyasıyla hikâye tazelendi.
+- **Bizim ölçeğe çeviri:** Kanal kararı ideoloji değil DENGE işidir. DTC verisi keşif değerini ölçmez — "müşteri seni nerede buluyor?" sorusu marj tablosunda görünmez. (Towdoo stratejisindeki Trendyol dengesi aynı dersti — kendi kanalına geçiş kademeli olur, köprü yakılmaz.)
+
+### F.5 Lululemon (1998, Chip Wilson) — "Topluluk-öncelikli premium"
+- **Model:** Ünlü yerine YEREL yoga eğitmenleri — 500+ elçi: bedava ürün + mağazada ders + ürün geri bildirimi + ko-tasarım. Mağaza = stüdyo/topluluk alanı. Premium fiyat cüreti + teknik kumaş. İndirim/seeding YOK (afiliasyon programı bile indirimsiz). COVID'de elçilere $2M destek fonu — ilişki transaksiyon değil. 2019-21 global aktif giyimde en çok pay kazanan marka; ~$10.7B ciro (2024).
+- **Bizim ölçeğe çeviri:** ⭐ **SOC ampüte topluluğu modeli birebir bu:** yerel mikro-elçiler (fizyoterapistler, ampüte sporcular, antrenörler), gerçek ilişki, indirimsiz premium, etkinlik-temelli topluluk (Run For Empathy = Sweatlife'ın bizdeki hali). Growth Ajanı community-marketing skill'inin kanıtlanmış şablonu.
+
+### F.6 On Running (2010, Zürih) — "Yeni markanın şablonu"
+- **Model:** Tek gerçek teknik fark (CloudTec patentli yastıklama) → dar nişte kanıt (koşu çekirdeği) → lifestyle genişleme. $140-200 premium bant — fiyatla değil FARKLA rekabet. Federer (2019): endorsement değil ORTAK — yatırımcı + ürün geliştirici ("The Roger", 2020). Sonuç: yıllık +%33 sabit kur büyüme hedefi aşılıyor; son çeyrekte net gelir +%290, APAC +%118.
+- **Bizim ölçeğe çeviri:** Kapıdan girecek yeni markaya en yakın başarı şablonu: (1) tek gerçek teknik/tasarım farkı bul ve adlandır, (2) dar niş kitlede kanıtla, (3) elçiyi ORTAK yap — değer/pay esası (Anayasa §11.2 ile birebir: co-creation, sabit ücret değil), (4) premium bandı indirimle delme.
+
+---
+
+## BÖLÜM G — FAST FASHION YAKLAŞIMI: NE ALIYORUZ, NE REDDEDİYORUZ
+
+### G.1 ALINAN MEKANİKLER (hız disiplini — her ölçeğe ve premium markaya bile uyarlanır)
+1. **Küçük parti test → sinyal → ölçekle** (Zara/Shein): Ürün için de içerik için de geçerli — 10 fikir küçük test, kazanan ölçeklenir. *Lookalike içerik metodolojimizle aynı mantık; fast fashion bunun tekstil hali.*
+2. **Mağaza/profil = sensör** (Zara): Instagram yorumları + DM'ler + satış noktası geri bildirimi = Zara mağaza müdürü raporunun KOBİ karşılığı. Haftalık sinyal okuma ritüeli kurulur.
+3. **Geç farklılaştırma** (Zara'nın boyasız kumaşı): Karar noktasını son ana taşı — baskısız/nötr temel stok + talebe göre varyant. Küçük markada stok riskini düşürür.
+4. **Markdown disiplini:** Küçük parti = az iskonto (%15-20 vs sektör %30-40) = marj + marka koruması. İndirim sarmalından kaçınmanın OPERASYONEL yolu (lüks "indirim yasağının" tedarik tarafı).
+5. **Tahmin değil tepki:** Sezon başına tek büyük bahis yerine sürekli küçük bahisler. Nakit akışı ve psikoloji için de sağlıklı.
+6. **Hero ürün artımlı iyileştirme** (Uniqlo): Her sezon yeniden icat yok; kanıtlanmış ürün yıllarca yaşar, her yıl bir tık iyileşir.
+
+### G.2 REDDEDİLEN (değer filtresi + stratejik risk)
+1. **İnsan maliyeti:** Shein modeli belgelenmiş işçi ihlalleriyle çalışıyor — İnsan→Ayhan→marka sıralamasına (§0) doğrudan aykırı. Müşterimizin tedarik zincirinde benzeri varsa işaretlenir.
+2. **Atılabilirlik modeli:** YONO tüketicisi + regülasyon dalgası dünyasında "ucuz-çok-at" yapısal riske dönüştü — trend değil, dönem sonu.
+3. **Tasarım intihali:** Hız bahanesiyle kopya, IP merceğimizle (C.1) ve dürüstlük değeriyle çelişir.
+4. **Greenwashing:** Sürdürülebilirlik iddiası belgesizse mesajın merkezine konmaz (Towdoo dersi, devam eden kural).
+
+### G.3 REGÜLASYON RÜZGÂRI (hukuki katmana ek — strateji sinyali)
+- **Fransa Loi Violland (10 Haz 2025'te kabul):** Ultra-fast fashion'a eko-vergi €5 (2026) → €10 (2030; perakende fiyatın %50 tavanı) · AB-dışından gelen <2kg paketlere €2-4 ambalaj vergisi · 1 Oca 2026'dan itibaren ultra-fast fashion reklam yasağı · €100K'ya kadar ceza · satış noktasında eko-skor/yaşam döngüsü verisi zorunluluğu. **Statü:** AB Komisyonu itirazıyla askıda (e-commerce direktifi/DSA çatışması; standstill 2026 sonuna kadar) — ama yön NET.
+- **Shein'e fiili baskı:** Fransa gümrüğü 320K pakette %25 uyumsuzluk buldu; 3 aylık platform askısı mahkemece "orantısız" diye reddedildi (Ara 2025/Mar 2026) ama denetim sürüyor.
+- **Strateji çevirisi:** AB'ye satmayı hedefleyen müşteriye eko-skor/yaşam döngüsü verisi hazırlığı ŞİMDİDEN önerilir. "Sürdürülebilir + kalıcı + az ama iyi" konumlandırması regülasyonu rüzgâr olarak arkasına alır; ultra-fast modeli rüzgârı karşısına.
+
+---
+
+## BÖLÜM H — KAYNAKLAR (kaynak kütüğüne de işlendi)
 - **McKinsey × BoF — The State of Fashion** (yıllık; 2026: "When the Rules Change") — sektörün ana stratejik raporu, her yıl Kasım-Aralık'ta çıkar, MUTLAKA okunur.
 - **BoF Insights** — veri/danışmanlık kolu; **The Fashion Law (TFL)** — moda hukuku birincil kaynağı; **WIPO Fashion & IP portal** — IP zemini.
 - **Lyst Index** (çeyreklik en sıcak marka/ürün) · Vogue Business · WWD · Hypebeast (mevcut kütükte).

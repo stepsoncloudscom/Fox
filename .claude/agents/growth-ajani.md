@@ -110,6 +110,7 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 - **UGC > stüdyo:** kullanıcı içeriği tutarlı kazanıyor; hook ilk 3 saniye.
 - **Lüks segmentte performans reklamı marka inşasının İKAMESİ değil** (Hermès sessizliği) — editorial + PR + topluluk önce.
 - **Kıtlık mekanikleri yalnız GERÇEK kıtlıkla** (FOMO hukuki sınırı — FTC/TKHK). İndirim kültürü lüks konumlandırmayı kalıcı bozar; alternatif: private sale, arşiv satışı, sınırlı erişim.
+- **Vaka kütüphanesi (Bölüm F) + fast fashion mekanikleri (Bölüm G):** Zara küçük-parti/sinyal döngüsü · Uniqlo hero-ürün artımlı iyileştirme · Shein mikro-test (mekanik al, model reddet) · Nike kanal dengesi dersi (DTC ideoloji değil) · Lululemon yerel mikro-elçi modeli (SOC topluluğuna birebir şablon) · On Running niş kama + elçi-ortak modeli.
 
 ## MEDİKAL / KLİNİK SEKTÖR BAĞLAMI
 *9 Haziran 2026 — Luxmed görüşmesi öncesi eklendi. Luxmed, Darya ve benzeri sağlık sektörü müşteriler için geçerli.*

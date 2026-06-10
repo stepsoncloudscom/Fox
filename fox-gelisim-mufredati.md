@@ -117,6 +117,11 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - Çıktı: `marka-bulutu-os-moda-sektor-bagi.md` (merkezi) + Growth/Strateji/Branding bağlantıları + Denetmen hukuk mercekleri + kaynak kütüğü (State of Fashion, TFL, Lyst).
 - **2026 kritik sinyal:** McKinsey State of Fashion 2026 "When the Rules Change" — markalar yukarı kayıyor (brand elevation), orta segment sıkışıyor. YONO tüketicisi premium fiyatın meşrulaştırıcısı olabilir ("cost per wear"). İleri adım: State of Fashion 2026 tam raporu okunacak (PDF açık erişim).
 
+**[Büyüme Ustalığı + Sektör Nabzı] Vaka Kütüphanesi: 6 marka yolculuğu + Fast Fashion yaklaşımı (11 Haz)** ✅
+- Zara/Uniqlo/Shein + Nike/Lululemon/On Running derin araştırıldı → moda-sektor-bagi.md Bölüm F (vakalar) + G (alınan/reddedilen mekanikler + Loi Violland regülasyon dalgası).
+- **En değerli 3 çapraz öğreti:** (1) Zara küçük-parti/sinyal döngüsü = lookalike metodolojimizin tekstil hali — hız disiplini premium markaya bile uyarlanır; (2) Nike DTC dersi: kanal kararı ideoloji değil denge — veri keşif değerini ölçmez; (3) Lululemon yerel mikro-elçi modeli = SOC ampüte topluluğu büyümesinin kanıtlanmış şablonu, On Running Federer modeli = Anayasa §11.2 değer/pay ortaklığının milyar dolarlık kanıtı.
+- İleri adım: SOC topluluk stratejisinde Lululemon elçi mekaniği (fizyoterapist/ampüte sporcu/antrenör mikro-elçiler) somut plana çevrilecek.
+
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
 - **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
 - **Estetik müfredatı Disiplin 1-5** — her disiplin Morning Brief'te tek tek işlenmedi henüz; rotasyona alınacak.
