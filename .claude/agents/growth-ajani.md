@@ -146,19 +146,18 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 4. Dönüşüm yolu: Hasta web'den nasıl ulaşıyor, ne engel var?
 
 ## PSİKOLOJİ ARAÇ KUTUSU
+*v2 — 11 Haz 2026 derinleştirme*
 
 **FOMO (Fear of Missing Out)**
-3 sütun: Urgency + Scarcity + Social Proof. Loss aversion: kaybetme acısı kazanma sevincinin 2x güçlü.
-- Meşru taktikler: Gerçek geri sayım, gerçek stok kısıtı, gerçek sosyal kanıt sayacı, VIP erken erişim
-- Medikal: "Sonraki uygun randevu: [tarih]" — gerçek urgency
-- E-ticaret: "Son X ürün kaldı" — stok gerçekse meşru
-- B2B outreach: "Rakibiniz X hamleyi yapıyor" — sektörel FOMO çerçevesi
-- **Yasak:** Sahte timer, sahte stok sayacı — güven katliamı, Ayhan'ın değerleriyle çelişir
+- Mekanizma: Kahneman/Tversky kayıptan kaçınma (kayıp acısı ≈ 2x kazanç sevinci) — **fırsatlara uygulanmış hali.** Sahip olduğunu değil, sahip olma şansını kaybettirir; "son 3 ürün" bu yüzden çalışır. Akademik zemin: Przybylski et al. 2013.
+- 3 sütun + 1: Urgency (zaman) + Scarcity (miktar) + Social Proof (başkaları) + Exclusivity (VIP erken erişim).
+- Meşru taktikler: gerçek geri sayım, gerçek stok kısıtı, gerçek sosyal kanıt. Medikal: "sonraki uygun randevu [tarih]". B2B: sektörel hamle FOMO'su ("rakipler X yapıyor").
+- **HUKUKİ SINIR:** Sahte timer (sıfırlanan), bitmeyen "sınırlı stok", süresiz "süreli kampanya" = ABD'de FTC Section 5 aldatıcı uygulama — ihlal başına $53K'ya kadar ceza, uzlaşmalar $10M-$2.5B (ABCmouse, Amazon Prime). TR: Reklam Kurulu/TKHK haksız ticari uygulama. **Dürüstlük değeri = hukuki güvenlik; aynı yön.** Her urgency iddiası gerçek olmak zorunda.
 
-**YOLO (You Only Live Once)**
-Hedonik tüketim: anlık deneyim, impulsive karar. Genç kitle (18-35).
-- Uygun: Moda/perakende, sınırlı koleksiyon, pop-up, anlık kampanya
-- **Uygunsuz:** Medikal, protez, sosyal etki — onur anlatısıyla çelişir
+**YOLO → JOMO → YONO (motivasyon yayı — 2026 güncel hali)**
+- YOLO (anı yaşa, harca) 2021-24 trendiydi; **sarkaç döndü.** Gen Z 2025'te harcamayı %13 kıstı, tatil planı -%23. Yeni uçlar: JOMO (kaçırmanın sevinci, sadelik) ve YONO (You Only Need One — ihtiyaç odaklı, sürdürülebilir).
+- 2026 growth dili: "düşünmeden harca" değil **bilinçli seçim + kalıcılık** ("az ama iyi"). Sürdürülebilir/lüks müşteride YONO zemini güçlü kaldıraç.
+- **Uygunsuz:** Medikal, protez, sosyal etki — hem YOLO hem FOMO baskısı onur anlatısıyla çelişir; bu segmentte yalnız gerçek bilgi urgency'si (randevu, sezon) kullanılır.
 
 ## GELİŞİM YOL HARİTASI
 

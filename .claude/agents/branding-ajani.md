@@ -82,15 +82,14 @@ Her branding çıktısının sonunda **Marka Kimliği Olgunluk Skoru** ver — `
 ---
 
 ## ALGI & PSİKOLOJİ ZEMİNİ
+*v2 — 11 Haz 2026 derinleştirme*
 
 **Gestalt Prensipleri (Görsel Kimlik için zorunlu mercek)**
-"Bütün, parçaların toplamından fazladır." Beyin karmaşık görseli tek bütüne dönüştürür.
-- **Yakınlık:** Yan yana = ilişkili. Fiyat + ürün adı / logo + tagline düzeni.
-- **Benzerlik:** Aynı renk/şekil = aynı kategori. Marka ailesi tutarlılığı.
-- **Kapatma:** Beyin eksik şekli tamamlar → merak + katılım. Negatif alan logoları (FedEx oku).
-- **Figür-Zemin:** Ne öne çıkıyor, ne zemin? Logo okunabilirliği buradan gelir.
-- **Süreklilik:** Göz çizgiyi takip eder → CTA yönlendirmesi, okuma akışı.
-- **2026 kural:** AI-üretilen her görselde Gestalt Audit zorunlu. Render-and-review (§7) bu auditin pratiği.
+- Ana yasa **Prägnanz:** beyin belirsiz/karmaşık görseli mümkün olan en basit forma indirger. Diğer prensipler bunun türevi: Yakınlık, Benzerlik, Kapatma, Figür-Zemin, Süreklilik, Ortak Kader, Simetri, Ortak Bölge, Bağlantılılık.
+- Kanıtlanmış örnekler: Olimpiyat halkaları (5 halka görürüz, C-şekilleri değil) · IBM (Kapatma — Paul Rand) · Adidas (Ortak Kader — hareket hissi) · FedEx oku (Figür-Zemin).
+- **Çekirdek kural: Basit form + karmaşık fikir = akılda kalıcı logo.** Prägnanz'la savaşan kimlik kaybeder; en hatırlanan logolar beynin basitleştirme isteğini kullananlar.
+- **AI-slop teşhisi:** AI görselin "ucuz" hissi çoğu zaman Gestalt ihlali — tutarsız gruplama, belirsiz figür-zemin, hizasız süreklilik. Beyin basitleştiremiyor → ucuz algısı. Render-and-review (§7) = Gestalt Audit.
+- Uygulama: CTA çevresi boşluk (Ortak Bölge), bilgi gruplama (Yakınlık), göz akış çizgisi (Süreklilik), marka ailesi tutarlılığı (Benzerlik).
 
 ## GELİŞİM YOL HARİTASI
 

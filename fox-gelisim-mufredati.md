@@ -76,27 +76,34 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - Karakter tutarlılığı: aynı sohbet penceresi + önceki görseli yükle = en iyi sonuç.
 - **Kural:** Kampanya görseli brifi her zaman lens/açı/ışık/hareket/mood belirt. Genel "güzel fotoğraf" komutu AI'ya çok geniş alan bırakır.
 
-### 11 Haziran 2026 — Psikoloji & Pazarlama:
+### 11 Haziran 2026 — Psikoloji & Pazarlama (v2 — Fable 5 ile derinleştirildi):
 
-**[Müşteri Empatisi + Büyüme Ustalığı] Gestalt Marketing**
-- Temel yasa: "Bütün, parçaların toplamından fazladır." 10 prensip: Yakınlık, Benzerlik, Kapatma, Figür-Zemin, Süreklilik, Ortak Kader, Simetri, Bölge, Bağlantı, Basitlik.
-- Pazarlama uygulaması: Logo negatif alan (FedEx oku, Amazon gülüşü), web CTA yönlendirmesi, menü grupları, rapor görsel hiyerarşisi.
-- 2026 kritik kural: AI-üretilen her görselde "Gestalt Audit" zorunlu — tutarsız kompozisyon "ucuz" olarak anında algılanır. `marka-bulutu-os-gorsel-uretim-standardi.md` §7 render-and-review bu auditin pratik versiyonu.
-- **Marka Bulutu bağlamı:** Branding Ajanı visual brief yazarken Gestalt mercekten geçirir. Figür-Zemin (logo) + Yakınlık (fiyat/ürün düzeni) + Kapatma (kısmi görsel merak) en sık kullanılan 3 prensip.
+**[Müşteri Empatisi + Büyüme Ustalığı] Gestalt Marketing — algı katmanı**
+- Ana yasa: **Prägnanz** — beyin belirsiz/karmaşık görseli mümkün olan en basit forma indirger. Diğer 9 prensip (Yakınlık, Benzerlik, Kapatma, Figür-Zemin, Süreklilik, Ortak Kader, Simetri, Ortak Bölge, Bağlantılılık) bu ana yasanın türevleri.
+- Kanıtlanmış örnekler: Olimpiyat halkaları (5 halka görürüz, C-şekilleri değil — Prägnanz) · IBM logosu (Kapatma — Paul Rand) · Adidas (Ortak Kader — hareket hissi) · FedEx oku (Figür-Zemin + Kapatma).
+- Çekirdek içgörü: **Basit form + karmaşık fikir = akılda kalıcılık.** En hatırlanan logolar en basitleri — Prägnanz'la savaşmıyor, onu kullanıyor.
+- AI-slop bağlantısı (Katman 3 çıkarım): AI görseli "ucuz" hissettiren şey çoğu zaman Gestalt ihlali — tutarsız gruplama, belirsiz figür-zemin, hizasız süreklilik. Beyin basitleştiremiyor → "karmaşık/ucuz" algısı. Render-and-review (§7) aslında Gestalt Audit.
+- Dönüşüm uygulaması: CTA çevresinde boşluk (Ortak Bölge), form alanlarını gruplama (Yakınlık), görsel akış çizgisi CTA'ya (Süreklilik).
 
-**[Müşteri Empatisi + Büyüme Ustalığı] YOLO Marketing (You Only Live Once)**
-- Tanım: Post-pandemi tüketici davranışı — "belirsiz geleceğe saklamak yerine bugün harca." Hedonik tüketim: anlık deneyim, seyahat, lüks, sınırlı ürün.
-- Mekanizma: İmpulsif satın alma tetikler. Genç kitlede (18-35) güçlü. Dil: "Bu an geçmez", sınırlı koleksiyon, pop-up, anlık kampanya.
-- Dönüşüm: YOLO → JOMO (Joy of Missing Out) trendi büyüyor — aşırı tüketime tepki. Markalar "bu sana gerçekten anlam verir mi?" sorusunu da sormaya başladı.
-- **Marka Bulutu bağlamı:** Moda/perakende müşterilerde (sınırlı koleksiyon, pop-up) geçerli. Medikal/protez/sosyal etki müşterisinde (Luxmed tipi) YOLO dili uygunsuz — onur + güç anlatısıyla çelişir. Steps On Clouds misyon içeriğinde kullanılamaz.
+**[Müşteri Empatisi + Büyüme Ustalığı] YOLO → JOMO → YONO yayı — İLK ÖĞRENME DÜZELTİLDİ**
+- ⚠️ Hata düzeltmesi (aynı gün, Fable 5 derinleştirmesi): İlk turda YOLO "güncel trend" diye işlenmişti — Katman 2 bayat bilgiydi. Veri tersini söylüyor: **sarkaç 2025-26'da döndü.**
+- Veri: Gen Z harcamayı Oca-Nis 2025'te %13 kıstı; 2025 tatil harcama planı -%23 (2024'te +%37'ydi). ABD'de 2026 bütçesi yapan %53 (2025: %46). "Soft saving" yükselişte.
+- Yeni üçlü çerçeve: **YOLO** (anı yaşa, harca — 2021-24) → **JOMO** (kaçırmanın sevinci — sadelik, dijital detoks) → **YONO** (You Only Need One — ihtiyaç odaklı, sürdürülebilir, aşırı tüketim karşıtı).
+- Hayatta kalan kısım: "bugünü anlamlı kıl" çerçevesi. Ölen kısım: "düşünmeden harca" çerçevesi.
+- **Marka Bulutu bağlamı:** 2026 moda/perakende dili YOLO değil **bilinçli seçim + kalıcılık**. Sürdürülebilir lüks (Towdoo tipi müşteri) tam YONO alanı — "az ama iyi". Medikal/sosyal etkide ikisi de kullanılmaz (onur anlatısı).
 
-**[Müşteri Empatisi + Büyüme Ustalığı] FOMO Marketing (Fear of Missing Out)**
-- Tanım: Kaçırma korkusu. 3 sütun: Urgency (zaman kısıtı) + Scarcity (miktar kısıtı) + Social Proof (herkes yapıyor).
-- Nöroloji: Loss aversion — kaybetme acısı kazanma sevincinin 2x güçlü. FOMO dopamin salgılatır, prefrontal korteks (mantık) baskılanır → impulsive karar.
-- Rakamlar: %60 tüketici FOMO'yla 24 saat içinde impulsive satın alma. Urgency sinyali → dönüşüm %10+ artış. Doğru kullanımda %8-15 conversion artışı.
-- Taktikler: Geri sayım, "X kişi izliyor", "Son 3 yer", VIP erken erişim, exit-intent popup.
-- **Etik kırmızı çizgi:** Sahte timer/stok sayacı = güven katliamı. Ayhan'ın değerleriyle doğrudan çelişir — yasak.
-- **Marka Bulutu bağlamı:** Growth Ajanı dönüşüm çantasında. Sağlık turizmi: gerçek "Sonraki randevu X tarihinde" urgency meşru. E-ticaret: stok bazlı scarcity geçerli. B2B outreach: "rakiplerin hamlesi" FOMO çerçevesi.
+**[Müşteri Empatisi + Büyüme Ustalığı] FOMO — mekanizma + hukuki sınır**
+- Bilimsel zemin: Kahneman & Tversky, Prospect Theory (1979) — kayıp acısı ≈ kazanç sevincinin 2 katı. Przybylski et al. (2013) — FOMO'nun akademik tanımı, öz-belirleme kuramından (ilişkililik açığı) beslenir.
+- Çekirdek tanım (Katman 3): **FOMO = kayıptan kaçınmanın fırsatlara uygulanmış hali.** Sahip olduğunu kaybetmek değil — sahip olma şansını kaybetmek. "Son 3 ürün" bu yüzden çalışır: ürünü değil fırsatı kaybettiriyor.
+- 3 sütun + 1: Urgency (zaman) + Scarcity (miktar) + Social Proof (başkaları) + Exclusivity (VIP erken erişim).
+- Rakamlar: %60 tüketici FOMO'yla 24 saat içinde impulsive alım; urgency sinyali → dönüşüm %10+; doğru kullanımda %8-15 artış.
+- **HUKUKİ SINIR (v2 yeni katman):** Sahte aciliyet artık yalnız etik değil hukuki risk. ABD FTC Section 5: sıfırlanan timer, bitmeyen "sınırlı stok", süresiz "süreli kampanya" = aldatıcı uygulama. Ceza: ihlal başına $53,088'e kadar (2025); uzlaşmalar $10M (ABCmouse) — $2.5B (Amazon Prime). Türkiye karşılığı: Reklam Kurulu / TKHK haksız ticari uygulama çerçevesi (sahte indirim cezaları gerçek).
+- İçgörü: **Ayhan'ın dürüstlük değeri ile hukuki güvenlik aynı yöne bakıyor** — gerçek urgency hem etik hem yasal tek güvenli yol. Değer = risk azaltıcı.
+
+**[Sentez — Katman 3] Üç kavram tek kampanyada nasıl birleşir**
+- Gestalt = **algı katmanı** (mesaj milisaniyede nasıl görülüyor/çözülüyor). FOMO/YOLO-YONO = **motivasyon katmanı** (insan neden harekete geçiyor).
+- İyi kampanya sırası: önce algı (görmezse motive olamaz), sonra motivasyon. Gestalt ile anında okunur + doğru motivasyon çerçevesiyle harekete geçirir.
+- Motivasyon çerçevesi yıla/segmente göre kalibre edilir: 2026 Gen Z'de YOLO dili eskidi, YONO/bilinçlilik güncel; FOMO hâlâ çalışıyor ama yalnızca gerçek kıtlıkla.
 
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
@@ -126,4 +133,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2.2 · 7 Haziran 2026 · Fox · v2.2: 7 Haz öğrenmeleri eklendi — Wix API mimarisi, araç sınırları (text-to-image), kampanya prompt mühendisliği.*
+*Sürüm: v2.3 · 11 Haziran 2026 · Fox · v2.3: Gestalt/YOLO/FOMO v2 derinleştirme — YOLO bayat-bilgi hatası aynı gün düzeltildi (Katman 2 → veri ile test), FOMO'ya hukuki sınır katmanı (FTC/TKHK), Gestalt'a Prägnanz + AI-slop bağlantısı, üçlü sentez eklendi.*
