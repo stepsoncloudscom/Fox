@@ -247,11 +247,11 @@ stepsonclouds.com
 ### 3.1 · Kadıköy Belediyesi — Resmi Yazı
 
 > ⭐ **En kritik ilk temas.** İzin olmadan etkinlik olmaz — bu yazı hem izin başvurusu hem iş birliği daveti.
-> `[XX:XX]-[XX:XX]` ve `[X kişi]` alanlarını Ayhan dolduracak.
+> ✅ **DOLDURULDU + GMAIL TASLAĞI OLUŞTURULDU (11 Haz):** saat 09:00–13:00, kontenjan 75. Gönderim Ayhan'da (Kademe 2).
 
 ---
 
-**8 Haziran 2026**
+**11 Haziran 2026**
 
 **Alıcı:** bilal.gezen@kadikoy.bel.tr
 
@@ -264,9 +264,9 @@ Kültür ve Sosyal İşler Müdürlüğü'ne
 
 Sayın Bilal Bey,
 
-Steps On Clouds adına 5 Temmuz 2026 tarihinde, saat [XX:XX]–[XX:XX] arasında Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenlemeyi planlıyoruz.
+Steps On Clouds adına 5 Temmuz 2026 tarihinde, saat 09:00–13:00 arasında Caddebostan Sahili'nde Run For Empathy / Empati Koşusu etkinliğini düzenlemeyi planlıyoruz.
 
-Bu etkinlik; ampute ve engelli bireyleri, ailelerini, destekçilerini ve koşu topluluklarını aynı güzergâhta buluşturan, katılımcı sayısı yaklaşık [X] kişi olarak hedeflenen sosyal etki odaklı bir koşu deneyimidir. Performans yarışı değil; farklı bedenlerin sosyal hayata katılımını görünür kılan ve kapsayıcılık kültürünü güçlendirmeyi amaçlayan bir alan.
+Bu etkinlik; ampute ve engelli bireyleri, ailelerini, destekçilerini ve koşu topluluklarını aynı güzergâhta buluşturan, katılımcı sayısı kontenjanla sınırlı olmak üzere 75 kişi olarak planlanan sosyal etki odaklı bir koşu deneyimidir. Performans yarışı değil; farklı bedenlerin sosyal hayata katılımını görünür kılan ve kapsayıcılık kültürünü güçlendirmeyi amaçlayan bir alan.
 
 Etkinliğin gerçekleşebilmesi için Belediyenizden iki konuda destek talep ediyoruz:
 
