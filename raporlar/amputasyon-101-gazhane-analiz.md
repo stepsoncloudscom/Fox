@@ -89,7 +89,43 @@ Gazhane'de **"101" serisi yerleşik bir format**: *Yaratıcılık 101*, *Kent, K
 
 **Dikkat — kurum ayrımı:** Gazhane Kadıköy'de ama **İBB mekânı** (Kütüphane ve Müzeler Müdürlüğü / Kültür AŞ). Kadıköy Belediyesi temasımızdan (Empati Koşusu) ayrı bir kurumsal hat; oradaki ilerleme burada referans olarak kullanılabilir ama süreçler karışmamalı.
 
-## 5 · Risk / Not
+## 5 · Başvuru Maili Taslağı (Kademe 2 — Ayhan onayıyla gider)
+
+**Alıcı:** muzegazhane@ibb.ist · **Gönderen:** stepsonclouds@gmail.com
+**Konu:** Program Önerisi — "Amputasyon 101" · Halka Açık Bilgilendirme ve Deneyim Atölyesi
+**✅ Gmail taslağı oluşturuldu (11 Haz 2026, id: r-1477881013789167192) — gönderim Ayhan'da.**
+*Denetim notu: Denetmen 2 denemede API 529 (sunucu) ile düştü; Fox öz-denetimi Denetmen mercekleriyle uygulandı (doğruluk/ses/onur/kurumsal risk ✓). Gönderim öncesi istenirse Denetmen tekrar koşulur.*
+
+---
+
+Merhaba Müze Gazhane Ekibi,
+
+Ben Ayhan Erden. Moda, reklam ve hikâye anlatıcılığı alanlarında çalışan bir yaratıcı profesyonelim; ampute bir birey olarak, uzun süredir ampute bireylerin, protez kullanıcılarının ve hayata yeniden güçlü adımlarla bağlanan insanların hikâyelerini görünür kılmak için içerikler üretiyorum. Bu çalışmaları Steps On Clouds çatısı altında yürütüyorum.
+
+Müze Gazhane'nin programını takip ediyorum; Yaratıcılık 101 ve Kent, Kültür ve Bellek 101 gibi serilerinizin oluşturduğu çizgiye doğal biçimde eklenecek bir öneriyle yazıyorum: **Amputasyon 101.**
+
+Amputasyon 101; amputasyonu ve protezle yaşamı, merak eden herkesin rahatça soru sorabileceği bir zeminde ele alan, halka açık ve ücretsiz bir bilgilendirme ve deneyim atölyesi. İnsanlar ampute bireylerle karşılaştığında çoğu zaman ne soracağını, nasıl davranacağını bilmiyor; sormaya çekiniyor. Bu atölye tam o çekingenliğin kalktığı yer olmayı amaçlıyor: amputasyon nedir, protez nasıl çalışır, gündelik hayat nasıl akar, doğru iletişim ve doğru destek nasıl kurulur. Engellilik çoğu zaman bilgi eksikliğinin gölgesinde kalıyor; oysa doğru bilginin en güçlü kapsayıcılık aracı olduğuna inanıyorum.
+
+Formatı Gazhane'nin program diline uygun düşündüm: 60 dakikalık, sınırlı kapasiteli, ücretsiz bir atölye — anlatı, deneyim bölümü (protez inceleme, mit kırma) ve açık soru-cevap olmak üzere üç bölüm. Tek oturumla başlayabilir; uygun görürseniz üç oturumluk bir seriye dönüşebilir:
+
+1. **Amputasyon 101 — Beden ve Gündelik Hayat**
+2. **Protez 101 — Teknoloji ve Erişim**
+3. **Birlikte Yaşamak — Doğru İletişim, Doğru Destek**
+
+Çerçevemiz acıma ya da ilham hikâyesi değil; güç, gündelik gerçeklik ve doğru bilgi. Atölyenin yürütücülüğünü ben üstleniyorum. Bu bir kiralama talebi değil, Gazhane'nin katılımcı program anlayışına gönüllü bir katkı önerisi; tarih, kapasite ve takvimlendirmeyi tamamen sizin program akışınıza bırakıyorum.
+
+Uygun görmeniz halinde içeriği ve olası takvimi kısa bir görüşmede paylaşmak isterim. Vakit ayırdığınız için teşekkür ederim.
+
+Saygılarımla,
+Ayhan Erden
+Steps On Clouds
++90 538 955 5531
+stepsonclouds.com
+instagram.com/ayhanerden_/
+
+---
+
+## 6 · Risk / Not
 - **Kapasite gerçekçiliği:** T Atölye küçük grup mekânı (~25-35 kişi tahmini — başvuruda kapasiteyi Gazhane'ye bırak, sayı taahhüt etme).
 - **Takvim:** Program 4-6 hafta önceden planlanıyor görünüyor; başvuru-onay döngüsü için Temmuz sonu/Ağustos hedefi gerçekçi.
 - **İçerik onayı:** İBB programına girecek metinler (etkinlik açıklaması, görsel) kurum onayından geçer; ses parmak izi + görsel üretim standardına uygun taslaklar hazır olmalı.

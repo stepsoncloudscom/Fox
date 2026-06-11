@@ -54,7 +54,9 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 - **Kilit bulgular:** (1) Gazhane'de **"101" serisi yerleşik format** (Yaratıcılık 101, Kent Kültür ve Bellek 101) — isim birebir oturuyor. (2) Dış bağımsız uzmanlar kendi adıyla atölye yürütüyor (emsal: Uzm. Psk. Zeynep Koçak). (3) Standart format: 60 dk · T Atölye · hafta içi 19:00 · ücretsiz · Radar Türkiye kayıt · sınırlı kapasite · seri kültürü güçlü. (4) **Tema boşluğu: engellilik/erişilebilirlik/beden çeşitliliği programda hiç yok** — İBB kapsayıcılık söylemiyle hizalı giriş alanı.
 - **Başvuru kanalı:** muzegazhane@ibb.ist (birincil) + iletişim formu (T Atölye talebi); kurumsalsatis@kultur.istanbul B planı. ⚠️ Gazhane = İBB mekânı (Kadıköy Belediyesi hattından AYRI süreç).
 - **Öneri:** 3 oturumluk seri teklif (Amputasyon 101 / Protez 101 / Birlikte Yaşamak), tek oturumla başlama esnekliği. Onur merkezli çerçeve.
-- **Sıradaki adım (Kademe 2):** Başvuru maili taslağı — Ayhan onayı ile gider.
+- **✅ Başvuru taslağı HAZIR (11 Haz, Gmail):** muzegazhane@ibb.ist'e taslak oluşturuldu (Ayhan ampute kimlik beyanı + 101 serisi atfı + 3 oturumluk seri + gönüllü katkı çerçevesi, taahhüt yok). Tam metin: analiz dosyası Bölüm 5. **GÖNDERİM AYHAN'DA (Kademe 2).**
+- **⚠️ Denetmen kaydı:** Denetmen spawn'ı 2 kez API 529 Overloaded ile düştü (sunucu tarafı). Ayhan'ın ikinci "hazırla" komutu üzerine bekletilmedi; Fox öz-denetimi Denetmen mercekleriyle uygulandı (doğruluk/ses/onur/kurumsal risk ✓). İstenirse gönderim öncesi Denetmen tekrar koşulur.
+- **Sıradaki adım:** Ayhan taslağı gözden geçirir → gönderir. Yanıt gelirse görüşme; 1-2 hafta sessizlik olursa iletişim formu + telefon takibi.
 
 ## 11 HAZ OTURUMU (devam) — Empati Koşusu Site Güncellemesi (CANLI)
 - **Tetik:** Ayhan'ın yüklediği `Empati_Kosusu_Degerlendirme_Raporu.docx` + "yönergelere göre düzenle" talimatı.
