@@ -16,8 +16,11 @@
 - **Format:** Performans yarışı değil — birlikte hareket etme, kapsayıcılık, empati.
 - **Amaç:** Farklı bedenlerin sosyal hayata katılımını görünür kılmak; empati kültürünü güçlendirmek.
 - **Katılımcı profili:** Ampute bireyler + aileleri + sağlıklı koşucular + destekçiler
-- **Beklenen katılımcı sayısı:** ~50 kişi
-- **Etkinlik saati:** 09:00–13:00
+- **Kontenjan (Ayhan kararı, 11 Haz):** 75 kişi (Genel Katılım bileti limitli; Engelli Katılımcı bileti ücretsiz ve limitsiz — API'de ortak havuz yok)
+- **Son kayıt (Caddebostan):** 30 Haziran 2026, 23:59 — bilet satışı otomatik kapanır. *(Yoğurtçu son kayıt tarihi açık — öneri: 21 Tem, Ayhan onayı bekliyor.)*
+- **Etkinlik saati:** Caddebostan 09:00–13:00 · Yoğurtçu 10:00–13:00 (sitedeki canlı değerler)
+- **İlk satış:** ✅ Caddebostan'da 1 bilet satıldı (11 Haz itibarıyla)
+- **SEO (11 Haz):** İki etkinliğe title + meta description işlendi (hedef kelimeler: kapsayıcı koşu, Kadıköy, İstanbul, sosyal etki)
 
 ### Etkinlik Programı
 1. **Ön ısınma** — koşu öncesi grup ısınma seansı
@@ -92,9 +95,11 @@
 
 ## 6. Açık Kararlar
 
-- [ ] Etkinlik saati (Belediye yazısı için)
-- [ ] Beklenen katılımcı sayısı
+- [x] ~~Etkinlik saati~~ → Caddebostan 09:00–13:00 (canlı)
+- [x] ~~Beklenen katılımcı sayısı~~ → Kontenjan 75 (Ayhan, 11 Haz). Belediye yazısındaki [X kişi] = 75, [saat] = 09:00–13:00 yazılabilir.
+- [ ] Yoğurtçu Parkı son kayıt tarihi (öneri: 21 Tem)
 - [ ] Rota detayları (Caddebostan Sahili'nin hangi bölümü)
+- [ ] Program saat dağılımı (netleşirse Wix Agenda açılır)
 - [ ] Ayhan'ın UPUT 6K kişisel mektubu için kişisel detaylar
 
 ---
