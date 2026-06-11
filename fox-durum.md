@@ -48,6 +48,14 @@ Fox ilk kez bağımsız gelişim turu yaptı (Ayhan uyurken). Sonuçlar:
 10. **Drive → Şablonlar klasörü** — iki .xlsx dosyası silinecek (kopyalar), native Sheets kalacak
 11. **Drive native Sheets sync** — SOC_2026_Pazarlama_Plani.xlsx lokal olarak güncel (7 Haz: SOC Faz 2 Strateji milestone satırı eklendi — "SOC WEB SİTESİ — TESLİM ZİNCİRİ", Row 18, açık mavi, Haz-Ağu 12 hafta + Ala SKT B2B satırları). Drive'daki native Sheets **manüel güncelleme bekliyor** — xlsx açıp kopyala-yapıştır yeterli. ⚠️ Not: Temmuz W1 "GSC BAĞLANTISI" hücresi strateji çatışması işaretlendi (yorum var); strateji GSC'yi Ağustos W4'e taşıyor. **Drive Google Doc da oluşturuldu:** SOC_Strateji_Faz2_2026 (ID: 1JuZ83vvByR98eYbyyMnB82rr1TOrJjL29H_vV_O17YA, Marka Bulutu OS klasörü).
 
+## 11 HAZ OTURUMU (devam) — Amputasyon 101 × Müze Gazhane Analizi
+- **Tetik:** Ayhan talimatı — Gazhane'de Amputasyon 101 başvurusu için yakın dönem 20 etkinlik incelemesi. Amaçlar: kurumsal bilinirlik · halkın bilgilenmesi · deneyime alan açmak · marka bilinirliği.
+- **Çıktı:** `raporlar/amputasyon-101-gazhane-analiz.md` — 20 etkinlik envanteri + desen analizi + konumlandırma + başvuru kanalları.
+- **Kilit bulgular:** (1) Gazhane'de **"101" serisi yerleşik format** (Yaratıcılık 101, Kent Kültür ve Bellek 101) — isim birebir oturuyor. (2) Dış bağımsız uzmanlar kendi adıyla atölye yürütüyor (emsal: Uzm. Psk. Zeynep Koçak). (3) Standart format: 60 dk · T Atölye · hafta içi 19:00 · ücretsiz · Radar Türkiye kayıt · sınırlı kapasite · seri kültürü güçlü. (4) **Tema boşluğu: engellilik/erişilebilirlik/beden çeşitliliği programda hiç yok** — İBB kapsayıcılık söylemiyle hizalı giriş alanı.
+- **Başvuru kanalı:** muzegazhane@ibb.ist (birincil) + iletişim formu (T Atölye talebi); kurumsalsatis@kultur.istanbul B planı. ⚠️ Gazhane = İBB mekânı (Kadıköy Belediyesi hattından AYRI süreç).
+- **Öneri:** 3 oturumluk seri teklif (Amputasyon 101 / Protez 101 / Birlikte Yaşamak), tek oturumla başlama esnekliği. Onur merkezli çerçeve.
+- **Sıradaki adım (Kademe 2):** Başvuru maili taslağı — Ayhan onayı ile gider.
+
 ## 11 HAZ OTURUMU (devam) — Empati Koşusu Site Güncellemesi (CANLI)
 - **Tetik:** Ayhan'ın yüklediği `Empati_Kosusu_Degerlendirme_Raporu.docx` + "yönergelere göre düzenle" talimatı.
 - **Yapıldı (Wix Events API, canlıda):** İki etkinlik sayfası güncellendi — Caddebostan (5 Tem) + Yoğurtçu Parkı (26 Tem, context'te yoktu, keşfedildi). Yeni yapı: hero shortDescription ("Bu bir yarış değil...") + Neden Farklı + Neden Katılmalıyım + Program (3 bölüm, saat akışı katılımcıya e-posta notuyla) + Bulut Çekilişi + Katılım Bedeli (mevcut pay-what-you-want metni korundu) + SSS (5 soru) + SOC Hareketi misyon bloğu. Yoğurtçu "Yoğurtçı" yazım hatası düzeltildi.
