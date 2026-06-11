@@ -13,18 +13,22 @@
 | Tuncay → House of Superstep çevresi | Aktif ilişki | İstiklal streetwear markalarına 2-3 referans isteği | WhatsApp | HAVUZ | Ayhan tek mesajla sorar |
 | MDP Group | Mayıs teması (ik@) | İK'dan pazarlamaya yönlendirme | ik@mdpgroup.com ✓ | HAVUZ | Ayhan onayı → uyarlanmış taslak |
 
-## ŞERİT B — Butik Ajanslar (üretim ortaklığı, tekrarlayan iş)
-*Tohum — kanal doğrulama + gözlem D1'de. Kaynak: dijitalajanslar.com / edvido / Pazarlama Türkiye dizinleri.*
+## ŞERİT B — Küçük-Orta Ajanslar (beyaz-etiket üretim ortaklığı, tekrarlayan iş)
+*Modül: `raporlar/nakit-motoru-ajans-modulu.md` (ICP + sıcak sinyaller + şablon + çalışma modeli). ICP: 3-25 kişi, moda/e-ticaret müşterili öncelikli. Sıcak sinyal: yeni müşteri kazanımı duyurusu · içerik üreticisi işe alım ilanı.*
 
-| Hedef | Segment | Site | Kanal | Durum |
-|---|---|---|---|---|
-| Meri Creative | Butik kreatif, markalaşma | mericreative.com | doğrulanacak | HAVUZ |
-| Crabs Media | E-ticaret/moda müşterili | doğrulanacak | doğrulanacak | HAVUZ |
-| Lokal Etki | KOBİ odaklı sosyal medya | doğrulanacak | doğrulanacak | HAVUZ |
-| BossyDigital | 360° dijital, KOBİ/startup | doğrulanacak | doğrulanacak | HAVUZ |
-| Istcode | 360° dijital | doğrulanacak | doğrulanacak | HAVUZ |
-| Dijicrea | E-ticaret/web ağırlıklı | doğrulanacak | doğrulanacak | HAVUZ |
-| + 4-6 isim | dizin taraması D1 | — | — | ARAŞTIRMA |
+| Hedef | Segment | Site | Kanal | Sinyal | Durum |
+|---|---|---|---|---|---|
+| Moda Kreatif | moda odaklı dijital ajans ⭐ | modakreatif.com | doğrulanacak | odak birebir | HAVUZ |
+| Meri Creative | butik kreatif, markalaşma | mericreative.com | doğrulanacak | — | HAVUZ |
+| Crabs Media | e-ticaret/moda müşterili | doğrulanacak | doğrulanacak | müşteri profili uyumlu | HAVUZ |
+| Lokal Etki | KOBİ sosyal medya | doğrulanacak | doğrulanacak | — | HAVUZ |
+| BossyDigital | 360° dijital, KOBİ/startup | doğrulanacak | doğrulanacak | — | HAVUZ |
+| Istcode | 360° dijital | doğrulanacak | doğrulanacak | — | HAVUZ |
+| Dijicrea | e-ticaret/web ağırlıklı | doğrulanacak | doğrulanacak | — | HAVUZ |
+| Creative Dijital İstanbul | dijital ajans | creativedijital.istanbul | doğrulanacak | — | HAVUZ |
+| Küre Ajans | 360° medya | kureajans.com | doğrulanacak | — | HAVUZ |
+| Ahtapot Sosyal Medya | sosyal medya + prodüksiyon | doğrulanacak | doğrulanacak | 45 kişi — üst sınır, portföye göre | HAVUZ |
+| + 15-20 ajans | dijitalajanslar.com 50+ dizini + LinkedIn işe alım ilanları + Bigumigu/MediaCat yeni iş haberleri | — | — | haftalık tarama | ARAŞTIRMA |
 
 ## ŞERİT C — MODA & GİYİM MARKALARI ⭐ BİRİNCİL DİKEY (Ayhan kararı, 12 Haz)
 *Hedef: DÜZENLİ müşteri ilişkisi (tek çekim değil, sezonluk/aylık içerik ortaklığı). Amaç: görüşme talep etmek + foto/film portfolyo sunmak. Kaynak stratejisi: fuar katılımcı listeleri — fuara katılan marka pazarlamaya bütçe ayırıyor, büyüme modunda, iletişimi ulaşılabilir.*
