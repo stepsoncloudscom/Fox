@@ -26,16 +26,59 @@
 | Dijicrea | E-ticaret/web ağırlıklı | doğrulanacak | doğrulanacak | HAVUZ |
 | + 4-6 isim | dizin taraması D1 | — | — | ARAŞTIRMA |
 
-## ŞERİT C — Soğuk Dikey (sağlık turizmi + moda/e-ticaret)
-*Tohum — "işi iyi, görseli zayıf" kriteri gözlem turunda uygulanacak; kritere uymayan ARŞİV'e düşer.*
+## ŞERİT C — MODA & GİYİM MARKALARI ⭐ BİRİNCİL DİKEY (Ayhan kararı, 12 Haz)
+*Hedef: DÜZENLİ müşteri ilişkisi (tek çekim değil, sezonluk/aylık içerik ortaklığı). Amaç: görüşme talep etmek + foto/film portfolyo sunmak. Kaynak stratejisi: fuar katılımcı listeleri — fuara katılan marka pazarlamaya bütçe ayırıyor, büyüme modunda, iletişimi ulaşılabilir.*
 
-| Hedef | Segment | Site | Kanal | Durum |
-|---|---|---|---|---|
-| Medibeauty Klinik | Estetik/saç/diş, 6 dil, sağlık turizmi | medibeautyklinik.com | doğrulanacak | HAVUZ |
-| MedHair Clinic | Saç ekimi, AB pazarı (.eu site) | medhairclinic.eu | doğrulanacak | HAVUZ |
-| Turk Aesthetic | Saç+plastik+diş paket | turkaesthetic.com | doğrulanacak | HAVUZ |
-| + 7-10 klinik | doktoron.com "13 merkez" listesi + Kadıköy/Ataşehir yerel taraması D1 | — | — | ARAŞTIRMA |
-| + moda/e-ticaret markaları | artist book kanıtıyla; Tuncay referansları buraya da besler | — | — | ARAŞTIRMA |
+### C1 · Who's Next Paris Türk katılımcıları (İHKİB) — ALTIN LİSTE
+*İhracatçı = döviz kazanıyor (kural §11.1) + Paris fuarına yatırım yapıyor = lookbook/kampanya ihtiyacı en yüksek segment. 2026-1 dönemi katılımcıları:*
+
+| Marka | Segment | Kanal | Durum |
+|---|---|---|---|
+| BASAKLA | kadın giyim | doğrulanacak | HAVUZ |
+| BIRELIN | kadın giyim | doğrulanacak | HAVUZ |
+| BİZE | giyim | doğrulanacak | HAVUZ |
+| DOLCEZZA | giyim | doğrulanacak | HAVUZ |
+| FONEM | kadın giyim | doğrulanacak | HAVUZ |
+| IT'S BASIC | basics | doğrulanacak | HAVUZ |
+| L'ATELIER DE GAIA | kadın giyim | doğrulanacak | HAVUZ |
+| LUOKK | kadın giyim | doğrulanacak | HAVUZ |
+| MA MULIER | kadın giyim | doğrulanacak | HAVUZ |
+| MARGITTES | kadın giyim | doğrulanacak | HAVUZ |
+| MON REVE | abiye/gelinlik | doğrulanacak | HAVUZ |
+| NILMARK | giyim | doğrulanacak | HAVUZ |
+| SOFISA | giyim | doğrulanacak | HAVUZ |
+| VUQU | giyim | doğrulanacak | HAVUZ |
+| YXL COLLECTION | büyük beden | doğrulanacak | HAVUZ |
+| ZILBERMAN | deri/kürk | doğrulanacak | HAVUZ |
+| BASARIN LEATHER&FUR | deri/kürk | doğrulanacak | HAVUZ |
+| MILOU JEWELRY | takı/aksesuar | doğrulanacak | HAVUZ |
+| SUN ETİKET | tedarik (etiket) | düşük öncelik | HAVUZ |
+
+### C2 · IFCO İstanbul Fashion Connection (19-21 Ağu 2026; Şubat fuarı 273 katılımcı)
+*Tam liste: ifco.com.tr/fair/exhibitors — JS yüklemeli, D1 koşusunda Chrome ile çekilecek. Tohumlar:*
+
+| Marka | Segment | Durum |
+|---|---|---|
+| MICCA | kadın giyim | HAVUZ |
+| NAQİSHE | kadın giyim | HAVUZ |
+| BRAND FACTORY | giyim | HAVUZ |
+| CARMEN | abiye (Fashionist) | HAVUZ |
+| SERABELLA | abiye (Fashionist) | HAVUZ |
+| INCITY | çocuk (IFCO Kids) | HAVUZ |
+| KATAMINO | çocuk (IFCO Kids) | HAVUZ |
+| 3H TEKSTİL | konfeksiyon | HAVUZ |
+
+### C3 · Diğer fuar kaynakları (D1+ listeleri çekilecek)
+| Fuar | Alan | Tarih | Liste durumu |
+|---|---|---|---|
+| Linexpo İstanbul | iç giyim + çorap | 4-7 Şub 2026 (geçti) | linexpo.com.tr — katılımcı arşivi kontrol |
+| AYMOD | ayakkabı | 25-28 Mar 2026 (geçti) | aymod.com — katılımcı arşivi kontrol |
+| Istanbul Kids Fashion | çocuk giyim | araştırılacak | — |
+| İHKİB yurtdışı fuar katılımcı duyuruları | ihracatçı markalar | sürekli | ihkib.org.tr — düzenli tarama |
+
+## ŞERİT D — Sağlık Turizmi (İKİNCİL — beklemede)
+*Ayhan kararıyla moda birincil oldu. Klinikler yedekte; moda şeridi doyarsa veya tekil fırsat doğarsa açılır.*
+Medibeauty (medibeautyklinik.com) · MedHair (medhairclinic.eu) · Turk Aesthetic (turkaesthetic.com) · doktoron.com 13 merkez listesi.
 
 ---
 

@@ -6,6 +6,10 @@
 ## 0 · İlke
 Soğuk iletişim toplu mail patlatma DEĞİLDİR. Az sayıda, doğrulanmış, gerçekten incelenmiş hedefe, insan eliyle gönderilen kişisel mesajdır. Günde 5-8 nitelikli temas > haftada 100 spam. Sistemin işi hacim değil, **isabet**.
 
+## 0.1 · Hedef Tanımı (Ayhan kararı, 12 Haz)
+**Birincil dikey: MODA & GİYİM MARKALARI.** Aranan ilişki: **düzenli müşteri** (sezonluk/aylık içerik ortaklığı) — tek seferlik çekim değil. Mesajın amacı: **görüşme almak + foto/film portfolyo sunmak**; satış görüşmede yapılır. Fiyat kararı ertelendi (Ayhan) — mailde zaten fiyat yok, sistem fiyatsız koşar.
+**Birincil kaynak: FUAR KATILIMCI LİSTELERİ** (Who's Next/İHKİB, IFCO, Linexpo, AYMOD...). Mantık: fuara katılan marka pazarlamaya bütçe ayırıyor, büyüme/ihracat modunda, iletişim bilgisi ulaşılabilir. İhracatçı markalar (yurtdışı fuar katılımcıları) en üst öncelik — döviz kuralı §11.1.
+
 ## 1 · Huni Mimarisi
 
 ```

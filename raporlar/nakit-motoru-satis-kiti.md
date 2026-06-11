@@ -70,24 +70,27 @@ Saygılarımla,
 Ayhan Erden
 +90 538 955 5531 · stepsonclouds.com
 
-### C — Marka/klinik (soğuk, doğrudan)
-**Konu:** [Marka] için İçerik Üretimi — Çekim Günü Önerisi
+### C — Moda/giyim markası (BİRİNCİL ŞABLON — görüşme + portfolyo odaklı)
+**Konu V1:** [Marka] — Lookbook & Kampanya Çekimleri İçin Tanışma Talebi
+**Konu V2:** [Marka] koleksiyonu için görsel iş birliği — Ayhan Erden
 
 Merhaba [Marka] Ekibi,
 
-Ben Ayhan Erden. Moda ve reklam fotoğrafçılığı alanında üretim yapıyorum; Hummel ve Defacto kampanyalarında yer aldım, son olarak Össur Türkiye'de içerik üretimini yönettim.
+Ben Ayhan Erden. Sekiz yıldır moda ve reklam fotoğrafçılığı yapıyorum; Hummel ve Defacto kampanyalarında yer aldım, editorial projelerimde Türkiye'nin tanınan yüzleriyle çalıştım. Vakko Esmod Moda Akademisi'nde Moda Marka Yöneticisi eğitimimi tamamladım — yani markanızın yalnızca karesini değil, koleksiyon dilini ve pazar konumunu da okurum.
 
-[Marka]'nın [Instagram/web sitesine] baktım — [GERÇEK GÖZLEM 1: işin gücü]. Bununla birlikte [GERÇEK GÖZLEM 2: görsel içerik boşluğu — ör. ürün/hizmet kalitesinin görsellere yansımaması, video eksikliği]. Bu boşluk, bugün müşterinin satın alma kararını doğrudan etkiliyor.
+[FUAR AÇISI — örn.: Who's Next Paris katılımcı listesinde [Marka]'yı gördüm. İhracat pazarında alıcının markayla ilk teması görseller üzerinden kuruluyor; lookbook ve kampanya görselleri, koleksiyonun gördüğü ilgiyi doğrudan belirliyor. / IFCO katılımcı listesinde [Marka]'yı gördüm...] [GERÇEK GÖZLEM: markanın görsel dünyasına dair spesifik bir not — güç + boşluk]
 
-Bunun için net bir format öneriyorum: tek günlük çekim — yarım veya tam gün — sonunda elinizde [N] işlenmiş fotoğraf ve [N] Reels olur; 5-7 iş gününde teslim. Tek seferlik, taahhütsüz; işin kalitesini görerek karar verirsiniz.
+[Marka]'nın önümüzdeki sezon çekimlerinde **düzenli içerik ortağı** olarak çalışmak isterim: lookbook, kampanya, sosyal medya film/Reels — çekimden kurguya tek elden, sezon takviminize bağlı düzenli üretim.
 
-Portfolyom: [PORTFÖY LİNKİ]
+Fotoğraf ve film portfolyomu paylaşıyorum: [PORTFÖY LİNKİ]
 
-Kısa bir görüşmede [Marka] için nasıl bir çekim kurgulayacağımı paylaşmak isterim.
+Uygun görmeniz halinde kısa bir tanışma görüşmesinde portfolyomu sunmak ve [Marka]'nın sezon planına nasıl eşlik edebileceğimi konuşmak isterim.
 
 Saygılarımla,
 Ayhan Erden
-+90 538 955 5531 · stepsonclouds.com
++90 538 955 5531 · stepsonclouds.com · instagram.com/ayhanerden_/
+
+> **Not — amaç hiyerarşisi (Ayhan, 12 Haz):** birincil hedef GÖRÜŞME almak ve portfolyo sunmak; satışın kendisi görüşmede. Düzenli müşteri ilişkisi (sezonluk/aylık) tek seferlik çekimden önce gelir. Çekim Günü ürünü görüşmede "düşük riskli başlangıç" olarak sunulur: "İlk işte tek günlük çekimle başlayalım, kaliteyi görün — sonrasını sezon takvimiyle planlarız."
 
 ## 4 · Haftalık Ritim (Fox yürütür)
 - **Pzt:** 10 yeni hedef + gözlem notları → Ayhan'a paket
