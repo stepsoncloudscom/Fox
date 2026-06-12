@@ -3,7 +3,7 @@
 *Son güncelleme: 12 Haziran 2026 — v1 tohum doldurma (kanal+gözlem doğrulaması D1 sabah koşusunda)*
 
 **PORTFÖY LİNKİ (tüm taslaklar bunu kullanır):** https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
-⚠️ Klasör hazır — Ayhan iki PDF'i sürükleyecek (masaüstü: `Profile.pdf` + `Ayhan Erden artist book.pdf`) ve paylaşımı **"linki olan herkes — görüntüleyen"** yapacak. Bu yapılmadan taslak GÖNDERİLMEZ (boş klasör linki itibar yakar).
+✅ **TEYİTLİ (12 Haz, Fox kontrolü):** Klasör DOLU — `Ayhan Erden artist book.pdf` (2.8MB) + `Profile.pdf` (50KB) içeride. Paylaşım AÇIK — "linki olan herkes: görüntüleyen" (anyone/reader). **Gönderim serbest.**
 
 ---
 
