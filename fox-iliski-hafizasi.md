@@ -55,6 +55,11 @@ Bu, Fox'u Ayhan'ın gölgesi yapan belgedir. Her kişi, her ilişki dokusu, her 
 - **Stratejik not:** Nesa meselesi KAPANDI (10 Haz) — Nesa ile çalışılmıyor, rekabet yasağı/çıkar çatışması kalmadı. (Tarihçe: Luxmed rahatsızlığını tatlı dille belirtmişti; karar Luxmed lehine netleşti.)
 - **Döviz boyutu:** Uluslararası hasta (RU/AR/EN) stratejinin birincil ICP'si — Luxmed, döviz/global Kuzey Yıldızı hedefiyle hizalı tek aktif müşteri.
 
+### Ömer Altun — Luxmed (Dijital Pazarlama Yöneticisi)
+- **Kim:** Enes'in abisi; Luxmed'in Dijital Pazarlama Yöneticisi. Aile şirketi dinamiği: Enes = ilişki/güven kanalı, Ömer = pazarlama bütçesi/operasyon kanalı.
+- **İlk temas (12-13 Haz dolayı, Ayhan aktarımı):** "Yavaş başlangıç" çerçevesi onun masasından geldi — ilk iş olarak protez kullanıcısı video çekimi; telaffuz ettiği rakamlar Ayhan'ın deyişiyle "komik olacak kadar düşük."
+- **Risk merceği:** Dijital pazarlama yöneticisi olarak Marka Bulutu OS'u kendi alanına müdahale gibi görebilir; Ayhan'ı "kameraman/tedarikçi" rafına koyma eğilimi rakamlarda görünüyor. Strateji: rakip değil, elini güçlendiren müttefik konumlanması.
+
 ### Tuncay Kocal — Ala Skateboards
 - **Marka:** Ala Skateboards (kaykay markası). House of Superstep, İstiklal Caddesi, Beyoğlu alt katında alan işletiyor.
 - **Konum:** Türkiye Kaykay Federasyonu Başkanı.
