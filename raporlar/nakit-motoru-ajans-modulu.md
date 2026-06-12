@@ -50,7 +50,7 @@ Müşteri işlerinizde foto+video üretimini dış kapasite olarak taşıyabilir
 - İstediğinizde beyaz-etiket — iş sizin adınızla çıkar
 - Uygunluk/fiyat sorularına 48 saat içinde net dönüş
 
-Portfolyo (foto + film): [PORTFÖY LİNKİ]
+Portfolyo (foto + film): https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
 
 15 dakikalık bir tanışma görüşmesi ayarlayabilir miyiz? En kolayı pilot bir işle başlamak — tek çekimlik bir müşteri işinizde kaliteyi ve tempoyu görürsünüz.
 

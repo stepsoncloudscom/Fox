@@ -51,7 +51,7 @@ Uygun görürseniz kısa bir görüşmede nasıl çalışabileceğimizi konuşma
 
 Saygılarımla,
 Ayhan Erden
-+90 538 955 5531 · stepsonclouds.com · [PORTFÖY LİNKİ]
++90 538 955 5531 · stepsonclouds.com · https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
 
 ### B — Butik ajans (soğuk, üretim ortağı)
 **Konu:** Müşteri İşleriniz İçin Üretim Ortağı — Foto + Video · Ayhan Erden
@@ -62,7 +62,7 @@ Ben Ayhan Erden. Moda ve reklam fotoğrafçılığı alanında 8 yıldır üreti
 
 Ajansların en sık yaşadığı darboğazı biliyorum: iş var, güvenilir ve hızlı üretici yok. Tam bu nokta için çalışıyorum — yarım/tam günlük çekim formatı, net teslim seti (fotoğraf + Reels), 5-7 iş gününde teslim, tek elden çekim+kurgu.
 
-Portfolyom: [PORTFÖY LİNKİ]
+Portfolyom: https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
 
 Önümüzdeki dönem müşteri işlerinizde dış üretici ihtiyacınız olursa, bir tanışma görüşmesi ayarlayabilir miyiz?
 
@@ -82,7 +82,7 @@ Ben Ayhan Erden. Sekiz yıldır moda ve reklam fotoğrafçılığı yapıyorum; 
 
 [Marka]'nın önümüzdeki sezon çekimlerinde **düzenli içerik ortağı** olarak çalışmak isterim: lookbook, kampanya, sosyal medya film/Reels — çekimden kurguya tek elden, sezon takviminize bağlı düzenli üretim.
 
-Fotoğraf ve film portfolyomu paylaşıyorum: [PORTFÖY LİNKİ]
+Fotoğraf ve film portfolyomu paylaşıyorum: https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
 
 Uygun görmeniz halinde kısa bir tanışma görüşmesinde portfolyomu sunmak ve [Marka]'nın sezon planına nasıl eşlik edebileceğimi konuşmak isterim.
 
