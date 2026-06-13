@@ -73,7 +73,7 @@ Tek üretim, dört kullanım alanı:
 | **Sosyal kanallar** | Instagram / TikTok / YouTube kesitleri — kanal mimarisi hangi karara varırsa varsın besler |
 | **Uluslararası** | İngilizce/Rusça/Arapça altyazı katmanıyla dil varlığının ilk yapı taşı |
 
-Etki ölçümü baştan kurulur: yayın öncesi/sonrası kanal metrikleri, Search Console bağlandığında arama görünürlüğü — sonuç tahminle değil veriyle raporlanır.
+Çalışma şeklimizin bir parçası: etkiyi baştan ölçülebilir kurmayı önemseriz — yayın öncesi/sonrası kanal metrikleri, Search Console bağlandığında arama görünürlüğü. Sonucu tahminle değil veriyle konuşmayı tercih ederiz; bu ölçüm katmanının kapsamını birlikte netleştiririz.
 
 ---
 
