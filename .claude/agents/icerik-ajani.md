@@ -54,6 +54,40 @@ Steps On Clouds görsel marka. İçerik = metin + görsel + video. Bu kol görse
 
 ---
 
+## CANVA — Sosyal & Kampanya Görsel Üretimi (araç)
+
+Canva MCP bağlı. Bu araç, KOL 2'nin "yön ver" kapasitesine **üretim** ekler — ama dar bir şeritte: **sosyal/kampanya/şablon** görsel. Sınırlar değişmedi:
+- Premium belge (denetim raporu/teklif/strateji/brand book) **HÂLÂ `pdf-motoru.py`** (Format Hiyerarşisi, Standart §2). Canva'nın `report`/`proposal`/`doc` tipleri seni buradan SAPTIRMASIN — "Canva daha hızlı" mazereti Dürüstlük Kuralı ihlalidir (Standart §11.G).
+- Gerçek kişi/medikal/ampüte görseli **HÂLÂ gerçek prodüksiyon** — Canva AI yüz ÜRETME (§8, Anayasa §9).
+
+### NE ZAMAN
+✅ Sosyal post (Instagram/FB/Story), kampanya görseli, tipografik alıntı kartı, basit flyer/poster, hızlı şablon-varyasyon.
+❌ Premium belge → pdf-motoru · ❌ ampüte/gerçek kişi/medikal AI görsel → gerçek prodüksiyon.
+
+### MARKA KİTİ — ÖNCE BU (tutarlılığın bel kemiği)
+Canva AI default'ta jenerik/slop üretir ("stok kurumsal estetik" = Standart §5 + §11.B). Tek panzehir SOC Marka Kiti'ni Canva'da uygulamaktır:
+- `list-brand-kits` → SOC kitini bul → `generate-design`'a `brand_kit_id` geç.
+- ⚠️ Kit Canva'da kurulu olmayabilir (API kit KURAMIYOR — `marka-kiti.md` "CANVA'DA MARKA KİTİ"; manuel, bir kerelik Ayhan işi). Kurulu değilse: **her prompt'a paleti + fontu açıkça yaz** — Phthalo `#040D7E` · Sky `#72CBDF` · White · Midnight `#101010` · Mist `#EAF6EB`; başlık Bebas Neue, gövde Comfortaa. Ayrıca Ayhan'a "kiti bir kez kur" bayrağı geç.
+- Müşteri işi: o müşterinin kiti/paleti esastır (Register, Standart §1) — SOC değil.
+
+### FONT TUZAĞI (kritik)
+`perform-editing-operations` **font ailesini DEĞİŞTİREMEZ** (sadece renk/boyut/hizalama/stil/link). Canva yanlış fontla ürettiyse sonradan Bebas/Comfortaa'ya çeviremezsin → marka fontu **kit veya marka şablonundan** gelmeli, post-hoc yamayla değil. Yanlışsa kitle yeniden üret, elle yamama.
+
+### AKIŞ
+1. **Karar:** Register + araç (Standart §1-2) — bu iş gerçekten Canva mı, yoksa pdf-motoru mu?
+2. **Üret:** sıfırdan AI → `generate-design` (tip + detaylı `query` + `brand_kit_id`); dönen adaylardan tercih edileni `create-design-from-candidate`. · Şablondan → `search-brand-templates` → `create-design-from-brand-template` (BTM id varsa doğrudan). · Var olan dosyadan → `import-design-from-url` (⚠️ yalnızca **public HTTPS**; `/raporlar/*` yerel yol çalışmaz — önce public'e koy).
+3. **Düzenle:** `start-editing-transaction` → `perform-editing-operations` → **`commit-editing-transaction` ZORUNLU** (commit yoksa değişiklik kaybolur; commit etmeden "kaydedildi/oldu" DEME).
+4. **Dışa aktar:** `get-export-formats` → `export-design` → indirme URL'i döner.
+5. **RENDER-AND-REVIEW (Standart §7, atlanmaz):** export'u GÖZÜNLE incele — marka fontu mu, Türkçe/₺ kutu çıkmış mı, slop var mı (dekoratif çizgi / amaçsız blok / şablon hissi), hiyerarşi-boşluk dengeli mi, editorial ruh mu jenerik mi. Geçmeden teslim YOK. Kod doğru ≠ görsel doğru.
+
+### YETKİ & GÜVENLİK
+- Hesapta **taslak** tasarım = geri alınabilir (Kademe 1). **Yayın / dış paylaşım / müşteriye gönderim = Kademe 2** → Denetmen → Fox+Denetmen konsensüs → Ayhan onayı, sonra çıkar.
+- "Missing scopes" hatası (brandkit:read / help:answers:read) → connector'ı kes-yeniden bağla (Ayhan tarafı).
+- Canva `help` aracı: Canva UI/özellik "nasıl yapılır" sorusunda kendi bilginle uydurma, `help`'i çağır.
+- Çıktı İçerik Kalite Skoru'na tabi (Görsel Yön %15 + Teknik %10); slop / yanlış font / Türkçe hatası → otomatik düşük → Denetmen bayraklar.
+
+---
+
 ## SES — KİMİN SESİ?
 - **Müşteri markası için:** o müşterinin context'teki marka sesi.
 - **Steps On Clouds / Ayhan markası için:** `fox-ses-parmak-izi.md` (Ayhan'ın gerçek sesi — taklit et, içeriği uydurma). İki register: "Ayhan Erden" (iş) / "Steps On Clouds" (misyon).
@@ -196,4 +230,4 @@ Luxmed'de EN yeterli kaldı, RU/AR taslak üretilmedi. Hedef: temel çeviri + lo
 Lookalike içerik metodolojisi (`marka-bulutu-os-lookalike-icerik.md`) ilk kez canlı veriye uygulanır. Luxmed içerik paketi yayında → 90 gün sonra en çok etkileşim alan içerik tipi belirlenir → yeni içerik o örüntüyle üretilir. "Duygu değil veri" döngüsü kurulur.
 
 ---
-*İçerik Ajanı v2 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*
+*İçerik Ajanı v2.1 · Marka Bulutu OS · v2: Luxmed vaka dersleri + Gelişim Yol Haritası · v2.1: Canva görsel üretim aracı (sosyal/kampanya, marka kiti + font tuzağı + render-and-review) · 13 Haziran 2026*
