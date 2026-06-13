@@ -1,7 +1,7 @@
 # Müşteri Marka Context — Luxmed
 *Marka Bulutu OS'un tek kaynak doğruluk belgesi. Tüm ajanlar bunu referans alır.*
 
-**Müşteri:** Luxmed · **Sektör:** Medikal / Protez-Ortez · **Para birimi:** [belirlenecek — döviz potansiyeli var] · **Son güncelleme:** 9 Haziran 2026
+**Müşteri:** Luxmed · **Sektör:** Medikal / Protez-Ortez · **Para birimi:** [belirlenecek — döviz potansiyeli var] · **Son güncelleme:** 13 Haziran 2026 (Nesa exclusive → KAPANDI düzeltmesi + klinik adresi eklendi; tam görüşme-sonrası doldurma hâlâ açık)
 **İletişim:** Enes Bey · **Görüşme yeri:** Cevizlibağ, İstanbul
 **Notion panosu bağı:** Marka Bulutu OS — Müşteri Panosu
 
@@ -15,6 +15,7 @@
 - **Kategori:** Medikal hizmet / ortopedik rehabilitasyon
 - **Tip:** Klinik / medikal
 - **İş modeli & fiyat:** [görüşmede netleşecek]
+- **Klinik adresi:** Topkapı Mah., Fatih/İstanbul (resmi — SERP/3. taraf kayıtları). Not: 9 Haz görüşmesi Cevizlibağ'da yapıldı (komşu semt) — klinik adresiyle karıştırılmamalı.
 
 ## 2. Hedef Kitle (ICP)
 - **Hedef profil:** Protez veya ortez kullanan bireyler, aileleri; yönlendiren ortopedi/fizik tedavi uzmanları
@@ -25,7 +26,7 @@
 
 ## 3. Rekabet Manzarası
 - **En büyük rakip:** Nesa / Nesa Europe — 1976 kuruluşlu, 4 lokasyon (Kadıköy, Şişli, Tekirdağ, İzmit). Türkiye'nin en köklü protez-ortez markası.
-- **⚠️ Exclusive clause riski:** Luxmed, Nesa ile çalışılmasından rahatsızlığını "tatlı dille" belirtti. Sözleşme öncesi bu çözülmeli.
+- **✅ Exclusive clause — KAPANDI (10 Haz, güncellendi 13 Haz):** Nesa↔Luxmed çatışması kapandı; Nesa ile çalışılmıyor, rekabet yasağı / çıkar çatışması yok. Kaynak: karar günlüğü + ilişki hafızası + fox-durum (3 primary source). Nesa artık yalnızca **rakip analizi** konusudur — müşteri/sözleşme engeli DEĞİL. (Eski "çözülmeli" ifadesi 9 Haz iskelesinden kalmış bayat bilgiydi; ajanları tuzağa düşürdüğü için düzeltildi.)
 - **Diğer rakipler:** [görüşmede öğren]
 
 ## 4. Problemler & Acı Noktaları
@@ -47,7 +48,7 @@
 ## 7. Ticari Bağlam
 - **Para birimi & öncelik:** Döviz kapasitesi sorulacak (uluslararası hasta var mı?)
 - **Sözleşme durumu:** Henüz yok — görüşme aşaması
-- **Exclusive clause:** Nesa ile çakışma riski — sözleşme öncesi açıkça çözülmeli
+- **Exclusive clause:** ✅ KAPANDI (10 Haz) — Nesa ile çalışılmıyor, engel yok. (Bkz. §3.)
 - **Model:** Değer/pay esası (Karar kuralı §2); sabit ücret değil
 
 ## 8. Medikal Sektör Özel Notlar
