@@ -15,9 +15,9 @@
 | **AYNI** | HTTP 403 devam ediyor: ana sayfa, /en, /hakkimizda bugün de doğrudan erişime kapalı (13 Haz testi). |
 | **AYNI** | Google Maps **4.7/5 — 190 yorum** (Zavis dizin kaydı üzerinden teyit; doğrudan Maps erişimi araçla mümkün değil). Baseline Tip A metriği geçerli. |
 | **AYNI** | @luxmedprosthetic 14K takipçi / 130 post. Konumlandırma ve görsel kimlik bulgularında aksini gösteren veri yok. |
-| **RAFİNE** | 403 bulgusunun riski yeniden tanımlandı (aşağıda §3). İndeksleme korunuyor; asıl maliyet AI görünürlüğü + 3. taraf senkron. |
-| **DÜZELTME** | Baseline'daki "fiyat bilgisi yok" ifadesi hatalıymış (aşağıda §4). Sitede güncel fiyat/SGK sayfaları VAR. |
-| **YENİ** | Yandex Maps, Trustpilot, üçüncü Facebook hesabı (Arapça), TikTok hesabı, TR Instagram takipçi sayısı, Bookimed profil detayı (aşağıda §5-6). |
+| **RAFİNE** | 403 bulgusunun riski yeniden tanımlandı (aşağıda §2b). İndeksleme korunuyor; asıl maliyet AI görünürlüğü + 3. taraf senkron. **Bot koruması 13 Haz'da doğrudan test edildi — bkz. §2b.** |
+| **DÜZELTME** | Baseline'daki "fiyat bilgisi yok" ifadesi hatalıymış (aşağıda §2a). Sitede güncel fiyat/SGK sayfaları VAR. |
+| **YENİ** | Yandex Maps, Trustpilot, üçüncü Facebook hesabı (Arapça), TikTok hesabı, TR Instagram takipçi sayısı, Bookimed profil detayı (aşağıda §3-5). |
 
 **Sonuç:** Site tarafında 3 günde anlamlı değişiklik yok (beklenen). Delta'nın değeri, baseline'da erişilemeyen 3. taraf görünümlerin netleşmesi + 2 baseline düzeltmesi.
 
@@ -38,11 +38,23 @@ Baseline yönetici özetinde "Fiyat bilgisi yok" yazılmıştı. **Bugünkü SER
 Bu bir **güç**: fiyat/SGK şeffaflığı YMYL'de güven sinyali + AI Overview'a uygun yapılandırılmış içerik. Baseline'ın bu kalemi 403 nedeniyle eksik gözlemlenmiş; düzeltildi.
 
 ### 2b. RAFİNE — HTTP 403'ün gerçek maliyeti
-Baseline "Googlebot da etkileniyorsa indeksleme kaybı" senaryosunu açık bırakmıştı. **Bugünkü kanıt: indeksleme korunuyor.** Şubat/Mart 2026 tarihli sayfa başlıkları Google SERP'te taze görünüyor → Googlebot'a izin verilmiş seçici bot koruması (muhtemelen Cloudflare benzeri).
+Baseline "Googlebot da etkileniyorsa indeksleme kaybı" senaryosunu açık bırakmıştı. **Bugünkü kanıt: indeksleme korunuyor.** Şubat/Mart 2026 tarihli sayfa başlıkları Google SERP'te taze görünüyor → Googlebot'a izin verilmiş seçici bot koruması.
+
+**13 Haz — DOĞRUDAN TEST (birinci el kanıt):** Ana sayfaya 4 farklı kimlikle `curl` isteği atıldı:
+
+| İstemci kimliği (User-Agent) | Sonuç |
+|---|---|
+| Normal tarayıcı (Chrome/Mac) | **403** |
+| GPTBot (OpenAI) | **403** |
+| ClaudeBot (Anthropic) | **403** (`cf-ray` header → **Cloudflare doğrulandı**) |
+| Kimliksiz | **403** |
+| `robots.txt` | **403** (erişilemedi) |
+
+Yorum: Blok **UA-bazlı değil** — JS çalıştırmayan/Cloudflare challenge'ı geçemeyen her otomatik istemci 403 alıyor. Gerçek tarayıcı (JS + çerez) ve Cloudflare'in IP'den doğruladığı Googlebot geçer; AI asistan crawler'ları (JS render etmez, çoğu verified-bot listesinde değil) geçemez. "Büyük olasılıkla blokta" çıkarımı → **test edilmiş gerçek.** (Not: gerçek Googlebot IP-doğrulamasıyla geçtiği için curl ile taklit edilemez; indeksleme kanıtı SERP tazeliğinden geliyor, çelişki yok.)
 
 Yeniden tanımlanan risk alanı:
-1. **AI görünürlüğü (GEO):** AI asistan crawler'ları (GPTBot, ClaudeBot, PerplexityBot vb.) büyük olasılıkla blokta. Sağlık aramalarında AI Overview kapsaması %88 (baseline Bölüm 8 verisi) — uluslararası hasta "best prosthetic clinic Istanbul"u artık AI'ya soruyor; site AI'ya kapalıysa bu cevaplarda yer alamaz.
-2. **3. taraf platform senkronu:** Bookimed/Zavis gibi platformlar site verisini çekemez → profiller bayatlıyor (Bookimed'de doğrulandı, §5).
+1. **AI görünürlüğü (GEO):** AI asistan crawler'ları (GPTBot, ClaudeBot, PerplexityBot vb.) **test edildi — blokta** (yukarıdaki tablo). Sektör analizleri sağlık aramalarının giderek büyüyen bir bölümünün AI özetiyle karşılandığını gösteriyor (kesin oran için doğrulanmış kaynak gerekli — bu turda WebSearch limiti nedeniyle adlandırılamadı; müşteri belgesine sayı KONULMADI). Uluslararası hasta "best prosthetic clinic Istanbul"u artık AI'ya soruyor; site AI'ya kapalıysa anlatının kaynağı kendi sitesi olamaz, üçüncü taraf kayıtlarına (bayat Bookimed) kalır.
+2. **3. taraf platform senkronu:** Bookimed/Zavis gibi platformlar site verisini çekemez → profiller bayatlıyor (Bookimed'de doğrulandı, §3).
 3. **Ölçümsüzlük sürüyor:** PageSpeed/CWV dışarıdan ölçülemiyor.
 
 Aksiyon değişmedi (bot koruması yapılandırması gözden geçirilmeli) ama gerekçe netleşti: sorun "Google'dan düşmek" değil, **AI çağında görünmezlik + platform bayatlaması.**
@@ -68,7 +80,7 @@ Aksiyon değişmedi (bot koruması yapılandırması gözden geçirilmeli) ama g
 
 ---
 
-## 4. YENİ TİP A / DOĞRULANMIŞ VARLIKLAR (baseline'da yoktu)
+## 4. YENİ DOĞRULANAN VARLIKLAR — Tip A: Yandex · gözlem (Tip B): Trustpilot, IG-TR (baseline'da yoktu)
 
 1. **Yandex Maps: 4.9/5 — 25 yorum** (`yandex.com.tr/maps/org/luxmed_protez/40364500883/`). Zengin kayıt: 48 fotoğraf, tam erişilebilirlik beyanı (tekerlekli sandalye erişimi, rampa, erişilebilir tuvalet/otopark), ödeme yöntemleri, panorama. **Stratejik değer: Yandex = Rusya/BDT pazarının arama motoru.** Rus hastanın doğal arama yolunda 4.9 hazır duruyor — baseline'ın "Rusça dijital varlık yetersiz" bulgusunu kısmen dengeleyen, kaldıraçlanmamış varlık.
 2. **Trustpilot: 7 yorum** (`trustpilot.com/review/luxmedprotez.com`). Skor arama üzerinden doğrulanamadı (Trustpilot kendi bot koruması fetch'i engelliyor — Luxmed'den bağımsız). Görünen yorum içerikleri olumlu: havalimanı karşılama, konaklama, fizyoterapi süreci anlatılıyor. Üçüncü bağımsız güven platformu — düşük hacimli, işlenmemiş.

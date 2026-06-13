@@ -3,7 +3,7 @@
 **Hazırlayan:** Steps On Clouds — Marka Bulutu OS
 **Dikkatine:** Enes Ammar Altun · Ömer Altun — Luxmed Protez
 **Tarih:** 13 Haziran 2026
-**Dayanak:** 10 Haziran 2026 tam marka denetimi + 13 Haziran 2026 güncelleme turu. Tüm bulgular kamuya açık kaynaklardan; her birinin kaynağı tam raporda kayıtlıdır.
+**Dayanak:** 10 Haziran 2026 tam marka denetimi + 13 Haziran 2026 güncelleme turu. Tüm bulgular kamuya açık kaynaklardan ve doğrudan testlerden derlenmiştir.
 **Statü:** Kademe 2 — Denetmen + Ayhan onayı bekliyor
 *(İç not: Statü satırı yalnızca bu iç sürümde yer alır; müşteri PDF'i üretilirken kaldırılacaktır.)*
 
@@ -22,7 +22,7 @@
 | **Bookimed profili** | Uluslararası hasta platformunda canlı kayıt. Platformun kendi beyanı: hastalar en sık BDT, Balkanlar ve Arap Ligi ülkelerinden. |
 | **Ottobock & Össur** | Dünya standartlarındaki iki üreticinin yetkili uygulayıcısı. |
 
-Hasta tarafında güven kazanılmış durumda — üç bağımsız platformdaki (Google, Yandex, Trustpilot) puan ve yorumlar bunu doğruluyor. Denetimin ana bulgusu şu: **bu klinik güç, dijital tarafta aynı kuvvetle temsil edilmiyor.**
+Hasta tarafında güven kazanılmış durumda — Google ve Yandex'teki yüksek puanlar ve üç bağımsız platformdaki (Google, Yandex, Trustpilot) yorumlar bunu doğruluyor. Denetimin ana bulgusu şu: **bu klinik güç, dijital tarafta aynı kuvvetle temsil edilmiyor.**
 
 ### Yedi alanın durumu
 
@@ -31,7 +31,7 @@ Hasta tarafında güven kazanılmış durumda — üç bağımsız platformdaki 
 | Sosyal Medya & Güven Sinyali | **İyi** | 4.7/190 + 14K takipçi — doğrulanmış en güçlü alan |
 | Mesaj & İçerik | **Orta** | Blog aktif, rehberler güncel; değer önerisi tek seste toplanmamış |
 | İçerik & SEO | **Orta** | Türkçe + İngilizce içerik üretimi rakip ortalamasının üstünde |
-| Arama Görünürlüğü | **Orta** | Kritik aramalarda 1. sayfa; yapay zekâ cevaplarında yok (bkz. §2.1) |
+| Arama Görünürlüğü | **Orta** | Kritik aramalarda 1. sayfa; yapay zekâ cevaplarında anlatının kaynağı kendi siteniz değil (bkz. §2.1) |
 | Kimlik & Konumlandırma | **Zayıf** | "Neden Luxmed?" sorusunun cevabı tek cümlede netleşmemiş |
 | Görsel Kimlik | **Zayıf** | Kanallar arasında tutarlı bir marka dili kurulmamış |
 | Dijital Altyapı | **Kritik açık** | Bot koruması yapay zekâ ve platform erişimini kesiyor; dışarıdan ölçüm yapılamıyor |
@@ -43,7 +43,7 @@ Hasta tarafında güven kazanılmış durumda — üç bağımsız platformdaki 
 ## 2 · En Kritik Dört Açık — ve Her Birinin İçindeki Fırsat
 
 ### 2.1 Uluslararası hasta artık yapay zekâya soruyor; site yapay zekâya kapalı
-Sitenizin bot koruması Google'a izin veriyor: indeksleme sağlıklı, Şubat–Mart 2026 tarihli sayfalarınız aramada taze görünüyor. Ancak aynı koruma, yapay zekâ asistanlarının tarayıcılarını büyük olasılıkla engelliyor. Google'da sağlık aramalarının yaklaşık %88'i artık yapay zekâ özetiyle karşılanıyor (2026 sektör verisi) ve "best prosthetic clinic Istanbul" tipi sorular giderek doğrudan asistanlara soruluyor. Site bu sistemlere kapalıysa, o cevaplarda yer alamıyor.
+Sitenizin bot koruması Google'a izin veriyor: indeksleme sağlıklı, Şubat–Mart 2026 tarihli sayfalarınız aramada taze görünüyor. Ancak aynı koruma, yapay zekâ asistanlarının tarayıcılarını da kesiyor. Bunu varsaymıyoruz, test ettik: bu denetimi yürüten yapay zekâ aracı siteye dört farklı kimlikle (normal tarayıcı, ChatGPT ve Claude'un tarayıcıları dahil) erişmeyi denedi — **dördü de reddedildi (403).** Sağlık aramalarının giderek büyüyen bir bölümü artık yapay zekâ özetiyle karşılanıyor ve "best prosthetic clinic Istanbul" tipi sorular doğrudan asistanlara soruluyor. Sonuç şu: yapay zekâ sizi anlatabilse bile anlatının kaynağı kendi siteniz olamıyor — geriye üçüncü taraf kayıtları kalıyor; ki en görünür olanı, Bookimed profiliniz, 15 ay bayat. Yani anlatıyı başkasına bırakıyorsunuz.
 **Fırsat:** Çözüm bir yeniden tasarım değil; bot koruması yapılandırmasında erişim düzenlemesi. Rakiplerin de henüz hazırlanmadığı bir alanda erken davranma şansı.
 
 ### 2.2 Bookimed vitrini, kliniğin gerisinde
@@ -54,7 +54,7 @@ Profil canlı — iyi haber. Ama vitrin güncelliğini yitirmiş: fiyat bilgisi 
 Tarama 8 ayrı sosyal varlık gösteriyor: 2 Instagram, 3 Facebook (Türkçe / İngilizce / Arapça), YouTube, TikTok, LinkedIn. Bölünmenin maliyeti rakamla görünür durumda: **14.000 takipçi (EN Instagram) — 1.521 takipçi (TR Instagram).** Dil-pazar ayrımı bilinçli bir mimariyse korunur ve güçlendirilir; kendiliğinden çoğalmaysa her yeni hesap algoritma sinyalini ve hasta hafızasını bölüyor. (Görüşme sorusu — §5.)
 
 ### 2.4 Güven rakamı güçlü, marka hikâyesi yok
-Üç bağımsız platformda toplam 222 yorum (190 Google + 25 Yandex + 7 Trustpilot) hasta deneyimini anlatıyor; ancak bu güveni taşıyan bütünlüklü bir marka anlatısı henüz kurulmamış. Mevcut videolarda özne çoğunlukla klinik — "hastamıza yeni bir başlangıç sunduk" çerçevesi; **hastanın kendi sesi henüz duyulmuyor.** Bu sırada pazarda kimi rakip "garantili tedavi" gibi sağlık mevzuatı açısından riskli iddialara yöneliyor. Luxmed'in buna ihtiyacı yok: elinizde gerçek, doğrulanmış hasta güveni var. Eksik olan tek halka, onu hikâyeye çevirmek.
+Üç bağımsız platformda toplam 222 yorum (190 Google + 25 Yandex + 7 Trustpilot) hasta deneyimini anlatıyor; ancak bu güveni taşıyan bütünlüklü bir marka anlatısı henüz kurulmamış. İyi haber: doğru malzeme zaten elinizde — mevcut videolar acıma diline kaçmadan, hasta odaklı çekilmiş. Eksik olan çerçeve: özne çoğunlukla klinik ("hastamıza yeni bir başlangıç sunduk"), **hastanın kendi sesi henüz duyulmuyor.** Yani sıfırdan değil, mevcut birikimin bir adım ötesinden başlıyoruz. Bu sırada pazarda kimi rakip "garantili tedavi" gibi sağlık mevzuatı açısından riskli iddialara yöneliyor. Luxmed'in buna ihtiyacı yok: elinizde gerçek, doğrulanmış hasta güveni var. Eksik olan tek halka, onu hikâyeye çevirmek.
 
 ---
 
@@ -84,7 +84,7 @@ Birbirinden bağımsız veriler aynı yönü gösteriyor:
 - **Talep kanıtı:** Bookimed'in kendi kaydı, hastaların en sık **BDT, Balkanlar ve Arap Ligi** ülkelerinden geldiğini söylüyor.
 - **Yol hazır (Rusya/BDT):** Yandex — Rusya ve BDT'nin arama motoru — kaydınız 4.9/5 puan, 48 fotoğraf ve tam erişilebilirlik bilgisiyle güçlü. Rus hastanın doğal arama yolunda yüksek puan hazır bekliyor; site tarafında ise Rusça içerik yok denecek kadar az.
 - **Talep sinyali (Arapça):** Arapça Facebook sayfası açılmış — pazarın varlığına işaret; arkasında Arapça içerik altyapısı henüz yok.
-- **İşlenmemiş güven:** Trustpilot'ta 7 olumlu yorum — havalimanı karşılama, konaklama, fizyoterapi süreci anlatılıyor. Üçüncü bağımsız güven platformu, hiç işlenmemiş.
+- **İşlenmemiş güven:** Trustpilot'ta 7 yorum — görünen içerikler olumlu: havalimanı karşılama, konaklama, fizyoterapi süreci anlatılıyor. Üçüncü bağımsız güven platformu, hiç işlenmemiş.
 
 Zincirin eksik halkası tek: **dil ve içerik varlıkları.** Talep var, kanal puanları var, klinik kapasite var; hastanın kendi dilinde onu karşılayan içerik yok. §3'teki film, altyazı katmanlarıyla bu zincirin ilk halkasını döşer.
 
@@ -99,4 +99,4 @@ Zincirin eksik halkası tek: **dil ve içerik varlıkları.** Talep var, kanal p
 
 ---
 
-*Bu özet, 10 Haziran 2026 tarihli tam marka denetimi ile 13 Haziran 2026 güncelleme turuna dayanır. Her bulgunun kaynağı tam raporda kayıtlıdır; görüşmede birlikte inceleyebiliriz.*
+*Bu özet, 10 Haziran 2026 tarihli tam marka denetimi ile 13 Haziran 2026 güncelleme turuna dayanır. Her bulgunun arkasındaki ayrıntılı kayıt çalışma dosyalarımızda saklıdır; görüşmede dilediğiniz başlığı birlikte açabiliriz.*

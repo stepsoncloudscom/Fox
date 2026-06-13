@@ -24,8 +24,8 @@
 **Aksiyon planı → Bütçe → Şartlar.** Sıra bozulursa kameraman çerçevesine geri düşersin.
 
 **Aksiyon planı bölümünde:**
-- Video tekil iş değil — **planın 1. adımı.** Denetim raporundan 2-3 sayfa masaya (hazır: `luxmed-marka-denetim-raporu`).
-- **Bookimed matematiği:** 1 uluslararası hasta = **€11.200**. Film ≈ €1.000 (40-45K). **Tek hasta dönerse film kendini 11 kat öder.** Uluslararası hastanın güven kararını içerik kalitesi verir.
+- Video tekil iş değil — **planın 1. adımı.** Masaya: **`luxmed-masa-ozeti.md`** (müşteri-yüzlü 2-3 sayfa, denetim güncellemesinden süzüldü — PDF Denetmen onayı sonrası).
+- **Bookimed matematiği:** Rakamı KENDİ verin gibi değil, **Enes'e atıfla** kur: *"Görüşmemizde paylaştığınız paket değeri üzerinden..."* — 1 uluslararası hasta ≈ **€11.200** (⚠️ kamuya açık profilde görünmüyor; Enes'in beyanı — masada ona doğrulat). Film ≈ €1.000 (40-45K). **Tek hasta dönerse film kendini ~11 kat öder.** Hem çürütülemez hem Enes'i karara ortak eder.
 - Ömer'in dilinde konuş: dönüşüm, hasta kazanım maliyeti, içerik varlığının ömrü. "Sanat" savunması yapma — yatırım savunması yap.
 - **OS kapısı (Enes önündeyken):** "Planın tamamını ayrı bir oturumda sunmak isterim." → Tarih iste.
 
@@ -52,6 +52,8 @@
 2. **Backstage + tanıtım** — Luxmed kanallarından kamera arkası ve "yönetmenimiz" paylaşımı. (Luxmed kitlesi = ampute topluluğu = SOC misyon kitlesi.)
 3. **Portföy + yayın hakkı** — çekilen tüm materyal Ayhan Erden/SOC portföyünde, showreel'de ve vaka çalışmasında kullanılır; Luxmed performans verisini (görüntülenme, lead, Bookimed) vaka için paylaşır.
 4. **Rate card koruması** — "Bu pilot fiyatıdır; sonraki işler rate card üzerinden fiyatlanır." Tek cümle, yazılı. Düşük rakamın kalıcı çapa olmasını engelleyen tek şey.
+
+> **⚠️ KVKK — hasta rızası (Denetmen uyarısı, atlanmamalı):** Film bir hastanın görüntüsü + sağlık bağlamı = özel nitelikli kişisel veri. **Madde 3 (portföy/yayın hakkı) hastanın YAZILI rızasının kapsamına bağlı.** Hasta "Luxmed'e evet, üçüncü taraf portföye hayır" derse takas maddesi boşa düşer. Şartlara süreç maddesi olarak gir: *yazılı rıza, kapsamı net (Luxmed kanalları **VE** yapımcı portföyü/showreel/vaka çalışması).* Rızayı kimin alacağı (Luxmed) ve metnin kapsamı sözleşmeden önce netleşmeli. Bu Kademe 3 sınırında — Ayhan'ın hukuki dikkatine.
 
 ---
 
