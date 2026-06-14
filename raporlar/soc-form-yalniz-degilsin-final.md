@@ -1,6 +1,11 @@
 # SOC Web — "Bize Ulaş, Yalnız Değilsin" Formu · Final Dil Metni
 
-*14 Haziran 2026 · Denetmen onaylı (KOŞULLU ONAY → 3 düzeltme uygulandı) · Ayhan kararlarıyla kilitlendi · Statü: Ayhan elle Wix Editör'e uygulayacak (Kademe 2 — yayını Ayhan yapar)*
+*14 Haziran 2026 · Denetmen onaylı (KOŞULLU ONAY → 3 düzeltme uygulandı) · Ayhan kararlarıyla kilitlendi*
+
+**✅ UYGULAMA (14 Haz — Fox Chrome MCP ile Wix Editör'ü sürdü):** Form içeriği Wix Editör'de **TASLAK olarak uygulandı + Save edildi** (Publish Ayhan'da — Kademe 2). Wix Forms panel-editörü kullanıldı (kanvas üç-tıkla değil; daha güvenilir). Uygulananlar: Email→**E-posta** · Telefon Numarası→**Telefon (isteğe bağlı)** · Konu Başlığı **silindi** → **"Ne hakkında ulaşıyorsun?"** açılır liste (6 seçenek + "Seçin" placeholder) · eski Mesaj **silindi** → yeni "Long answer" **"Mesajın"** + placeholder "İhtiyacını ya da fikrini birkaç cümleyle anlat…" (doğru sıraya geldi) · **gönderim sonrası onay mesajı** eklendi · başlık korundu. ⚠️ Alan silmelerinde **kalıcı silme kutusu İŞARETLENMEDİ** — geçmiş gönderimler Submissions tablosunda duruyor.
+- **ASKIDA — açıklama metni:** Başlık ile ilk alan arası dar; Wix klasik kanvasta kutu büyüyünce forma çakışıyor, sürükleme bu editörde güvenilmez. **Ayhan kararı: "şimdilik açıklamasız yayınla"** → ayrı oturuma kaldı.
+- **ASKIDA — a11y:** görme engelli/ekran okuyucu için gerçek label (Kademe 1).
+- Teknik not: Form adı Wix'te **"İletişim"**, ana sayfada gömülü. Editör erişimi memory [[steps-on-clouds-wix-site]].
 
 Form, **ampüte ve engelli bireylerin çözüme/desteğe ihtiyaç duyduklarında kullanacakları** alandır. Steps On Clouds ana sayfasında. Dil onur merkezli: acıma/ilham pornosu yok; güç + fail + birliktelik.
 
