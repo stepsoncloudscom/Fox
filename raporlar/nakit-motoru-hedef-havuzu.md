@@ -2,6 +2,8 @@
 *Protokol: `sablonlar/soguk-iletisim-protokolu.md` · Durum akışı: HAVUZ → DOĞRULANDI → TASLAK → GÖNDERİLDİ → TAKİP-1/2 → YANIT/GÖRÜŞME/ARŞİV*
 *Son güncelleme: 12 Haziran 2026 — v1 tohum doldurma (kanal+gözlem doğrulaması D1 sabah koşusunda)*
 
+> ⚠️ **DEDUP — MOTORUN HAFIZASI (17 Haz düzeltmesi):** Bu dosya ADAY HAVUZUDUR (universe = "yapılabilir"). Temas edilen/işlenen her hedef `raporlar/nakit-motoru-islenenler.md` defterine yazılır (= "yapıldı" hafızası). Motor aday seçerken oradakileri ÇIKARIR ve rotasyonla devam eder. "Hep aynı müşteriyi tekrar etme" hatası bu defter olmadığı + koşular kalıcı yazmadığı için oluşuyordu — düzeltildi.
+
 **PORTFÖY LİNKİ (tüm taslaklar bunu kullanır):** https://drive.google.com/drive/folders/1mY3imF6iI9lNQ92WeT5Ou9Fjy17I36Mx
 ✅ **TEYİTLİ (12 Haz, Fox kontrolü):** Klasör DOLU — `Ayhan Erden artist book.pdf` (2.8MB) + `Profile.pdf` (50KB) içeride. Paylaşım AÇIK — "linki olan herkes: görüntüleyen" (anyone/reader). **Gönderim serbest.**
 
