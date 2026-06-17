@@ -1,6 +1,8 @@
 # Şablon — Marka Bulutu Aylık Danışmanlık Teklifi (TR)
 *Towdoo modeli. Değişkenleri doldur, pdf-motoru.py ile PDF'e çevir.*
 
+> **İletişim yapısı — Karar Formülü (zorunlu):** Hem bu teklifin iletim/kapak maili hem kapanışı 5 adımı izler — ① Talep ② Bağlam (≤2 cümle) ③ Seçenekler (≤3) ④ Öneri ⑤ Termin. Eşleme: §1 Neden Şimdi = Bağlam · §3 plan/paket = Seçenekler · net bir Öneri · §6 Geçerlilik = Termin. Detay: `fox-ses-parmak-izi.md` "İLETİŞİM YAPISI".
+
 **Başlık:** [MÜŞTERİ]
 **Alt başlık:** [SÜRE] Aylık Pazarlama & İletişim Çerçevesi
 
@@ -51,6 +53,7 @@
 - Ödeme: Aylık, ayın 1'inde
 - Fatura: Steps On Clouds adına
 - Operasyonel giderler ayrıca bütçelenir.
+- **Geçerlilik (Termin):** Bu teklif [TARİH]'e kadar geçerlidir — [kısa gerekçe, ör. "Temmuz çalışma takvimini birlikte planlayabilmek için"].
 
 ---
 **Karar kuralı:** Döviz ödeyebilen müşteri önceliklidir. TL yalnızca stratejik ilişkilerde (ör. Towdoo/Tuğba). Ortaklıkta mümkünse değer/pay esası.

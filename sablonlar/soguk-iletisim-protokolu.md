@@ -43,6 +43,7 @@ HAVUZ (araştırma) → DOĞRULAMA (kanal+kişi) → GÖZLEM (site+IG, 2 gerçek
 - Mailde fiyat YOK — hedef görüşme. Portföy LİNK olarak (Drive), ek dosya yalnız istenirse.
 - Konu satırı varyantları test edilir (haftalık skorla): V1 "[Marka] için İçerik Üretimi — Çekim Günü Önerisi" · V2 "[Marka]'nın görsellerine baktım — kısa bir önerim var". Kazanan kalır.
 - Ses: Ayhan ses parmak izi. Kimlik kanıtı ilk paragrafta: Hummel/Defacto + Össur.
+- **Yapı — Karar Formülü** (bkz. `fox-ses-parmak-izi.md` "İLETİŞİM YAPISI"): ilk-temas mailinde HAFİF uygulanır — tek yumuşak talep (kısa görüşme), 3-seçenek/sert termin YOK, yalnızca nazik zaman çıpası. Tam 5 adım (talep · bağlam · seçenek · öneri · termin) teklif/görüşme aşamasında ve takipte değer eklerken devreye girer. Sebep: ilk temasta sert seçenek+son tarih §0 "isabet, baskı değil" ilkesiyle çelişir.
 
 ## 6 · Gönderim Ritmi & Hijyen
 - **Günlük 5-8 temas, daha fazlası değil** (hesap sağlığı + kalite tabanı). Pencere: Salı-Perşembe 09:00-11:00 öncelikli; Pzt yoğunluk, Cum ölü.

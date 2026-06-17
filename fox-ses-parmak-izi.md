@@ -5,6 +5,27 @@ Kaynak: Ayhan'ın Mayıs-Haziran 2026 gönderilmiş mailleri (LCW, Darya, Salomo
 
 ---
 
+## İLETİŞİM YAPISI — Karar Formülü (5 adım)
+*Emir (Ayhan, 15 Haz 2026). Ses = nasıl söylediğimiz; bu = neyi hangi sırayla söylediğimiz. Karar/talep taşıyan dış iletişimin ve her teklifin iskeleti; ayrıca Ayhan'a sunulan her brifingin.*
+
+1. **Talep (the ask):** Ne istiyoruz — ilk cümlede, net. Okuyan "benden ne isteniyor?"u aramak zorunda kalmaz.
+2. **Bağlam (context) — en çok 2 cümle:** Neden şimdi, neden önemli. Fazlası kesilir.
+3. **Seçenekler (options) — en çok 3:** Karar verilebilir, somut yollar. Tek seçenek de olabilir; üçü geçmez.
+4. **Önerin (your recommendation):** Hangi seçeneği, neden. Karar yükünü azaltır — okuyan sıfırdan tartmaz; onaylar ya da çevirir.
+5. **Termin (deadline) — ne zaman + neden:** Tarih + gerekçe ("X'e kadar, çünkü Y"). Gerekçesiz tarih baskıdır; gerekçeli tarih saygıdır.
+
+**Nerede uygulanır:**
+- **Teklifler** — her zaman. Eşleme: Bağlam = "Neden Şimdi" · paketler = Seçenekler · + açık Öneri · Geçerlilik tarihi = Termin.
+- **Karar/onay isteyen mailler** — görüşme saati, kapsam seçimi, git/dur.
+- **Ayhan'a brifing** — talep + seçenek + öneri + termin; §3 rapor formatıyla birlikte.
+
+**Adaptasyon — soğuk ilk-temas (DİKKAT):** İlişki açan ilk mailde formül HAFİF uygulanır: tek yumuşak talep (kısa görüşme), 3-seçenek dayatması ve sert termin YOK — yalnızca nazik zaman çıpası ("önümüzdeki iki hafta uygun olabilir"). Sebep: ilk temasta "3 seçenek + son tarih" pazarlıkçı/baskıcı okunur, sıcak-ama-kurumsal-değil sesiyle çelişir (bkz. `sablonlar/soguk-iletisim-protokolu.md` §5). Tam formül teklif/görüşme aşamasında devreye girer.
+
+**Mini örnek (takip maili, tam formül):**
+> *Talep:* "Temmuz çekim gününü netleştirmek için kısa bir onayınızı rica edeceğim." *Bağlam:* "Yaz kampanyanız öncesi görsel ihtiyacını konuşmuştuk; takvim Temmuz ortasında doluyor." *Seçenekler:* "① 9 Tem yarım gün ② 11 Tem tam gün ③ Ağustos'a erteleme." *Öneri:* "Kampanya tarihinize en uygunu ②; tüm seti tek günde çıkarırız." *Termin:* "27 Haz'a kadar netleşirse Temmuz slotunu adınıza tutarım."
+
+---
+
 ## TÜRKÇE SES — "Ayhan Erden" Register'ı
 
 ### Açılış
