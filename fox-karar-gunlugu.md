@@ -15,6 +15,14 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Moda'ya Tam Pivot + Luxmed/Protez Kapanışı (20 Haz)
+- **Tetikleyici:** Ayhan — *"bizim para kazanacağımız yer moda sektörü, gerisi boş. Bir an önce gerçek başlangıç noktamıza, modaya geri dönmeliyiz; modayı farkındalık ve bilinirlik için katalizör haline getirmeliyiz."* Protez/ortez sektörüne açık bıkkınlık ("sikerim protez ortez sektörünü").
+- **Karar (Ayhan, AskUserQuestion 20 Haz):** (1) **Moda/giyim = birincil ve asıl ev** — artık "nakit köprüsü" değil, stratejik merkez. (2) **Luxmed TAMAMEN BIRAKILDI** — protez/ortez pivotu kapandı. Enes'e davet mesajı GÖNDERİLMEYECEK; pilot pazarlığı durduruldu. Enes/Ömer kişisel ilişkisi korunur (iş kapanır, bağ kalır — §0 İnsan→Ayhan→marka).
+- **Gerekçe:** (a) Moda = Ayhan'ın gerçek başlangıç noktası + portföy gücü (Hummel/Defacto/editorial/Össur). (b) Karar Kuralı §11.1 — moda döviz/global potansiyeli taşır; Luxmed TL + düşük bütçe (Ömer 10-15K vs Ayhan 60K uçurumu, pazarlık zaten kötü gidiyordu). (c) §0 — protez işi Ayhan'ı yoruyordu; yaratıcı enerji/odak korunur (anlık öfke değil, tutarlı yön: 12 Haz Nakit Motoru'nda da moda birincil dikeydi, protez yasak şeritti). (d) "Modayı farkındalık katalizörü" = Hedef 2 (ampüte misyonu görünürlüğü) + Hedef 1 (gelir) tek motorda.
+- **Nakit gerçeği (açık kayıt):** Luxmed eldeki tek sıcak işti; bırakılınca sıcak pipeline boşaldı (Towdoo + Darya + Luxmed üçü de düştü). 12 Haz "30 gün runway" beyanı geçerli (bugün 20 Haz). → Moda planı uzun-vadeli marka inşası DEĞİL, **hızlı-nakit öncelikli** kurulur (Nakit Motoru moda dikeyi + Ayhan'ın sıcak moda çemberi).
+- **Uygulama:** Luxmed OS v2 paketi + 5 faz + görüşme kartı → arşiv (Towdoo gibi vaka/portföy değeri; iş geri gelmez). Notion: Luxmed kapat. Nakit Motoru: moda dikeyine tam kilit. Moda altyapısı hazır: `marka-bulutu-os-moda-sektor-bagi.md`.
+- **Statü:** KARAR ALINDI — yön kaymış, uygulama başladı (20 Haz).
+
 ### Nesa vs. Luxmed — Rakip Müşteri İkilemi → KAPANDI (10 Haz)
 - **Durum (tarihçe):** Luxmed ve Nesa, protez-ortez sektörünün en büyük rakipleri; ikisiyle çalışmak çıkar çatışmasıydı. Luxmed rahatsızlığını tatlı dille belirtmişti. Fox önerisi iki tarafı kıyaslamaktı.
 - **Karar (10 Haz):** **Nesa ile çalışılmıyor.** Temas hiç açılmadı; Luxmed tek medikal müşteri. Rekabet yasağı/exclusive clause meselesi kalmadı — strateji temiz zeminde.
