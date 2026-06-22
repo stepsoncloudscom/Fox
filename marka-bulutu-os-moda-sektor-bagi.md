@@ -19,7 +19,7 @@ Hermès geleneksel reklama neredeyse hiç para harcamaz; arzu, ürün + kıtlık
 
 ### A.3 2026 Sektör Gerçeği — "Kurallar Değişiyor" (McKinsey State of Fashion 2026)
 - **Markalar yukarı kayıyor (brand elevation):** Orta segment sıkışıyor; markalar premium konumlandırmaya yöneliyor. Orta-pazar fiyat/değer dengesi en riskli bölge.
-- **Görsel AI araması +%312 (YoY):** 18-34 yaş alım kararlarının %40-55'inde AI kullanıyor. Product schema + görsel SEO + GEO moda için kritik (Growth Ajanı ai-seo bölümüyle hizalı).
+- **Görsel & AI tabanlı arama hızla büyüyor:** AI alışveriş aramaları 2024-25'te katlanarak arttı; geleneksel arama hâlâ ~%80 hâkim, yöneticilerin %35+'i AI'yı keşifte kullanıyor (McKinsey SoF 2026 — Denetmen 21 Haz teyidi). ⚠️ **DÜZELTME (21 Haz):** Önceki "+%312" ve "moda alımlarının %40-55'i" rakamları McKinsey kaynağında DOĞRULANAMADI (yanlış atıf) → kaldırıldı. Named-authority'ye kesin rakam atfetme; yön ifadesi kullan. Product schema + görsel SEO + GEO moda için kritik (Growth Ajanı ai-seo bölümüyle hizalı).
 - **YONO tüketicisi:** Gen Z harcama -%13 (2025); "az ama iyi" — sürdürülebilir, kalıcı, ihtiyaç odaklı. Lüks için fırsat: YONO mantığı "tek iyi parça" der — bu, premium fiyatı MEŞRULAŞTIRIR ("cost per wear" anlatısı).
 
 ---
