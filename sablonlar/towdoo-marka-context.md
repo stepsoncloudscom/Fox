@@ -6,7 +6,7 @@
 **İletişim:** towdoo@towdoo.com · +90 549 410 40 06  
 **Şirket adı:** Digital Visual Decoration Promotion Printing and Promotion Materials Ind. Trade Ltd.  
 **Adres:** 23 Nisan Mh. Mithatpaşa Cd. No:22 Office No:28 Nilüfer/Bursa  
-**Denetim Skoru:** 49/100 — D (Baseline, 5 Haz 2026)  
+**Denetim Baseline:** Zayıf ağırlıklı niteliksel profil — sayısal genel skor YOK (§0.1 v1.1: Tip A verisi yetersiz; tek Tip A = Trendyol 4.3/5). Gerçek performans baseline'ı GSC/Analytics bağlanınca. (5 Haz 2026)  
 **Notion Panosu:** Marka Bulutu OS — Müşteri Panosu
 
 ---
@@ -145,7 +145,7 @@
 
 - **Birincil iş hedefi:** Web sitesi dönüşümünü artırmak + organik arama görünürlüğü kazanmak + sadakat/tekrar alım sistemi kurmak.
 - **Ana dönüşüm aksiyonu:** Ürün sayfasından sepet tamamlama + email listesi kaydı.
-- **⭐ North Star metriği (Strateji, 5 Haz):** Web sitesi üzerinden tamamlanan sipariş + email liste büyümesi (Trendyol geliri değil — orası kanıt deposu/edinim kanalı). 12 ay denetim skoru hedefi: **49 → 60–63 bandı** (D→C üst; ağırlıklı aritmetik 61.5, açık hesap `raporlar/towdoo-strateji.md` §6). *(5 Haz Denetmen düzeltmesi: önceki "65+" aritmetiği tutmuyordu — Görünürlük GSC olmadan agresif varsayım gerektiriyordu; savunulabilir banda revize edildi.)* Detay: §6-7.
+- **⭐ North Star metriği (Strateji, 5 Haz):** Web sitesi üzerinden tamamlanan sipariş + email liste büyümesi (Trendyol geliri değil — orası kanıt deposu/edinim kanalı). 12 ay hedefi: niteliksel band ilerlemesi (Zayıf→Orta ağırlıklı) — sayısal denetim skoru hedefi DEĞİL (§0.1 v1.1; GSC olmadan sayısal hedef agresif varsayım gerektirir). Gerçek metrik (CVR/trafik/email) GSC/Analytics bağlanınca; band ilerlemesi ara gösterge. Açık hesap: `raporlar/towdoo-strateji.md` §6. Detay: §6-7.
 - **Faz durumu:** Faz 1 (Denetim 49/100) ✓ · **Faz 2 (Strateji) ✓ — 5 Haz 2026, Olgunluk 80/100 B** · Faz 3 (İçerik — 619 yorum analizi + verbatim + koleksiyon/materyal kopyası) sıradaki · Faz 4 (Growth — email/SEO/UGC/tracking).
 - **Mevcut metrikler (baseline — 5 Haz 2026):**
   - Denetim skoru: 49/100
@@ -179,4 +179,4 @@ Bu context Keşif & Denetim Ajanı'nın web taramasına dayanıyor. Verbatim mü
 
 **Veri Kaynakları (bu context için):** towdoo.com, towdoo.com/en, trendyol.com/towdoo-x-b159711, modacalling.com/towdoo, milagron.com, towdoo.com/en/store-policy, towdoo.com/en/ceyda-caldiran, towdoo.com/post/* (blog), WebSearch (sürdürülebilir moda Türkiye bağlamı).
 
-*Şablon v1 uyarlaması · 5 Haziran 2026 · Keşif & Denetim Ajanı · Marka Bulutu OS*
+*Şablon v1 uyarlaması · 5 Haziran 2026 · Keşif & Denetim Ajanı · Marka Bulutu OS · 23 Haz 2026: satır 9 + North Star §0.1 v1.1 niteliksel banda hizalandı (Denetmen Bulgu 1 — sahte-kesinlik kalıntısı temizlendi, Towdoo moda-v2 tazeleme oturumu).*
