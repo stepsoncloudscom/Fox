@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<style>
+  /* ÇIKTI 2 — Marka Bulutu OS · MODA EDİSYONU · paket görsel kimliği
+     Register: AYHAN ERDEN (iş) — salt yaratıcı güç, premium/editorial.
+     Palet: ayhan-premium (siyah/altın/krem). marka-kiti.md "İş Register".
+     Fontlar: Didot (display) + Avenir Next (gövde) — sistem, Türkçe-güvenli.
+     Kalp kavram: "pazarlama dili + görsel dil sentezi" -> tek imzada yakınsama. */
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --ink:    #1A1C22;   /* iş register siyahı (sıcak) */
+    --ink-2:  #2C2E36;
+    --gold:   #A8814B;   /* altın aksan — zanaat/premium */
+    --gold-lt:#C6A36A;
+    --cream:  #F4F1EA;   /* krem zemin */
+    --cream-2:#EAE5D9;
+    --stone:  #8B8678;   /* nötr gri-bej */
+    --hair:   rgba(244,241,234,0.18); /* koyu zeminde ince çizgi */
+  }
+
+  body {
+    width: 1600px;
+    background: var(--ink);
+    font-family: 'Avenir Next', sans-serif;
+    color: var(--cream);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ===================== KAPAK ===================== */
+  .cover {
+    width: 1600px; height: 2000px;
+    position: relative; overflow: hidden;
+    background:
+      radial-gradient(130% 90% at 82% 6%, rgba(168,129,75,0.16) 0%, rgba(168,129,75,0) 50%),
+      radial-gradient(100% 70% at 10% 100%, rgba(168,129,75,0.08) 0%, rgba(168,129,75,0) 55%),
+      var(--ink);
+    padding: 86px 96px 80px;
+    display: flex; flex-direction: column;
+  }
+  /* sinematik grain — premium kâğıt/film hissi, slop gradient değil */
+  .cover:after {
+    content: ''; position: absolute; inset: 0; pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 200px 200px; mix-blend-mode: overlay; opacity: 0.06;
+  }
+
+  .cover .top {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    z-index: 1;
+  }
+  .brand-eyebrow {
+    font-size: 13px; letter-spacing: 0.4em; text-transform: uppercase;
+    color: var(--gold); font-weight: 600;
+  }
+  .cover .top .meta {
+    text-align: right; font-size: 12.5px; letter-spacing: 0.16em;
+    text-transform: uppercase; color: var(--stone); line-height: 2;
+  }
+
+  /* başlık bloğu — dikey merkez */
+  .cover .center { flex: 1; display: flex; flex-direction: column; justify-content: center; z-index: 1; }
+  .cover .kicker {
+    font-size: 15px; letter-spacing: 0.34em; text-transform: uppercase;
+    color: var(--cream); font-weight: 500; margin-bottom: 26px; opacity: 0.85;
+  }
+  .cover h1 {
+    font-family: 'Didot', serif; font-weight: 400;
+    font-size: 132px; line-height: 0.96; letter-spacing: 0.015em;
+    color: var(--cream);
+  }
+  .cover h1 .gold { color: var(--gold-lt); font-style: italic; }
+  .cover .edition {
+    margin-top: 34px;
+    display: inline-flex; align-items: center; gap: 18px;
+    width: fit-content;
+  }
+  .cover .edition .bar { width: 64px; height: 1.5px; background: var(--gold); }
+  .cover .edition .txt {
+    font-size: 17px; letter-spacing: 0.42em; text-transform: uppercase;
+    color: var(--gold-lt); font-weight: 600;
+  }
+
+  /* kalp cümlesi — vaadin kalbi */
+  .cover .promise {
+    margin-top: 70px; max-width: 1020px; z-index: 1;
+  }
+  .cover .promise .q {
+    font-family: 'Didot', serif; font-style: italic; font-weight: 400;
+    font-size: 40px; line-height: 1.42; color: var(--cream);
+  }
+  .cover .promise .q b { color: var(--gold-lt); font-style: italic; font-weight: 400; }
+  .cover .promise .attr {
+    margin-top: 22px; font-size: 14px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--stone); font-weight: 500;
+  }
+
+  .cover .foot {
+    display: flex; justify-content: space-between; align-items: flex-end;
+    border-top: 1px solid var(--hair); padding-top: 24px; z-index: 1;
+  }
+  .cover .foot .l { font-size: 12.5px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--stone); }
+  .cover .foot .r { font-family: 'Didot', serif; font-size: 22px; letter-spacing: 0.1em; color: var(--cream); }
+  .cover .foot .r span { color: var(--gold); }
+
+  /* ===================== KİMLİK SAYFASI ===================== */
+  .identity {
+    width: 1600px; min-height: 2000px;
+    background: var(--cream);
+    color: var(--ink);
+    padding: 86px 96px 80px;
+    position: relative;
+  }
+  .identity:after {
+    content: ''; position: absolute; inset: 0; pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 200px 200px; mix-blend-mode: multiply; opacity: 0.035;
+  }
+  .id-head {
+    display: flex; justify-content: space-between; align-items: flex-end;
+    border-bottom: 1.5px solid var(--ink); padding-bottom: 22px; position: relative; z-index:1;
+  }
+  .id-head .t .eb { font-size: 12.5px; letter-spacing: 0.4em; text-transform: uppercase; color: var(--gold); font-weight: 700; }
+  .id-head .t .h { font-family: 'Didot', serif; font-size: 60px; color: var(--ink); margin-top: 10px; letter-spacing: 0.02em; }
+  .id-head .pg { font-size: 13px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--stone); }
+
+  /* SENTEZ DİYAGRAMI — paketin kalbi (anlamlı, slop değil) */
+  .synth {
+    margin: 56px 0 20px; position: relative; z-index: 1;
+    display: grid; grid-template-columns: 1fr 220px 1fr; align-items: center; gap: 0;
+  }
+  .synth .side {
+    border: 1.5px solid var(--ink); border-radius: 3px;
+    padding: 40px 38px; min-height: 280px;
+    display: flex; flex-direction: column; justify-content: center;
+  }
+  .synth .side .tag {
+    font-size: 12px; letter-spacing: 0.28em; text-transform: uppercase;
+    color: var(--gold); font-weight: 700; margin-bottom: 14px;
+  }
+  .synth .side .ttl {
+    font-family: 'Didot', serif; font-size: 40px; line-height: 1.04; color: var(--ink); letter-spacing: 0.01em;
+  }
+  .synth .side ul { list-style: none; margin-top: 20px; }
+  .synth .side li {
+    font-size: 14.5px; line-height: 1.5; color: var(--ink-2);
+    padding: 6px 0 6px 18px; position: relative;
+  }
+  .synth .side li:before {
+    content: ''; position: absolute; left: 0; top: 13px; width: 7px; height: 7px;
+    background: var(--gold); border-radius: 50%;
+  }
+  /* orta yakınsama düğümü */
+  .synth .merge { position: relative; height: 280px; }
+  .synth .merge .line {
+    position: absolute; top: 50%; height: 1.5px; background: var(--gold);
+  }
+  .synth .merge .line.l { left: -2px; right: 50%; }
+  .synth .merge .line.r { left: 50%; right: -2px; }
+  .synth .merge .node {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%);
+    width: 150px; height: 150px; border-radius: 50%;
+    background: var(--ink); color: var(--cream);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    box-shadow: 0 14px 40px rgba(26,28,34,0.28);
+    border: 2px solid var(--gold);
+  }
+  .synth .merge .node .plus { font-family: 'Didot', serif; font-size: 46px; color: var(--gold-lt); line-height: 1; }
+  .synth .merge .node .lbl { font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; margin-top: 8px; text-align: center; color: var(--cream); }
+
+  .synth-result {
+    text-align: center; margin: 30px 0 8px; position: relative; z-index: 1;
+  }
+  .synth-result .arrow { color: var(--gold); font-size: 26px; line-height: 1; }
+  .synth-result .r-ttl {
+    font-family: 'Didot', serif; font-size: 34px; color: var(--ink); margin-top: 8px; letter-spacing: 0.02em;
+  }
+  .synth-result .r-ttl b { color: var(--gold); font-style: italic; font-weight: 400; }
+  .synth-result .r-sub { font-size: 14.5px; color: var(--stone); margin-top: 10px; letter-spacing: 0.04em; }
+
+  /* alt: renk + tipografi sistemi */
+  .id-system {
+    margin-top: 56px; display: grid; grid-template-columns: 1.05fr 1fr; gap: 60px;
+    position: relative; z-index: 1;
+  }
+  .id-col .lab {
+    font-size: 12px; letter-spacing: 0.32em; text-transform: uppercase; color: var(--gold);
+    font-weight: 700; border-bottom: 1px solid rgba(26,28,34,0.25); padding-bottom: 10px; margin-bottom: 24px;
+  }
+  /* renk barı */
+  .palette-row { display: flex; height: 96px; border-radius: 3px; overflow: hidden; box-shadow: inset 0 0 0 1px rgba(26,28,34,0.08); }
+  .palette-row .c { flex: 1; position: relative; }
+  .palette-row .c span {
+    position: absolute; left: 12px; bottom: 10px; font-size: 10.5px; letter-spacing: 0.1em;
+    font-weight: 600;
+  }
+  .pal-meta { display: flex; gap: 24px; margin-top: 16px; flex-wrap: wrap; }
+  .pal-meta .m { font-size: 12px; color: var(--ink-2); letter-spacing: 0.04em; }
+  .pal-meta .m b { color: var(--ink); }
+  .pal-note { font-size: 13.5px; color: var(--ink-2); margin-top: 18px; line-height: 1.65; font-style: italic; max-width: 560px; }
+
+  /* tipografi */
+  .tb { margin-bottom: 28px; }
+  .tb .role { font-size: 11.5px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--stone); font-weight: 600; margin-bottom: 8px; }
+  .tb .didot { font-family: 'Didot', serif; font-size: 48px; line-height: 1; color: var(--ink); letter-spacing: 0.02em; }
+  .tb .didot-it { font-family: 'Didot', serif; font-style: italic; font-size: 30px; color: var(--gold); }
+  .tb .avenir { font-family: 'Avenir Next', sans-serif; font-size: 17px; line-height: 1.6; color: var(--ink-2); }
+  .tb .glyph { font-family: 'Didot', serif; font-size: 24px; color: var(--ink); margin-top: 6px; letter-spacing: 0.05em; }
+  .tb .glyph.av { font-family: 'Avenir Next', sans-serif; font-size: 18px; }
+  .tb .spec { font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); font-weight: 600; margin-top: 7px; }
+
+  .id-foot {
+    margin-top: 56px; border-top: 1.5px solid var(--ink); padding-top: 22px;
+    display: flex; justify-content: space-between; align-items: center; position: relative; z-index: 1;
+  }
+  .id-foot .l { font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--stone); }
+  .id-foot .r { font-family: 'Didot', serif; font-style: italic; font-size: 16px; color: var(--gold); }
+</style>
+</head>
+<body>
+
+  <!-- ============= SAYFA 1 — KAPAK ============= -->
+  <div class="cover">
+    <div class="top">
+      <div class="brand-eyebrow">Ayhan Erden · Creative Marketing</div>
+      <div class="meta">Satış Paketi<br>2026</div>
+    </div>
+
+    <div class="center">
+      <div class="kicker">Marka Bulutu OS</div>
+      <h1>MODA<br><span class="gold">Edisyonu</span></h1>
+      <div class="edition">
+        <div class="bar"></div>
+        <div class="txt">AI-Destekli Yaratıcı Pazarlama Departmanı</div>
+      </div>
+
+      <div class="promise">
+        <div class="q">"Pazarlama dilini <b>görsel dil</b> ile&nbsp;sentezliyorum."</div>
+        <div class="attr">— Vaadin kalbi · tek yaratıcı imza</div>
+      </div>
+    </div>
+
+    <div class="foot">
+      <div class="l">Emerging &amp; DTC moda markaları için</div>
+      <div class="r">Marka Bulutu<span>.</span></div>
+    </div>
+  </div>
+
+  <!-- ============= SAYFA 2 — KİMLİK & SENTEZ ============= -->
+  <div class="identity">
+    <div class="id-head">
+      <div class="t">
+        <div class="eb">Paket Görsel Kimliği</div>
+        <div class="h">Sentez</div>
+      </div>
+      <div class="pg">02 · Kimlik Sistemi</div>
+    </div>
+
+    <!-- SENTEZ DİYAGRAMI -->
+    <div class="synth">
+      <div class="side">
+        <div class="tag">Sol Beyin</div>
+        <div class="ttl">Pazarlama<br>Dili</div>
+        <ul>
+          <li>Strateji &amp; konumlandırma</li>
+          <li>Mesaj mimarisi</li>
+          <li>Görünürlük &amp; dönüşüm</li>
+          <li>Kanal disiplini</li>
+        </ul>
+      </div>
+
+      <div class="merge">
+        <div class="line l"></div>
+        <div class="line r"></div>
+        <div class="node">
+          <div class="plus">&amp;</div>
+          <div class="lbl">Tek Yaratıcı<br>Zihin</div>
+        </div>
+      </div>
+
+      <div class="side">
+        <div class="tag">Sağ Beyin</div>
+        <div class="ttl">Görsel<br>Dil</div>
+        <ul>
+          <li>Marka kimliği &amp; brand book</li>
+          <li>Editorial yön</li>
+          <li>Lüks / premium kodlar</li>
+          <li>İçerik estetiği</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="synth-result">
+      <div class="arrow">&#9660;</div>
+      <div class="r-ttl">Ne "güzel ama satmayan", ne "satan ama <b>çirkin</b>".</div>
+      <div class="r-sub">İki dil tek imzada birleşir — ajansın koordinasyon yükü, kadronun maliyeti olmadan.</div>
+    </div>
+
+    <!-- RENK + TİPOGRAFİ SİSTEMİ -->
+    <div class="id-system">
+      <div class="id-col">
+        <div class="lab">Renk Sistemi · İş Register</div>
+        <div class="palette-row">
+          <div class="c" style="background:#1A1C22;"><span style="color:#F4F1EA;">Mürekkep #1A1C22</span></div>
+          <div class="c" style="background:#A8814B;"><span style="color:#1A1C22;">Altın #A8814B</span></div>
+          <div class="c" style="background:#C6A36A;"><span style="color:#1A1C22;">Açık Altın</span></div>
+          <div class="c" style="background:#F4F1EA;"><span style="color:#1A1C22;">Krem #F4F1EA</span></div>
+        </div>
+        <div class="pal-meta">
+          <div class="m"><b>%60</b> Krem zemin</div>
+          <div class="m"><b>%25</b> Mürekkep</div>
+          <div class="m"><b>%15</b> Altın aksan</div>
+        </div>
+        <div class="pal-note">Salt yaratıcı güç: siyah-altın-krem. Premium, nötr, zamansız. Süs ya da motivasyon estetiği değil; editorial otorite. Altın = zanaat & değer; krem = nefes.</div>
+      </div>
+
+      <div class="id-col">
+        <div class="lab">Tipografi Sistemi</div>
+        <div class="tb">
+          <div class="role">Display — Didot</div>
+          <div class="didot">SENTEZ</div>
+          <div class="didot-it">yaratıcı yön</div>
+          <div class="glyph">Çığır · İmza · Öz · Düş · Şahika</div>
+          <div class="spec">Didot · editorial serif</div>
+        </div>
+        <div class="tb">
+          <div class="role">Gövde — Avenir Next</div>
+          <div class="avenir">Tek yaratıcı muhatap, departman hacmi. AI hızı, insan yönü; her çıktı kalite kapısından geçer.</div>
+          <div class="glyph av">Türkçe: ığ İŞ çğöü — temiz</div>
+          <div class="spec">Avenir Next · geometrik sans</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="id-foot">
+      <div class="l">Marka Bulutu OS · Moda Edisyonu · Görsel Kimlik v1</div>
+      <div class="r">"İskele sistemde, imza Ayhan'da."</div>
+    </div>
+  </div>
+
+</body>
+</html>

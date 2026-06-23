@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<style>
+  /* ÇIKTI 1 — MERAKÎ · Örnek moda markası görsel dil sistemi
+     Register: BAĞIMSIZ örnek marka (SOC mavi DEĞİL).
+     Estetik: editorial/premium + Ayhan görsel parmak izi (sıcak, atmosferik, güçlü figür).
+     Fontlar: Didot (sistem) display + Optima (sistem) gövde — gerçek, Türkçe-güvenli. */
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    /* MERAKÎ paleti — premium-bej tuzağından KAÇIŞ: imza kızılı var */
+    --terra:    #8C3A2B;  /* imza — terracotta/kızıl (marka görünür kalsın) */
+    --terra-dk: #5E261C;  /* derin kızıl */
+    --stone:    #6E6A60;  /* taş grisi — soğuk kontrast (sadece sıcak değil) */
+    --bone:     #E9E2D4;  /* kemik/krem zemin */
+    --bone-lt:  #F2EDE2;  /* açık krem */
+    --ink:      #211C18;  /* mürekkep — neredeyse siyah, sıcak */
+    --brass:    #A88A57;  /* hafif pirinç aksan (zanaat hissi) */
+    --line:     #C9BFAD;  /* ince çizgi */
+  }
+
+  body {
+    width: 1600px;
+    background: var(--bone);
+    font-family: 'Optima', sans-serif;
+    color: var(--ink);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .canvas {
+    width: 1600px;
+    min-height: 2000px;
+    background:
+      radial-gradient(120% 80% at 78% 8%, rgba(140,58,43,0.06) 0%, rgba(140,58,43,0) 55%),
+      var(--bone);
+    padding: 70px 80px 60px;
+    position: relative;
+  }
+
+  /* ---- ÜST ŞERİT: marka kimliği ---- */
+  .head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    border-bottom: 1.5px solid var(--ink);
+    padding-bottom: 22px;
+  }
+  .head .eyebrow {
+    font-size: 13px; letter-spacing: 0.42em; text-transform: uppercase;
+    color: var(--stone); font-weight: 600;
+    margin-bottom: 14px; /* wordmark üst aksanından (Î) ayrış */
+  }
+  .wordmark {
+    font-family: 'Didot', serif;
+    font-size: 88px; line-height: 0.92; letter-spacing: 0.14em;
+    color: var(--ink); font-weight: 400;
+    margin-right: -0.14em; /* son harfin sağ harf-aralığını geri al — sola hizalı kalsın */
+  }
+  .head .right { text-align: right; }
+  .head .right .seg {
+    font-size: 13px; letter-spacing: 0.3em; text-transform: uppercase;
+    color: var(--terra); font-weight: 700; margin-bottom: 6px;
+  }
+  .head .right .meta {
+    font-size: 12.5px; letter-spacing: 0.05em; color: var(--stone); line-height: 1.7;
+  }
+
+  /* ---- KONUM CÜMLESİ ---- */
+  .position {
+    margin: 34px 0 14px;
+    max-width: 1180px;
+  }
+  .position .lead {
+    font-family: 'Didot', serif;
+    font-size: 30px; line-height: 1.45; font-style: italic; color: var(--terra-dk);
+    font-weight: 400;
+  }
+  .position .sub {
+    font-size: 15.5px; letter-spacing: 0.04em; color: var(--stone);
+    margin-top: 14px; line-height: 1.7; max-width: 980px;
+  }
+
+  /* ---- KONSEPT ETİKETİ ---- */
+  .concept-tag {
+    position: absolute; top: 74px; right: 80px;
+  }
+  /* hero atmosfer bandı */
+  .hero {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1.7fr 1fr;
+    gap: 16px;
+    height: 520px;
+  }
+  .hero .frame {
+    position: relative; overflow: hidden;
+    border: 1px solid rgba(33,28,24,0.12);
+  }
+  /* film-grain / kumaş dokusu katmanı — gradient'i "boş" olmaktan çıkarır,
+     amaçlı atmosfer (sinematik grain + dokuma hissi) verir. AI-slop değil. */
+  .hero .frame:after {
+    content: ''; position: absolute; inset: 0; pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.9'/%3E%3C/svg%3E");
+    background-size: 220px 220px;
+    mix-blend-mode: overlay; opacity: 0.20;
+  }
+  /* hafif vinyet — figür/odak hissini kuvvetlendirir (chiaroscuro) */
+  .hero .frame:before {
+    content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 1;
+    box-shadow: inset 0 0 90px 10px rgba(0,0,0,0.32);
+  }
+  /* Atmosfer panelleri — gerçek fotoğraf yerine MOOD tarifi (renk+ışık+doku).
+     AI-slop değil: amaçlı chiaroscuro/ışık simülasyonu, etiketli mood referansı. */
+  .hero .a {
+    background:
+      radial-gradient(90% 120% at 22% 18%, rgba(242,237,226,0.55) 0%, rgba(242,237,226,0) 42%),
+      linear-gradient(125deg, #2a201b 0%, #5E261C 38%, #8C3A2B 60%, #b06045 78%, #2a201b 100%);
+  }
+  .hero .b {
+    background:
+      radial-gradient(80% 60% at 70% 20%, rgba(233,226,212,0.4) 0%, rgba(233,226,212,0) 50%),
+      linear-gradient(200deg, #6E6A60 0%, #3c3a35 55%, #211C18 100%);
+  }
+  .frame .lbl {
+    position: absolute; left: 18px; bottom: 16px; z-index: 2;
+    font-size: 11.5px; letter-spacing: 0.22em; text-transform: uppercase;
+    color: rgba(233,226,212,0.94); font-weight: 600;
+    text-shadow: 0 1px 10px rgba(0,0,0,0.65);
+  }
+  .frame .num {
+    position: absolute; left: 18px; top: 14px; z-index: 2;
+    font-family: 'Didot', serif; font-size: 22px; color: rgba(233,226,212,0.88);
+    font-style: italic; text-shadow: 0 1px 8px rgba(0,0,0,0.55);
+  }
+  /* sağ kolon iki küçük doku karesi */
+  .hero .stackcol { display: grid; grid-template-rows: 1fr 1fr; gap: 16px; }
+  .hero .c {
+    background:
+      repeating-linear-gradient(118deg, rgba(33,28,24,0.05) 0 2px, rgba(33,28,24,0) 2px 7px),
+      linear-gradient(150deg, #A88A57 0%, #7d6840 60%, #4f4128 100%);
+  }
+  .hero .d {
+    background:
+      radial-gradient(70% 90% at 40% 25%, rgba(242,237,226,0.5) 0%, rgba(242,237,226,0) 55%),
+      linear-gradient(160deg, #cdbfa6 0%, #a8967a 50%, #6b5d47 100%);
+  }
+
+  /* ---- ALT: SİSTEM ŞERİDİ (palet · tipografi · ilkeler) ---- */
+  .system {
+    margin-top: 52px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 48px;
+  }
+  .col .label {
+    font-size: 12px; letter-spacing: 0.34em; text-transform: uppercase;
+    color: var(--terra); font-weight: 700;
+    border-bottom: 1px solid rgba(33,28,24,0.25);
+    padding-bottom: 10px; margin-bottom: 22px;
+  }
+
+  /* palet */
+  .swatches { display: flex; flex-direction: column; gap: 0; }
+  .sw { display: flex; align-items: center; gap: 16px; padding: 9px 0; }
+  .sw .chip {
+    width: 56px; height: 56px; flex: none; border-radius: 2px;
+    box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08);
+  }
+  .sw .info .n { font-size: 14.5px; font-weight: 600; color: var(--ink); letter-spacing: 0.02em; }
+  .sw .info .h { font-size: 12px; letter-spacing: 0.12em; color: var(--stone); margin-top: 3px; }
+  .sw .info .u { font-size: 11.5px; color: var(--stone); margin-top: 2px; font-style: italic; }
+
+  /* tipografi */
+  .type-block { margin-bottom: 26px; }
+  .type-block .role {
+    font-size: 11.5px; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--stone); margin-bottom: 8px; font-weight: 600;
+  }
+  .type-didot { font-family: 'Didot', serif; font-size: 44px; line-height: 1; color: var(--ink); letter-spacing: 0.04em; }
+  .type-didot-it { font-family: 'Didot', serif; font-style: italic; font-size: 30px; color: var(--terra-dk); }
+  .type-optima { font-family: 'Optima', sans-serif; font-size: 17px; line-height: 1.6; color: var(--ink); }
+  .type-note { font-size: 12px; color: var(--stone); margin-top: 9px; line-height: 1.6; }
+  .type-spec { font-size: 11.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brass); margin-top: 7px; font-weight: 600; }
+  /* Türkçe glyph kanıt satırı */
+  .glyph { font-family: 'Didot', serif; font-size: 26px; color: var(--ink); letter-spacing: 0.06em; margin-top: 4px; }
+
+  /* ilkeler */
+  .principles { list-style: none; }
+  .principles li {
+    font-size: 14px; line-height: 1.55; color: var(--ink);
+    padding: 13px 0 13px 26px; position: relative;
+    border-bottom: 1px solid rgba(33,28,24,0.08);
+  }
+  .principles li:before {
+    content: ''; position: absolute; left: 0; top: 19px;
+    width: 9px; height: 9px; background: var(--terra); border-radius: 50%;
+  }
+  .principles li b { color: var(--terra-dk); font-weight: 700; }
+
+  /* ---- FOOTER ---- */
+  .foot {
+    margin-top: 54px; padding-top: 20px;
+    border-top: 1.5px solid var(--ink);
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .foot .l { font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--stone); }
+  .foot .r { font-family: 'Didot', serif; font-style: italic; font-size: 16px; color: var(--terra-dk); }
+
+  /* KONSEPT damgası — bu sahte müşteri değil, örnek çalışma */
+  .stamp {
+    display: inline-block;
+    font-size: 11px; letter-spacing: 0.28em; text-transform: uppercase;
+    color: var(--terra); font-weight: 700;
+    border: 1.5px solid var(--terra); border-radius: 2px;
+    padding: 8px 16px; line-height: 1;
+  }
+</style>
+</head>
+<body>
+  <div class="canvas">
+
+    <div class="head">
+      <div class="left">
+        <div class="eyebrow">Contemporary Womenswear · Atölye</div>
+        <div class="wordmark">MERAKÎ</div>
+      </div>
+      <div class="right">
+        <div class="concept-tag"><span class="stamp">Konsept · Örnek Çalışma</span></div>
+        <div class="seg" style="margin-top:46px;">Görsel Dil Sistemi</div>
+        <div class="meta">Segment: Contemporary (premium)<br>Kitle: 28–42 · kendini tanıyan, az&nbsp;ama&nbsp;iyi<br>Marka Bulutu OS — Branding</div>
+      </div>
+    </div>
+
+    <div class="position">
+      <div class="lead">"Acele etmeyen bir gardırop: her parça merakla&nbsp;tasarlanır, ömür boyu&nbsp;giyilir."</div>
+      <div class="sub">MERAKÎ, hızlı modaya karşı duran bir contemporary kadın markası. Anadolu zanaat dokusunu modern editorial bir dille buluşturur; sınırlı üretim, sezon yerine süreklilik, indirim yerine değer. Görsel dili bu duruşu taşır — sıcak, atmosferik, malzemeyi öne çıkaran, figürü özne kılan.</div>
+    </div>
+
+    <!-- ATMOSFER / MOOD — fotoğraf yerine ışık+renk+doku tarifi (etiketli) -->
+    <div class="hero">
+      <div class="frame a">
+        <span class="num">01</span>
+        <span class="lbl">Sıcak chiaroscuro · figür öznedir</span>
+      </div>
+      <div class="stackcol">
+        <div class="frame c">
+          <span class="num">03</span>
+          <span class="lbl">Zanaat dokusu · pirinç & dokuma</span>
+        </div>
+        <div class="frame d">
+          <span class="num">04</span>
+          <span class="lbl">Kemik tonu · nefes alan boşluk</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero" style="height:240px; margin-top:16px; grid-template-columns: 1fr;">
+      <div class="frame b">
+        <span class="num">02</span>
+        <span class="lbl">Taş grisi kontrast · sinematik genişlik · film-still hissi</span>
+      </div>
+    </div>
+
+    <!-- SİSTEM ŞERİDİ -->
+    <div class="system">
+
+      <div class="col">
+        <div class="label">Renk Paleti</div>
+        <div class="swatches">
+          <div class="sw">
+            <div class="chip" style="background:#8C3A2B;"></div>
+            <div class="info"><div class="n">Terracotta</div><div class="h">#8C3A2B</div><div class="u">imza — sıcaklık, toprak, cesaret</div></div>
+          </div>
+          <div class="sw">
+            <div class="chip" style="background:#5E261C;"></div>
+            <div class="info"><div class="n">Derin Kızıl</div><div class="h">#5E261C</div><div class="u">derinlik, dramatik gölge</div></div>
+          </div>
+          <div class="sw">
+            <div class="chip" style="background:#6E6A60;"></div>
+            <div class="info"><div class="n">Taş Grisi</div><div class="h">#6E6A60</div><div class="u">soğuk denge — yalnız sıcak değil</div></div>
+          </div>
+          <div class="sw">
+            <div class="chip" style="background:#A88A57;"></div>
+            <div class="info"><div class="n">Pirinç</div><div class="h">#A88A57</div><div class="u">zanaat, el işçiliği aksanı</div></div>
+          </div>
+          <div class="sw">
+            <div class="chip" style="background:#E9E2D4; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.18);"></div>
+            <div class="info"><div class="n">Kemik</div><div class="h">#E9E2D4</div><div class="u">zemin — açıklık, nefes</div></div>
+          </div>
+          <div class="sw">
+            <div class="chip" style="background:#211C18;"></div>
+            <div class="info"><div class="n">Mürekkep</div><div class="h">#211C18</div><div class="u">metin, güçlü kontrast</div></div>
+          </div>
+        </div>
+        <div class="type-note" style="margin-top:18px;">Denge: %55 Kemik · %20 Mürekkep · %15 Terracotta · %10 Taş&nbsp;+&nbsp;Pirinç. İmza kızıl markayı tanınır kılar; bej-üstü-bej tuzağına düşmez.</div>
+      </div>
+
+      <div class="col">
+        <div class="label">Tipografi</div>
+        <div class="type-block">
+          <div class="role">Display / Başlık — Didot</div>
+          <div class="type-didot">MERAKÎ</div>
+          <div class="type-didot-it">İncelik &amp; güç</div>
+          <div class="glyph">Çığır · Şükran · Öz · Düğüm · İğne</div>
+          <div class="type-spec">Didot · all-caps & italic</div>
+          <div class="type-note">Yüksek kontrastlı serif — moda editorial geleneği (Vogue/Harper's dili). Lüks ve mirası ima eder; "yaratıcı = serif refleksi" değil, bilinçli editorial karar.</div>
+        </div>
+        <div class="type-block">
+          <div class="role">Gövde / Metin — Optima</div>
+          <div class="type-optima">Acele etmeyen bir gardırop. Anadolu zanaatı, modern editorial çizgi. Sınırlı üretim; her parça ömür boyu giyilir.</div>
+          <div class="glyph" style="font-family:'Optima',sans-serif; font-size:19px;">Türkçe: ığdiŞ çğöü — temiz render</div>
+          <div class="type-spec">Optima · humanist sans</div>
+          <div class="type-note">Sıcak humanist sans — serif başlığa nefes aldırır, okunur kalır. Tek aile içi italik/ağırlıkla vurgu; başlığa rastgele ikinci font sokulmaz.</div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="label">Görsel Dil İlkeleri</div>
+        <ul class="principles">
+          <li><b>Atmosfer, ürün değil.</b> Kare bir an taşır — garment hikâyeye hizmet eder. Düz "ürün ışığı" yok; sert yan ışık / chiaroscuro.</li>
+          <li><b>Figür öznedir.</b> Pasif manken değil; duruşunda güç ve sakin özgüven. "Amazon enerjisi" — dengeli, dik.</li>
+          <li><b>Malzeme görünür.</b> Dokuma, keten, yün, deri dokusu — yüzeyin hissi okunur, dokunulabilir görüntü.</li>
+          <li><b>Cömert boşluk.</b> Negatif alan korkutmaz, nefes aldırır. Kalabalık değil, seçilmiş.</li>
+          <li><b>Sıcak ama dengeli.</b> Terracotta sıcaklığı taş grisiyle frenlenir — steril değil, ucuz da değil.</li>
+          <li><b>Indirim estetiği yok.</b> "%50" şeritleri, kırmızı etiket, aciliyet sayacı yok. Değer kazanan parça olarak konumlanır (lüks kod).</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="foot">
+      <div class="l">MERAKÎ · Görsel Dil Sistemi · v1 — Konsept</div>
+      <div class="r">"Merakla tasarla, ömür boyu giy."</div>
+    </div>
+
+  </div>
+</body>
+</html>
