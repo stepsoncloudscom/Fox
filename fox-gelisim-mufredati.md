@@ -124,9 +124,28 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
 - **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
-- **Estetik müfredatı Disiplin 1-5** — her disiplin Morning Brief'te tek tek işlenmedi henüz; rotasyona alınacak.
+- **Estetik müfredatı Disiplin 1-5** — 24 Haz'dan taşındı (ilk kez); `fox-estetik-mufredati.md` okunarak her disiplin rotasyona alınacak.
 - **Luxmed lookalike analizi** — içerik paketi yayına girince 90 gün performans verisiyle ilk canlı lookalike döngüsü (İçerik Faz 3 yol haritasıyla hizalı).
 - **Slop-scan script** — gstack'ten "ileride" işaretliydi; metin çıktıları için basit kara-liste taraması değerlendirilecek.
+- **Syla outreach yanıt takibi (24 Haz)** — outreach gönderildikten 10 gün sonra hatırlatma + yanıt döngüsü başlatılacak (Kademe 1 takip).
+- **Ala Skateboards sessizlik (24 Haz)** — son temas 5 Haz, 19+ gün geçti; tanıtım materyali (çocuk dostu açıklama+görsel) hâlâ hazır değil; Tuncay bağını canlı tutma hamlesi değerlendirilecek.
+- **Denetmen Faz 1 değerlendirme özeti (24 Haz)** — 1 Temmuz öncesi karar günlüğünden 27 günlük denetim özeti çıkarılacak.
+
+### 24 Haziran 2026 — Morning Brief:
+
+**[Premortem + Stratejik Zekâ] Syla outreach premortem** ✅ Bu oturumda işlendi
+- 4 başarısızlık senaryosu: zamanlama yoğunluğu (fuar öncesi) · kanal seçimi (form vs DM) · follow-up eksikliği · yanlış değer çerçevesi.
+- Çekirdek içgörü: "döviz-ready görsel dil" çerçevesi gerçek acı noktası (İngilizce site + TL fiyatlama tutarsızlığı). Outreach taslağına eklenmeli.
+- Kaldıraç: Premortem → mesaj kalitesini yükseltti; varsayılan "marka denetimi" çerçevesinin zayıf olduğunu önceden gördük.
+
+**[Müşteri Empatisi] Sıla Uslu profili — kontrol içgörüsü** ✅ Bu oturumda işlendi
+- Kendi ismiyle marka = sahiplik/kontrol en büyük değer. Teklif dili: "senin sesini daha geniş alanda duyuruyoruz" (kontrolü devretmez). Outreach taslağı doğru yapıyor — onaylı.
+
+**[Stratejik Zekâ] Boş pipeline + hız gerilimi** ✅ Bu oturumda işlendi
+- Sun Tzu hız ilkesi × 30-gün runway: Syla tek sıcak lead; Nakit Motoru moda dikeyi paralelde devam etmeli. Tek lead'e bağımlılık = stratejik risk.
+
+**[Serbest Keşif] Future AI Summit 2026 ağ bağlantısı** ✅ Bu oturumda işlendi
+- Şansım Adalı (Sudi Etüz) + Ferhat Zamanpur (Silk and Cashmere) → sıcak moda ağı, Summit paylaşımları üzerinden warm outreach kapısı. Syla ile paralel lead potansiyeli.
 
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
@@ -156,4 +175,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2.3 · 11 Haziran 2026 · Fox · v2.3: Gestalt/YOLO/FOMO v2 derinleştirme — YOLO bayat-bilgi hatası aynı gün düzeltildi (Katman 2 → veri ile test), FOMO'ya hukuki sınır katmanı (FTC/TKHK), Gestalt'a Prägnanz + AI-slop bağlantısı, üçlü sentez eklendi.*
+*Sürüm: v2.4 · 24 Haziran 2026 · Fox · v2.4: Syla outreach premortem (4 senaryo + döviz çerçevesi) · Sıla Uslu kontrol içgörüsü · boş pipeline + hız gerilimi · Future AI Summit ağ bağlantısı (Adalı/Zamanpur). Derinleştirme kuyruğuna 3 yeni madde eklendi (Syla takip, Ala sessizlik, Denetmen Faz 1 özeti).*
