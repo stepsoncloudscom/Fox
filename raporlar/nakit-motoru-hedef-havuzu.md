@@ -95,6 +95,7 @@ Medibeauty (medibeautyklinik.com) · MedHair (medhairclinic.eu) · Turk Aestheti
 | Hafta | Temas | Yanıt | Görüşme | Satış | Not |
 |---|---|---|---|---|---|
 | H1 (12-19 Haz) | 0 | 0 | 0 | 0 | Sistem kuruldu; D1 koşusu bekleniyor |
+| H2 (20-24 Haz) | 5 taslak (24 Haz) | 0 | 0 | 0 | İlk çalışan koşu: 3xC1 ihracatçı marka + 2xB ajans. Dedup+push aktif. |
 
 ## ÖĞRENİM GÜNLÜĞÜ
 - *(boş — ilk dönüşlerle dolacak: hangi mesaj varyantı, hangi segment, hangi kanal çalışıyor)*

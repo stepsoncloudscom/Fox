@@ -15,13 +15,20 @@
 
 | Hedef | Şerit | İlk işlenme | Son durum | Son temas | Kanal | Varyant | Sonuç / Not |
 |---|---|---|---|---|---|---|---|
-| *(boş — ilk koşu dolduracak)* | | | | | | | |
+| LUOKK | C1 | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@luokk.co | V1 | Who's Next ihracatçı, büyük beden nişi, stüdyo→editorial boşluk |
+| IT'S BASIC | C1 | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@itsbasic.com | V2 | 72K IG, 3 dil site (TR/EN/RU), denim/casual |
+| BASAKLA | C1 | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@basakla.com | V1 | London/Istanbul kimliği, deri+denim nişi, 3.8K IG |
+| MERI CREATIVE | B | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@mericreative.com | V1 | 2015, butik kreatif, 300+ proje, in-house foto/video yok |
+| MODA KREATİF | B | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | hello@modakreatif.com | V2 | ICP zayıf (moda müşterisi yok, isim aldatıcı), genel dijital ajans |
+| MARGITTES | C1 | 2026-06-24 | DOĞRULANAMADI | 2026-06-24 | — | — | 14 gün cooldown. Doğrudan site/Instagram bulunamadı. Tekrar: 2026-07-08 |
+| FONEM | C1 | 2026-06-24 | DOĞRULANAMADI | 2026-06-24 | — | — | 14 gün cooldown. Doğrudan site/iletişim bulunamadı. Tekrar: 2026-07-08 |
+| DOLCEZZA | C1 | 2026-06-24 | KANAL-YOK | 2026-06-24 | — | — | 14 gün cooldown. dczfashion.com 503 hatası, kanal doğrulanamadı. Tekrar: 2026-07-08 |
 
 ## 3 · ROTASYON İŞARETİ (hangi listede nereye kadar gelindi)
 *Her koşu, işlediği son hedefi buraya yazar; ertesi koşu BURADAN devam eder (baştan değil).*
 - **Şerit A** (sıcak çember): işlenen son = — *(Ayhan onayı bekliyor; otomatik temas YOK)*
-- **Şerit B** (ajanslar): işlenen son = — *(baştan)*
-- **Şerit C1** (Who's Next Paris): işlenen son = — *(baştan)*
+- **Şerit B** (ajanslar): işlenen son = MODA KREATİF *(Moda Kreatif, Meri Creative → sonraki koşu Crabs Media'dan devam)*
+- **Şerit C1** (Who's Next Paris): işlenen son = BASAKLA *(BASAKLA, BIRELIN, BİZE... → sonraki koşu BIRELIN'dan devam)*
 - **Şerit C2** (IFCO): işlenen son = — *(baştan)*
 - **Pazartesi besleme kaynak sırası** (dönüşümlü): dijitalajanslar.com → İHKİB/fuar duyuruları → Bigumigu/MediaCat yeni iş haberleri → *(başa dön)*. Sıradaki = dijitalajanslar.com
 
@@ -30,7 +37,7 @@
 
 | Tarih | Yeni aday | Doğrulanan | Taslak (Gmail) | Yanıt | Takip | Push | Not |
 |---|---|---|---|---|---|---|---|
-| *(ilk koşu buraya yazacak)* | | | | | | | |
+| 2026-06-24 | 8 (5 marka/ajans + 3 DOĞRULANAMADI) | 5 | 5 (LUOKK/IT'SBASIC/BASAKLA/MeriCreative/ModaKreatif) | 0 | 0 | ✅ | İlk başarılı koşu. Dedup+push düzeltmesi çalışıyor. 3 C1 ihracatçı markası + 2 ajans. V1/V2 dönüşümü test ediliyor. |
 
 ---
 *Bağlı: `nakit-motoru-hedef-havuzu.md` (aday universe) · `soguk-iletisim-protokolu.md` (kurallar) · Notion Müşteri Panosu (yalnız görüşmeye dönenler terfi eder). Bu defter = "yapıldı" hafızası; havuz = "yapılabilir" listesi.*
