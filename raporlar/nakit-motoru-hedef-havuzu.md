@@ -119,7 +119,7 @@ Medibeauty (medibeautyklinik.com) · MedHair (medhairclinic.eu) · Turk Aestheti
 | Hafta | Temas | Yanıt | Görüşme | Satış | Not |
 |---|---|---|---|---|---|
 | H1 (12-19 Haz) | 0 | 0 | 0 | 0 | Sistem kuruldu; D1 koşusu bekleniyor |
-| H2 (20-24 Haz) | 5 taslak (24 Haz) | 0 | 0 | 0 | İlk çalışan koşu: 3xC1 ihracatçı marka + 2xB ajans. Dedup+push aktif. |
+| H2 (20-24 Haz) | 21 taslak (24 Haz) | 0 | 0 | 0 | "Hepsine taslak oluştur" tam genişleme koşusu. 7xC1 marka (LUOKK/ITS BASIC/BASAKLA/BİZE/VUQU/MA MULIER/ZILBERMAN) + 1xC2 (VDR+NAGRADA) + 10xB ajans. Havuzun tamamı işlendi. Öne çıkanlar: MA MULIER ⭐⭐ (Paris/London/Milan), BossyDigital ⭐ (moda e-ticaret müşterileri). |
 
 ## ÖĞRENİM GÜNLÜĞÜ
 - *(boş — ilk dönüşlerle dolacak: hangi mesaj varyantı, hangi segment, hangi kanal çalışıyor)*
