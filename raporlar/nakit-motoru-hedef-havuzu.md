@@ -33,6 +33,11 @@
 | Creative Dijital İstanbul | dijital ajans | creativedijital.istanbul | doğrulanacak | — | HAVUZ |
 | Küre Ajans | 360° medya | kureajans.com | doğrulanacak | — | HAVUZ |
 | Ahtapot Sosyal Medya | sosyal medya + prodüksiyon | doğrulanacak | doğrulanacak | 45 kişi — üst sınır, portföye göre | HAVUZ |
+| **ddip digital/design** ⭐ | kreatif dijital, İstanbul+Paris | ddip.co | **info@ddip.co** ✅ | Golden Rose/Pastel/Klorane güzellik müşterileri; Paris-moda bağlantısı güçlü sinyal | **DOĞRULANDI** |
+| NOX İstanbul | bağımsız kreatif ajans | noxistanbul.com | araştırılacak | "Independent Creative" — araştırılacak | HAVUZ |
+| Ukuş | marka hikayeciliği + büyüme | araştırılacak | araştırılacak | marka anlatısı odak | HAVUZ |
+| ArtArda Reklam | yaratıcı strateji + markalaşma | araştırılacak | araştırılacak | 15 kişi | HAVUZ |
+| Fri Agency | kreatif tasarım odaklı | araştırılacak | araştırılacak | 11 kişi | HAVUZ |
 | + 15-20 ajans | dijitalajanslar.com 50+ dizini + LinkedIn işe alım ilanları + Bigumigu/MediaCat yeni iş haberleri | — | — | haftalık tarama | ARAŞTIRMA |
 
 ## ŞERİT C — MODA & GİYİM MARKALARI ⭐ BİRİNCİL DİKEY (Ayhan kararı, 12 Haz)
@@ -76,6 +81,25 @@
 | INCITY | çocuk (IFCO Kids) | HAVUZ |
 | KATAMINO | çocuk (IFCO Kids) | HAVUZ |
 | 3H TEKSTİL | konfeksiyon | HAVUZ |
+| **VDR VIADELLEROSE** ⭐ | kadın giyim, tasarım | **DOĞRULANDI** — info@viadellerose.com, 147K IG @vdrofficial, Macaristan mağazası (ihracatçı), viadellerose.com |
+| GAZE | kadın giyim | HAVUZ — IFCO formla ulaşılabilir; doğrudan e-posta yok henüz |
+| CLANDE | kadın giyim | HAVUZ — site/IG araştırılacak |
+| APRİDO | kadın giyim | HAVUZ — araştırılacak |
+| HİSSET | kadın giyim | HAVUZ — araştırılacak |
+| HİLAY | kadın giyim | HAVUZ — araştırılacak |
+| PUNKQUEEN | kadın giyim | HAVUZ — araştırılacak (isim: fashion-forward) |
+| LAMANTE | kadın giyim | HAVUZ — araştırılacak |
+| MİANOTTE | kadın giyim | HAVUZ — araştırılacak |
+| NAGRADA | kadın giyim | HAVUZ — araştırılacak |
+| PINK21 | kadın giyim | HAVUZ — araştırılacak |
+| EXQUISE | kadın giyim | HAVUZ — araştırılacak |
+| TERZİ DÜKKANI | kadın giyim (artisan) | HAVUZ — araştırılacak |
+| SBL DESIGN | kadın giyim | HAVUZ — araştırılacak |
+| AHSEN | kadın giyim | HAVUZ — araştırılacak |
+| HALE AKKESE | kadın giyim | HAVUZ — araştırılacak |
+| SAMSARA | toptan kadın giyim | HAVUZ — @samsaraofficiall 27K IG, toptan odak (düşük öncelik) |
+| REAL FOCUS | denim | HAVUZ — @realfocusjeans 4.3K IG, Telegram mevcut, e-posta yok |
+| KAYRA | kadın giyim | HAVUZ — 43 yıllık, büyük marka (düşük öncelik — in-house prodüksiyon muhtemel) |
 
 ### C3 · Diğer fuar kaynakları (D1+ listeleri çekilecek)
 | Fuar | Alan | Tarih | Liste durumu |

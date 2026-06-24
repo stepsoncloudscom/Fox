@@ -20,6 +20,8 @@
 | BASAKLA | C1 | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@basakla.com | V1 | London/Istanbul kimliği, deri+denim nişi, 3.8K IG |
 | MERI CREATIVE | B | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@mericreative.com | V1 | 2015, butik kreatif, 300+ proje, in-house foto/video yok |
 | MODA KREATİF | B | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | hello@modakreatif.com | V2 | ICP zayıf (moda müşterisi yok, isim aldatıcı), genel dijital ajans |
+| VDR VIADELLEROSE | C2 | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@viadellerose.com | V1 | 147K IG @vdrofficial, Macaristan mağazası (ihracatçı), IFCO 2026 katılımcısı |
+| ddip digital/design | B | 2026-06-24 | İŞLENDİ (taslak Gmail) | 2026-06-24 | info@ddip.co | V1 | İstanbul+Paris, Golden Rose/Pastel güzellik müşterileri, uluslararası brief |
 | MARGITTES | C1 | 2026-06-24 | DOĞRULANAMADI | 2026-06-24 | — | — | 14 gün cooldown. Doğrudan site/Instagram bulunamadı. Tekrar: 2026-07-08 |
 | FONEM | C1 | 2026-06-24 | DOĞRULANAMADI | 2026-06-24 | — | — | 14 gün cooldown. Doğrudan site/iletişim bulunamadı. Tekrar: 2026-07-08 |
 | DOLCEZZA | C1 | 2026-06-24 | KANAL-YOK | 2026-06-24 | — | — | 14 gün cooldown. dczfashion.com 503 hatası, kanal doğrulanamadı. Tekrar: 2026-07-08 |
@@ -38,6 +40,7 @@
 | Tarih | Yeni aday | Doğrulanan | Taslak (Gmail) | Yanıt | Takip | Push | Not |
 |---|---|---|---|---|---|---|---|
 | 2026-06-24 | 8 (5 marka/ajans + 3 DOĞRULANAMADI) | 5 | 5 (LUOKK/IT'SBASIC/BASAKLA/MeriCreative/ModaKreatif) | 0 | 0 | ✅ | İlk başarılı koşu. Dedup+push düzeltmesi çalışıyor. 3 C1 ihracatçı markası + 2 ajans. V1/V2 dönüşümü test ediliyor. |
+| 2026-06-24 (ek) | +19 yeni isim havuza eklendi (IFCO tam liste + ddip) | 2 | 2 (VDR/ddip) | 0 | 0 | ✅ | "Yeni alternatifler" genişlemesi: IFCO sayfaları tarandı (78 katılımcıdan 30+), ddip Paris+İstanbul bulundu. Havuzda şimdi 40+ aktif C2 isim. |
 
 ---
 *Bağlı: `nakit-motoru-hedef-havuzu.md` (aday universe) · `soguk-iletisim-protokolu.md` (kurallar) · Notion Müşteri Panosu (yalnız görüşmeye dönenler terfi eder). Bu defter = "yapıldı" hafızası; havuz = "yapılabilir" listesi.*
