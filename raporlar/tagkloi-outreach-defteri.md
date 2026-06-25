@@ -62,29 +62,28 @@
 | 52 | Fureya Art | fureya-art | Sanat/Seramik | (Beymen'de) | ? | — | 🔴⚪ |
 | 53 | Coho Objet | coho-objet | Ev/Objet | cohoobjet.us | @coho.objet | — | 🟡⚪ |
 
-## Doğrulanmış e-postalar (🟢 = Gmail taslağı oluşturulacak) — 10
-1. Manus in Mano — info@manusinmano.co
-2. Jendue — contact@jendue.com
-3. Naïve Atelier — info@naiveatelier.com
-4. Ro&Glo — hello@roandglo.com
-5. Fickle Hearts — info@ficklehearts.com
-6. Sadie & Dione — info@sadieanddione.com
-7. Meltem Aybar — info@meltemaybar.com
-8. Pele Mele Store — info@pele-mele.store
-9. Les Mérimes — info@lesmerimes.com
-10. Lilyen Design — lilyendesign@gmail.com
+## Doğrulanmış e-postalar (🟢 = Gmail taslağı oluşturuldu) — 17
+*1. tur (10):* Manus in Mano `info@manusinmano.co` · Jendue `contact@jendue.com` · Naïve Atelier `info@naiveatelier.com` · Ro&Glo `hello@roandglo.com` · Fickle Hearts `info@ficklehearts.com` · Sadie & Dione `info@sadieanddione.com` · Meltem Aybar `info@meltemaybar.com` · Pele-Mêle `info@pele-mele.store` · Les Mérimes `info@lesmerimes.com` · Lilyen Design `lilyendesign@gmail.com`
+*2. tur (+7, Shopify `/policies/contact-information` + mesafeli-satış sayfasından):* Nazlı Ceren `info@nazliceren.co` · Anu Temple Design `support@anutempledesign.com` · Elorian `info@eloriancouturelingerie.com` · Endam `customercare@endamstudio.com` · Hey Niri `hello@heyniri.co` · Esti Living `info@estiliving.com` · İznik Mavi Çini `iletisim@iznikmavicini.com`
 
-## Özet
-- 🟢 doğrulanmış e-posta: 10 (Gmail taslağı hazır, tek dokunuşla gönderilir)
-- 🟡 web/IG var e-posta yok: 16 (IG DM / iletişim formu — taslak metni hazır)
-- 🔴 iletişim bulunamadı: 17 (IG araması / tagkloi sayfası gerek — taslak metni hazır)
+## 2. TUR — IG çözümleri (Instagram-özel arama; e-posta yok, IG-DM kanalı)
+- Haracci → @haracci.co (mayo/plaj 2021) — güçlü
+- Monlicia → @monliciaofficial / monlicia.com (keten/doğal lif) — güçlü
+- Chaseldor → @chaseldor (takı, 97K) — güçlü
+- Hide + Stone → @hideandstone — orta güven (tagkloi markasıyla aynı mı teyit)
+- Lot 34 → @lot34co — orta güven (teyit)
+- The Tacca → @taccaessentials — düşük güven (teyit)
+
+## Özet (2. tur sonrası)
+- 🟢 **17 doğrulanmış e-posta → 17 Gmail taslağı** (Kademe 2, tek dokunuşla gönderilir)
+- 🟡 **~17 web/IG var, e-posta yok** (IG DM / form — taslak metni hazır): Iquoniq, Diandra, Re2mc, Caged Bird⚠️, Müstesna, Cansu XI, Baron Venus, La Casa Antica, Coho, Menevis, Moi Si + yeni IG'ler (Haracci, Monlicia, Chaseldor, Hide+Stone, Lot 34, The Tacca)
+- 🔴 **~19 hâlâ bulunamadı** (web'de yok — IG-only veya isim çakışması): Erbien, Iodes, Parrmuse, Be Murphy, Beck Collection, Hitta, Lofuta, Esvoria, The Room, Mirage, Pure Paris, Lome, Pochetco, Tesuji, On The Table, Fureya Art, Zaya Ceramics, Betterdays
 - Tüm 53 için kişiselleştirilmiş taslak metni: `raporlar/tagkloi-taslaklar.md`
 
 ## Notion ekleme durumu — ✅ TAMAM (25 Haz)
 53 marka Marka Bulutu OS — Müşteri Panosu'na eklendi (Durum=Lead). Sektör=Moda (ev/dekor 9 markada boş + "moda-dışı" notu). Öncelik: 🟢=Yüksek, 🟡=Orta, 🔴=Düşük. İlgili Kişi=e-posta/IG, Risk-Not=TAG-KLOI URL+segment+bayrak.
 ⚠️ Mükerrer otomatik ayıklanamadı (Notion sorgu = Business plan). Çakışma olursa Ayhan/pano birleştirir.
 
-## Taslak durumu — ✅ TAMAM (25 Haz)
-**10 Gmail taslağı oluşturuldu** (Kademe 2 — gönderim Ayhan'da), doğrulanmış e-postalı markalar:
-Manus in Mano · Jendue (EN) · Naïve Atelier (EN) · Ro&Glo · Fickle Hearts · Sadie & Dione (EN) · Meltem Aybar · Pele-Mêle · Les Mérimes · Lilyen Design.
-**Kalan 43 marka:** kişiselleştirilmiş taslak metni `tagkloi-taslaklar.md`'de hazır — kanal (IG DM / web formu) bulununca gönderilir.
+## Taslak durumu — ✅ TAMAM (25 Haz, 2. tur sonrası)
+**17 Gmail taslağı oluşturuldu** (Kademe 2 — gönderim Ayhan'da), doğrulanmış e-postalı markalar (yukarıdaki 🟢 listesi — 1. tur 10 + 2. tur 7).
+**Kalan 36 marka:** kişiselleştirilmiş taslak metni `tagkloi-taslaklar.md`'de hazır — kanal (IG DM / web formu) bulununca gönderilir. 6 yenisinin IG'si çözüldü (Haracci/Monlicia/Chaseldor/Hide+Stone/Lot 34/The Tacca).

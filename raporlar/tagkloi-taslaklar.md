@@ -1,5 +1,8 @@
 # TAG-KLOI Markalarına İlk Temas Taslakları
 *53 marka · 25 Haz 2026 · Soğuk-sıcak ilk temas (komşu TAG-KLOI markası açısı). Kademe 2 — gönderim Ayhan onayıyla.*
+
+> **🔄 2. TUR GÜNCELLEME (25 Haz):** Doğrulanmış e-posta **10 → 17** oldu (Gmail taslakları hazır). Yeni 7: Nazlı Ceren, Anu Temple, Elorian, Endam, Hey Niri, Esti Living, İznik Mavi Çini.
+> Aşağıdaki 🔴 listesinden **6 marka IG'ye çözüldü** (artık IG-DM kanalı var): **Haracci** @haracci.co · **Monlicia** @monliciaofficial · **Chaseldor** @chaseldor · **Hide+Stone** @hideandstone · **Lot 34** @lot34co · **The Tacca** @taccaessentials (son üçü teyit gerektirir). Bu markalara aşağıdaki ana şablon + genel-sıcak açılış kullanılır.
 *Ton: §9 hafif — yumuşak tek talep (15 dk sohbet), 3-seçenek/sert termin yok, fiyat/taahhüt yok.*
 
 > **Açı:** Steps On Clouds da TAG-KLOI'de yer alan bir marka. Bu yüzden bu bir "yabancıdan soğuk mail" değil; "aynı çatı altındaki komşu marka" teması. Markamız kapıyı açıyor, stüdyo (Marka Bulutu OS) teklifi gövdede.
