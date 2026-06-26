@@ -8,6 +8,7 @@ Beymen = "Türkiye'nin Tek Dijital Lüks Platformu". Çekirdek = global lüks ma
 ---
 
 ## A) FIT — Growth-stage TR / emerging tasarımcı (Notion'a eklendi) — 13
+> ⚠️ **GÜNCELLENDİ (26 Haz) → en alttaki "🔄 TR OUTREACH SONUÇLARI" bölümü esas alınmalı** (Academia çıktı=Beymen-özel; Atıl→Atilla Çakır; Boga/Projebir/Riva eklendi; iletişim + 9 Gmail taslağı).
 *Tek potansiyel-uygun küme. Hepsi Beymen-onaylı, yani zaten belli bir olgunlukta. Öncelik=Düşük, outreach kararı Ayhan'da.*
 
 | Marka | Segment | Not |
@@ -50,3 +51,35 @@ Beymen · Beymen Club · Beymen Collection · Beymen Home · Beymen Chocolate ·
 - **FIT subset = 13** (yukarıda, Notion'da). Gerçek hedef bunlar; ama **açı zayıf** (sıcak hook yok + zaten Beymen-onaylı).
 - Geri kalan ~236 marka: maison / beauty / ev / Beymen-özel → **prospect değil**, CRM'e konmadı.
 - **Öneri:** outreach'i bu 13'le sınırlama; hatta önce 2-3 en uygun isimle (ör. Mehry Mu, Moeva, Tullaa — daha emerging) test et. Maison/non-fit'e kesinlikle gidilmez.
+
+---
+
+## 🔄 TR OUTREACH SONUÇLARI (26 Haz — Ayhan: "Beymen'deki tüm Türk markalarına ulaşacağız")
+TR markaları araştırıldı, iletişim bulundu, Notion güncellendi, doğrulanmış e-postalara Gmail taslağı oluşturuldu.
+**Düzeltmeler:** Academia = Beymen-ÖZEL private label (prospect değil, çıkarıldı) · Atıl Çakır → **Atilla Çakır** (seramik/objet sanatçısı) · Green George = muhtemelen Beymen private-label ayakkabı (TR teyit edilemedi, alınmadı).
+**Açı:** SoC Beymen'de satılmıyor → "komşu marka" hook'u yok; yerine **peer-TR** ("İstanbul stüdyosu, sizi Beymen'de gördük") + global-büyüme değer önerisi. §9 hafif, fiyat/taahhüt yok.
+
+**Final TR seti: 15 marka.**
+
+### 🟢 Doğrulanmış e-posta → Gmail taslağı hazır (9)
+| Marka | E-posta | Segment |
+|-------|---------|---------|
+| Aida Bergsen | info@aidabergsen.com | Fine jewelry (heykelsi) |
+| Begüm Khan | info@begumkhan.com | Lux jewelry (tılsım/oyunbaz) |
+| Bluemint | customerservice@bluemint.com | Resort/swim (344K) |
+| Boga | leventozbek@boga.com.tr | El yapımı gümüş takı (kurucu) |
+| Kismet by Milka | info@kismetbymilka.com | Fine jewelry/piercing (263K) |
+| Les Benjamins | info@lesbenjaminsstore.com | Streetwear (358K, yerleşik) |
+| Mehry Mu | info@mehrymu.com | Artisan çanta (64K) |
+| Moeva | info@moeva.com | Luxury swimwear (146K) |
+| Urart | merkez@urart.com.tr | Anadolu takı/objet (1972) |
+
+### 🟡 Web/IG var, e-posta yok → taslak metni hazır (6)
+- **Bee Goddess** — beegoddess.com / @beegoddessjewellery (talismanic jewelry, Harrods/global)
+- **Projebir** — projebir.com.tr (14k fine jewelry, Zeynep Mursaloğlu Şekeralp, NYC lansmanı)
+- **Tullaa** — tullaa.com (el yapımı çanta, Tülay Arslan)
+- **Hamam** — hamam.com (banyo/ev tekstili; e-posta Cloudflare-maskeli)
+- **Atilla Çakır** — @atilacakir (seramik/objet/sanat)
+- **Riva** — @rivafashionme (kadın giyim, mass-market 995K — ⚠️ fit zayıf)
+
+**Değerlendirme:** Birkaçı zaten global/yerleşik (Les Benjamins, Bee Goddess, Bluemint, Moeva) → dönüş ihtimali düşük. En yüksek-fit: **Mehry Mu, Boga, Projebir, Tullaa, Aida Bergsen, Urart, Begüm Khan, Kismet by Milka**. Riva mass-market, en zayıf.
