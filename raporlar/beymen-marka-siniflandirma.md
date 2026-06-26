@@ -57,7 +57,7 @@ Beymen · Beymen Club · Beymen Collection · Beymen Home · Beymen Chocolate ·
 ## 🔄 TR OUTREACH SONUÇLARI (26 Haz — Ayhan: "Beymen'deki tüm Türk markalarına ulaşacağız")
 TR markaları araştırıldı, iletişim bulundu, Notion güncellendi, doğrulanmış e-postalara Gmail taslağı oluşturuldu.
 **Düzeltmeler:** Academia = Beymen-ÖZEL private label (prospect değil, çıkarıldı) · Atıl Çakır → **Atilla Çakır** (seramik/objet sanatçısı) · Green George = muhtemelen Beymen private-label ayakkabı (TR teyit edilemedi, alınmadı).
-**Açı:** SoC Beymen'de satılmıyor → "komşu marka" hook'u yok; yerine **peer-TR** ("İstanbul stüdyosu, sizi Beymen'de gördük") + global-büyüme değer önerisi. §9 hafif, fiyat/taahhüt yok.
+**Açı (Ayhan kararı, 26 Haz — CO-CREATION):** Hizmet satışı değil; **ortak yaratıcı proje** ("sizin marka diliniz, bizim görsel yönümüz; client-ajans değil, birlikte üretim" — §11.2 değer/pay). Konu başlığı: "{Marka} × Steps On Clouds — ortak bir fikir". 9 doğrulanmış-e-postalı markaya bu açıyla **yeni Gmail taslağı oluşturuldu.** Eski peer-TR taslakları ("Beymen'de dikkatimizi çeken…") **SUPERSEDED** — Gmail aracı taslak silemiyor, Ayhan eskileri elle siler. §9 hafif, fiyat/taahhüt yok.
 
 **Final TR seti: 15 marka.**
 
