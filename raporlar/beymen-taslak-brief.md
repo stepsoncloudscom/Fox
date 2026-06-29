@@ -90,6 +90,28 @@ Kurucu — Steps on Clouds
 
 ---
 
+## ✅ ONAYLI METİN — Urart (Ayhan onayladı, 26 Haz)
+*Açı: miras/kök/kadim Anadolu — köklülüğü çağdaş+global dile taşımak.*
+**Konu:** Urart × Steps on Clouds — bir ortak yaratım önerisi
+
+Sayın Urart Ekibi,
+
+Elli yılı aşkın süredir Anadolu'nun kadim hafızasını — Urartu'dan bugüne uzanan motifleri — mücevhere ve objeye taşıyorsunuz. Her şeyin birbirine benzediği bir çağda köklü bir kimlik en nadir şeydir; Urart'ı ayıran da bu derinlik.
+
+Size bu nedenle yazıyoruz. Steps on Clouds, markaların görsel dilini pazarlama diline ve hikâyeye dönüştüren bir yaratıcı yönetim ajansıdır; bunu Marka Bulutu adını verdiğimiz sistemle yürütürüz. Kurucusu Ayhan Erden, global markaların görsel dünyalarını kurmuş bir isimdir. Üretimde insanın sezgisini yapay zekânın hızıyla birleştiririz: yön, sezgi ve ruh insanda; hız ve ölçek yapay zekâ ajanımız Fox'ta. Karar her zaman insanındır.
+
+Urart'a önerimiz bir ortak yaratımdır: bu yarım asırlık mirası — Anadolu'nun kadim hikâyesini — sizin diliniz ve bizim yaratıcı yönümüzle, bugünün ve dünyanın okuyabileceği çağdaş bir görsel anlatıya taşımak; köklülüğünüzü yitirmeden onu yeni nesillere ve global sahneye açmak. Yapay zekânın hızı burada yalnızca bu mirası görünür kılmanın aracıdır; yerine geçen değil.
+
+Bu fikri sizinle paylaşmak üzere kısa bir görüşme talep ediyoruz; size uygun bir zaman dilimini paylaşmanız yeterli.
+
+Saygılarımızla,
+Ayhan Erden
+Kurucu — Steps on Clouds
+
+*To: merkez@urart.com.tr · Gmail taslağı gönderim partisinde.*
+
+---
+
 ## ŞABLON — diğer markalara uyarlama reçetesi
 Markaya göre **yalnızca P1 ve P3 değişir**; P2 (kimlik) + P4 (talep) + imza SABİT.
 
