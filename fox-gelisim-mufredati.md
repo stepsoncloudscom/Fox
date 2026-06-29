@@ -124,12 +124,13 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
 - **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
-- **Estetik müfredatı Disiplin 1-5** — 24 Haz'dan taşındı (ilk kez); `fox-estetik-mufredati.md` okunarak her disiplin rotasyona alınacak.
+- **Estetik müfredatı Disiplin 1-5** — 24 Haz'dan taşındı; 29 Haz'da kısmen işlendi (Beymen lens'inden Gestalt + Prägnanz bağlantısı). `fox-estetik-mufredati.md` tam rotasyona alınacak.
 - **Luxmed lookalike analizi** — içerik paketi yayına girince 90 gün performans verisiyle ilk canlı lookalike döngüsü (İçerik Faz 3 yol haritasıyla hizalı).
 - **Slop-scan script** — gstack'ten "ileride" işaretliydi; metin çıktıları için basit kara-liste taraması değerlendirilecek.
-- **Syla outreach yanıt takibi (24 Haz)** — outreach gönderildikten 10 gün sonra hatırlatma + yanıt döngüsü başlatılacak (Kademe 1 takip).
-- **Ala Skateboards sessizlik (24 Haz)** — son temas 5 Haz, 19+ gün geçti; tanıtım materyali (çocuk dostu açıklama+görsel) hâlâ hazır değil; Tuncay bağını canlı tutma hamlesi değerlendirilecek.
-- **Denetmen Faz 1 değerlendirme özeti (24 Haz)** — 1 Temmuz öncesi karar günlüğünden 27 günlük denetim özeti çıkarılacak.
+- **Syla outreach yanıt takibi** — 21 Haz'dan 10 gün = 1 Tem eşiği. Gönderim yapıldıysa 1 Tem'de takip döngüsü başlatılacak; gönderilmediyse bugün Ayhan'a hatırlat.
+- **Ala Skateboards Tuncay mesajı (29 Haz)** — 24 gün sessizlik; baskı durumu teyit + ilişki canlı tutma. Kısa taslak Ayhan'a sunulacak (Kademe 1).
+- **Beymen 2. taslak — Boga veya Aida Bergsen (29 Haz)** — Mehry Mu onaylı şablona göre analiz + onaya getir. Tek-tek; kalıba sokma, marka-gözlem ilk cümle kuralı.
+- ~~**Denetmen Faz 1 değerlendirme özeti (24 Haz)**~~ ✅ 29 Haz Morning Brief'te tamamlandı — 1 Tem toplantısına hazır.
 
 ### 24 Haziran 2026 — Morning Brief:
 
@@ -175,4 +176,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2.4 · 24 Haziran 2026 · Fox · v2.4: Syla outreach premortem (4 senaryo + döviz çerçevesi) · Sıla Uslu kontrol içgörüsü · boş pipeline + hız gerilimi · Future AI Summit ağ bağlantısı (Adalı/Zamanpur). Derinleştirme kuyruğuna 3 yeni madde eklendi (Syla takip, Ala sessizlik, Denetmen Faz 1 özeti).*
+*Sürüm: v2.5 · 29 Haziran 2026 · Fox · v2.5 (Morning Brief): Denetmen Faz 1 özeti tamamlandı (1 Tem toplantısına hazır). Estetik Müfredatı kısmen işlendi (Beymen/Gestalt lens). Ses kalibrasyonu Mehry Mu onaylı metinden örüntü. Hukuk: co-creation IP notu. Kuyruk: Ala Tuncay mesajı + Beymen 2. taslak + Syla takip eşiği (1 Tem) eklendi. Denetmen Faz 1 özeti kuyruğun düştü.*

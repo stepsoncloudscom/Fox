@@ -36,7 +36,7 @@
 | 26 | Parrmuse | parrmuse | ? | ? | ? | — | 🔴 |
 | 27 | Pele Mele Store | pele-mele-store | Moda (concept) | pele-mele.store | @pele_mele_store | info@pele-mele.store | 🟢 |
 | 28 | Beck Collection | beck-collection | ? | ? | ? | — | 🔴 |
-| 29 | Les Mérimes | les-merimes1 | Takı (Bodrum) | lesmerimes.com | — | info@lesmerimes.com | 🟢 |
+| 29 | Les Mérimes | les-merimes1 | Şapka-Çanta (el yapımı, Bodrum) | lesmerimes.com | — | info@lesmerimes.com | 🟢 |
 | 30 | Moi Si | moi-si1 | Takı? | — | @moisi.global | — | 🟡 |
 | 31 | Müstesna Dükkan | mustesna-dukkan | Concept/? | mustesnadukkan.com | ? | — | 🟡 |
 | 32 | Pochetco | pochetco | Aksesuar/Çanta | ? | ? | — | 🔴 |

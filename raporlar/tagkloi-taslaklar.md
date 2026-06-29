@@ -77,7 +77,7 @@ Lejant: 🟢 e-posta hazır (Gmail taslağı oluşturuldu) · 🟡 IG/web var, e
 > Açılış: "'Creativity comes from chaos' — konsept yaklaşımınız markaya bir karakter katıyor." Yön: bu karakteri tutarlı bir marka diline oturtmak.
 
 **29 · Les Mérimes** — info@lesmerimes.com · Konu: TAG-KLOI'den bir komşu — Les Mérimes için kısa bir not
-> Açılış: "Bodrum'dan çıkan takılarınızdaki Akdeniz ferahlığı, koleksiyonun her parçasına sinmiş." Yön: yerel ruhu uluslararası bir anlatıya açmak.
+> Açılış: "El yapımı şapka ve çantalarınızdaki Akdeniz ferahlığı, koleksiyonun her parçasına sinmiş." Yön: yerel ruhu uluslararası bir anlatıya açmak. *(DÜZELTME: şapka/çanta — önce yanlışlıkla "takı" yazılmıştı.)*
 
 **37 · Lilyen Design** — lilyendesign@gmail.com · Konu: TAG-KLOI'den bir komşu — Lilyen Design için kısa bir not
 > Açılış: "El yapımı takılarınızdaki incelik, kişisel bir imza taşıyor." Yön: bu imzayı görünürlük tarafında öne çıkarmak.
