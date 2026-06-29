@@ -62,7 +62,7 @@ Lejant: 🟢 e-posta hazır (Gmail taslağı oluşturuldu) · 🟡 IG/web var, e
 > Opening: "Reviving Anatolian handloom craft with Aegean weavers — the heritage-with-a-modern-twist thread runs through everything you make." Aspect: telling that craft story to international buyers.
 
 **12 · Ro&Glo** — hello@roandglo.com · Konu: TAG-KLOI'den bir komşu — Ro&Glo için kısa bir not
-> Açılış: "İstanbul'dan çıkan çağdaş çizginiz, kalabalık bir alanda kendine ait bir ses kurmuş." Yön: bu sesi dijitalde tutarlı bir kimliğe taşımak.
+> Açılış: "Eşarplarınızdaki çağdaş çizgi, kalabalık bir alanda kendine ait bir ses kurmuş." Yön: bu sesi dijitalde tutarlı bir kimliğe taşımak. *(DÜZELTME: eşarp/aksesuar — önce "Moda" diye geçmişti, siteden doğrulandı.)*
 
 **15 · Fickle Hearts** — info@ficklehearts.com · Konu: TAG-KLOI'den bir komşu — Fickle Hearts için kısa bir not
 > Açılış: "Bağımsız, kadın-kurucu bir markanın 2022'den bu yana kurduğu o pürüzsüz, kararlı duruş dikkatimizi çekti." Yön: bağımsız ruhu büyüme diline çevirmek.

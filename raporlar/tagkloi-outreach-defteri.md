@@ -19,7 +19,7 @@
 | 9 | Naïve Atelier | naive-atelier | Moda (keten/el dokuma) | naiveatelier.com | @naive.atelier | info@naiveatelier.com | 🟢 |
 | 10 | The Tacca | the-tacca1 | Aksesuar? | ? | ? | — | 🔴 |
 | 11 | Endam_ | endam_ | Moda | endamstudio.com | ? | — | 🟡 |
-| 12 | Ro&Glo | ro-glo1 | Moda | roandglo.com | @roglo | hello@roandglo.com | 🟢 |
+| 12 | Ro&Glo | ro-glo1 | Eşarp/aksesuar (scarf + scarf ring) | roandglo.com | @roglo | hello@roandglo.com | 🟢 |
 | 13 | The Room | the-room | ? | ? | ? | — | 🔴 |
 | 14 | Nazlı Ceren | nazli-ceren | Moda/Takı (demi-couture) | nazliceren.co | @nazliceren.co | — | 🟡 |
 | 15 | Fickle Hearts | fickle-hearts | Moda | ficklehearts.com | @ficklehearts.official | info@ficklehearts.com | 🟢 |

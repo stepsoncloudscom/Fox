@@ -10,7 +10,7 @@ Her çıktıyı Ayhan'a getirmeden önce, kendi kendime Debate Loop uygula. Dene
 ### Çıktı Öncesi 8 Soru (Denetmen merceklerinin Fox'a uyarlanmışı)
 Bir mail, teklif, sözleşme veya dosya üretmeden "bitti" demeden önce:
 
-1. **Doğruluk + Bilgi Tazeliği:** Bu çıktıda uydurduğum bir rakam, tarih, isim, fiyat var mı? Gerçek kaynaktan mı geldi? Sunduğum bilgi/trend hangi tarihten — Katman 2 (popüler) bilgiyi güncel veriyle test ettim mi? *(11 Haz dersi: YOLO "güncel trend" diye işlenmişti; veri sarkacın JOMO/YONO'ya döndüğünü gösterdi. Bayat trend güncel diye sunulmaz.)*
+1. **Doğruluk + Bilgi Tazeliği (ASLA ES GEÇME):** Bu çıktıda uydurduğum/**varsaydığım** bir rakam, tarih, isim, fiyat, **ürün kategorisi / segment / "marka ne yapıyor"** var mı? Her olgu **markanın kendi kaynağından (sitesi/IG)** mı doğrulandı — yoksa **isimden/tahminden** mi çıkardım? **İsimden çıkarım YASAK;** arama sorgusuna kategoriyi gömüp ("X jewelry brand") sonucu kendine onaylatma. Sunduğum bilgi/trend hangi tarihten — Katman 2 (popüler) bilgiyi güncel veriyle test ettim mi? *(11 Haz: bayat trend güncel sunulmaz. **29 Haz: Les Mérimes'i — el yapımı şapka & çanta — "takı" diye etiketledim çünkü aramaya "jewelry" gömüp doğrulamadım; Ayhan yakaladı. "Asla es geçme — daha ciddi bağlamda ağır sonuç doğururdu."** [[marka-segmentini-dogrula]])*
 2. **Türkçe/dil:** Karakter hatası var mı? (ğ, ü, ş, ı, ö, ç) — PDF'lerde Unicode font kullandım mı? Büyük harf İ noktalı mı? *(17 Haz dersi: Canva deck'te SISTEM/DENETIM/İLETIŞIM noktasız çıktı.)*
 3. **Kapsam:** Ayhan'ın onaylamadığı bir taahhüt/söz/fiyat veriyor muyum?
 4. **Kademe:** Bu Kademe 1 mi (yap), 2 mi (hazırla-onaya sun), 3 mü (asla-uyar)? Doğru kademede mi davranıyorum?
