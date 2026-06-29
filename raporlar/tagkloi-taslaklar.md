@@ -2,7 +2,7 @@
 *53 marka · 25 Haz 2026 · Soğuk-sıcak ilk temas (komşu TAG-KLOI markası açısı). Kademe 2 — gönderim Ayhan onayıyla.*
 
 > **🔄 2. TUR GÜNCELLEME (25 Haz):** Doğrulanmış e-posta **10 → 17** oldu (Gmail taslakları hazır). Yeni 7: Nazlı Ceren, Anu Temple, Elorian, Endam, Hey Niri, Esti Living, İznik Mavi Çini.
-> Aşağıdaki 🔴 listesinden **6 marka IG'ye çözüldü** (artık IG-DM kanalı var): **Haracci** @haracci.co · **Monlicia** @monliciaofficial · **Chaseldor** @chaseldor · **Hide+Stone** @hideandstone · **Lot 34** @lot34co · **The Tacca** @taccaessentials (son üçü teyit gerektirir). Bu markalara aşağıdaki ana şablon + genel-sıcak açılış kullanılır.
+> Aşağıdaki 🔴 listesinden IG çözümleri: **Haracci** @haracci.co · **Monlicia** @monliciaofficial · **Chaseldor** @chaseldor. ⚠️ **DÜZELTME (29 Haz denetimi):** **Hide+Stone @hideandstone** ve **Lot 34 @lot34co** YANLIŞ marka çıktı (ABD markaları, tagkloi'deki marka değil) — kullanma; **The Tacca @taccaessentials** düşük güven, teyit gerek. Bu markalara ana şablon + genel-sıcak açılış kullanılır.
 *Ton: §9 hafif — yumuşak tek talep (15 dk sohbet), 3-seçenek/sert termin yok, fiyat/taahhüt yok.*
 
 > **Açı:** Steps On Clouds da TAG-KLOI'de yer alan bir marka. Bu yüzden bu bir "yabancıdan soğuk mail" değil; "aynı çatı altındaki komşu marka" teması. Markamız kapıyı açıyor, stüdyo (Marka Bulutu OS) teklifi gövdede.
@@ -93,8 +93,8 @@ Lejant: 🟢 e-posta hazır (Gmail taslağı oluşturuldu) · 🟡 IG/web var, e
 **22 · Re2mc** — IG DM @rukhsarymr / @emrahcubukcu__ · Avangart streetwear + sürdürülebilirlik; alt-kültür sesini marka diline çevirmek.
 **24 · Esti Living** *(Ev)* — estiliving.com · @estiliving · British Vogue'da yer almış el yapımı mum/dekor; bu PR ivmesini kalıcı görünürlüğe bağlamak.
 **25 · Caged Bird** — @cagedbirddesign · ⚠️ Şikayetvar: müşteri yanıtı güvenilmez — temas öncesi Ayhan'a danış. Güven/iletişim altyapısı bir fırsat alanı.
-**30 · Moi Si** — @moisi.global · Takı çizgisi; minimal kimliği netleştirmek. *(e-posta doğrulanmadı)*
-**31 · Müstesna Dükkan** — mustesnadukkan.com · Seçki/konsept dükkan; küratoryal kimliği öne çıkarmak.
+**30 · Moi Si** — @moisi.global (teyit) · Kadın giyim/aksesuar (yapı + akışkanlık); çizgiyi netleştirmek. *(e-posta yok · DÜZ: "takı" değil)*
+**31 · Müstesna Dükkan** *(Ev/dekor)* — mustesnadukkan.com · Trabzon bakır zanaatının çağdaş objesi; mirası modern tasarıma taşımak. *(DÜZ: "konsept" değil)*
 **39 · Anu Temple Design** — anutempledesign.com · @anutempledesign · Temple/ritüel esinli takı; anlam-yüklü hikâyeyi görünür kılmak.
 **42 · La Casa Antica** *(Ev/Dekor)* — lacasaantica.com · @lacasaantica · Dünya zanaatkârlarından dekoratif objeler, Beymen'de; küratoryal marka anlatısı.
 **44 · Elorian Couture Lingerie** — eloriancouturelingerie.com · @eloriancouturelingerie · İstanbul-Paris-Marakeş ekseninde couture iç giyim; çok-şehirli lüks konumu netleştirmek.
@@ -131,7 +131,7 @@ Bunlar için ana şablon + genel-sıcak açılış kullanılır; kanal bulununca
 | 41 | Pure Paris | /tr/pure-paris | IG bul |
 | 43 | Lumoths | /tr/lumoths | IG bul |
 | 45 | Esvoria | /tr/esvoria | IG bul |
-| 49 | Hide + Stone *(Deri)* | /tr/hide-stone | IG bul |
+| 49 | Hide + Stone *(Takı/aksesuar/plaj)* | /tr/hide-stone | Doğru IG bul (eski @hideandstone YANLIŞtı) |
 | 50 | Lot 34 | /tr/lot-34 | IG bul |
 | 51 | Chaseldor | /tr/chaseldor | IG bul |
 | 52 | Fureya Art *(Sanat)* | /tr/fureya-art | Beymen/IG bul |

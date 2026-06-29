@@ -1,84 +1,101 @@
 # Müşteri Marka Context — Özgür Irmak Protez ve Ortez Merkezi
 *Marka Bulutu OS'un tek kaynak doğruluk belgesi. Tüm ajanlar (Strateji, İçerik, Growth, Branding) bunu referans alır — tekrar yok, tutarlılık var.*
 
-**Müşteri:** Özgür Irmak Yüksek Teknoloji Protez ve Ortez Uygulama Merkezi · **Sektör:** Sağlık / protez-ortez (medikal cihaz + uygulama) · **Para birimi:** [DOĞRULANACAK — ticari model henüz konuşulmadı] · **Son güncelleme:** 29 Haziran 2026
+**Müşteri:** Özgür Irmak Yüksek Teknoloji Protez ve Ortez Uygulama Merkezi · **Sektör:** Sağlık / protez-ortez (medikal cihaz + uygulama) · **Para birimi:** Hedef döviz (yurtdışı hasta) — bizim fatura para birimi [DOĞRULANACAK] · **Son güncelleme:** 29 Haziran 2026 (görüşme notları işlendi)
 **Notion panosu bağı:** Marka Bulutu OS — Müşteri Panosu
-**İlk teslim (Ayhan kararı 29 Haz):** Marka kimliği / konumlandırma · **Ticari model:** Henüz konuşulmadı (önce değer göster)
+**İlk teslim (Ayhan kararı):** Marka kimliği / konumlandırma (sıfırdan) · **Ticari model:** netleşti (bkz. Ticari Bağlam)
 
-> Doldurma disiplini: Müşterinin **birebir (verbatim)** dilini yakala. Rakam/iddia uydurma (Anayasa §11.5). Aşağıda `[DOĞRULANACAK]` = müşteriden/Ayhan'dan teyit alınacak; siteler bakımda olduğu için canlı doğrulama yapılamadı (29 Haz).
+> Doldurma disiplini: Birebir (verbatim) dil yakala, rakam/iddia uydurma (Anayasa §11.5). `[DOĞRULANACAK]` = teyit alınacak. Bu belge 29 Haz görüşme notlarıyla dolduruldu; siteler bakımda olduğu için canlı doğrulama kısmi.
 
 ---
 
-## 0. KAYNAK DURUMU (29 Haz keşif)
-- **ozgurprotez.com** — TR/EN; şu an **"Bakımdayız! Çok yakında sizlerleyiz"** bakım modunda (canlı içerik çekilemedi).
-- **biyonikprotezler.com** — HTTP 503 (erişilemez). Anlaşılan biyonik/myoelektrik protezlere odaklı ikinci/alt marka sitesi.
-- **Instagram:** @ozgurprotez · **Facebook:** /ozgurprotez · **YouTube:** Türkçe tanıtım filmi mevcut.
-- ⚠️ **Marka bulgusu:** İki web vitrini de aynı anda kapalı/erişilemez = dijital ilk-izlenim şu an boş. Marka kimliği işinin ilk somut kazanımlarından biri burada.
+## 0. KAYNAK & GÖRÜŞME DURUMU
+- **Görüşme:** 29 Haz 2026 — Ayhan'ın notları işlendi.
+- **ozgurprotez.com** — bakım modunda · **biyonikprotezler.com** — 503 · IG/FB @ozgurprotez · YouTube tanıtım filmi.
+- ⚠️ Web vitrinleri kapalı + Ayhan'ın okuması: marka teknolojik/dijital olarak **zamanın gerisinde kalmış** → bu, sıfırdan inşanın gerekçesi.
 
 ## 1. Marka / Ürün Genel Bakış
-- **Tek cümle:** İstanbul merkezli, 1999'dan beri yüksek teknoloji protez ve ortez uygulayan köklü merkez.
-- **Ne yapar (doğrulanan):** Bacak ve kol protezi; mikroişlemcili diz-üstü protezler; biyonik/myoelektrik el ve kol protezleri; kişiye özel silikon parmak protezi; ortez çözümleri (ör. DAFO).
-- **Kategori:** Protez-ortez uygulama merkezi (klinik + medikal teknoloji); hasta "protez bacak / biyonik el / ortez" diye arıyor.
-- **Tip:** Klinik / medikal hizmet (insan-merkezli).
-- **İş modeli & fiyat:** [DOĞRULANACAK]
-- **Çözüm ortakları (yarı mamul/marka):** Ottobock, Össur, Freedom, Bebionic, Touch Bionics, Ortotek — global üst segment tedarikçiler.
+- **Tek cümle:** Döneminin öncülerinden, 20 yıllık tecrübeli bir usta — ama zamanın gerisinde kalmış; şimdi sıfırdan yeniden inşa edilecek bir protez & ortez merkezi.
+- **Ne yapar:** Bacak/kol protezi, mikroişlemcili diz-üstü, biyonik/myoelektrik el, kişiye özel silikon parmak protezi, ortez (DAFO).
+- **Çözüm ortakları:** Ottobock, Össur, Freedom, Bebionic, Touch Bionics, Ortotek (üst segment).
+- **İş modeli (müşterinin):** Klinik uygulama + medikal cihaz. Yeni hedef: daha az ama daha nitelikli/kârlı iş + yurtdışı hasta.
 
-## 2. Hedef Kitle (ICP)
-- **Hedef profil:** Ampütasyon yaşamış bireyler ve aileleri; ortez ihtiyacı olan hastalar. [demografi DOĞRULANACAK]
-- **Karar verici(ler):** Hasta + aile; yönlendiren hekim/fizyoterapist olabilir. [DOĞRULANACAK]
-- **Birincil ihtiyaç:** Hareket, bağımsızlık, gündelik hayata dönüş; doğru ölçü/uyum ile yaşam kalitesi.
-- **JTBD:** [DOĞRULANACAK — müşteri dili çekilince netleşecek]
-- **Senaryolar:** [DOĞRULANACAK]
+## 2. Hedef Kitle (ICP) — görüşmeden
+- **Yeni stratejik odak (sahibinin isteği):**
+  1. **Yurtdışı hasta** — döviz getiren, premium. Geçmiş: Libyalı müşteriler; Suriye'den gelen hasta(lar) [anekdot, sayı DOĞRULANACAK].
+  2. **Yurt içi "kaliteli/kolay" kullanıcı** — sahibinin ifadesiyle: sadece *"işi çözülemeyen"* zor vakalar değil; **düzgün, kolay, kendisini çok yormayacak** kullanıcılara da hizmet. ⚠️ (Onur eki — aşağıda kritik not.)
+- **Karar verici:** Hasta + aile; yurtdışında muhtemelen aracı/yönlendirici. [DOĞRULANACAK]
+- **Birincil ihtiyaç:** Güvenilir, kaliteli, teknolojik protez + (yurtdışı için) erişim/güven köprüsü.
 
-## 4. Problemler & Acı Noktaları
-- **Çekirdek problem:** Doğru, kişiye özel, teknolojik protez/ortez erişimi + uyum + güven.
-- **Felsefe (site özetinden):** "En iyi protez, kişiye özel tasarlanandır." — hasta memnuniyeti odaklı.
-- Diğer maddeler: [DOĞRULANACAK]
+## 4. Problemler & Acı Noktaları (markanın kendi durumu)
+- **Çekirdek problem:** Köklü tecrübe var ama **marka çağın gerisinde** — teknoloji, dijital varlık, itibar yenilenmemiş.
+- ⚠️ **Yüksek miktarda idari ceza** — Sağlık Bakanlığı düzenleme/kanun değişiklikleri sonrası. Bu, sıfırdan marka inşasının tetikleyicisi. → **Hukuki/itibar zemini bayrak (bkz. Riskler).**
+- **Bedeli:** İtibar erozyonu + rekabette geride kalma.
 
-## 5. Rekabet Manzarası
-- [DOĞRULANACAK — TR protez-ortez merkezleri taranacak; not: Ottobock vb. global markalar hem tedarikçi hem dolaylı referans çerçevesi]
+## 6. Farklılaşma (konumlandırma çekirdeği — hipotez)
+- **Usta + miras:** 20 yıl, döneminin öncüsü. Hikâye arkı: *ustalığın çağdaş standartla yeniden doğuşu* (NOT: "düşüp kalkan" değil — onurlu, ileriye dönük çerçeve).
+- **Üst segment teknoloji & tedarik** (Ottobock/Össur/Bebionic/Touch Bionics).
+- **Yurtdışı hastaya güven köprüsü** — uluslararası hasta için kalite + iletişim. **Diller: TR / EN / AR / RU** (Arapça körfez/Suriye/Libya, Rusça medikal turizm).
+- → Konumlandırma çekirdeği görüşme/teyit ile sağlamlaştırılacak.
 
-## 6. Farklılaşma (ön hipotez — doğrulanacak)
-- **1999'dan beri (20+ yıl) miras + tecrübe.**
-- **"Yüksek teknoloji" konumu:** dünyadaki yenilikleri hızlıca kullanıcıya ulaştırma + sektöre nitelikli eleman yetiştirme hedefi.
-- **Üst segment tedarik zinciri** (Ottobock/Össur/Bebionic/Touch Bionics).
-- → Bunlar ön hipotez; konumlandırmanın çekirdeği müşteri görüşmesinde sağlamlaştırılacak.
-
-## 9. Müşteri Dili (verbatim)
-- Doğrulanan ton örneği: "Bakımdayız! Çok yakında sizlerleyiz" (sıcak, doğrudan).
-- Geri kalan birebir dil: [DOĞRULANACAK — siteler açılınca / görüşmede çekilecek]
+## 9. Müşteri Dili (verbatim — sahip)
+- "Daha çok hasta değil amaç, ama itibar [ve] yurtdışı hasta."
+- "Düzgün, kolay, onu çok yormayacak kullanıcılara da hizmet vermek istiyor."
+- "Biraz daha kaliteli istiyor."
+- Hasta birebir dili: [DOĞRULANACAK — görüşmede/canlı sitede]
 
 ## 10. Marka Sesi (ön okuma)
-- **Ton:** Sıcak + güven veren + teknolojik yetkinlik. (Doğrulanacak.)
-- **Kişilik (hipotez):** Köklü, uzman, insan-merkezli, yenilikçi.
+- **Ton:** Güven + kalite + ustalık; çağdaş ve uluslararası. Köklü ama geri kalmış değil — *yenilenmiş öncü.*
+- **Kişilik (hipotez):** Usta, güvenilir, teknolojik, premium, insan-merkezli.
 
 ## 11. Kanıt Noktaları
-- 1999'dan beri faaliyet (20+ yıl). · Global marka tedarik ortaklıkları. · Tanıtım filmi.
-- Metrik/vaka sayısı/testimonial: [DOĞRULANACAK]
+- 20 yıl tecrübe, döneminin öncüsü. · Global marka tedarik ortaklıkları. · Yurtdışı hasta geçmişi (Libya/Suriye — doğrulanacak). · Tanıtım filmi.
 
-## 12. Hedefler
-- **Birincil iş hedefi:** [DOĞRULANACAK]
-- **İlk teslim hedefi (bizden):** Marka kimliği / konumlandırma.
+## 12. Hedefler (görüşmeden — net)
+- **Birincil iş hedefi:** Daha çok hasta DEĞİL → **itibar + yurtdışı hasta + daha nitelikli iş.**
+- **İkincil:** Yurt içinde premium/kolay kullanıcı segmentine açılmak.
+- **Bizden ilk teslim:** Sıfırdan marka kimliği (logo dahil) + konumlandırma.
 
 ---
 
 ## STEPS ON CLOUDS EKLERİ
 
-### Onur & Temsil ⭐ (bu müşteride KRİTİK)
-- **Acıma / ilham pornosu YOK.** Güç, fail (özne olma), gündelik gerçeklik (Anayasa §9, §11.8).
-- Bu, Steps On Clouds'un **ampüte misyonunun (Kuzey Yıldızı) tam merkezinde** bir müşteri. Marka kimliği bu onur çerçevesini taşımalı — protez kullanıcısını "kurtarılan" değil **özne** olarak gösteren bir dil/görsel.
-- Olası ikinci katman: standart marka işi + **misyon ortaklığı / co-creation** açısı (§11.2). Ticari model buraya bağlanabilir.
+### Onur & Temsil ⭐⭐ (bu müşteride KRİTİK — gerilim var)
+- Bu, ampüte misyonunun (Kuzey Yıldızı) tam merkezinde bir müşteri.
+- ⚠️ **GERİLİM:** Sahibin iç tercihi "düzgün/kolay, kendini yormayacak kullanıcılar." İçsel iş tercihi onun hakkı — **ama dışa dönük marka mesajı asla "zor vakaları/zor ampüteleri eleyen" bir seçicilik sinyali veremez.** Bu, onur/eşitlik değerleriyle (§0, §11.7, §11.8) çelişir ve itibar riskidir. Çözüm: premium/kalite konumunu *hizmet seviyesi ve teknoloji* üzerinden kur, *hasta seçiciliği* üzerinden değil. Acıma/ilham pornosu yok; güç, fail, gündelik gerçeklik.
 
 ### Görsel Kimlik Bağı
-- Mevcut görsel parmak izi: [DOĞRULANACAK — siteler açılınca / sosyal medyadan]. Referans pusula: marka-kiti.md, fox-gorsel-parmak-izi.md, marka-bulutu-os-gorsel-uretim-standardi.md.
+- Sıfırdan: **logo yenilenecek, marka kimliği baştan tasarlanacak.** Mevcut görsel parmak izi [DOĞRULANACAK — siteler açılınca/sosyal]. Pusula: marka-kiti.md, fox-gorsel-parmak-izi.md, marka-bulutu-os-gorsel-uretim-standardi.md. Uluslararası hedef → **4 dilli (TR/EN/AR/RU)** tipografi/glyph kontrolü: font Latin + Kiril + Arap yazı sistemini taşımalı; web Arapça RTL desteklemeli.
 
-### Ticari Bağlam
-- **Para birimi & öncelik:** Henüz konuşulmadı (Ayhan 29 Haz). Önce değer göster, model sonra.
-- **Sözleşme/kapsam:** Açık. Notion'a Lead olarak eklendi.
-- **Baseline:** Siteler bakımda → baseline ölçümü siteler açılınca / sosyaldan alınacak.
+### Ticari Bağlam (Ayhan'ın yapısı — 29 Haz) ⭐
+- **Tek seferlik (one-off) kalemler:**
+  1. **Kurumsal Çekirdek** — marka kimliği (logo sıfırdan + kimlik sistemi + brand guide).
+  2. **Sistem kuruluşu** — web sitesi (Wix, 4 dil) + sosyal medya kurulumu (4 platform) + **1 kampanya çekimi** (lansman prodüksiyonu). Web destek opsiyonel.
+- **Aylık (recurring) — faturalanan asıl gelir:**
+  - **Strateji yönetimi + görsel içerik üretimi.**
+- **Para birimi:** Yurtdışı hasta = döviz fırsatı (§11.1 uyumlu); bizim fatura birimi [DOĞRULANACAK].
+- **Sıra:** marka kimliği → web → sonra aylık strateji+içerik aboneliği.
+
+### ⚖️ HUKUKİ ÇERÇEVE & UYUM GATE (işletim kuralı — Ayhan 29 Haz)
+- **Karar:** Hukuki zemin **avukatla** netleştirilerek yürütülecek. Kuracağımız sistem **hukuk çerçevesinde** işler — **her aksiyonda hukuk onayı alınır, özellikle web sitesi.**
+- **Compliance-by-design:** Sağlık Bakanlığı sağlık reklamı kuralları sert (abartılı iddia, "en iyi", öncesi/sonrası görsel, hasta testimonial'ı kısıtlı/yasak olabilir). Cezalar muhtemelen buradan. → Uyum sonradan filtre değil, **briefe baştan gömülü.** İddialar ölçülü, kanıta dayalı, mevzuata uygun.
+- **Akış (bu müşteriye özel gate):** hazırla → Denetmen → **avukat onayı** → Ayhan → yayın. Web + her medikal iddia/içerik bu gate'ten geçer.
+- **Sınır:** Fox/ajanlar avukat değildir (Kademe 3). Uyumlu-by-design taslak üretiriz; hukuki onay avukatındır.
+
+### Riskler (Denetmen + savunma mercekleri)
+1. **Hukuki/uyum zemini (§11.11):** Yüksek idari cezalar + Sağlık Bakanlığı kanunları. → **Yönetiliyor:** avukat döngüde, her aksiyonda hukuk onayı (bkz. Hukuki Çerçeve). Risk açık değil ama sürekli — her çıktıda gate uygulanır.
+2. **Onur gerilimi** (yukarıda) — dış mesajda seçicilik tuzağı.
+3. **Anekdot/güven geçmişi:** "Yanında çalışan birinin çalması", yurtdışı vaka anlatıları — kulaktan dolma; marka anlatısına girmeden önce doğrulanmalı (§11.5).
+
+### 💡 Strateji Fikir Bankası (PARKED — aylık strateji fazında geliştirilecek)
+- **"Özgürlük Hikâyeleri"** (Ayhan, 29 Haz) — video + hikâye serisi. Gerçek hastaların yolculuğu, onur-merkezli (özne, kurban değil; Dear AI / Team Össur modeli). İsimle doğal oyun: **Özgür**(lük). İçerik piları + ambassador hattının markalı çatısı.
+  - Bağ: referans çalışması §2.4/§2.5 (raporlar/ozgur-irmak-referans-ossur-ottobock.md).
+  - ⚖️ Hukuk gate: testimonial/sağlık iddiası mevzuatı → her bölüm avukat onaylı, izinli.
+  - **Pilot teklifte:** D1 kampanya çekimi = ~4 dk marka filmi + foto (referans: Uzay Güven hikâyesi). Serinin ilk bölümü bu prodüksiyonla doğar.
+  - Devamı (seri olarak ek bölümler) = strateji fazında; ek çekimler ayrı bütçe.
 
 ### Denetmen Notu
-Bu context'teki her `[DOĞRULANACAK]`, müşteri görüşmesi veya canlı site ile kapatılmadan, ona dayalı çıktı kesin iddia içeremez. Konumlandırma hipotezleri "hipotez" etiketiyle sunulur.
+Her `[DOĞRULANACAK]` kapanmadan ona dayalı çıktı kesin iddia içeremez. Özellikle hukuki zemin (Risk 1) ve onur gerilimi (Risk 2) konumlandırmadan ÖNCE çözülmeli.
 
 ---
-*Şablon v1 · Özgür Irmak için dolduruldu · Fox · 29 Haziran 2026 — siteler bakımda olduğu için kısmi; görüşme/canlı site ile tamamlanacak.*
+*Şablon v1 · Özgür Irmak için 29 Haz 2026 görüşme notlarıyla dolduruldu · Fox · Hukuki zemin + onur gerilimi açık bayraklar.*
