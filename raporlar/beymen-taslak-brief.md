@@ -46,6 +46,50 @@ Kurucu — Steps on Clouds
 
 ---
 
+## ✅ ONAYLI METİN — Boga (Ayhan onayladı, 26 Haz)
+*Açı farkı: kıtlık/koleksiyon/uluslararası (Mehry Mu'daki "ruh/el emeği" değil).*
+**Konu:** Boga × Steps on Clouds — bir ortak yaratım önerisi
+
+Sayın Boga Ekibi,
+
+Sonsuz çoğaltmanın çağında bir nesneyi değerli kılan şey, giderek onun nadirliği ve elle yapılmış olması. Boga'yı ayıran da bu: her tasarımı sınırlı sayıda üretmeniz, gümüşü tek tek işlemeniz — sizinkiler bir ürün değil, bir koleksiyon parçası.
+
+Size bu nedenle yazıyoruz. Steps on Clouds, markaların görsel dilini pazarlama diline ve hikâyeye dönüştüren bir yaratıcı yönetim ajansıdır; bunu Marka Bulutu adını verdiğimiz sistemle yürütürüz. Kurucusu Ayhan Erden, global markaların görsel dünyalarını kurmuş bir isimdir. Üretimde insanın sezgisini yapay zekânın hızıyla birleştiririz: yön, sezgi ve ruh insanda; hız ve ölçek yapay zekâ ajanımız Fox'ta. Karar her zaman insanındır.
+
+Boga'ya önerimiz bir ortak yaratımdır: her parçanın tekil, sınırlı var oluşunu — markanın kıtlık ve zanaat değerini — sizin diliniz ve bizim yaratıcı yönümüzle bütün bir görsel anlatıya, özellikle uluslararası sahnede karşılık bulacak bir dile taşımak. Yapay zekânın hızı burada yalnızca bu el emeğini görünür kılmanın aracıdır; yerine geçen değil.
+
+Bu fikri sizinle paylaşmak üzere kısa bir görüşme talep ediyoruz; size uygun bir zaman dilimini paylaşmanız yeterli.
+
+Saygılarımızla,
+Ayhan Erden
+Kurucu — Steps on Clouds
+
+*To: leventozbek@boga.com.tr · Gmail taslağı gönderim partisinde.*
+
+---
+
+## ✅ ONAYLI METİN — Aida Bergsen (Ayhan onayladı, 26 Haz)
+*Açı: anlatı/mit/sanat — çekirdek değerle (görsel dil→hikâye) kusursuz örtüşme.*
+**Konu:** Aida Bergsen × Steps on Clouds — bir ortak yaratım önerisi
+
+Sayın Aida Bergsen Ekibi,
+
+Çoğu mücevher bir nesnedir; Aida Bergsen'inkiler bir hikâye. Doğadan devşirdiğiniz minyatür dünyalar — kanatlar, sarmaşıklar, masalsı manzaralar — takının ötesinde, taşıyanın kendi mitolojisine dönüşüyor. Bizi asıl ilgilendiren de bu: anlatı, işinizin tam merkezinde.
+
+Size bu nedenle yazıyoruz. Steps on Clouds, markaların görsel dilini pazarlama diline ve hikâyeye dönüştüren bir yaratıcı yönetim ajansıdır; bunu Marka Bulutu adını verdiğimiz sistemle yürütürüz. Kurucusu Ayhan Erden, global markaların görsel dünyalarını kurmuş bir isimdir. Üretimde insanın sezgisini yapay zekânın hızıyla birleştiririz: yön, sezgi ve ruh insanda; hız ve ölçek yapay zekâ ajanımız Fox'ta. Karar her zaman insanındır.
+
+Aida Bergsen'e önerimiz bir ortak yaratımdır: her parçanın içindeki o minyatür mitolojiyi — doğanın ve düşün hikâyesini — sizin diliniz ve bizim yaratıcı yönümüzle markanın bütün görsel anlatısına taşımak; mücevherdeki hikâye gücünü markanın hatırlanma biçimine dönüştürmek. Yapay zekânın hızı burada yalnızca bu anlatıyı görünür kılmanın aracıdır; yerine geçen değil.
+
+Bu fikri sizinle paylaşmak üzere kısa bir görüşme talep ediyoruz; size uygun bir zaman dilimini paylaşmanız yeterli.
+
+Saygılarımızla,
+Ayhan Erden
+Kurucu — Steps on Clouds
+
+*To: info@aidabergsen.com · Gmail taslağı gönderim partisinde.*
+
+---
+
 ## ŞABLON — diğer markalara uyarlama reçetesi
 Markaya göre **yalnızca P1 ve P3 değişir**; P2 (kimlik) + P4 (talep) + imza SABİT.
 
