@@ -132,4 +132,8 @@ Ayhan Erden
 Kurucu — Steps on Clouds **[SABİT]**
 
 ## Sıradaki (zamana yayılarak, tek tek onayla)
-En yüksek-fit sıra önerisi: Boga · Aida Bergsen · Urart · Begüm Khan · Kismet by Milka · Tullaa · Projebir · Moeva · Bluemint · Les Benjamins · (Hamam, Bee Goddess, Atilla Çakır, Riva web/IG). Her biri: analiz → P1/P3 uyarla → Ayhan onayı.
+En yüksek-fit sıra önerisi: Begüm Khan · Kismet by Milka · Tullaa · Projebir · Moeva · Bluemint · Les Benjamins · (Hamam, Bee Goddess, Atilla Çakır, Riva web/IG). Her biri: analiz → P1/P3 uyarla → Ayhan onayı.
+
+## 📤 GÖNDERİM DURUMU
+- **GÖNDERİLDİ (26 Haz, Ayhan):** Mehry Mu, Boga, Aida Bergsen, Urart — 4'ü de. Yanıt bekleniyor; takip `musteri-takip-radari`'nde (Pzt/Per sessizlik taraması). Notion Son Temas=26 Haz.
+- Eski deneme taslakları (her marka ×2) Ayhan elle siliyor.

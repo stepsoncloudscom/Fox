@@ -59,14 +59,33 @@
 | HALE AKKESE | C2 | 2026-06-28 | DOĞRULANAMADI | 2026-06-28 | — | — | Web'de bulunamadı (tasarımcı adı olarak arama sonuçsuz). Cooldown: 2026-07-12 |
 | HİLAY | C2 | 2026-06-28 | ARŞİV(ICP-DÜŞÜK) | 2026-06-28 | — | — | hilay.com.tr modest fashion (ferace/abaya/tesettür). Ayhan'ın editorial tarzıyla segment uyuşmuyor. |
 | SBL DESIGN | C2 | 2026-06-28 | ARŞİV(ICP-DÜŞÜK) | 2026-06-28 | — | — | Istanbul Fashion Center wholesale/B2B platform. İçerik ortaklığı hedef profili değil. |
+| BASARIN LEATHER & FUR | C1 | 2026-06-29 | İŞLENDİ (taslak Gmail) | 2026-06-29 | info@basarin.com | V2 | 1984 kuruluş, Merter/İstanbul. Première Vision Paris katılımı = ihracatçı ⭐. basarin.com SSL süresi dolmuş = dijital içerik boşluğu kanıtı. Gmail taslağı ID r-17585630848522458. |
+| PINK21 | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | Toptan (wholesale) marka — "The Most Ultra Cool Wholesale Brand". B2B/B2B2C model, içerik ortaklığı hedef profili değil. |
+| MICCA | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | Tesettür/modest fashion (abaya, tunik). HİLAY ile aynı segment — Ayhan editorial tarzıyla uyuşmuyor. |
+| BRAND FACTORY (C2) | C2 | 2026-06-29 | ARŞİV(ICP-YANLIŞ) | 2026-06-29 | — | — | DeFacto/LCW/US Polo için üretim yapan konfeksiyon fabrikası — marka değil, imalatçı. ICP tamamen yanlış. |
+| CARMEN | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | 40 yıllık abiye markası, Nişantaşı mağazası, in-house prodüksiyon güçlü. Büyük/köklü = dış içerik ihtiyacı düşük. |
+| SERABELLA | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | safamoda.com.tr SSL süresi dolmuş. Safa Moda (1955 kuruluş) büyük/köklü abiye ihracatçısı. Cooldown: 2026-07-13 |
+| NAQİSHE (Nakish) | C2 | 2026-06-29 | KANAL-YOK | 2026-06-29 | — | — | nakishonline.com Nişantaşı atölye, couture, 36-80K TL. Instagram @nakishofficial. E-posta yok — form+IG DM only. Cooldown: 2026-07-13 |
+| GAZE | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | IFCO katılımcısı; web'de doğrudan site/iletişim bulunamadı. Cooldown: 2026-07-13 |
+| APRİDO | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | IFCO katılımcısı; web'de doğrudan site/iletişim bulunamadı. Cooldown: 2026-07-13 |
+| 3H TEKSTİL | C2 | 2026-06-29 | ARŞİV(ICP-YANLIŞ) | 2026-06-29 | — | — | Güngören/Merter tekstil imalatçısı — konfeksiyon fabrikası, marka değil. |
+| SERPİL EXCLUSIVE | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | 1988'den beri, Emaar mağazası, franchise modeli, %30 indirim kampanyaları = mid-market/mass occasion wear. Form only, e-posta yok. |
+| VOLUMEX | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | İç giyim + çorap (Antebî Örme) — Ayhan editorial segmentiyle uyuşmuyor. |
+| PUANE | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | Bağcılar/Merter, modern modest fashion (tesettür). Aynı segment. |
+| ATINÇ İPEK | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | IFCO sayfa 2 katılımcısı; doğrudan site/iletişim bulunamadı. Cooldown: 2026-07-13 |
+| MISS İNDİGO | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | IFCO katılımcısı; web'de bulunamadı. Cooldown: 2026-07-13 |
+| ESCAREL | C2 | 2026-06-29 | KANAL-YOK | 2026-06-29 | — | — | Facebook @escarelofficial bulundu ama web/email yok. Cooldown: 2026-07-13 |
+| MAYRA (IFCO) | C2 | 2026-06-29 | DOĞRULANAMADI | 2026-06-29 | — | — | IFCO sayfa 2; Mayra marka isimleri Hindistan/global — Türkiye bazlı IFCO markasıyla eşleşme teyit edilemedi. Cooldown: 2026-07-13 |
+| MINT NEW FASHION | C2 | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | Toptan/wholesale odaklı, Hepsiburada/ihracat. Doğrudan içerik ortaklığı hedef profili değil. |
+| ArtArda Reklam | B | 2026-06-29 | ARŞİV(ICP-DÜŞÜK) | 2026-06-29 | — | — | Ankara merkezli (HQ Şedat Simavi Sk, Ankara), genel dijital ajans (web+SEO+sosyal). Moda müşterisi sinyali yok. ICP düşük. |
 
 ## 3 · ROTASYON İŞARETİ (hangi listede nereye kadar gelindi)
 *Her koşu, işlediği son hedefi buraya yazar; ertesi koşu BURADAN devam eder (baştan değil).*
 - **Şerit A** (sıcak çember): işlenen son = — *(Ayhan onayı bekliyor; otomatik temas YOK)*
-- **Şerit B** (ajanslar): işlenen son = DijiCrea *(tüm havuz işlendi; 28 Haz'da ArtArda Reklam araştırılmadı — Pazartesi besleme kaynağından yeni isimler eklenmeli)*
-- **Şerit C1** (Who's Next Paris): işlenen son = ZILBERMAN → TAKİP-1 *(tüm doğrulanabilir C1 işlendi; cooldown bekleyenler 2026-07-08'den sonra; BASARIN LEATHER&FUR kanal bulunamadı — IFCO page'de email yok, SSL süresi dolmuş)*
-- **Şerit C2** (IFCO): işlenen son = EXQUISE (28 Haz yeni). Sonraki araştırılacaklar: PINK21 · MICCA · NAQİSHE · BRAND FACTORY · CARMEN · SERABELLA · INCITY · KATAMINO · 3H TEKSTİL · GAZE · APRİDO
-- **Pazartesi besleme kaynak sırası** (dönüşümlü): dijitalajanslar.com → İHKİB/fuar duyuruları → Bigumigu/MediaCat yeni iş haberleri → *(başa dön)*. Sıradaki = İHKİB/fuar duyuruları *(28 Haz Pazar; Pazartesi koşusu Şerit B için yeni isim ekler)*
+- **Şerit B** (ajanslar): işlenen son = ArtArda Reklam (ARŞİV, Ankara). ⚠️ Tüm B havuzu tükendi. Besleme: 29 Haz Pazartesi Bigumigu/MediaCat denendi — moda-odaklı içerik üretim ajansı bulunamadı. Sıradaki kaynak (döngü): dijitalajanslar.com → yeni isimler eklenmeli (sonraki Pazartesi koşusu).
+- **Şerit C1** (Who's Next Paris): işlenen son = BASARIN LEATHER & FUR (29 Haz, taslak). C1 havuzu tamamlandı — cooldown bekleyenler 2026-07-08'den sonra (MARGITTES/FONEM/DOLCEZZA/SOFISA/NILMARK/YXL/L'ATELIER/MON REVE/MILOU/BIRELIN/CLANDE/LAMANTE/PUNKQUEEN/HİSSET/TERZİ DÜKKANI). SUN ETİKET düşük öncelik.
+- **Şerit C2** (IFCO): işlenen son = MINT NEW FASHION (IFCO sayfa 2). Sonraki araştırılacaklar (IFCO sayfa 2 kalan + sayfa 3): İKOLL · KK DESIGN · MİARTE&NERİ · CARDUCCI/SİMONİ CLUB · MİMYA · VIADEL · MoorOfMoor · NESİL · NUR KALAY COLLECTION · EXPLOSION · PARK HANDE · PUREVA · ACREPRIVE
+- **Pazartesi besleme kaynak sırası** (dönüşümlü): dijitalajanslar.com → İHKİB/fuar duyuruları → Bigumigu/MediaCat yeni iş haberleri → *(başa dön)*. Sıradaki = dijitalajanslar.com *(29 Haz Pazartesi: Bigumigu/MediaCat denendi, moda ajans yok → döngü başa döndü)*
 
 ## 4 · KOŞU GÜNLÜĞÜ (her koşu 1 satır — kalıcılık kanıtı / heartbeat)
 *Bir koşu burada satır bırakmadıysa: o koşu persistence adımına VARAMADI (timeout / hata / sandbox / push reddi). Bu durumda çözülecek İLK şey budur — dedup defteri ancak inerse işe yarar.*
@@ -77,6 +96,7 @@
 | 2026-06-24 (ek) | +19 yeni isim havuza eklendi (IFCO tam liste + ddip) | 2 | 2 (VDR/ddip) | 0 | 0 | ✅ | "Yeni alternatifler" genişlemesi: IFCO sayfaları tarandı (78 katılımcıdan 30+), ddip Paris+İstanbul bulundu. Havuzda şimdi 40+ aktif C2 isim. |
 | 2026-06-24 (tam genişleme) | +28 yeni hedef araştırıldı (Şerit B+C1+C2 toplu) | 14 | 14 (BİZE/VUQU/CrabsMedia/Istcode/BossyDigital/NOX/MAMULIER/KüreAjans/Ahtapot/CreativeDijital/ZILBERMAN/UKUŞ/DijiCrea/NAGRADA) | 0 | 0 | ✅ | "Hepsine taslak oluştur" komutu — havuzdaki tüm doğrulanabilir hedefler işlendi. 14 yeni taslak Gmail'de. 10+ KANAL-YOK/DOĞRULANAMADI cooldown'a alındı. |
 | 2026-06-28 | 1 doğrulanan (EXQUISE) + 3 DOĞRULANAMADI (MİANOTTE/AHSEN/HALE AKKESE) + 2 ARŞİV-ICP (HİLAY/SBL) | 1 | 5 (4 TAKİP-1: MA MULIER/VDR/BİZE/ZILBERMAN + 1 yeni: EXQUISE) | 0 (Nakit M.) | 4 | ✅ | ⚠️ RISK-BAYRAK: 6 hedef 2x gönderildi (BossyDigital/VUQU/Ukuş/CreativeDijital/NAGRADA/CrabsMedia) — bu hedeflere TAKİP atlandı. Tüm "İŞLENDİ" statüleri "GÖNDERİLDİ" olarak güncellendi (sent search teyit). Jendue yanıtı (TAG-KLOI kanalı — Nakit Motoru değil) mevcut — Ayhan takibi gerekli. |
+| 2026-06-29 | 1 doğrulanan (BASARIN) + 5 DOĞRULANAMADI + 4 KANAL-YOK + 9 ARŞİV-ICP | 1 | 1 (BASARIN — Gmail taslak r-17585630848522458) | 0 | 0 | ✅ | ⚠️ POOL UYARI: C2 IFCO havuzunun büyük çoğunluğu ICP uyumsuz (toptan/tesettür/imalatçı/büyük-köklü). Pazartesi B besleme: Bigumigu/MediaCat denendi → moda ajans yok. B havuzu tükendi — dijitalajanslar.com yeniden taranmalı. C1'den son aday: BASARIN (Première Vision Paris ihracatçı, info@basarin.com). C2'den kalan: İKOLL/KK DESIGN/MİARTE/CARDUCCI/MİMYA/VIADEL vb. (IFCO sayfa 2-3). Takip zamanları: MA MULIER/VDR/BİZE/ZILBERMAN TAKİP-2 → 4 Temmuz (G+10 original). |
 
 ---
 *Bağlı: `nakit-motoru-hedef-havuzu.md` (aday universe) · `soguk-iletisim-protokolu.md` (kurallar) · Notion Müşteri Panosu (yalnız görüşmeye dönenler terfi eder). Bu defter = "yapıldı" hafızası; havuz = "yapılabilir" listesi.*
