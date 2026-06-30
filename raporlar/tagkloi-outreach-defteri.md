@@ -22,10 +22,10 @@
 | 7 | Erbien | erbien | Çanta/şapka/aksesuar (doğal lif) | — | 🔴 |
 | 8 | Iquoniq | iquoniq | Giyim/abiye+gelinlik + takı/aksesuar | @iquoniq | 🟡 |
 | 9 | Naïve Atelier | naive-atelier | Giyim (keten/el dokuma) | naiveatelier.com · info@naiveatelier.com | 🟢 |
-| 10 | The Tacca | the-tacca1 | Kadın giyim (lüks) **[düz.]** | @taccaessentials (teyit) | 🔴 |
+| 10 | The Tacca | the-tacca1 | Kadın giyim (lüks) | thetacca.com · @thetacca | 🟡 |
 | 11 | Endam_ | endam_ | Giyim (deri/örme/RTW) | endamstudio.com · customercare@endamstudio.com | 🟢 |
 | 12 | Ro&Glo | ro-glo1 | Eşarp/aksesuar **[düz.]** | roandglo.com · hello@roandglo.com | 🟢 |
-| 13 | The Room | the-room | Kadın giyim/aksesuar (sürdürülebilir) | — | 🔴 |
+| 13 | The Room | the-room | Kadın giyim/aksesuar (sürdürülebilir) | @theroomistanbul | 🟡 |
 | 14 | Nazlı Ceren | nazli-ceren | Takı (demi-couture) | nazliceren.co · info@nazliceren.co | 🟢 |
 | 15 | Fickle Hearts | fickle-hearts | Kadın giyim (RTW) | ficklehearts.com · info@ficklehearts.com | 🟢 |
 | 16 | Diandra | diandra3 | Takı | diandraistanbul.com · @diandra_istanbul | 🟡 |
@@ -55,7 +55,7 @@
 | 40 | Betterdays | betterdays | Kadın giyim **[düz.]** | — | 🔴 |
 | 41 | Pure Paris | pure-paris | İpek eşarp/aksesuar | — | 🔴 |
 | 42 | La Casa Antica | la-casa-antica | Ev/dekor (keten yastık/tekstil) | lacasaantica.com · @lacasaantica | 🟡 |
-| 43 | Lumoths | lumoths | İpek eşarp (slow fashion) | — | 🔴 |
+| 43 | Lumoths | lumoths | İpek eşarp (slow fashion) | lumoths.com · @lumoths | 🟡 |
 | 44 | Elorian Couture Lingerie | elorian-couture-lingerie | İç giyim (couture lingerie) | eloriancouturelingerie.com · info@eloriancouturelingerie.com | 🟢 |
 | 45 | Esvoria | esvoria | Eşarp/şal | — | 🔴 |
 | 46 | Cansu XI | cansu-xi | Giyim (vegan/doğal kumaş) | cansuxi.com · @thecansuxi | 🟡 |
