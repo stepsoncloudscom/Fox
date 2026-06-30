@@ -30,7 +30,7 @@
 | 15 | Fickle Hearts | fickle-hearts | Kadın giyim (RTW) | ficklehearts.com · info@ficklehearts.com | 🟢 |
 | 16 | Diandra | diandra3 | Takı | diandraistanbul.com · @diandra_istanbul | 🟡 |
 | 17 | Mirage | mirage | Mayo/resort | — | 🔴 |
-| 18 | Iodes | iodes | Giyim + eşarp/kimono + homeware (İrem Özyurtçu, 2015) | — | 🔴 |
+| 18 | Iodes | iodes | Giyim + eşarp/kimono + seramik (İrem Özyurtçu, 2015) | @iodesofficial (showroom Fener-Kalamış) | 🟡 |
 | 19 | Sadie & Dione | sadie-and-dione | Kadın giyim (RTW) | sadieanddione.com · info@sadieanddione.com | 🟢 |
 | 20 | Tesuji | tesuji | Giyim (sürdürülebilir, doğal kumaş) | — | 🔴 |
 | 21 | Monlicia | monlicia1 | Resort/keten giyim (Miami) | monlicia.com · @monliciaofficial | 🟡 |
@@ -46,7 +46,7 @@
 | 31 | Müstesna Dükkan | mustesna-dukkan | Ev/dekor (Trabzon bakır objet) **[düz.]** | mustesnadukkan.com | 🟡 |
 | 32 | Pochetco | pochetco | Çanta/aksesuar | — | 🔴 |
 | 33 | Be Murphy | be-murphy | Giyim (sürdürülebilir) | — | 🔴 |
-| 34 | Hitta | hitta | Çanta/şapka (saten, limited) | — | 🔴 |
+| 34 | Hitta | hitta | Çanta/şapka (saten, limited) | hittastudio.com · @hittastudio | 🟡 |
 | 35 | Lofuta | lofuta | Tekstil/peştemal/çanta (el dokuma) | — | 🔴 |
 | 36 | On The Table | on-the-table | Ev/sofra tekstili | — | 🔴 |
 | 37 | Lilyen Design | lilyen-design | Takı (el yapımı) | lilyendesignn.com · lilyendesign@gmail.com | 🟢 |
