@@ -10,7 +10,7 @@ Ben Ayhan Erden. Moda, reklam ve hikâye anlatıcılığı alanlarında çalış
 
 Bu mektubu, Skechers Türkiye İnsan Kaynakları ekibiyle engelli istihdamı kapsamında yaptığımız ve benim için değerli bir kapı açan görüşme vesilesiyle yazıyorum. Mevcut ilanlarınızdaki ihtiyaçların ötesinde, Skechers'a farklı bir katkı alanı görüyorum — talebim basit: beni açık bir pozisyona göre değil, bir profil olarak değerlendirmeniz.
 
-**Neden Skechers?** Hayatım hareketin üzerine kurulu: ultra trail koşuyorum, dansla iç içeyim ve 5 ile 26 Temmuz'da etapları gerçekleşecek, devam eden bir seri olarak tasarlanan Empati Koşusu'nun (Run For Empathy) parçasıyım. Konfor, kimileri için bir tercih; benim gibi bir protez kullanıcısı için ise hayata katılmanın ön koşulu. Skechers'ın konfor vaadini pazarlama dilinden değil, her adımda kendi bedenimden tanıyorum.
+**Neden Skechers?** Hayatım hareketin üzerine kurulu: koşuyorum — sıradaki hedefim 10 kilometreyi tamamlamak —, dansla iç içeyim ve 5 ile 26 Temmuz'da etapları gerçekleşecek, devam eden bir seri olarak tasarlanan Empati Koşusu'nu (Run For Empathy) organize ediyorum. Konfor, kimileri için bir tercih; benim gibi bir protez kullanıcısı için ise hayata katılmanın ön koşulu. Skechers'ın konfor vaadini pazarlama dilinden değil, her adımda kendi bedenimden tanıyorum.
 
 **Ne getiririm?** Uluslararası marka ve iletişim tecrübesi: dünyanın önde gelen protez üreticisi Össur ile global kampanya filmi ve kurum içi stüdyo kurulumu; Hummel ve DeFacto ile moda/editorial işler; bu süreçte ampute atletler ve sporcularla kurulmuş, bugün de canlı bir ilişki ağı. Yani yalnızca bir hikâyenin öznesi değil, o hikâyeyi profesyonelce anlatan ve üretimini yönetebilen biriyim.
 
@@ -44,9 +44,9 @@ instagram.com/ayhanerden_ · stepsonclouds.com
 - B7: kitle örtüşmesi iddiası "...inanıyorum" çerçevesine alındı (kanıt disiplini + ses).
 - B8: İK'ya nezaket köprüsü eklendi (kapanış).
 
-**AYHAN TEYİDİ BEKLEYEN (basım öncesi zorunlu — B3/B4):**
-1. Empati Koşusu'ndaki rolün: "parçasıyım" mı kalsın, "kurucusuyum/organize ediyorum" mu? (Kurucuysan mektup güçlenir.)
-2. 26 Temmuz etabı kesin mi? (Basılı mektupta kayan tarih düzeltilemez; kesin değilse "Temmuz boyunca süren etaplarıyla" yazılır.)
-3. "Ultra trail koşuyorum" ifadesi — kişisel yaşanmışlık beyanı, imzan altında çıkacak; teyit et.
+**✅ AYHAN TEYİTLERİ ALINDI (2 Tem akşam) — B3/B4 kapandı:**
+1. Empati Koşusu rolü: **"organize ediyorum"** — metne işlendi.
+2. 26 Temmuz **kesin** — tarih kaldı.
+3. "Ultra trail" **düzeltildi** → "koşuyorum — sıradaki hedefim 10 kilometreyi tamamlamak" (Ayhan beyanı, birebir gerçek).
 
-**Teslim formatı:** Ayhan teyitleri + onayı sonrası pdf-motoru (`ayhan-premium` tema) ile PDF → baskı. E-posta versiyonu istenirse aynı metin uyarlanır.
+**✅ PDF ÜRETİLDİ:** `raporlar/skechers-niyet-mektubu.pdf` (2 sayfa, pdf-motoru v3 `ayhan-premium`, render-and-review yapıldı — Türkçe glyph/bold/madde temiz). Denetmen koşulları tamam; 8/8 bulgu kapalı. **Baskı + görüşmede teslim Ayhan'da (Kademe 2).** E-posta versiyonu istenirse aynı metin uyarlanır.
