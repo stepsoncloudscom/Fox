@@ -53,7 +53,7 @@ Her dış çıkış: **Üreten ajan → Fox sentezi → Denetmen denetimi → ko
 
 **Statü: AKTİF** (4 Haziran 2026'da devreye alındı — bekleyen faz değil, çalışan protokol.)
 
-**Aktif filo:** Fox (orkestratör + executive), Denetmen (denetim).
+**Aktif filo:** Fox (orkestratör + executive) · Denetmen (7 mercek) · Keşif&Denetim · Strateji · İçerik · Growth · Branding — 7 ajan.
 **Gelen:** Görsel/Üretim ekibi (sıradaki — eklendiğinde bu protokole bağlanır).
 
 **Aktif olmak ne demek:**
