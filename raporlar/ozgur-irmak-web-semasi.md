@@ -75,5 +75,14 @@
 - Uluslararası: e-posta/WhatsApp + dil desteği vurgusu
 - (Opsiyon) Wix Bookings — süreç netleşince
 
+## 8. UYGULAMA DURUMU (3 Tem 2026)
+- **Taslak site kuruldu** — Wix Harmony AI, Steps on Clouds hesabı altında (ajans-build), 7 sayfalık yapı, şema brief'inden.
+- **siteId:** `f1afaa27-4baf-40f9-b9ac-4cd220b7c151`
+- **Önizleme:** https://stepsonclouds.wixsite.com/my-site-2
+- **Editör:** https://editor.wix.com/edit/od/c521f8bd-c45e-4c05-b5dd-8f0193a5a1ce?metaSiteId=f1afaa27-4baf-40f9-b9ac-4cd220b7c151
+- **Görsel kararı (Ayhan 3 Tem):** AI **placeholder/referans görseller ŞİMDİLİK KALIYOR**; gerçek görsel (SOC arşivi + D1 çekimi) kimlik onayından (CP1) sonra. SOC medya taraması yapıldı: AI görselleri (ChatGPT Image) + TagKloi/moda client işleri elendi; protez/ampüte seti Wix kütüphanesinde net değil (muhtemelen Drive `Profile.pdf`/Össur).
+- ⚠️ **Otomatik yayınlandı** (wixsite.com subdomain — görünmez/indekssiz). Hukuk gate: gerçek yayın/domain öncesi avukat onayı; şimdilik paylaşılmaz/indekslenmez.
+- **Sonraki (kimlik CP1 sonrası):** şemaya hizalama — Uluslararası Hastalar sayfası, biyonik birleşme, 4 dil (Wix Multilingual + AR RTL), yasal sayfalar, erişilebilirlik, marka kimliği kaplaması + gerçek görsel.
+
 ---
 *Sıradaki: kimlik onayı (CP1) sonrası Wix'te tasarım/geliştirme (B4-B5). Görsel harita: ayrı.*
