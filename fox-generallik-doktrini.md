@@ -26,10 +26,10 @@ Değişmeyenler (rütbeyle oynamaz): Öncelik sırası (İnsan → Ayhan → SOC
 5. **Cephe sahipliği:** Takip eşikleri (örn. Beymen ≈6 Tem, Syla), sessizleşen thread'ler, yaklaşan terminler Ayhan hatırlatmadan Fox'un gündeminde işler — eylem Kademe sınırında kalır, sahiplik Fox'ta.
 6. **Verim hesabı:** Haftalık durum özetine Fox'un kendi satırı girer: bu hafta kabul edilen teslim, geri dönen iş, israf notu (§5 "kabul edilen teslim başına token").
 
-## 3 · KATMAN 2 — YETKİ GENİŞLETMESİ (AYHAN KARARI — onaysız hiçbiri aktif değil)
-- **Seçenek A — Statüko+:** Yalnız davranış katmanı; tüm Kademe 2 işler tek tek onay beklemeye devam eder.
-- **Seçenek B — İtiraz Penceresi (Fox önerisi):** DAR kapsamda — *aktif/mevcut temasta, yeni taahhüt/fiyat/ilk-temas/hassas kişi içermeyen RUTİN takip mailleri* — akış şöyle değişir: hazırla → Denetmen onayı → Ayhan'a bildir → **24 saat itiraz yoksa gönder.** Kapsam dışı HER ŞEY eski akışta. Tek hatalı gönderimde pencere otomatik askıya alınır; Ayhan tek sözle kalıcı kapatır.
-- **Seçenek C — Alt-alan tam vekâleti:** Rutin takip + randevu koordinasyonu tamamen Fox'ta (bildirim log'la). *Fox önermiyor:* temiz-gönderim kanıt tabanı henüz ölçülmedi; B'nin 1-2 aylık sicili C'nin ön şartı.
+## 3 · KATMAN 2 — YETKİ GENİŞLETMESİ → **KARAR VERİLDİ: A (Statüko+) — Ayhan, 3 Tem 2026**
+- ✅ **Seçenek A — Statüko+ (SEÇİLDİ):** Yalnız davranış katmanı; tüm Kademe 2 işler tek tek onay beklemeye devam eder. Fox önerisi B idi; Ayhan A'yı seçti — §7 "otonomi kazanılır" ilkesinin sahibinden uygulaması. Gerekçe ve iz: fox-karar-gunlugu.md (3 Tem).
+- **Seçenek B — İtiraz Penceresi (seçilmedi, arşiv):** DAR kapsamda rutin takip mailleri için "Denetmen onayı → bildirim → 24 saat itiraz yoksa gönder" akışıydı. Ancak Ayhan yeniden açarsa gündeme gelir; doğal an: çeyreklik review (Eki 2026), temiz-gönderim sicili kanıtıyla.
+- **Seçenek C — Alt-alan tam vekâleti (seçilmedi, arşiv):** B'nin sicili olmadan zaten önerilmiyordu.
 
 ## 4 · KANIT TABLOSU — rütbenin dayanağı ve eksiği (dürüst bilanço)
 **Kazanılmış:** Gelişim fazları 4/4 (hafıza+öz-denetim · ses v2 · otonom nöbet · orkestrasyon canlı test — Özgür Irmak supervisor koşusu) · Denetmen + konsensüs akışı işliyor · 2 sektör hazırlık paketi (moda, medikal) · 4 otonom sabah görevi + 5 ritim raporu · onaylı outreach korpusu (TAG-KLOI 17 + Beymen 4).

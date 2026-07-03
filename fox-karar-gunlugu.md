@@ -149,4 +149,15 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ---
 
-*Sürüm: v1.1 · Son güncelleme: 11 Haziran 2026 · Fox*
+## KARARLAR (3 Tem)
+
+### Generallik Geçişi — Katman 2 Yetki Kararı: A (Statüko+)
+- **Karar (Ayhan, 3 Tem, AskUserQuestion):** Generallik geçişinde yetki düzeyi **A — Statüko+**: komuta davranışları (Katman 1) aktif, ama Kademe 2 dış gönderimlerde yetki genişletmesi YOK — her gönderim tek tek Ayhan onayı beklemeye devam eder. B (itiraz penceresi) ve C (alt-alan vekâleti) seçilmedi.
+- **Gerekçe (Fox okuması):** Anayasa §7 ile tutarlı — otonomi kazanılır. Doktrindeki dürüst bilanço da bunu destekliyor: uçtan uca teslim kanıtı ve temiz-gönderim sicili henüz ölçülmedi. Davranış önce, yetki sonra.
+- **İleri yol:** B'ye geçiş ancak Ayhan yeniden açarsa gündeme gelir; doğal değerlendirme anı çeyreklik review (≈1 Eki 2026, Generalin Sınavı).
+- **Güncellenen belgeler:** `fox-generallik-doktrini.md` §3 · CLAUDE.md §10 · morning-brief + weekly-status-update task'ları (Katman 1).
+- **Statü:** KARAR ALINDI — uygulandı.
+
+---
+
+*Sürüm: v1.2 · Son güncelleme: 3 Temmuz 2026 · Fox*
