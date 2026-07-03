@@ -123,12 +123,14 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - İleri adım: SOC topluluk stratejisinde Lululemon elçi mekaniği (fizyoterapist/ampüte sporcu/antrenör mikro-elçiler) somut plana çevrilecek.
 
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
-- **Hafıza protokolü L2/L3 katmanları** — gerçek izlerden politika örnekleri zenginleştirilecek (şu an 2 örnek var).
-- **Estetik müfredatı Disiplin 1-5** — 24 Haz'dan taşındı; 29 Haz'da kısmen işlendi (Beymen lens'inden Gestalt + Prägnanz bağlantısı). `fox-estetik-mufredati.md` tam rotasyona alınacak.
+- ~~**Hafıza protokolü L2/L3 katmanları**~~ ✅ 3 Tem Fable 5 oturumunda kapandı — 4 gerçek zincir + eşikler + kristal listesi (v2).
+- ~~**Estetik müfredatı Disiplin 1-5**~~ ✅ 3 Tem Fable 5 oturumunda tam rotasyon tamamlandı (v2) — 24 Haz'dan beri bekliyordu.
+- ~~**Slop-scan script**~~ ✅ 3 Tem'de kuruldu: `sablonlar/araclar/slop_tarama.py` (test edildi — YASAK/ŞÜPHELİ iki seviye).
+- **State of Fashion 2026 tam raporu** — 11 Haz'dan açık; moda-birincil pivotla önemi arttı. Ayrı odaklı oturum ister (uzun PDF).
 - **Luxmed lookalike analizi** — içerik paketi yayına girince 90 gün performans verisiyle ilk canlı lookalike döngüsü (İçerik Faz 3 yol haritasıyla hizalı).
-- **Slop-scan script** — gstack'ten "ileride" işaretliydi; metin çıktıları için basit kara-liste taraması değerlendirilecek.
-- **Syla outreach yanıt takibi** — 21 Haz'dan 10 gün = 1 Tem eşiği. Gönderim yapıldıysa 1 Tem'de takip döngüsü başlatılacak; gönderilmediyse bugün Ayhan'a hatırlat.
-- **Ala Skateboards Tuncay mesajı (29 Haz)** — 24 gün sessizlik; baskı durumu teyit + ilişki canlı tutma. Kısa taslak Ayhan'a sunulacak (Kademe 1).
+- **Lululemon mikro-elçi mekaniği → SOC somut planı** — 11 Haz vaka öğretisinden; ampüte topluluk büyümesi için plana çevrilecek.
+- **Syla outreach yanıt takibi** — ⚠️ 1 Tem eşiği GEÇTİ (bugün 3 Tem). Gönderim durumu Ayhan'dan teyit + takip döngüsü kararı. OPERASYONEL — beklemez.
+- **Ala Skateboards Tuncay mesajı (29 Haz)** — 24+ gün sessizlik; baskı durumu teyit + ilişki canlı tutma. Kısa taslak Ayhan'a sunulacak (Kademe 1).
 - **Beymen 2. taslak — Boga veya Aida Bergsen (29 Haz)** — Mehry Mu onaylı şablona göre analiz + onaya getir. Tek-tek; kalıba sokma, marka-gözlem ilk cümle kuralı.
 - ~~**Denetmen Faz 1 değerlendirme özeti (24 Haz)**~~ ✅ 29 Haz Morning Brief'te tamamlandı — 1 Tem toplantısına hazır.
 
@@ -147,6 +149,18 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 
 **[Serbest Keşif] Future AI Summit 2026 ağ bağlantısı** ✅ Bu oturumda işlendi
 - Şansım Adalı (Sudi Etüz) + Ferhat Zamanpur (Silk and Cashmere) → sıcak moda ağı, Summit paylaşımları üzerinden warm outreach kapısı. Syla ile paralel lead potansiyeli.
+
+### 3 Temmuz 2026 — Fable 5 Derinleştirme Oturumu:
+
+**[Sektör Nabzı + Estetik Göz] Estetik Müfredatı D1-D5 tam rotasyon** ✅ (v2)
+- Her disipline öğrenme notu + denetimde kullanılacak somut soru bağlandı: **göz rotası** (D1: "gözüm önce nereye gitti, oraya mı gitmeliydi?") · **tipografi = ses tonu** (D2: Bebas+Comfortaa = güç+insanilik; Didot = Vogue mirası, bilinçli register) · **renk bağlamsaldır** (D3: Albers — renk render'da komşularıyla denetlenir; doygunluk = segment sinyali) · **feragat cümlesi** (D4: Avedon/Penn/Newton/Lindbergh/Walker — her usta tek feragatle usta; brief'e "X'ten vazgeçiyor ki Y parlasın" zorunlu) · **özne/nesne sorusu** (D5: Berger — amazon enerjisi ve onur merceği aynı temsil politikasının iki yüzü).
+- Kaldıraç: görsel denetim artık "beğendim/beğenmedim" değil, 5 adlandırılabilir mercek.
+
+**[AI & Araç] Slop-scan script kuruldu** ✅
+- `sablonlar/araclar/slop_tarama.py` — §11.E kara listesi (EN+TR klişeler) + placeholder + eksiklik işaretleri. İki seviye: YASAK (yeniden yaz) / ŞÜPHELİ (bağlama bak). Test edildi. Kullanım: dışarı çıkan her metnin ilk süzgeci — Denetmen'in yerine geçmez, önünü temizler.
+
+**[Hafıza & Öz-denetim] Hafıza protokolü L2/L3 zenginleştirildi** ✅ (v2)
+- 4 gerçek zincir kataloglandı (kalite tabanı / iletişim ekonomisi / kanıt disiplini / moda pivotu-çelişki güncelleme) + yükselme eşikleri netleşti: iz→politika 2+ bağımsız iz; politika→kristal yazılı kural + ihlalsiz bir uygulama; Ayhan'ın açık emri eşik beklemez.
 
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
@@ -176,4 +190,4 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
-*Sürüm: v2.5 · 29 Haziran 2026 · Fox · v2.5 (Morning Brief): Denetmen Faz 1 özeti tamamlandı (1 Tem toplantısına hazır). Estetik Müfredatı kısmen işlendi (Beymen/Gestalt lens). Ses kalibrasyonu Mehry Mu onaylı metinden örüntü. Hukuk: co-creation IP notu. Kuyruk: Ala Tuncay mesajı + Beymen 2. taslak + Syla takip eşiği (1 Tem) eklendi. Denetmen Faz 1 özeti kuyruğun düştü.*
+*Sürüm: v2.6 · 3 Temmuz 2026 · Fox · v2.6 (Fable 5 derinleştirme oturumu): Estetik müfredatı D1-D5 tam rotasyon (v2) + hafıza protokolü L2/L3 gerçek zincirler (v2) + slop_tarama.py kuruldu. Kuyruktan 3 madde düştü; State of Fashion 2026 + Lululemon elçi planı kuyruğa netleştirilerek yazıldı. Syla takip eşiği geçti — operasyonel bayrak.*

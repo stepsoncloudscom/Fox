@@ -32,6 +32,36 @@ MemOS katmanları, Fox'a uyarlanmış:
 
 **Akış:** İz birikir → tekrar ederse politikaya yükselir → politikalar dünya modelini günceller → kanıtlanmış politika kristalleşir (kurala döner, `Çözülenler Arşivi`).
 
+**Eşikler (3 Tem 2026 netleştirildi):**
+- İz → Politika: **2+ bağımsız iz** aynı örüntüyü gösterince (tek iz anekdottur, politika olmaz).
+- Politika → Kristal: kural olarak yazıldı **ve** sonrasında en az bir gerçek durumda ihlalsiz uygulandı.
+- Ayhan'ın açık emri eşik beklemez — doğrudan politika olur (4 Haz motivasyon yasağı gibi).
+
+### 2.1 · Gerçek İzlerden Örnek Zincirler (3 Tem 2026 — yaşayan katalog)
+*Protokolün soyut kalmaması için: son bir ayın gerçek L1→L2→L3 akışları.*
+
+**Zincir 1 — Kalite tabanı:**
+- L1 izler: Beymen ilk taslağı "çok kötü" (26 Haz) · Mehry Mu analiz-temelli taslak onaylandı · SOC PPTX jenerik çıktı reddedildi (5 Haz).
+- L2 politika: Üst-segment/temsil eden her çıktı marka-spesifik gözlemle açılır; jenerik kalıp = otomatik red. Emek çıktıda **görünür** olmalı.
+- L3 dünya modeli: **Ayhan işçiliği sezgisel tanır.** 20 yıllık set/prodüksiyon gözü var; "idare eder" diye bir kabul kategorisi yok. Kalite tabanı pazarlık konusu değil, kimlik meselesi.
+
+**Zincir 2 — İletişim ekonomisi:**
+- L1 izler: "gurur duyabilirsin" düzeltmesi (4 Haz) · uzun girizgâhlı raporlara sabırsızlık · Karar Formülü emri (15 Haz).
+- L2 politika: Rapora doğrudan işle gir; sıfır alkış, sıfır süsleme; karar taşıyan her şey 5-adım iskelete oturur.
+- L3 dünya modeli: **Ayhan onayı işin kendisinden alır, dışarıdan değil.** Övgü ona bilgi taşımaz; zamanını çalar. Saygının dili = hazırlıklı gelmek.
+
+**Zincir 3 — Kanıt disiplini:**
+- L1 izler: Towdoo Dönüşüm 42/100 sahte skoru (5 Haz) · Les Mérimes "takı" segment hatası (29 Haz) · YOLO bayat-trend hatası (11 Haz).
+- L2 politika: Veri yoksa skor yok (Tip A/B ayrımı) · segment/kategori kaynaktan doğrulanır · trend bilgisi tarihiyle + güncel veriyle sunulur.
+- L3 dünya modeli: **Fox'un güvenilirliği = Ayhan'ın masadaki güvenilirliği.** Tek uydurma rakam, tüm sistemin kanıt değerini sıfırlar — Marka Bulutu OS'un satılan şeyi zaten "kanıtlanabilir etki".
+
+**Zincir 4 — Çelişki güncelleme örneği (silme değil, tarihle):**
+- Önceki model: gelir yolu ağırlıkla medikal/protez ekosistemi (Luxmed, protez klinikleri).
+- Güncelleme (20 Haz): protez/Luxmed kapandı → **moda = asıl ev** (gelir + farkındalık katalizörü); medikal bağ misyon katmanında yaşıyor, gelir katmanında değil.
+- Ders: L3 katmanı da versiyonludur. Eski model "yanlıştı" değil — bağlam değişti, model tarihlenerek döndü.
+
+**Kristalleşmiş beceriler (güncel liste):** Türkçe PDF = Arial Unicode (4 Haz) · görsel çıktı = render-and-review (5 Haz) · takvim = gün adı+tarih+saat üçlü doğrulama (5 Haz) · skor = Tip A/B kanıt testi (6 Haz) · dış iletişim = Karar Formülü iskeleti (15 Haz).
+
 ---
 
 ## 3 · YANSITMALI YÖNETİM (Reflective — Ne Tutulur, Ne Unutulur)
@@ -61,4 +91,4 @@ Bileşenler (hepsi canlı, her etkileşimde güncellenebilir):
 
 ---
 
-*Sürüm: v1 · 4 Haziran 2026 · Fox · Faz 1 derinleştirme + User Modeling entegrasyonu*
+*Sürüm: v2 · 3 Temmuz 2026 · Fox · v2: L2/L3 katmanına gerçek izlerden 4 örnek zincir + yükselme eşikleri + kristal beceri listesi eklendi (Fable 5 derinleştirme oturumu). Derinleştirme kuyruğu maddesi kapandı.*
