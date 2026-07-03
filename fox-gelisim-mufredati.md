@@ -162,6 +162,16 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 **[Hafıza & Öz-denetim] Hafıza protokolü L2/L3 zenginleştirildi** ✅ (v2)
 - 4 gerçek zincir kataloglandı (kalite tabanı / iletişim ekonomisi / kanıt disiplini / moda pivotu-çelişki güncelleme) + yükselme eşikleri netleşti: iz→politika 2+ bağımsız iz; politika→kristal yazılı kural + ihlalsiz bir uygulama; Ayhan'ın açık emri eşik beklemez.
 
+### 3 Temmuz 2026 (2. tur) — Özgür Irmak Hazırlık Eğitimi (Ayhan talebi: "önden ihtiyaç olan eğitimleri çalış"):
+
+**[Hukuk & Anayasa + Sektör Nabzı] Medikal-protez sektör paketi kuruldu** ✅ → `marka-bulutu-os-medikal-protez-bagi.md` (web-doğrulamalı)
+- **Regülasyon çekirdeği:** Ismarlama protez merkezi cihazlarının tüketiciye reklamı YASAK + internet satışı YASAK; yaptırım: uyarı → 3 iş günü → 15 gün satış durdurma. Müşterinin ceza geçmişi muhtemelen bu hattan → keşif fazında ceza türü öğrenilecek. Compliance-by-design dili: "reklam değil bilgilendirme"; yasak kalıp listesi + 10 soruluk avukat gündemi hazır.
+- **Sağlık turizmi zemini:** Uluslararası Sağlık Turizmi Yetki Belgesi (tesise Bakanlık, aracıya USHAŞ); protez merkezinin kapsama girip girmediği = kilit avukat sorusu — netleşmeden "Uluslararası Hastalar" sayfası yayınlanmaz.
+- **Kanal içgörüsü:** RU pazarı = Yandex (ayrı algoritma → ayrı iş kalemi) + Telegram; Körfez = Google AR + IG + Snapchat + WhatsApp; tek-platform stratejisi uluslararasında çöker. Bookimed'de protez kategorisi canlı (aggregator kanalı gerçek).
+- **⚠️ Luxmed çakışma kanıtı:** luxmedprotez.com/en aynı uluslararası protez oyununu aktif oynuyor → Karar 5 teyidi Ayhan'da + etik duvar (Luxmed iç bilgisi kullanılmaz).
+- **Web/tipografi:** Wix Multilingual RTL destekli ama kısıtlı (hizalama sorunları bilinen konu) → AR sayfası şablon aşamasında test edilir; 3 yazı sistemi tipografi stratejisi (süper-aile vs companion font) + 4-dil glyph test protokolü kuruldu (4 Haz Türkçe font dersinin genellemesi).
+- Kaldıraç: 5 halka (Keşif/Branding/Strateji/İçerik/Growth) + Denetmen'e görev haritası hazır — proje aktive olduğunda ajanlar körlemesine başlamaz.
+
 ### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.
