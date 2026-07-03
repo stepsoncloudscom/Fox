@@ -1,7 +1,8 @@
 # Fox — Ayhan'ın Ses Parmak İzi
-*Faz 2. Gerçek gönderilmiş maillerden çıkarılmış ses analizi. Taslak üretirken bu zemine sadık kal. Sesi taklit et — içeriği uydurma.*
+*Faz 2 ✓ TAMAMLANDI (3 Tem 2026 — 4 Ağu'dan öne çekildi). Gerçek gönderilmiş + onaylı + REDDEDİLMİŞ metinlerden çıkarılmış ses analizi. Taslak üretirken bu zemine sadık kal. Sesi taklit et — içeriği uydurma.*
 
-Kaynak: Ayhan'ın Mayıs-Haziran 2026 gönderilmiş mailleri (LCW, Darya, Salomon, GoPro, Apple, Columbia, İŞKUR temasları).
+Kaynak v1: Ayhan'ın Mayıs-Haziran 2026 gönderilmiş mailleri (LCW, Darya, Salomon, GoPro, Apple, Columbia, İŞKUR temasları).
+Kaynak v2: Onaylı korpus (Mehry Mu/Boga/Aida Bergsen/Urart — 26 Haz onay + 29 Haz gönderim · Skechers niyet mektubu — 2 Tem, 3 teyitle final · TAG-KLOI 17 taslak) + reddedilen korpus (Beymen 1. tur ×9 "çok kötü" · 14 Haz Hakkımızda copy'si · MERAKÎ moodboard).
 
 ---
 
@@ -84,6 +85,64 @@ Sıcak ama kurumsal değil. Profesyonel ama mesafeli değil. (Darya yazışması
 
 ---
 
+## ONAYLI METİN ÖRÜNTÜLERİ (v2 — 3 Tem 2026, gerçek onaylardan)
+
+### A. Premium co-creation register'ı (Beymen onaylı seti — Mehry Mu/Boga/Aida Bergsen/Urart)
+*"Biz" dili. Üst-segment, rafine, ağırlığı olan. Lakayıt/fazla-samimi YASAK.*
+1. **Marka-önce açılış:** İlk paragraf ASLA bizden bahsetmez. Yapı: **çağa dair bir gözlem + markanın o gözlemde durduğu özgün yer.** ("Bir markayı marka yapan şeyin 'üretebilmek' değil 'dokunabilmek' olduğu bir döneme giriyoruz. Mehry Mu'nun duruşu tam da bu yüzden kalıcı…")
+2. **Aforizmik gözlem cümlesi** — v1'deki "imza felsefi cümle"nin evrimi: felsefi önerme boşta durmaz, markaya bağlanır. Her mailde farklıdır (ruh/el emeği · kıtlık/koleksiyon · anlatı/mit · miras/kök) — **aynı aforizma iki markaya gitmez.**
+3. **Pivot cümlesi: "Size bu nedenle yazıyoruz."** — gözlemden talebe köprü. Kısa. Bu cümle onaylı setin dört mektubunda da aynı: kazanılmış kalıp.
+4. **Kimlik bloğu SABİT** (brief'te kilitli): ajans tanımı + Marka Bulutu + kurucu + insan-AI dengesi. **AI şeffaflığı gizlenmez, güçle söylenir ama insan önceliğiyle kapanır:** "yön, sezgi ve ruh insanda; hız ve ölçek yapay zekâ ajanımız Fox'ta. **Karar her zaman insanındır.**"
+5. **Teklif = markanın öz değerini ona geri yansıtmak:** "markanın kendi hassasiyetini — X — **sizin diliniz ve bizim yaratıcı yönümüzle**…" Kontrol markada kalır (Sıla Uslu içgörüsüyle aynı ilke: kurucu markasında sahiplik en büyük değer). Hizmet satışı dili YOK; ortak yaratım dili VAR.
+6. **Tek yumuşak talep + sürtünmesiz kapanış:** "kısa bir görüşme talep ediyoruz; size uygun bir zaman dilimini paylaşmanız yeterli."
+7. **Em-dash (—) derinleştirmesi** Ayhan sesinin noktalama imzası: cümle içinde bir kavramı açar, parantezden sıcaktır.
+
+### B. Kişisel niyet / kurumsal mektup register'ı (Skechers onaylı — 2 Tem)
+*"Ben" dili. Kimlik beyanı + somut kanıt + basit talep.*
+1. **Kimlik beyanı evrimi:** v1 kalıbına kişisel gerçeklik açıkça girdi — "aynı zamanda **bir protez kullanıcısı olarak**…" Kişisel gerçek saklanmaz, güç olarak öne konur (onur çerçevesi: özne, kurban değil).
+2. **Bold soru ara-başlıkları:** "**Neden Skechers?**" / "**Ne getiririm?**" — uzun mektupta yön levhaları; okuyan yöneticinin tarama hızına saygı.
+3. **Talep erken ve yalın:** "talebim basit: beni açık bir pozisyona göre değil, bir profil olarak değerlendirmeniz." — talep süslenmez, basitliği beyan edilir.
+4. **Kanıt adlı ve somut:** Össur/Hummel/DeFacto isimle; "yalnızca bir hikâyenin öznesi değil, o hikâyeyi profesyonelce anlatan ve üretimini yönetebilen biriyim" — çift katman kimliğin (özne + profesyonel) tek cümlesi.
+5. **"…inanıyorum" çerçevesi** kanıtlanamayan iddiayı taşır (kitle örtüşmesi iddiası buna alındı — kanıt disiplini ile sesin kesişimi).
+6. **Nezaket köprüsü:** kimse değersizleştirilmez (İK'ya teşekkür eklendi — Denetmen B1/B8). Kapı açan herkese teşekkür, kapanışta.
+7. **Yaşanmışlık birebir gerçek:** "koşuyorum — sıradaki hedefim 10 kilometreyi tamamlamak" (Ayhan beyanı kelimesi kelimesine; "ultra trail" süslemesi REDDEDİLDİ). **Kişisel gerçeklik yuvarlanmaz, abartılmaz.**
+
+---
+
+## NEGATİF PARMAK İZİ — Reddedilen metinlerden (ses İHLALLERİ)
+*Kötüden kaçınmak sesin yarısıdır (Anti-Slop D6 ilkesiyle aynı). Bunlardan biri varsa taslak Ayhan'a gitmeden yeniden yazılır:*
+1. **Kalıp tekrarı** — Beymen 1. tur ×9 red sebebi: "9'u aynı kalıba döküldü." Şablonun SABİT blokları olabilir ama kanca+teklif markaya özgü ANALİZ'den doğmalı; seri üretim hissi = otomatik red.
+2. **Somut teklifsizlik** — "iş birliği yapalım" tipi boş davet. Teklif markanın özüne bağlanmalı ("ne öneriyorsun?" cevapsız kalıyorsa metin boş).
+3. **Jenerik ajans dili** — "Ayhan'ın sesi yok" redi. Slop kara listesi (görsel standart §11.E + slop_tarama.py) + bu belgedeki örüntülerin yokluğu.
+4. **Kancasız açılış** — "Beymen'de dikkatimizi çeken…" tipi kendi-referanslı ilk cümle. İlk cümle markaya/dünyaya bakar, bize değil.
+5. **Güçlü mevcudu körlemesine değiştirme** — 14 Haz Hakkımızda dersi: Ayhan'ın kendi yazdığı copy güçlüyse varsayılan KORU.
+6. **Yaşanmışlık süsleme** — gerçek deneyimi büyütme ("ultra trail" örneği). Gerçeğin kendisi yeterince güçlü; süsleme güveni bozar.
+7. **Ayhan'a övgü/alkış** (4 Haz emri) — rapor ve brifing dahil her yerde.
+
+---
+
+## REGISTER HARİTASI (v2 — dört register)
+| Register | Dil | Zamir | Nerede | Referans metin |
+|---|---|---|---|---|
+| **Ayhan Erden — iş (TR)** | resmi-sıcak | ben | teklif, müzakere, takip | v1 kalıpları + Karar Formülü |
+| **Steps On Clouds — misyon** | onur-merkezli | biz | ampute/sosyal etki içerik | onur mercekleri (§9) |
+| **Premium co-creation** | rafine, ağır | biz | üst-segment soğuk outreach | `beymen-taslak-brief.md` onaylı 4 metin |
+| **Kişisel niyet/kurumsal** | kimlik beyanlı | ben | kurumsal kapı mektupları | `skechers-niyet-mektubu-taslak.md` |
+| *(EN uluslararası)* | sıcak-profesyonel | I/we | yurtdışı yazışma | v1 Darya kalıpları |
+
+**Seçim kuralı:** Taslağa başlamadan register'ı YAZILI seç (görsel standardın 11.A "Tasarım Okuması"nın metin karşılığı): *"Bu metin [register]'da, [kitle]'ye, [talep] için."*
+
+---
+
+## KALİBRASYON KORPUSU (canlı — onaylandıkça büyür)
+- ✅ `raporlar/beymen-taslak-brief.md` — premium register şablonu + 4 onaylı metin + uyarlama reçetesi (yalnız P1/P3 değişir)
+- ✅ `raporlar/skechers-niyet-mektubu-taslak.md` — kişisel niyet register'ı + Denetmen bulgu işlenişi (süsleme redleri dahil)
+- ✅ TAG-KLOI 17 taslak (gönderildi) — soğuk ilk-temas hafif formül örnekleri
+- ❌ Beymen 1. tur ×9 (superseded, Gmail'de) — negatif örnek arşivi
+- **Disiplin:** Ayhan bir taslağı onayladığında/reddettiğinde buraya işle; örüntü 2+ kez tekrar ederse yukarıdaki listelere yükselt (hafıza protokolü L1→L2 eşiğiyle aynı).
+
+---
+
 ## DENGE NOKTALARI (Anayasa §9 ile)
 - **EMİR — Ayhan'a motivasyon/övgü cümlesi YOK.** "Gurur duyabilirsin", "harika iş", "olağanüstü gün", "tebrikler" gibi cümleler yasak. Ayhan sonuç ister, alkış değil. Doğrudan işe/rapora geç. (Ayhan'ın açık emri, 4 Haz 2026.)
 - **Sıcak + profesyonel**, kurumsal değil.
@@ -101,4 +160,4 @@ Sıcak ama kurumsal değil. Profesyonel ama mesafeli değil. (Darya yazışması
 
 ---
 
-*Sürüm: v1 · Son güncelleme: 4 Haziran 2026 · Fox · v1 zemin kuruldu; Faz 2 derinleştirme (daha çok gerçek metinle kalibrasyon) 4 Ağu 2026 planlı — CLAUDE.md §10 ile uyumlu.*
+*Sürüm: v2 · Son güncelleme: 3 Temmuz 2026 · Fox · v2 = Faz 2 TAMAMLANDI (4 Ağu'dan öne çekildi): onaylı korpus (Beymen 4'lüsü + Skechers + TAG-KLOI) ve reddedilen korpustan örüntüler çıkarıldı — onaylı metin örüntüleri (2 yeni register) + negatif parmak izi (7 ihlal) + register haritası + canlı kalibrasyon korpusu eklendi. Belge yaşayan: her onay/red korpusa işlenir.*
