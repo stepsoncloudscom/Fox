@@ -1,6 +1,6 @@
 # Özgür Irmak — Ceza Yemeden Ticarete Dönüş Planı (Uyumlu Ticaret Mimarisi)
-*Fox · 4 Temmuz 2026 · Ayhan'ın önceliği: "Sağlık Bakanlığı yönetmeliğine göre ceza yemeden ticaretine döndürebilmek."*
-*Yasal zemin: Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliği (RG 15/05/2014-29001, konsolide — Madde 15 değişik RG 2/9/2020-31232) — birebir metinden çalışıldı (mevzuat.gov.tr PDF).*
+*Fox · 4 Temmuz 2026 (v2 — ikinci kolon eklendi) · Ayhan'ın önceliği: "Sağlık Bakanlığı yönetmeliğine göre ceza yemeden ticaretine döndürebilmek."*
+*Yasal zemin İKİ KOLON: ① Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliği (RG 15/05/2014-29001, konsolide — birebir metinden) ② Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği (RG 12/11/2025-33075 — 2023 yönetmeliğini yürürlükten kaldıran GÜNCEL metin; Ayhan işaret etti, 4 Tem). Merkez hem cihaz satışı hem sağlık hizmeti uygulaması yaptığı için temkinli varsayım: İKİ REJİM BİRDEN uygulanır (kapsam netleşmesi avukatta — S13).*
 
 > ⚖️ **GATE:** Bu plan compliance-by-design TASLAKTIR; yayına giden her öğe avukat onayından geçer (hazırla → Denetmen → avukat → Ayhan → yayın). Fox avukat değildir. Ama bu plan avukat görüşmesini "ne yapabiliriz?" sorusundan "şu mimariyi onaylar mısınız?" noktasına taşır — zaman ve ücret tasarrufu.
 
@@ -21,6 +21,30 @@
 
 ---
 
+## 0.B · İKİNCİ KOLON — Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği (RG 12 Kas 2025/33075)
+*⚠️ Güncellik notu: 29 Tem 2023 yönetmeliği bu metinle YÜRÜRLÜKTEN KALKTI (M.13) — tüm çalışma 2025 metnine göre. Aşağıdaki özet RG metninden çıkarıldı; madde-madde birebir teyit avukat görüşmesinde yapılacak.*
+
+**Kapsam (M.2):** Sağlık meslek mensupları + **özel sağlık kuruluşları** + uluslararası sağlık turizmi aracı kuruluşları. Protez-ortez merkezinin "özel sağlık kuruluşu" tanımına girip girmediği açık değil → **AVUKAT S13.** Temkinli varsayım: girer gibi davran (girmese bile cihaz yönetmeliği zaten bağlıyor; çifte uyum en güvenli zemin).
+
+**Serbest alan (M.4-5):** kuruluş adı/adres/iletişim · çalışma saatleri · hizmet/uzmanlık alanları · mesleki-akademik unvanlar · sağlığı koruyucu-geliştirici bilgi · arama motoru ve sosyal medya kaydı (**ücretli/sponsorlu olmamak şartıyla**). → Yeşil kuşak web mimarimizle birebir örtüşüyor.
+
+**Yurt içi yasaklar (M.5):** talep yaratma/yönlendirme · **ücret-indirim-kampanya-promosyon bilgisi** · karşılaştırma/üstünlük · reklam amaçlı hasta görseli ve öncesi-sonrası · **hasta görüşü/testimonial (memnuniyet ifadesi)** · izinsiz arama/ileti · hasta görselinde yorum/beğeni açık bırakma. Detay yükümlülükler: son güncelleme tarihi + editör iletişimi sitede açık.
+
+**⭐⭐ SAĞLIK TURİZMİ İSTİSNASI (M.8) — ULUSLARARASI FUNNEL'IN YASAL KAPISI:**
+- Yurt dışına yönelik **AYRI internet sitesi veya sosyal medya hesabı** üzerinden, **Türkçe HARİÇ dillerde SPONSORLU tanıtım YAPILABİLİR.**
+- **Hasta hikâyeleri/yorumları bu tarafta YAYINLANABİLİR** (mahremiyet + genel ahlak + hasta hakları koşuluyla) → "Özgürlük Hikâyeleri"nin yasal evi büyük olasılıkla ULUSLARARASI taraf.
+- Koşullar: hedefleme yurt dışı seçili (yurt içi hedef kapalı) · **HealthTürkiye logosu zorunlu** · Türkiye'de yaşayanlara talep yaratmak yasak.
+- Bu istisnadan kimin yararlanabildiği (yetki belgesi şartı?) → **AVUKAT S14** (S5 ile birleşik: merkez yetki belgesi kapsamına giriyor mu).
+
+**Fırsat notu (M.5.j — teyit gerekli):** Yeni açılan kuruluşlara **ilk ay sponsorlu tanıtım izni** okunuyor — rebrand/yeni sistem lansmanı bundan yararlanabilir mi? → **AVUKAT S15.**
+
+**Yaptırım (M.12):** 3359 sayılı Kanun Ek-11 idari yaptırımları (para cezası, faaliyet durdurma) + meslek kuruluna bildirim + 5651 içerik kaldırma. → Özgür Bey'in "yüksek idari cezaları" bu hattan da gelmiş olabilir (S12 dosya teyidi iki yönetmeliği de kapsasın).
+
+### 🚩 MİMARİ ETKİ — WEB ŞEMASI REVİZYON BAYRAĞI (Ayhan kararı)
+M.8 istisnası "yurt dışına yönelik **AYRI** site/hesap" der. Mevcut şema (B1) tek sitede 4 dil + "Uluslararası Hastalar" sayfasıydı. Uyumlu mimari büyük olasılıkla **İKİ KATLI**: ① TR kurumsal site = bilgilendirme rejimi (cihaz yön. 15/2 + sağlık yön. M.4-5, sponsorsuz, hikâyesiz) ② Uluslararası site/hesaplar (EN/AR/RU, ayrı domain/subdomain) = M.8 rejimi (sponsorlu tanıtım + hasta hikâyeleri + HealthTürkiye logosu). Fox önerisi: iki-katlı mimariye geç — hem uyumlu hem stratejik olarak daha güçlü (yurt dışı funnel reklam yapabilen tek taraf olur). Avukat teyidi sonrası web şeması v2 yazılır.
+
+---
+
 ## 1 · YEŞİL KUŞAK — bugün başlanabilir (avukata "onaylar mısınız?" diye gider, "yapabilir miyiz?" değil)
 
 1. **Kurumsal kimlik / rebrand (A1):** Marka kimliği, logo, brand guide üretimi mevzuat konusu değil. Tam hız.
@@ -35,9 +59,9 @@
 6. **Süreç/atölye hikâyesi (cihazsız insan+zanaat anlatısı):** "40 yıllık usta, atölyesinde" kurumsal hikâyesi cihaz reklamı değildir — ama sınır ince olduğu için ilk örnek avukata gösterilir, onaylı şablon üzerinden çoğaltılır.
 
 ## 2 · SARI KUŞAK — avukat onayı olmadan BAŞLAMAZ
-1. **Sosyal medya:** 15/2 istisnası "resmî internet siteleri" der — sosyal hesap bu kapsama girer mi, gri alan. Öneri: hesaplar kurumsal/eğitim/insan-hikâyesi rejiminde açılır, **cihaz-merkezli içerik avukat çizgisi netleşene kadar yok.** (Cezaların kaynağı büyük olasılıkla bu hat — geçmiş ceza türü öğrenilince kesinleşir.)
-2. **Özgürlük Hikâyeleri (hasta içeriği):** İnsan hikâyesi ≠ cihaz reklamı savunulabilir — ama 18/6-b (kesin başarı beklentisi) + KVKK özel nitelikli veri + izin protokolü şart. Format avukatla birlikte tasarlanır.
-3. **Uluslararası sayfalar + yurtdışı tanıtım:** Yönetmeliğin ülkeselliği + sağlık turizmi mevzuatı (yetki belgesi sorusu). EN/AR/RU funnel'ın hukuki rejimi netleşmeden yayınlanmaz.
+1. **Sosyal medya (yurt içi):** 2025 yönetmeliği çizgiyi netleştirdi — **organik/sponsorsuz kayıt ve bilgilendirme içeriği serbest görünüyor (M.5)**; yurt içine sponsorlu içerik + talep yaratıcı dil + hasta görseli/testimonial YASAK. Cihaz tarafında 15/2'nin sosyal hesabı kapsayıp kapsamadığı hâlâ gri (S11). Öneri: hesaplar kurumsal/eğitim rejiminde, cihaz-merkezli ve hasta-merkezli içerik avukat çizgisine kadar yok.
+2. **Özgürlük Hikâyeleri (hasta içeriği):** ⭐ Yasal ev netleşti — **yurt içi tarafta testimonial YASAK (M.5), yurt dışına yönelik ayrı platformda hasta hikâyesi SERBEST (M.8, koşullu).** Seri uluslararası tarafta doğar (EN/AR/RU + altyazı), yurt içi sitede yalnızca avukatın onayladığı biçimde (muhtemelen hiç ya da çok sınırlı). KVKK izin protokolü her durumda şart.
+3. **Uluslararası funnel:** M.8 yolu açık — ayrı site/hesaplar + Türkçe-hariç diller + yurt dışı hedefleme + HealthTürkiye logosu + (muhtemelen) yetki belgesi. Şart seti avukat teyidinden geçince kurulur; o zamana dek EN/AR/RU yayın yok. Mimari revizyon bayrağı: bkz. 0.B.
 4. **Cihaz/tedarikçi marka logoları** sitede (Ottobock, Össur…): izin belgesi + kullanım sınırı.
 5. **Fiyat iletişim protokolü** (kanalda fiyat paylaşımı) ve **Bookimed tipi aracı platformlar.**
 
@@ -65,9 +89,12 @@ Her içerik parçasına üç soru: ① Bu **bilgilendirme mi, reklam mı?** (sat
 
 ## AVUKAT GÜNDEMİ — GÜNCELLEME (medikal paket A.4'e ek; netleşenler işaretli)
 - ~~Soru 1 (site "satış ortamı" sayılır mı)~~ → **ÇÖZÜLDÜ, yeniden çerçevelendi:** doğru zemin 15/1-c değil **15/2 bilgilendirme istisnası.** Yeni soru: *"Bilgilendirme/reklam çizgisi için şu dil rejimimizi onaylar mısınız?"* (yeşil kuşak §1/2 örnek sayfayla).
-- **YENİ Soru 11:** Sosyal medya hesabı "resmî internet sitesi" (15/2) kapsamında değerlendirilebilir mi — emsal/kurum görüşü var mı?
-- **YENİ Soru 12:** Geçmiş cezaların madde dayanağı dosyasından teyidi (hangi fiil/kanal) — tekrar riski haritası.
-- Kalan sorular (2-10) geçerli — özellikle #5 sağlık turizmi yetki belgesi kapsamı.
+- **YENİ Soru 11:** Sosyal medya hesabı "resmî internet sitesi" (cihaz yön. 15/2) kapsamında değerlendirilebilir mi — emsal/kurum görüşü var mı?
+- **YENİ Soru 12:** Geçmiş cezaların madde dayanağı dosyasından teyidi — hangi yönetmelik (cihaz mı, sağlık hizmeti tanıtımı mı), hangi fiil/kanal? Tekrar riski haritası.
+- **YENİ Soru 13 (2025 yönetmeliği):** Ismarlama protez-ortez merkezi, Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği (RG 12/11/2025) kapsamındaki "özel sağlık kuruluşu" tanımına girer mi? (Girse de girmese de çifte-uyum taslak rejimimiz sürdürülebilir mi?)
+- **YENİ Soru 14 (M.8):** Sağlık turizmi istisnasından (yurt dışına ayrı platformda sponsorlu tanıtım + hasta hikâyesi) yararlanmanın ön şartı ne — Uluslararası Sağlık Turizmi Yetki Belgesi şart mı, protez merkezi alabilir mi, HealthTürkiye logo kullanımı nasıl edinilir? (S5 ile birleşik.)
+- **YENİ Soru 15 (M.5.j):** Yeni kuruluş "ilk ay sponsorlu tanıtım" izni okuması doğru mu; rebrand/yeni sistem lansmanı bundan yararlanabilir mi?
+- Kalan sorular (2-10) geçerli.
 
 ---
-*Kaynak: [Yönetmelik konsolide metin (mevzuat.gov.tr)](https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=19666&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5) — Madde 15-21 birebir çalışıldı · [TİTCK yönetmelik sayfası](https://www.titck.gov.tr/mevzuat/tibbi-cihaz-satis-reklam-ve-tanitim-yonetmeligi-27122018172746) · TİTCK Uygulama Kılavuzu Rev.2 (Oca 2024) tam metnine ulaşılamadı — avukat görüşmesinde istenecek. · Bu belge marka-bulutu-os-medikal-protez-bagi.md A bölümünün operasyonel uygulamasıdır.*
+*Kaynaklar: ① [Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliği — konsolide (mevzuat.gov.tr)](https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=19666&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5) — Madde 15-21 birebir çalışıldı · [TİTCK sayfası](https://www.titck.gov.tr/mevzuat/tibbi-cihaz-satis-reklam-ve-tanitim-yonetmeligi-27122018172746) · TİTCK Uygulama Kılavuzu Rev.2 (Oca 2024) tam metni avukat görüşmesinde istenecek. ② [Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği — RG 12/11/2025-33075](https://resmigazete.gov.tr/eskiler/2025/11/20251112-2.htm) (2023/32263'ü yürürlükten kaldırdı; M.8 sağlık turizmi istisnası + M.5 yasaklar buradan) · [mevzuat.gov.tr kaydı](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40264&MevzuatTur=7&MevzuatTertip=5). · Bu belge marka-bulutu-os-medikal-protez-bagi.md A bölümünün operasyonel uygulamasıdır.*

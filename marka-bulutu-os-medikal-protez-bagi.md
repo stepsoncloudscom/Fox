@@ -13,7 +13,7 @@
 |---|---|---|
 | **Tıbbi Cihaz Satış, Reklam ve Tanıtım Yönetmeliği** (2014 + değişiklikler + uygulama kılavuzu) | TİTCK | Reklam/tanıtım yasak ve sınırları — çekirdek metin |
 | **Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hk. Yönetmelik** | Sağlık Bak. | Merkezin ruhsat/personel/faaliyet çerçevesi + yaptırım kademeleri |
-| **Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Faaliyetleri Yönetmeliği** (Tem 2023) | Sağlık Bak. | "Tanıtım vs bilgilendirme" ayrımı, sağlık kuruluşu iletişim sınırları |
+| **Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği** (⚠️ GÜNCEL: RG 12/11/2025-33075 — 2023 metnini yürürlükten kaldırdı) | Sağlık Bak. | Sağlık hizmeti tanıtım sınırları (M.5 yurt içi yasaklar: fiyat/kampanya/testimonial/talep yaratma) + **M.8 sağlık turizmi istisnası: yurt dışına AYRI platformda Türkçe-hariç dillerde sponsorlu tanıtım + hasta hikâyesi serbest (koşullu, HealthTürkiye logolu)**. Operasyonel: ozgur-irmak-uyumlu-ticaret-plani.md 0.B |
 | **TKHK + Reklam Kurulu** | Ticaret Bak. | Aldatıcı reklam, "en iyi" tipi üstünlük iddiaları (FOMO/sahte aciliyet dersi — 11 Haz — burada da geçerli) |
 | **KVKK** | KVKK Kurumu | ⭐ Sağlık verisi = **özel nitelikli kişisel veri** — form, hasta hikâyesi, fotoğraf ayrı açık rıza ister |
 | **Uluslararası Sağlık Turizmi Yönetmeliği** | Sağlık Bak. / USHAŞ | Yurtdışı hasta faaliyetinin yasal zemini (bkz. B.1) |
