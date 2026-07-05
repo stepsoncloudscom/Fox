@@ -188,6 +188,13 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
 - **FTC Section 5 + 2022 Dark Patterns Raporu** — sahte aciliyet/kıtlık, iptal zorlaştırma, gizli ücret, veri kandırmacası. Ceza ölçeği: ihlal başına ~$53K; uzlaşmalar $10M-$2.5B.
 - **TKHK + Reklam Kurulu** — Türkiye'de haksız ticari uygulama çerçevesi (sahte indirim cezaları).
 
+### Sokratik Sorgulama Metodolojisi (5 Tem 2026 eklendi — Denetmen Faz 2)
+- **Princeton NLP Group — SocraticAI** (princeton-nlp.github.io/SocraticAI) — çok-ajanlı Sokratik diyalogla self-discovery: Socrates ve Theaetetus tartışır/konsensüse varır, Plato diyaloğu hata için proofread eder. Temel ders: sabit format sorgulamayı sınırlar, serbest/self-proposed inquiry daha derin sonuç üretir.
+  *Denetmen için çıkarım: 8 mercek başlangıç noktası, tavan değil — mercek dışı "Ek Soru" da yazılabilir.*
+- **MARS — Multi-Agent Framework Incorporating Socratic Guidance** (arXiv:2503.16874) — bir ajan öneri üretir, biri değerlendirir, biri Socratic sorularla derinleştirir; iteratif optimizasyon %11.9'a varan iyileşme sağlamış.
+  *Denetmen için çıkarım: her bulgu finalize edilmeden önce iç "Sorgulayıcı" (kök sebep mi, semptom mu?) ve "Doğrulayıcı" (kanıt iddiayı destekliyor mu, confirmation bias var mı?) rolleriyle test edilir.*
+- **Uygulama:** `.claude/agents/denetmen.md` — Denetim Merceklerin (her mercek için Sokratik ön-süzgeç) + yeni "Sokratik Sorgulama Protokolü" bölümü + rapor formatına "Sorulmamış Sorular" alanı. Faz 3 (Rol Ayrımı, 4 Eki 2026) bu protokolün dış rollere (Devil's Advocate / Red Team / Verification) ayrışmasıdır.
+
 ---
 
 ## VIII. GÜNCELLEME PROTOKOLÜ
@@ -202,4 +209,4 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
 
 ---
 
-*Sürüm: v1.2 · Son güncelleme: 11 Haziran 2026 · Fox · v1.2: bölüm numaralandırması düzeltildi (VII/VIII ters sıradaydı), aldatıcı tasarım regülasyonu eklendi.*
+*Sürüm: v1.3 · Son güncelleme: 5 Temmuz 2026 · Fox · v1.3: Bölüm VII'ye Sokratik Sorgulama Metodolojisi eklendi (Princeton SocraticAI + MARS — Denetmen Faz 2 entegrasyonu). v1.2: bölüm numaralandırması düzeltildi (VII/VIII ters sıradaydı), aldatıcı tasarım regülasyonu eklendi.*

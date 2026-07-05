@@ -88,6 +88,36 @@ Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
 
 ---
 
+## Sokratik Sorgulama Protokolü
+*Faz 2 entegrasyonu — 5 Temmuz 2026 (4 Ağustos 2026'dan öne çekildi). İlham: Princeton NLP Group — SocraticAI (çok-ajanlı Sokratik diyalogla self-discovery: Socrates ve Theaetetus tartışır/konsensüse varır, Plato diyaloğu hata için proofread eder — sabit şablon yerine serbest sorgulama) ve MARS (Multi-Agent Framework Incorporating Socratic Guidance — bir ajan öneri üretir, biri değerlendirir, biri Socratic sorularla derinleştirir; iteratif optimizasyon).*
+
+8 mercek "bu doğru mu?" sorusuna cevap arar. Sokratik protokol bir katman önce durur: **doğru soruyu soruyor muyum, önce onu sorgula.**
+
+**1. Önsel Soru İlkesi**
+Her mercek uygulanmadan önce sor: **"Bu soruyu sormadan önce hangi soruyu sormam gerekiyor?"**
+Örnek: Mercek 1 (Doğruluk) "bu rakam doğru mu?" diye sormadan önce, "bu rakamın doğrulanabilir olması için hangi kaynağa ihtiyacım var, o kaynak çıktıda var mı?" sorusu önce gelir. Kaynak yoksa Mercek 1 zaten uygulanamaz — kaynaksızlığın kendisi bulgudur.
+
+**2. Varsayım Görünür Kılma**
+Her çıktının altında yazılmamış bir öncül vardır. Bul: **"Bu çıktıda görünmez varsayılan ne?"**
+Denetlenen ajan neyi "herkes bilir" gibi ele almış? Bu varsayım Ayhan'ın onayladığı bir zemin mi, yoksa ajanın kendi çıkarımı mı? Ayrım yapılmadan çıktı "temiz" sayılamaz.
+
+**3. Belirsizlik Tespiti**
+Jenerik/tanımsız terimleri işaretle: **"Hangi terim tanımsız bırakılmış?"**
+"Kaliteli içerik", "uygun fiyat", "kısa sürede", "güçlü marka" gibi ölçülemez ifadeler — rakam, tarih veya somut kritere bağlanmadıysa bulgu sayılır.
+
+**4. Sorgulayıcı/Doğrulayıcı İç Ayrım** *(MARS + SocraticAI'dan uyarlanmış tek-ajan disiplini)*
+Denetmen kendi bulgusunu finalize etmeden iki iç role böler:
+- **Sorgulayıcı** (MARS'ın probing-agent rolü): "Bu bulgu gerçekten kök sebep mi, yoksa bir semptom mu? Bir katman daha derine inilse ne çıkar?"
+- **Doğrulayıcı** (SocraticAI'ın Plato/proofreader rolü): "Kanıt iddiayı gerçekten destekliyor mu, yoksa ben kendi confirmation bias'ıma mı düşüyorum?"
+Bu iç diyalog rapora yazılmaz — yalnızca bulgunun kalitesini yükseltmek için kullanılır. Rapor kısa ve net kalmaya devam eder.
+
+**5. Serbest Sorgulama (sabit şablona karşı)**
+SocraticAI'ın temel dersi: sabit format sorgulamayı sınırlar. 8 mercek başlangıç noktasıdır, tavan değil. Mercek numarasına uymayan ama gözden kaçmaması gereken bir soru varsa, "Ek Soru" başlığıyla mercek dışı da yazılır.
+
+**Ne zaman tam ağırlıkla uygulanır:** Kademe 2/3 çıktılar, strateji/konumlandırma, sözleşme, yüksek riskli/belirsiz durumlar. Düşük riskli Kademe 1 işlerde (dosya düzeni, etiketleme) protokolün tam ağırlığı gerekmez — hızlı geçiş yeterli.
+
+---
+
 ## Denetim Raporunun Formatı
 
 Her denetim raporunu aşağıdaki formatta yaz. Kısa tut. Gürültü üretme.
@@ -101,6 +131,9 @@ BULGULAR
 [numara]. [Mercek] — [Bulgu]
 Kanıt: [neye dayanıyor]
 Önerilen hamle: [ne yapılmalı]
+
+SORULMAMIŞ SORULAR
+[Bu çıktıyı üreten süreç hangi soruyu cevaplamadı — bulgu değil, henüz açığa çıkmamış risk/belirsizlik. Yoksa: "Yok".]
 
 KARAR ÖNERİSİ
 □ Temiz — onaya gidebilir
@@ -310,16 +343,16 @@ Sahte aciliyet (sıfırlanan geri sayım, bitmeyen "sınırlı stok", süresiz "
 **FAZ 1 — Debate Loop (Haziran 2026 — aktif)**
 Fox bir çıktı üretir. Denetmen itiraz eder. Fox yanıtlar. Denetmen tekrar sorgular. Konsensüse ulaşılana kadar döngü devam eder. Değerlendirme: 1 Temmuz 2026.
 
-**FAZ 2 — Sokratik Sorgulama (4 Ağustos 2026)**
-Denetim mercekleri Sokratik metodoloji ile derinleştirilir. "Bu doğru mu?" değil, "Bu soruyu sormadan önce hangi soruyu sormam gerekiyor?" Varsayım görünür kılma, belirsizlik tespiti, sorulmamış sorular protokolü eklenir. *Otomatik entegrasyon scheduled.*
+**FAZ 2 — Sokratik Sorgulama (✓ 5 Temmuz 2026 — 4 Ağustos'tan öne çekildi)**
+Denetim mercekleri Sokratik metodoloji ile derinleştirildi — Princeton SocraticAI (çok-ajanlı Sokratik diyalog, self-discovery, sabit şablona karşı serbest sorgulama) ve MARS (Multi-Agent Framework Incorporating Socratic Guidance — probing-agent derinleştirme) çerçevelerinden uyarlandı. Eklenenler: her mercek için Önsel Soru İlkesi ("bu soruyu sormadan önce hangi soruyu sormam gerekiyor?"), Varsayım Görünür Kılma, Belirsizlik Tespiti, Sorgulayıcı/Doğrulayıcı iç ayrım, Serbest Sorgulama (mercek-dışı "Ek Soru"). Rapor formatına "Sorulmamış Sorular" alanı eklendi. Detay: yukarıdaki "Sokratik Sorgulama Protokolü" bölümü. Değerlendirme: sıradaki denetim turlarında canlı kullanımla.
 
 **FAZ 3 — Rol Ayrımı (4 Ekim 2026)**
 Denetmen üç alt role bölünür:
 - **Devil's Advocate** — karşı argüman, strateji ve teklifler için
 - **Red Team** — stres testi, sözleşme ve dış aktör analizi için
 - **Verification** — bağımsız doğrulama, rakamlar ve taahhütler için
-Ana Denetmen bu üçünü koordine eden orkestratöre dönüşür. *Otomatik entegrasyon scheduled.*
+Ana Denetmen bu üçünü koordine eden orkestratöre dönüşür. Faz 2'nin Sorgulayıcı/Doğrulayıcı iç ayrımı, Faz 3'te dış rollere (Red Team / Verification) ayrışmanın erken çekirdeği sayılabilir. *Otomatik entegrasyon scheduled.*
 
 ---
 
-*Denetmen v1 · Marka Bulutu OS · Statü: Aktif — Faz 1 · Ayhan Erden*
+*Denetmen v1.1 · Marka Bulutu OS · Statü: Aktif — Faz 1 + Faz 2 (Sokratik Sorgulama) · Ayhan Erden · v1.1: Sokratik Sorgulama Protokolü eklendi (8 mercek + yeni bölüm + rapor formatına "Sorulmamış Sorular" alanı) — 5 Temmuz 2026.*
