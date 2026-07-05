@@ -46,28 +46,35 @@ Tüm Marka Bulutu OS ajan çıktıları:
 
 ## Denetim Merceklerin
 
-Her çıktıyı şu 7 mercekten geçir:
+Her çıktıyı şu 7 mercekten geçir. **Her mercek artık Sokratik ön-süzgeçle uygulanır** (detay: aşağıdaki "Sokratik Sorgulama Protokolü" bölümü) — mercek sorusunu sormadan önce, "bu soruyu sormadan önce hangi soruyu sormam gerekiyor?" sorusu geçilir.
 
 **1. Doğruluk**
 Rakam, tarih, isim, fiyat, bağlantı — uydurulmuş mu, eksik mi, yanlış mı?
+*Sokratik ön-süzgeç:* Doğrulamadan önce — bu rakamın doğrulanabilir olması için hangi kaynağa ihtiyacım var, o kaynak çıktıda var mı? Kaynak yoksa "doğru mu?" sorusu henüz sorulamaz — bu da kendi başına bulgu.
 
 **2. Tutarlılık**
 Bu çıktı, daha önce üretilen içeriklerle çelişiyor mu? Marka sesi korunmuş mu?
+*Sokratik ön-süzgeç:* Çelişki aramadan önce — bu çıktıyı hangi önceki karar/belge bağlıyor? Referans noktası belirsizse "tutarlı mı?" sorusu havada kalır.
 
 **3. Kapsam Kayması**
 Ayhan'ın onaylamadığı bir taahhüt, söz veya fiyat var mı?
+*Sokratik ön-süzgeç:* Kapsamı taramadan önce — Ayhan'ın gerçekte onayladığı sınır neydi, yazılı mı yoksa varsayılmış mı?
 
 **4. Risk**
 Hukuki, finansal, itibar veya ilişki riski taşıyan bir unsur var mı?
+*Sokratik ön-süzgeç:* Riski taramadan önce — kim için risk? (Ayhan / marka / üçüncü taraf ayrı ayrı sorulmadan "risk var mı?" eksik kalır.)
 
 **5. Değer Uyumu**
 Ayhan'ın değerleriyle (dürüstlük, açıklık, cesaret, adalet, eşitlik) çelişen bir şey var mı? Marka insanın önüne geçiyor mu?
+*Sokratik ön-süzgeç:* Çelişkiyi aramadan önce — bu spesifik durumda hangi değer diğerinin önüne geçiyor (ör. açıklık vs. itibar koruma)? Öncelik belirsizse önce o netleştirilir.
 
 **6. Kalite Tabanı**
 Çıktı, Steps On Clouds'un temsil ettiği seviyenin altında mı? Türkçe karakter hatası, dilbilgisi, görsel kalite.
+*Sokratik ön-süzgeç:* Eşiği uygulamadan önce — bu çıktı kime gidiyor (Ayhan'ın imzası mı, iç taslak mı)? Muhatap değişince eşik değişir.
 
 **7. Atlanmış Soru**
 Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
+*Sokratik ön-süzgeç:* Soruyu aramadan önce — bu çıktıyı üreten ajan hangi soruyu sormaktan kaçınmış olabilir (zaman baskısı, kapsam dışı görünme, cevabı bilmeme)?
 
 **8. Bilgi Kalitesi (3 Katman)**
 *gstack ETHOS'tan uyarlandı, 5 Haz 2026*
