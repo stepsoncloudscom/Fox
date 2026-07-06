@@ -121,20 +121,33 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 - Wordmark Latin kalır; RTL yerleşim aynalama kuralları §4.1'de. AR/RU descriptor lockup'ları üretim fazında tasarlanır.
 - **Önerim:** Yön 1'i ana aday, Yön 2'yi güçlü alternatif olarak üretim fazına taşı; Yön 3 motion/ikincil grafik dili olarak Yön 1-2 ile hibritlenebilir (adım-taşı ritmi kimlik deseni olur, logo olmak zorunda değil).
 
-### 3.2 Renk paleti önerisi
-**Ayrışma zemini:** Kategori maviye kilitli — Ottobock imza rengi "Life long blue" #004595'i sahiplenmiş; medikal sektör refleksi de soğuk mavi/beyaz. Jenerik medikal mavisi bizi hem lidere benzetir hem "her klinik" yapar (referans çalışması §2.3: "mavi kaç").
+### 3.2 Renk paleti — ✅ KİLİTLİ: EKSEN 15 "GÜÇLÜ SENTEZ" (Ayhan kararı, 7 Tem 2026)
+**Seçim süreci:** 4 turluk keşif (15 eksen): tur 1 kategori/estetik → tur 2 açık-zemin stratejisi → tur 3 Ayhan 9-değer setinden türetim → tur 4 Enerji/Güç yükseltmesi → 3 finalist (E15/E12/E13) 4 yüzeyde (web başlığı/kartvizit/sosyal kart/tabela) karşılaştırıldı → **Ayhan: Eksen 15 kilitli.**
 
-| Rol | Öneri | Gösterge değer* | Gerekçe |
+**Ayrışma zemini (değişmedi):** Kategori maviye kilitli — Ottobock "Life long blue" #004595; medikal refleks soğuk mavi/beyaz. Jenerik medikal mavisi hem lidere benzetir hem "her klinik" yapar (referans çalışması §2.3: "mavi kaç").
+
+| Rol | Renk | Gösterge değer* | Değer bağı / kural |
 |---|---|---|---|
-| **Ana — Derin Irmak (petrol yeşili)** | Koyu, düşük doygunluklu petrol/nehir yeşili | ~#0E4A47 | Su/akış çağrışımını maviye düşmeden taşır; doğa+dinginlik+güven psikolojisi; kategoride boş alan (Ottobock navy, Össur soğuk kurumsal paletinden net ayrışma). Kısık doygunluk = premium kod (estetik müfredatı D3). |
-| **Aksan — Bakır (atölye sıcaklığı)** | Sıcak bakır/amber | ~#B4652A | Ayhan'ın sıcak parmak iziyle köprü; kaynağı gerçek: atölyenin ahşabı, derisi, metali. Tek aksan kuralı (%60-30-10): yalnız odak/vurgu. |
-| **Nötr açık — Kemik** | Sıcak kırık beyaz | ~#F6F3EE | Steril hastane beyazı yerine sıcak zemin; editorial nefes alanı. |
-| **Nötr koyu — Antrasit** | Yeşile çalan koyu antrasit | ~#1E2523 | Metin/koyu zemin; saf siyahtan yumuşak, chiaroscuro'ya uygun. |
+| **Ana zemin — Irmak Gecesi** | Koyu petrol-mürekkep (geceye derinleşmiş ırmak) | ~#0C2B2E | Güven + tecrübe + bilgi/bilim. Güç = kontrast: zemin-beyaz çifti yüksek kontrastta tutulur. |
+| **Zemin ton varyantı — Irmak Mürekkebi** | Bir kademe açık petrol-mürekkep | ~#123A3C | E12'nin zemini "sakin mod" olarak sistemde yaşar (bilgi-yoğun sayfalar, uzun okuma yüzeyleri). |
+| **Aksan — Canlı Kor** | Doygun kızıl-bakır | ~#D4602B (toprak varyantı ~#C1502E) | Cesaret + enerji. **Doz kuralı: aksan oranı ≤%10** — uyarı-rengi okunmasın; metin rengi olarak KULLANILMAZ. |
+| **Nötr sıcak — Ten** | Kum-ten | ~#E9D9C4 | İnsan + samimiyet; fotoğrafla köprü. |
+| **Boşluk zemini** | Sıcak kırık beyaz | ~#F6F3EC | Özgürlük = boşluk: her uygulamada ferah kompozisyon zorunlu; saf beyaza kayma yasak (klinik-steril). |
+| **Metin koyusu** | Gece türevi antrasit | üretimde sabitlenir | Saf siyah değil; zemin ailesinden türetilir. |
 
 *\*Gösterge hex'ler kalibrasyon noktasıdır — nihai değerler üretim fazında ekran+baskı+fotoğraf üstü testle sabitlenir; sayı burada taahhüt değildir.*
 
-- **§11.B "premium palet tuzağı" öz-denetimi:** Bu palet beige+pirinç refleksi DEĞİL — kimlik yükü petrol yeşilindedir (ayırt edici ana renk); bakır tek ve gerekçeli aksandır (atölye gerçekliği), krem yalnız zemin nötrüdür. Yine de üretim fazında Denetmen bu soruyu tekrar sorar.
-- **WCAG tabanı:** Petrol #0E4A47 / kemik #F6F3EE metin kontrastı hedef ≥ 4.5:1 `[render testiyle DOĞRULANACAK]`; bakır aksan **metin rengi olarak kullanılmaz** (kontrast riskli) — yalnız grafik öğe/büyük display; metinde koyulaştırılmış türevi tanımlanır.
+**Değer→sistem kuralları (brand book'a girer):**
+1. **Güç = kontrast** — zemin/beyaz ana çifti WCAG AA üstü hedeflenir; kimlik yumuşatılarak "pastelleştirilemez."
+2. **Enerji = hareket** — doygun kor aksanı + ritim/diyagonal kompozisyon + fotoğrafta kesilmiş an; renk çoğaltarak değil.
+3. **Özgürlük = boşluk** — cömert negatif alan her yüzeyde zorunlu.
+4. **Dürüstlük = süssüzlük** — gradyan/efekt/dekor yok (görsel standart zaten yasaklar; burada değer gerekçesi kayıtlı).
+5. **Dinginlik seste, enerji görselde** — kişilikteki "dingin" sıfatıyla enerji/güç değerinin katman ayrımı: dil acele ettirmez, görsel kontrast+ritim taşır.
+
+**Arşiv varyantı:** E13 "gece + kor" (#14181A + #E8752C) ana kimlikte kullanılmaz; ileride kampanya/spor-performans bağlamı için arşivde (kullanımı ayrı Ayhan onayı).
+
+- **§11.B "premium palet tuzağı" öz-denetimi:** Kimlik yükü Irmak Gecesi'ndedir (ayırt edici ana renk); kor tek ve gerekçeli aksandır (cesaret/enerji), ten ve kırık beyaz yalnız nötrdür. Üretim fazında Denetmen tekrar sorar.
+- **Üretim testleri (seçim sonrası zorunlu):** ① WCAG kontrast matrisi (tüm çiftler, render ölçümü) ② Denetmen N1: "sağlık/wellness yeşili" ayrışma testi (kategori yeşilleri yan yana) ③ kor'un küçük boyut/baskı davranışı.
 
 ### 3.3 Tipografi sistemi (3 yazı sistemi: Latin + Kiril + Arap — sert kısıt)
 **Sorun tanımı (medikal paket D.2):** Latin marka fontlarının çoğu Kiril taşır ama Arapça taşımaz; Arapça için karakter olarak eşleşen **eş font (companion)** seçilir. Glyph körlüğü 3 yazı sisteminde de yasak.
@@ -180,7 +193,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 
 ### 4.2 WCAG kontrast tabanı (F bölümü — bu markada onur meselesi)
 - Hedef **WCAG AA**: metin kontrastı ≥ 4.5:1 (büyük metin ≥ 3:1) · tam klavye navigasyonu · anlamlı alt-text · form etiket/hata erişilebilirliği · video altyazı (4 dil) · animasyon azaltma saygısı.
-- Kimlik kuralı: **bakır aksan metinde kullanılmaz**; palet çiftlerinin kontrast matrisi brand book'ta tablo olarak verilecek `[değerler render testinde ölçülecek]`.
+- Kimlik kuralı: **kor aksan metinde kullanılmaz**; palet çiftlerinin kontrast matrisi brand book'ta tablo olarak verilecek `[değerler render testinde ölçülecek]`.
 - İlke cümlesi (brand book'a girer): *"Hareket özgürlüğü anlatan marka, erişilemeyen tasarım yapamaz — erişilebilirlik tasarım girdisidir, cila değil."*
 
 ### 4.3 Yanlış kullanım örnekleri (brand book'ta görselleştirilecek — Luxmed dersi: bu bölüm eksik kalmıştı, bu kez baştan planlı)
@@ -200,7 +213,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 ### 5.1 Yön kararları — durum (2. tur, 6 Tem 2026)
 1. **Tagline: ✅ KARAR — Kombinasyon** (B ana + A uluslararası + C içerik kapanışı; koşullar §2.2 — B kıdem teyidine bağlı, fallback A).
 2. **Logo yönü: ⏸ ERTELENDİ** (Ayhan: "daha sonra bakacağız") — üretim fazı açılmadı; 3 yön masada duruyor, Denetmen U3 işlendi.
-3. **Renk: 🔄 KEŞİF TURU — 4 tur tamamlandı, 3 FİNALİST derinleştirildi (6-7 Tem):** 15 eksen üretildi (tur 1: kategori/estetik · tur 2: +açık-zemin stratejisi · tur 3: Ayhan 9-değer setinden · tur 4: +Enerji/Güç). **Finalistler: Eksen 15 "güçlü sentez"** (ırmak gecesi #0C2B2E + canlı kor #D4602B + ten + boşluk; 11 değer) · **Eksen 12 "dingin sentez"** (ırmak-mürekkebi #123A3C + kor #C1502E; ölçülü kontrast) · **Eksen 13 "gece + kor"** (#14181A + #E8752C; en sert güç). Dört yüzeyde (web başlığı/kartvizit/sosyal kart/tabela) + ton varyantlarıyla yan yana sunuldu — **Ayhan final seçimi bekleniyor.** Hex'ler gösterge; seçim sonrası WCAG ölçümü + Denetmen N1 "sağlık yeşili" ayrışma testi + kor doz kuralı (aksan ≤%10) üretimde sabitlenir.
+3. **Renk: ✅ KARAR — EKSEN 15 "GÜÇLÜ SENTEZ" KİLİTLİ (Ayhan, 7 Tem).** 4 turluk keşif (15 eksen; tur 3-4 Ayhan'ın 11 kelimelik değer setinden) → 3 finalist 4 yüzeyde karşılaştırıldı → E15 seçildi. Detay + kurallar §3.2 (E12 zemini "sakin mod" varyantı olarak sistemde; E13 arşiv "gece modu"). Üretim testleri bekliyor: WCAG matrisi + N1 sağlık-yeşili ayrışması + kor doz/baskı davranışı.
 4. Strateji'deki **Karar 1** (ceza geçmişi) ve **mimari kararı** açık — kuplaj durumu üst banner'da (görsel bağımsız, ses ekseni Karar 1'e kısmen kuplajlı).
 
 ### 5.2 [DOĞRULANACAK] listesi (kapanmadan kesin iddia yok — Anayasa §11.5)
