@@ -107,11 +107,13 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 3. **⚠️ IP/özgünlük bayrağı (Denetmen + avukat):** Kanatlı ayak/sandalet kalabalık bir sembol alanı — Goodyear "Wingfoot", çok sayıda spor/atletizm kulübü amblemi. Tasarım özgün olmalı; tescil öncesi TÜRKPATENT + uluslararası benzerlik taraması avukat gündemine eklenir. "Hermes/Hermès" adı hiçbir kimlik öğesinde geçmez (lüks marka çağrışım/karışıklık riski).
 4. **Kültür kontrolü:** Sembol soyut kaldığı sürece AR/RU pazarlarında nötr; mitolojik referans isimle anılmaz, görsel dil evrensel "kanat/hareket" okuması verir `[AR pazar algı kontrolü lokalizasyon turunda]`.
 
-**Üç yorum yönü (kilitli öğenin işlenişi — eskizler sunuldu):**
-- **Yorum A — "Kanat Detayı":** Minimal wordmark (eski Yön 1'in devamı) + tek karakterde küçük kanat iması (ör. "ğ" aksanı ya da "I" üzerinde iki-üç tüy çizgisi). En sessiz, en premium işleniş; kanat imzaya gömülür.
-- **Yorum B — "Kanatlı Adım":** Bağımsız işaret: bir adımın/topuk yayının arkasından açılan soyut kanat — sandaletin kendisi değil, bıraktığı hareket. Eski Yön 3'ün (Adım Taşları) ritim fikriyle birleşebilir.
-- **Yorum C — "Irmak Kanadı":** Akan ırmak çizgileri kanat tüylerine dönüşür — isim oyunu omurgası (akış) ile Talaria (kanat) tek formda. İki kilitli kavramın sentezi; en özgün ve en ayırt edici aday, işçiliği en yüksek.
-- *Eski 3 yön (Sessiz İmza / İki Kıyı / Adım Taşları) arşivde — A ve B onların mirasını taşır; İki Kıyı düştü.*
+**Çözüm: TALARIA AİLESİ — tek sistemin üç ölçeği (4 turluk render-review ile geliştirildi, 7 Tem):**
+İlk eskiz turu Ayhan tarafından reddedildi ("çok amatör") → Fox headless-Chrome render-review döngüsü kurdu (çiz → render → öz-denetim → düzelt ×4 tur; dosyalar scratchpad `logo-tur1..4`). Sonuç üç rakip aday değil, **tüy DNA'sı ortak tek aile**:
+- **① Kanat işareti** (imza/damga ölçeği): üç konik tüy — üstteki ikisi Irmak Gecesi/beyaz, alttaki kor; ırmak akışı + Talaria kanadı tek formda. Büyük yüzeylerde (web hero, tabela arkası, film jeneriği).
+- **② Ö monogramu** (avatar/favicon ölçeği): halka + umlaut yerine sağa süpüren iki kor tüy — kanat DNA'sı markanın kendi harfine gömülü; kimseyle karışmaz, küçük boyutta okunur.
+- **③ Wordmark**: OZGÜR IRMAK dizgisi (Plex Sans SemiBold, geniş letterspacing) + Ö'nün noktaları aynı tüy çiftine dönüşür. Yatay lockup: monogram + wordmark.
+- **Durum:** Yön kanıtı düzeyinde rafine eskiz — Ayhan aile-yönü onayı bekliyor. Final vektör işçiliği (tüy optik dengeleri, gerçek Ö-aksan konumu, temiz alan/grid, negatif varyantlar) üretim fazında; ardından tescil benzerlik taraması (avukat) + Denetmen görsel denetimi.
+- *Eski 3 yön (Sessiz İmza / İki Kıyı / Adım Taşları) arşivde — aile A ve C'nin mirasını taşır.*
 
 #### Eski konsept yönleri (ARŞİV — temel öğe kararı öncesi)
 
