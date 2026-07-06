@@ -98,7 +98,22 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 ## 3 · GÖRSEL KİMLİK YÖNÜ
 *Bu bölüm ÜRETİM değil YÖN belgesidir — logo/görsel üretimi Ayhan yön onayı sonrası ayrı fazda. Her yön Gestalt/Prägnanz gerekçesiyle verilmiştir; üretim `marka-bulutu-os-gorsel-uretim-standardi.md`'ye tabidir.*
 
-### 3.1 Logo konsept yönleri (3 yön)
+### 3.1 Logo — ✅ TEMEL ÖĞE KİLİTLİ: HERMES'İN KANATLI SANDALETİ / TALARIA (Ayhan kararı, 7 Tem 2026)
+**Karar:** Logonun temel öğesi Hermes'in kanatlı sandaleti (Talaria) — hareket, hız, yolculuk ve sınır aşma mitolojisi. Marka anlatısıyla bağı: protez = modern talaria; teknoloji insana hareketini geri verir, insan kendi yoluna döner (Büyük Fikir'le aynı zemin: "ben hazırım"). Hermes ayrıca yolcuların ve geçişlerin tanrısı → uluslararası hasta yolculuğuyla ikinci anlam katmanı.
+
+**Uygulama kuralları (kilitli öğenin sınırları):**
+1. **Soyutlama zorunlu — anatomik ayak/bacak ÇİZİLMEZ.** §3.1 ortak kuralı ("uzuv/protez betimlemesi logoda yok") geçerli kalır: sandalet bir nesne/mit sembolüdür; yorumlar **kanat + adım + akış** soyutlamasından kurulur, ayak formunu betimlemez.
+2. **Mit = sembol dili, sağlık iddiası DEĞİL.** "Tanrısal hız/güç" tipi anlatı dışa dönük metinde kullanılamaz (18/6 abartı yasağı); mitoloji yalnız tasarım gerekçesi ve marka hikâyesi katmanında, ölçülü dille yaşar.
+3. **⚠️ IP/özgünlük bayrağı (Denetmen + avukat):** Kanatlı ayak/sandalet kalabalık bir sembol alanı — Goodyear "Wingfoot", çok sayıda spor/atletizm kulübü amblemi. Tasarım özgün olmalı; tescil öncesi TÜRKPATENT + uluslararası benzerlik taraması avukat gündemine eklenir. "Hermes/Hermès" adı hiçbir kimlik öğesinde geçmez (lüks marka çağrışım/karışıklık riski).
+4. **Kültür kontrolü:** Sembol soyut kaldığı sürece AR/RU pazarlarında nötr; mitolojik referans isimle anılmaz, görsel dil evrensel "kanat/hareket" okuması verir `[AR pazar algı kontrolü lokalizasyon turunda]`.
+
+**Üç yorum yönü (kilitli öğenin işlenişi — eskizler sunuldu):**
+- **Yorum A — "Kanat Detayı":** Minimal wordmark (eski Yön 1'in devamı) + tek karakterde küçük kanat iması (ör. "ğ" aksanı ya da "I" üzerinde iki-üç tüy çizgisi). En sessiz, en premium işleniş; kanat imzaya gömülür.
+- **Yorum B — "Kanatlı Adım":** Bağımsız işaret: bir adımın/topuk yayının arkasından açılan soyut kanat — sandaletin kendisi değil, bıraktığı hareket. Eski Yön 3'ün (Adım Taşları) ritim fikriyle birleşebilir.
+- **Yorum C — "Irmak Kanadı":** Akan ırmak çizgileri kanat tüylerine dönüşür — isim oyunu omurgası (akış) ile Talaria (kanat) tek formda. İki kilitli kavramın sentezi; en özgün ve en ayırt edici aday, işçiliği en yüksek.
+- *Eski 3 yön (Sessiz İmza / İki Kıyı / Adım Taşları) arşivde — A ve B onların mirasını taşır; İki Kıyı düştü.*
+
+#### Eski konsept yönleri (ARŞİV — temel öğe kararı öncesi)
 
 **Yön 1 — "Sessiz İmza" (minimal wordmark + akış detayı)**
 - Özgün kesimli, minimal wordmark; tek karakter-detayında ince bir akış hattı (ör. "Irmak"taki *I–r* bağlantısında ya da "ğ" aksanında suyun tek çizgilik iması).
