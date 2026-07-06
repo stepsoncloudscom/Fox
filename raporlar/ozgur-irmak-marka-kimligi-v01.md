@@ -27,6 +27,8 @@
 İsim tesadüf değil: **Özgür Irmak** — özgürlük + akış. Protez bir kısıtın çözümü değil, **hareketin yeniden başladığı an**dır. Usta ellerde, doğru teknolojiyle, kişiye özel çözümle — insan kendi hikâyesini yazmaya döner. Dışarıdan bakan "ne kadar güçlü" demez; içeriden yaşayan **"ben hazırım"** der.
 
 ### 1.3 Değerler
+
+> ✅ **AYHAN DEĞER SETİ (6 Tem, 3.-4. tur — ham girdi, "ruh Ayhan'da"):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim **+ Enerji · Güç** (4. tur eki). Aşağıdaki 5'li liste bir sonraki revizyonda bu 11 kelimeyle uzlaştırılır (yeni gelenler: **Cesaret, Bilim, Bilgi, Samimiyet, Enerji, Güç**; renk keşfi 3.-4. turları bu set üzerine kuruldu). Çeviri kuralları: özgürlük=boşluk · dürüstlük=süssüzlük · **güç=kontrast** · **enerji=hareket/ritim + doygun aksan** — bunlar renk değil sistem kuralı olarak brand book'a girer. Not: "güç" aynı zamanda onur doktrininin çekirdeği (acıma değil güç anlatısı) — değer setiyle misyon dili burada birleşiyor.
 1. **Ustalık & zanaat** — 20 yıllık uygulama birikimi; atölye gerçeği. `[süre/başlangıç yılı DOĞRULANACAK]`
 2. **Hareket özgürlüğü** — markanın var oluş nedeni; ismin vaadi.
 3. **Kanıt & şeffaflık** — fazlasını söylemeyen, belgeleyebildiğini söyleyen dil (uyum rejimiyle aynı yön: etik = mevzuat).
@@ -198,7 +200,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 ### 5.1 Yön kararları — durum (2. tur, 6 Tem 2026)
 1. **Tagline: ✅ KARAR — Kombinasyon** (B ana + A uluslararası + C içerik kapanışı; koşullar §2.2 — B kıdem teyidine bağlı, fallback A).
 2. **Logo yönü: ⏸ ERTELENDİ** (Ayhan: "daha sonra bakacağız") — üretim fazı açılmadı; 3 yön masada duruyor, Denetmen U3 işlendi.
-3. **Renk: 🔄 KEŞİF TURU AÇILDI** (Ayhan kararı) — petrol+bakır varsayımı açıldı; 2-3 farklı palet ekseni karşılaştırmalı sunulacak, seçim görerek yapılacak. Denetmen N1 testi (yeşilin "sağlık/wellness yeşili" refleksiyle karışma riski) keşif turuna girdi olur.
+3. **Renk: 🔄 KEŞİF TURU — 4 tur tamamlandı, 3 FİNALİST derinleştirildi (6-7 Tem):** 15 eksen üretildi (tur 1: kategori/estetik · tur 2: +açık-zemin stratejisi · tur 3: Ayhan 9-değer setinden · tur 4: +Enerji/Güç). **Finalistler: Eksen 15 "güçlü sentez"** (ırmak gecesi #0C2B2E + canlı kor #D4602B + ten + boşluk; 11 değer) · **Eksen 12 "dingin sentez"** (ırmak-mürekkebi #123A3C + kor #C1502E; ölçülü kontrast) · **Eksen 13 "gece + kor"** (#14181A + #E8752C; en sert güç). Dört yüzeyde (web başlığı/kartvizit/sosyal kart/tabela) + ton varyantlarıyla yan yana sunuldu — **Ayhan final seçimi bekleniyor.** Hex'ler gösterge; seçim sonrası WCAG ölçümü + Denetmen N1 "sağlık yeşili" ayrışma testi + kor doz kuralı (aksan ≤%10) üretimde sabitlenir.
 4. Strateji'deki **Karar 1** (ceza geçmişi) ve **mimari kararı** açık — kuplaj durumu üst banner'da (görsel bağımsız, ses ekseni Karar 1'e kısmen kuplajlı).
 
 ### 5.2 [DOĞRULANACAK] listesi (kapanmadan kesin iddia yok — Anayasa §11.5)
