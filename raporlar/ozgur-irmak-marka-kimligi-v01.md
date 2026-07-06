@@ -149,20 +149,27 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 - **§11.B "premium palet tuzağı" öz-denetimi:** Kimlik yükü Irmak Gecesi'ndedir (ayırt edici ana renk); kor tek ve gerekçeli aksandır (cesaret/enerji), ten ve kırık beyaz yalnız nötrdür. Üretim fazında Denetmen tekrar sorar.
 - **Üretim testleri (seçim sonrası zorunlu):** ① WCAG kontrast matrisi (tüm çiftler, render ölçümü) ② Denetmen N1: "sağlık/wellness yeşili" ayrışma testi (kategori yeşilleri yan yana) ③ kor'un küçük boyut/baskı davranışı.
 
-### 3.3 Tipografi sistemi (3 yazı sistemi: Latin + Kiril + Arap — sert kısıt)
+### 3.3 Tipografi — ✅ KİLİTLİ: A + B HİBRİT (Ayhan kararı, 7 Tem 2026)
 **Sorun tanımı (medikal paket D.2):** Latin marka fontlarının çoğu Kiril taşır ama Arapça taşımaz; Arapça için karakter olarak eşleşen **eş font (companion)** seçilir. Glyph körlüğü 3 yazı sisteminde de yasak.
 
-**Sistem A — ÖNERİLEN: IBM Plex süper-ailesi**
-- Başlık + gövde: **IBM Plex Sans** (Latin + Kiril kapsamı var) · Arapça: **IBM Plex Sans Arabic** (aynı aile içinde tasarlanmış companion) · Editorial vurgu/alıntı katmanı: IBM Plex Serif `[Plex Serif Kiril kapsamı DOĞRULANACAK]`.
-- Lisans: SIL OFL (açık), Google Fonts'ta mevcut — web+baskı+ofis sorunsuz. `[Plex Sans Arabic'in ağırlık seti ve Google Fonts güncel sürümü üretim öncesi teyit]`
-- Karakter: mühendislik hassasiyeti + humanist sıcaklık — "usta + teknoloji" ikilisinin tipografik karşılığı; jenerik medikal Helvetica düzleminden ayrışır.
+**Karar:** IBM Plex ana sistem + Lora yalnızca özel editorial anlarda. Üç sistem karşılaştırması (A Plex / B Lora+Noto+Amiri / C Noto) 4 dilde marka renkleri üzerinde sunuldu → Ayhan hibriti seçti.
 
-**Sistem B — Daha editorial alternatif: Serif başlık + sans gövde**
-- Başlık: **Lora** (Latin + Kiril kapsamı var, OFL, Google Fonts) — sakin, kaligrafik kökenli serif; "usta imzası" hissi.
-- Gövde: **Noto Sans** (Latin+Kiril) · Arapça: başlıkta **Amiri** (yüksek kontrastlı naskh — Lora'nın editorial ruhuna eş, OFL) + gövdede **Noto Naskh Arabic**.
-- Risk: Üç ayrı aile = daha çok uyum işçiliği; dil başına dizgi kontrolü ağırlaşır.
+**ANA SİSTEM — IBM Plex (her yüzeyde varsayılan):**
+- Başlık + gövde + UI: **IBM Plex Sans** (Latin + Kiril) · Arapça: **IBM Plex Sans Arabic** (aile içi companion). Lisans: SIL OFL, Google Fonts. `[Plex Sans Arabic ağırlık seti + güncel sürüm üretim öncesi teyit]`
+- Karakter: mühendislik hassasiyeti + humanist sıcaklık — ton 50/50 kararı ve "bilim/bilgi" değerinin tipografik karşılığı.
+- **IBM Plex Serif sistemden ÇIKARILDI** (hibritte tek serif kuralı — çift serif karmaşası önlenir; Kiril-teyit açığı da böylece kapandı).
 
-**Sistem C — Güvenli taban (yedek):** Noto süper-ailesi uçtan uca (Noto Sans/Serif + Noto Naskh Arabic). Garantili kapsama, sıfır glyph riski; bedeli karakter — jenerik durabilir. Ancak dijital ürünün derin katmanlarında (form, UI, e-posta) her koşulda güvenli yedektir.
+**EDİTORYAL KATMAN — Lora (+ Amiri, KAPALI LİSTE):**
+- **Lora** (OFL, Latin+Kiril) yalnızca şu yüzeylerde: ① basılı brand book bölüm açılışları ② marka manifestosu / "Hakkında" hikâye sayfası açılış bloğu ③ sertifika/davetiye tipi özel basılı işler. **Web gövdesinde ve günlük sosyal üretimde KULLANILMAZ.**
+- Lora'lı yüzeyde Arapça gerekirse eşi **Amiri** (yüksek kontrast naskh, OFL); RU'da Lora'nın kendi Kiril'i `[kapsam üretimde glyph testiyle teyit]`.
+- **Disiplin kuralı:** Liste kapalıdır — listede olmayan her yüzey Plex kullanır. Lora'nın sızması (sosyal post başlığına vb.) yanlış kullanımdır (§4.3'e eklendi sayılır).
+
+**DERİN KATMAN YEDEĞİ — Noto:** Form/e-posta/UI fallback yığını: Noto Sans + Noto Naskh Arabic. CSS font stack'inde her zaman tanımlı.
+
+**Hiyerarşi (gösterge — brand book'ta ölçekle sabitlenir):**
+- Display/H1: Plex Sans SemiBold · H2-H3: Plex Sans Medium · Gövde: Plex Sans Regular · Caption/etiket: Plex Sans Regular küçük boy · Wordmark dizgisi: ayrı tasarım kararı (logo üretim fazı).
+- Editorial an: Lora Medium (başlık) / Lora Regular italik (alıntı).
+- AR karşılıkları aynı hiyerarşiyle Plex Sans Arabic'ten; RTL'de hizalama/ikon yönü D.1 kuralına tabi.
 
 **4-dil glyph test protokolü (kimlik onayından ÖNCE — uygulama adımı, zorunlu):**
 1. Seçilen sistemle 4 dilde aynı örnek sayfa dizilir: başlık + gövde + rakamlar.
@@ -200,6 +207,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 - Logo: oranları bozma · gölge/kontur/gradyan ekleme · düşük kontrastlı zemine koyma · fotoğraf üstünde temiz alansız kullanma · wordmark'ı çevirme (AR dahil) · eski logo ile birlikte kullanma.
 - Renk: paleti mavi-klinik yönüne kaydırma · iki aksan birden kullanma · doygunluğu yükseltme (neon petrol/turuncu).
 - Dil: kırmızı kuşak kelimeleri (§2.4) · ünlem/aciliyet · geçmiş-atıflı anlatı ("yenilendik") · seçicilik iması.
+- Tipografi: Lora'yı kapalı liste dışına taşırma (web gövdesi, sosyal post) · Plex yerine keyfi font · AR metni Latin fontla dizme (kutu karakter/yanlış bağlanma).
 - Görsel: stok fotoğraf · AI yüz · acıma kadrajı · steril katalog ışığı.
 
 ### 4.4 Üretim disiplini
@@ -219,7 +227,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 ### 5.2 [DOĞRULANACAK] listesi (kapanmadan kesin iddia yok — Anayasa §11.5)
 1. **"1999'dan beri" / "20 yıl"** başlangıç yılı — belge teyidi (Tagline B buna bağlı; teyitsiz yayınlanmaz).
 2. Tedarik ortaklıklarının (Ottobock/Össur/Freedom…) **güncel/aktif yetki belgeleri** — logo ve isim kullanımı belgeye bağlı (avukat S8).
-3. **IBM Plex Serif Kiril kapsamı** + Plex Sans Arabic ağırlık seti/Google Fonts güncel durumu (Plex Sans Latin+Kiril ve Plex Sans Arabic'in varlığı bilinen; sürüm/kapsam detayı üretim öncesi teyit edilir).
+3. **Plex Sans Arabic ağırlık seti/Google Fonts güncel durumu** + **Lora Kiril kapsamı** (Plex Serif sistemden çıkarıldığı için onun teyidi düştü; hibrit kararının teyit noktaları bunlar — 4-dil glyph testinde kapanır).
 4. Tagline **AR/RU çevirileri** — yerel dil medikal/dil kontrolü.
 5. AR sayfalarda **rakam sistemi** kararı (Batı / Arap-Hint) — lokalizasyon.
 6. **HealthTürkiye logo** kullanım şartları (M.8 / avukat S14) — uluslararası lockup kuralını etkiler.
