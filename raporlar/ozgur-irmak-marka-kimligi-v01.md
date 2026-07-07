@@ -5,7 +5,7 @@
 > ⚖️ **UYUM BANNER'I (gate — pazarlık dışı):** Bu belgedeki **her dışa dönük dil öğesi** (tagline adayları, mesaj örnekleri, kelime listeleri dahil) yayın öncesi **avukat onayı gate'inden** geçer: hazırla → Denetmen → avukat → Ayhan → yayın. Tüm dil YEŞİL KUŞAK rejiminde taslanmıştır (bilgilendiren dil; satın aldıran/kampanya dili yok — cihaz yön. 15/2 + sağlık yön. M.4-5). Fox/Branding Ajanı avukat değildir.
 
 > ✅ **AYHAN KARARLARI (6 Tem 2026 — kilitli parametreler):**
-> ① **Marka mimarisi = HİBRİT** — kurum markası önde; ustanın 20 yıllık kişisel güven mirası kanıt katmanı olarak içeride (hikâye, E-E-A-T, sorumlu müdür görünürlüğü). Kimlik ustanın portresi üzerine kurulmaz; kişiye bağımlılık sınırlanır, isim sermayesi korunur.
+> ① **Marka mimarisi = HİBRİT** — kurum markası önde; ustanın 30 yıllık kişisel güven mirası kanıt katmanı olarak içeride (hikâye, E-E-A-T, sorumlu müdür görünürlüğü). Kimlik ustanın portresi üzerine kurulmaz; kişiye bağımlılık sınırlanır, isim sermayesi korunur.
 > ② **Ton ekseni = DENGELİ 50/50** — usta sıcaklığı ve yüksek teknoloji eşit ağırlıkta. Ne salt zanaat-nostaljisi ne klinik-teknoloji vitrini; her anlatı biriminde iki kanıt türü birlikte durur (bkz. §2.3 ton dengesi kuralı).
 > ③ **İsim oyunu = OMURGA** — "Özgür (özgürlük) + Irmak (akış)" çift katmanı marka felsefesinin merkezi; tagline ve görsel metaforda taşınır, EN/AR/RU'da anlam köprüsünü içerik kurar.
 
@@ -16,10 +16,10 @@
 ## 1 · MARKA ÖZÜ
 
 ### 1.1 Konumlandırma cümlesi (Strateji halkasından devralındı — yeniden icat edilmedi)
-**TR:** Yirmi yıllık ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.
-**EN:** Two decades of mastery, today's technology — a new standard in freedom of movement.
+**TR:** Otuz yıllık ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.
+**EN:** Three decades of mastery, today's technology — a new standard in freedom of movement.
 
-*⛔ Kıdem çapası notu (Denetmen Z1):* "Yirmi yıl / two decades" dahil tüm kıdem ifadeleri belge teyidine kadar **dış kullanımda kesinleştirilmez**; teyit sonrası kanonik değer tek kaynaktan (bu belge) tüm ajanlara/kanallara yayılır — her ajan kendi rakamını taşıyamaz.
+*✅ KANONİK KIDEM ÇAPASI (Ayhan beyanı, 7 Tem 2026): **30 yıl → 1996 başlangıç.** Tek kaynak bu belgedir — tüm ajanlar/kanallar bu değeri kullanır, kimse kendi rakamını taşıyamaz (Denetmen Z1 mekanizması). Yayın öncesi müşteri belge teyidi düşük-riskli şart olarak korunur (rakam müşteriye ait olgu).*
 
 *Kalibrasyon: Össur "Life Without Limitations" ampütenin bakış açısından; bizimki ustanın/klinisyenin güvencesinden. Tamamlayıcı, taklit değil.*
 
@@ -29,7 +29,7 @@
 ### 1.3 Değerler
 
 > ✅ **AYHAN DEĞER SETİ (6 Tem, 3.-4. tur — ham girdi, "ruh Ayhan'da"):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim **+ Enerji · Güç** (4. tur eki). Aşağıdaki 5'li liste bir sonraki revizyonda bu 11 kelimeyle uzlaştırılır (yeni gelenler: **Cesaret, Bilim, Bilgi, Samimiyet, Enerji, Güç**; renk keşfi 3.-4. turları bu set üzerine kuruldu). Çeviri kuralları: özgürlük=boşluk · dürüstlük=süssüzlük · **güç=kontrast** · **enerji=hareket/ritim + doygun aksan** — bunlar renk değil sistem kuralı olarak brand book'a girer. Not: "güç" aynı zamanda onur doktrininin çekirdeği (acıma değil güç anlatısı) — değer setiyle misyon dili burada birleşiyor.
-1. **Ustalık & zanaat** — 20 yıllık uygulama birikimi; atölye gerçeği. `[süre/başlangıç yılı DOĞRULANACAK]`
+1. **Ustalık & zanaat** — 30 yıllık uygulama birikimi (1996'dan beri — kanonik çapa §1.1); atölye gerçeği.
 2. **Hareket özgürlüğü** — markanın var oluş nedeni; ismin vaadi.
 3. **Kanıt & şeffaflık** — fazlasını söylemeyen, belgeleyebildiğini söyleyen dil (uyum rejimiyle aynı yön: etik = mevzuat).
 4. **Onur** — insan özne; acıma yok, ilham pornosu yok, seçicilik sinyali yok.
@@ -60,7 +60,7 @@
 | Aday | TR | EN | Gerekçe / risk notu |
 |---|---|---|---|
 | **A — Duygusal** | **Hayat, kendi akışında.** | Life, in its own flow. | İsimle (Irmak) doğal bağ; vaat değil betimleme. Büyük Fikir'in en saf hâli. Risk: soyut kalabilir; tek başına kategori söylemez (descriptor'la birlikte çalışır). |
-| **B — Otorite** | **[YIL]'dan beri ustalık, bugünün teknolojisiyle.** | Mastery since [YEAR], with today's technology. | Kanıt konuşur (Luxmed dersi: ispatsız üstünlük yasak — iddia yok, belgelenebilir tarih var). Konumlandırma cümlesinin kısa hâli. ⛔ **Denetmen Z1:** İlk taslaktaki "1999" kaynak belgelerde yoktu (kaynaksız türetim) ve "20 yıl" ifadeleriyle çelişiyordu (1999→2026=27 yıl) → parametreye çevrildi. **Kanonik kıdem çapası belge teyidiyle tek kaynaktan sabitlenir; teyide kadar hiçbir kıdem ifadesi (yıl sayısı dahil) kesin cümlede kullanılmaz.** |
+| **B — Otorite** | **1996'dan beri ustalık, bugünün teknolojisiyle.** | Mastery since 1996, with today's technology. | Kanıt konuşur (Luxmed dersi: ispatsız üstünlük yasak — iddia yok, belgelenebilir tarih var). Konumlandırma cümlesinin kısa hâli. ✅ **Kıdem çapası dolduruldu (Ayhan, 7 Tem): 30 yıl / 1996.** Z1 mekanizması geçerli: tek kaynak bu belge; yayın öncesi müşteri belge teyidi korunur. |
 | **C — Eylem** | **Adım adım, birlikte.** | Step by step, together. | "Birlikte çözeriz" tonunun sloganlaşmışı; süreç ve takip vaadini insani dille taşır. Emir kipi yok → talep-yaratma riskine en uzak eylem formu. |
 
 - ✅ **AYHAN KARARI (6 Tem, 2. tur): KOMBİNASYON** — **B ana tagline** (kurumsal/TR) + **A uluslararası duygusal katman** + **C hasta-yolculuğu içeriklerinin kapanış cümlesi.** Koşullar (Denetmen U1-U2): ① B'nin yayını kıdem çapasının belge teyidine bağlı; **teyit gelmezse B düşer, A ana adaya yükselir ve karar Ayhan'a döner** (fallback tanımlı). ② A, protez bağlamında örtük sonuç okumasına açık (18/6 "başarı beklentisi") — **avukat gate'inde sarıya kayabilir**, özel işaretle sunulur.
@@ -69,7 +69,7 @@
 ### 2.3 Marka sesi — ton kuralları
 **Register tanımı:** Sade, kanıtlı, sıcak-profesyonel. Fazlasını söylemez; söylediğini belgeleyebilir. Klinik-steril değil, kişisel-usta. Aciliyet ve kampanya dili hiç yok.
 
-1. **Kanıt konuşur:** Sıfat yerine belge — "en iyi merkez" değil, "1999'dan beri uygulama `[DOĞRULANACAK]`, Ottobock ve Össur ekosistemi ile çalışan merkez `[tedarik yetki belgesi şartıyla]`."
+1. **Kanıt konuşur:** Sıfat yerine belge — "en iyi merkez" değil, "1996'dan beri uygulama, Ottobock ve Össur ekosistemi ile çalışan merkez `[tedarik yetki belgesi şartıyla]`."
 2. **Bilgilendir, satma:** Her metin "hasta neyi öğrenmiş oldu?" testinden geçer. Cihaz anlatımı üreticinin teknik verisiyle sınırlı; övgü sıfırdır (15/2 bilgilendirme istisnası bu dilin yasal yatağıdır).
 3. **Birlikte dili:** "Size yapıyoruz" değil "birlikte çözüyoruz." Süreç anlatımı hep ortak fiillerle: değerlendiriyoruz, ölçüyoruz, deniyoruz, ayarlıyoruz.
 4. **Özne hasta değil, birey:** "Ampüte hastalarımız" değil "protez kullanıcıları / bireyler." Kimse "vaka" değildir; kolay/zor vaka dili iç yazışmada bile kullanılmaz (dile sızar).
@@ -86,7 +86,7 @@
 
 ### 2.4 Kelime listeleri (compliance listesiyle hizalı — İçerik Ajanı'na zorunlu ek)
 **KULLAN (yeşil kuşak):**
-süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "[YIL]'dan beri" `[kıdem çapası — belge teyidi ŞART, Denetmen Z1]` · çözüm ortağı ekosistemi `[belge şartıyla]` · sorumlu müdür / yetki belgesi (güven sinyali olarak görünür)
+süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "1996'dan beri" / "30 yıl" `[kanonik çapa — Ayhan beyanı; yayın öncesi müşteri belge teyidi]` · çözüm ortağı ekosistemi `[belge şartıyla]` · sorumlu müdür / yetki belgesi (güven sinyali olarak görünür)
 
 **KAÇIN (kırmızı kuşak — mevzuat + marka sesi + AI-klişe):**
 - *Mevzuat (18/6 + M.5):* en iyi · tek · lider · garantili · kesin çözüm · %X başarı · mucize · "hayatınızı değiştirir" · kampanya · indirim · fırsat · hemen arayın · sınırlı süre · rakip karşılaştırması · izinsiz öncesi/sonrası · izinsiz hasta övgüsü/testimonial (yurt içi)
@@ -112,7 +112,7 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 - **① Kanat işareti** (imza/damga ölçeği): üç konik tüy — üstteki ikisi Irmak Gecesi/beyaz, alttaki kor; ırmak akışı + Talaria kanadı tek formda. Büyük yüzeylerde (web hero, tabela arkası, film jeneriği).
 - **② Ö monogramu** (avatar/favicon ölçeği): halka + umlaut yerine sağa süpüren iki kor tüy — kanat DNA'sı markanın kendi harfine gömülü; kimseyle karışmaz, küçük boyutta okunur.
 - **③ Wordmark**: OZGÜR IRMAK dizgisi (Plex Sans SemiBold, geniş letterspacing) + Ö'nün noktaları aynı tüy çiftine dönüşür. Yatay lockup: monogram + wordmark.
-- **Durum: ⏸ PARK (Ayhan, 7 Tem: "uzun bir süre görsele odaklanmayacağız").** Kaldığımız yer: ① Fox'un el-eskizi hattı KAPANDI (iki kez "amatör" reddi → kalıcı ders: logo craft Fox'ta değil, memory `logo-vektor-uretimi-fox-yapmaz`). ② AI araç hattı (Ayhan kararı) ilk turu attı: Canva 4 aday üretti, Fox süzgecinden **Aday C** geçti (katmanlı petrol+bakır tüy + Ö iması; Canva design `DAHOqBBB7Lw`, view: canva.com/d/THL3-DUz4MTGNVZ) — Ayhan yön onayı VERİLMEDİ, park halinde. ③ Dönüşte ilk adım: C yön onayı → rafinasyon turu (Plex wordmark + tam kilitli hex + nokta konumu) → vektörize (Adobe MCP yetkilendirmesi bu adımı güçlendirir) → tescil taraması (avukat) → Denetmen.
+- **Durum: 🔒 BAŞLIK KAPALI (Ayhan, 7 Tem: "logo başlığı şu an için kapalı").** Kaldığımız yer: ① Fox'un el-eskizi hattı KAPANDI (iki kez "amatör" reddi → kalıcı ders: logo craft Fox'ta değil, memory `logo-vektor-uretimi-fox-yapmaz`). ② AI araç hattı (Ayhan kararı) ilk turu attı: Canva 4 aday üretti, Fox süzgecinden **Aday C** geçti (katmanlı petrol+bakır tüy + Ö iması; Canva design `DAHOqBBB7Lw`, view: canva.com/d/THL3-DUz4MTGNVZ) — Ayhan yön onayı VERİLMEDİ, park halinde. ③ Dönüşte ilk adım: C yön onayı → rafinasyon turu (Plex wordmark + tam kilitli hex + nokta konumu) → vektörize (Adobe MCP yetkilendirmesi bu adımı güçlendirir) → tescil taraması (avukat) → Denetmen.
 - *Eski 3 yön (Sessiz İmza / İki Kıyı / Adım Taşları) arşivde — aile A ve C'nin mirasını taşır.*
 
 #### Eski konsept yönleri (ARŞİV — temel öğe kararı öncesi)
@@ -242,7 +242,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 4. Strateji'deki **Karar 1** (ceza geçmişi) ve **mimari kararı** açık — kuplaj durumu üst banner'da (görsel bağımsız, ses ekseni Karar 1'e kısmen kuplajlı).
 
 ### 5.2 [DOĞRULANACAK] listesi (kapanmadan kesin iddia yok — Anayasa §11.5)
-1. **"1999'dan beri" / "20 yıl"** başlangıç yılı — belge teyidi (Tagline B buna bağlı; teyitsiz yayınlanmaz).
+1. ✅ ÇÖZÜLDÜ (7 Tem): Kanonik kıdem = **30 yıl / 1996** (Ayhan beyanı). Kalan: yayın öncesi müşteri belge teyidi (düşük risk).
 2. Tedarik ortaklıklarının (Ottobock/Össur/Freedom…) **güncel/aktif yetki belgeleri** — logo ve isim kullanımı belgeye bağlı (avukat S8).
 3. **Plex Sans Arabic ağırlık seti/Google Fonts güncel durumu** + **Lora Kiril kapsamı** (Plex Serif sistemden çıkarıldığı için onun teyidi düştü; hibrit kararının teyit noktaları bunlar — 4-dil glyph testinde kapanır).
 4. Tagline **AR/RU çevirileri** — yerel dil medikal/dil kontrolü.
