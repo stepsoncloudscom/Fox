@@ -112,7 +112,7 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 - **① Kanat işareti** (imza/damga ölçeği): üç konik tüy — üstteki ikisi Irmak Gecesi/beyaz, alttaki kor; ırmak akışı + Talaria kanadı tek formda. Büyük yüzeylerde (web hero, tabela arkası, film jeneriği).
 - **② Ö monogramu** (avatar/favicon ölçeği): halka + umlaut yerine sağa süpüren iki kor tüy — kanat DNA'sı markanın kendi harfine gömülü; kimseyle karışmaz, küçük boyutta okunur.
 - **③ Wordmark**: OZGÜR IRMAK dizgisi (Plex Sans SemiBold, geniş letterspacing) + Ö'nün noktaları aynı tüy çiftine dönüşür. Yatay lockup: monogram + wordmark.
-- **Durum:** Yön kanıtı düzeyinde rafine eskiz — Ayhan aile-yönü onayı bekliyor. Final vektör işçiliği (tüy optik dengeleri, gerçek Ö-aksan konumu, temiz alan/grid, negatif varyantlar) üretim fazında; ardından tescil benzerlik taraması (avukat) + Denetmen görsel denetimi.
+- **Durum: ⏸ PARK (Ayhan, 7 Tem: "uzun bir süre görsele odaklanmayacağız").** Kaldığımız yer: ① Fox'un el-eskizi hattı KAPANDI (iki kez "amatör" reddi → kalıcı ders: logo craft Fox'ta değil, memory `logo-vektor-uretimi-fox-yapmaz`). ② AI araç hattı (Ayhan kararı) ilk turu attı: Canva 4 aday üretti, Fox süzgecinden **Aday C** geçti (katmanlı petrol+bakır tüy + Ö iması; Canva design `DAHOqBBB7Lw`, view: canva.com/d/THL3-DUz4MTGNVZ) — Ayhan yön onayı VERİLMEDİ, park halinde. ③ Dönüşte ilk adım: C yön onayı → rafinasyon turu (Plex wordmark + tam kilitli hex + nokta konumu) → vektörize (Adobe MCP yetkilendirmesi bu adımı güçlendirir) → tescil taraması (avukat) → Denetmen.
 - *Eski 3 yön (Sessiz İmza / İki Kıyı / Adım Taşları) arşivde — aile A ve C'nin mirasını taşır.*
 
 #### Eski konsept yönleri (ARŞİV — temel öğe kararı öncesi)
