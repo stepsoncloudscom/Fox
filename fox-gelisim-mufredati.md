@@ -132,6 +132,8 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - **Syla outreach yanıt takibi** — ⚠️ 1 Tem eşiği GEÇTİ (bugün 3 Tem). Gönderim durumu Ayhan'dan teyit + takip döngüsü kararı. OPERASYONEL — beklemez.
 - **Ala Skateboards Tuncay mesajı (29 Haz)** — 24+ gün sessizlik; baskı durumu teyit + ilişki canlı tutma. Kısa taslak Ayhan'a sunulacak (Kademe 1).
 - **Beymen 2. taslak — Boga veya Aida Bergsen (29 Haz)** — Mehry Mu onaylı şablona göre analiz + onaya getir. Tek-tek; kalıba sokma, marka-gözlem ilk cümle kuralı.
+- **Beymen 4-marka nazik takip (9 Tem)** — Aida Bergsen/Boga/Urart/Mehry Mu: ~1 hafta eşiği 3 gün önce geçti, taslak hazırlanıp Ayhan onayına sunulacak.
+- **Görüşme sonucu teyitleri (9 Tem)** — Jendue (Pil Curtis, 1 Tem), Meltem Aybar (1/2 Tem slot), Ro&Glo ve Fickle Hearts (6 Tem, davetliler hâlâ "needsAction") — dördü de Notion'da sonuçsuz görünüyor; Ayhan'dan kısa teyit istenecek, gelince Notion güncellenecek.
 - ~~**Denetmen Faz 1 değerlendirme özeti (24 Haz)**~~ ✅ 29 Haz Morning Brief'te tamamlandı — 1 Tem toplantısına hazır.
 
 ### 24 Haziran 2026 — Morning Brief:
@@ -181,7 +183,24 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - **Canlı kalibrasyon korpusu** kuruldu: her onay/red işlenir; 2+ tekrar → örüntüye yükselir (hafıza protokolü L1→L2 eşiğiyle aynı mekanizma).
 - CLAUDE.md §10 güncellendi: **fazlar kapandı; gelişim artık günlük müfredat + çeyreklik review ritmiyle sürer.**
 
-### Açık/Bekleyen Sistem Aksaklıkları (çözülünce düşülecek):
+### 9 Temmuz 2026 — Morning Brief:
+
+**[Aktif Kuyruk] Syla outreach takibi — hâlâ AÇIK, eşik 8 gündür geçti**
+- 1 Tem eşiği geçeli 8 gün oldu, hâlâ Ayhan'dan gönderim/durum teyidi gelmedi. Bugünkü brifingde Karar Formülüyle tekrar önüne kondu (talep+bağlam+öneri+termin). Kaldıraç: tekrarlayan-hatırlatma yerine tek karar kartına sıkıştırmak — gürültü değil karar üretiyor.
+
+**[Cephe Sahipliği] Beymen 4-marka takip eşiği 3 gün önce doldu**
+- Aida Bergsen/Boga/Urart/Mehry Mu'ya 29 Haz'da gönderilen ilk mailin "~1 hafta sonra (≈6 Tem) nazik takip" eşiği 3 gün önce geçti. Ayhan hatırlatmadan Fox gündemine aldı (Anayasa §Katman1.5 cephe sahipliği tam bu). Aksiyon: taslak hazırlanacak, Ayhan onayı ile gönderilecek.
+
+**[Stoacı Disiplin] Kontrol ayrımı — 60+ TAG-KLOI lead'i**
+- İkilem: karşı tarafın yanıt verip vermemesi kontrolümüzde değil; mesaj kalitesi + takip disiplini + doğru zamanlama kontrolümüzde. Bugüne kaldıraç: pipeline'daki "neden yanıt yok" kaygısını "gönderdiğim ikinci temas doğru muydu, takip zamanlaması doğru mu" sorusuna çevir — sonucu değil süreci denetle.
+
+**[Hata Günlüğü] Notion–Takvim çapraz kontrol açığı (YENİ örnek, 11 Haz kuralının tekrarı)**
+- Esti Living: Notion "2. temas gönderildi, yanıt bekleniyor" diyordu; takvimde 3 Temmuz'dan beri 14 Tem 14:00 onaylı görüşme kayıtlıydı — bu brifingde yakalanıp Notion güncellendi (Durum→Görüşme, Sonraki Aksiyon yenilendi). Aynı sınıf belirsizlik dört yerde daha var: Jendue (Pil Curtis 1 Tem randevusu sonucu Notion'da yok), Meltem Aybar (1/2 Tem slot sonucu yok), Ro&Glo ve Fickle Hearts (6 Tem'e kurulan görüşmeler — davetli taraf hâlâ "needsAction", gerçekleşip gerçekleşmediği belirsiz) — hepsi Ayhan'a soru olarak brifingde gitti. **Kural genişletildi (11 Haz kuralının ikinci uygulanışı):** her morning-brief, Notion "Sonraki Aksiyon" metninde geçmiş tarih geçen satırları tarar ve takvimle çapraz kontrol eder — geçmiş tarih + çözülmemiş not = otomatik soru.
+
+**[Serbest Keşif] TAG-KLOI ilk-hafta dönüşüm oranı**
+- 29 Haz'daki 2. temas dalgasından bugüne (11 gün) 4 marka "Görüşme" statüsüne geçti (Jendue, Ro&Glo, Fickle Hearts, Meltem Aybar) — ~65 lead üzerinden ~%6 lead→görüşme dönüşümü. Soğuk B2B outreach'te tipik yanıt oranı %2-5 bandına göre bu iyi bir ilk-hafta sinyali (mesaj kalitesi + marka-gözlem ilk cümle kuralının işlediğine dair Tip B kanıt — kesin performans iddiası değil, gözlem).
+
+
 - **Canva brand kit** — programatik kurulamıyor, Ayhan'ın manuel kurması bekleniyor.
 - **gmail-personal** (stepsonclouds@gmail.com) — ikinci hesap OAuth tamamlanmadı.
 - **Scheduled task'lar** — henüz "Run now" ile pre-approve edilmedi; ilk çalışmada izin isteyebilir.
@@ -210,3 +229,4 @@ Gelişim "okudum" değil, **"Ayhan'a kaldıraç oldu mu?"** ile ölçülür.
 
 ---
 *Sürüm: v2.6 · 3 Temmuz 2026 · Fox · v2.6 (Fable 5 derinleştirme oturumu): Estetik müfredatı D1-D5 tam rotasyon (v2) + hafıza protokolü L2/L3 gerçek zincirler (v2) + slop_tarama.py kuruldu. Kuyruktan 3 madde düştü; State of Fashion 2026 + Lululemon elçi planı kuyruğa netleştirilerek yazıldı. Syla takip eşiği geçti — operasyonel bayrak.*
+*v2.7 · 9 Temmuz 2026 · Morning Brief: Notion–Takvim çapraz kontrol açığı yakalandı (Esti Living güncellendi; Jendue/Meltem Aybar/Ro&Glo/Fickle Hearts görüşme sonuçları belirsiz — kural genişledi, 11 Haz kuralının 2. uygulanışı). Kuyruğa eklendi: Beymen 4-marka takip + 4 görüşme sonucu teyidi. Syla eşiği 8 güne çıktı.*
