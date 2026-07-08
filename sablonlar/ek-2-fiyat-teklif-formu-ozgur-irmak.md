@@ -20,7 +20,18 @@
 
 | Kalem | Bedel |
 |---|---|
-| Aylık strateji yönetimi + görsel içerik üretimi ve metinleri (aylık [ADET — netleşecek] içerik) + marka tutarlılık denetimi + aylık raporlama + hukuk-onay koordinasyonu | **85.000 TL / ay** |
+| Aylık strateji yönetimi + görsel içerik üretimi ve metinleri (kanal-adet planı aşağıda) + marka tutarlılık denetimi + aylık raporlama + hukuk-onay koordinasyonu | **85.000 TL / ay** |
+
+**Aylık içerik planı (✅ AYHAN, 8 Tem 2026):**
+
+| Kanal | Adet | Not |
+|---|---|---|
+| YouTube | ayda 4 video | |
+| LinkedIn | ayda 4 post | |
+| Instagram | haftada 3 post (~12-13/ay) | İçerik şekli oranı (reels/karusel/foto) taraflarca ayrıca kararlaştırılır — M.8.5 esnekliği |
+| Facebook | Instagram'da paylaşılan her içerik Facebook'a yansıtılır | Ayna kanal; ek özgün üretim içermez |
+
+*Toplam ~20-21 özgün üretim/ay + Facebook yansıtma. Adetler ÜRETİM adedidir; her içeriğin yayını Ana Sözleşme M.5 hukuki onay akışına tabidir (özellikle sosyal medya rejimi — avukat S11 yanıtına göre kanal içerik türleri kalibre edilir). Aylık karma, bedel değişmeden M.8.5 ile ayarlanabilir.*
 
 - Asgari taahhüt: **12 ay** (Ana Sözleşme M.8.1). 12 aylık taahhüt değeri: **1.020.000 TL**.
 - Faturalama: her ayın [1]'inde peşin (M.3.1). Yenilemede endeksleme: M.8.4; taahhüt-içi TÜFE eşiği: M.3.2.
