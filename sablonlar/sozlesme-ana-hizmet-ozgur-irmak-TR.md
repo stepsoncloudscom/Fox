@@ -45,8 +45,8 @@ g) Ek-2'de açıkça yazılmayan her iş.
 ## 3 · BEDELLER VE ÖDEME
 
 **3.1 — Bedeller** *(tümü Ek-2 Fiyat Teklif Formu'nda; bu sözleşmede rakam yer almaz)*:
-- Tek Seferlik İşler (D1): **[TOPLAM] [PB]** — ödeme planı: [ör. %X imzada avans + %X kimlik onayında + %X web yayınında — AYHAN/Ek-2].
-- Abonelik (D2): **[AYLIK TUTAR] [PB] / ay**, her ayın [1]'inde peşin faturalanır.
+- Tek Seferlik İşler (D1): Ek-2'deki Paket Bedeli — ödeme planı *(✅ AYHAN, 8 Tem)*: **%50 imzada avans + %50 finalde** (final tanımı Ek-2 §A'da: kimlik teslimi + web yayını + sosyal kurulum).
+- Abonelik (D2): Ek-2'deki aylık bedel; **her ayın 1'i ile 5'i arasında** peşin ödenir *(✅ AYHAN, 8 Tem)*.
 
 **3.2 — Para birimi: TL** *(✅ AYHAN KARARI, 8 Tem 2026).* Enflasyon koruması iki mekanizmayla sağlanır: (i) Abonelik bedeli yenileme dönemlerinde Madde 8.4'teki endeksleme ile güncellenir; (ii) Asgari Taahhüt Süresi İÇİNDE dahi, 12 aylık TÜFE'nin **[%X]**'i aşması hâlinde taraflar bedeli güncellemek üzere masaya oturur → **[AVUKAT R10 revize: TL seçildi; taahhüt-içi uyarlama maddesinin geçerli yazımı + endeks seçimi (TÜFE/ÜFE ort.)].**
 

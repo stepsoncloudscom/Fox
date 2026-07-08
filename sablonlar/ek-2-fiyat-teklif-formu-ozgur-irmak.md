@@ -20,7 +20,7 @@
 |---|---|---|
 | D1.d — Profesyonel kampanya çekimi (~4 dk marka filmi + foto seti) | 110.000 TL | Yalnız yazılı iş emriyle (M.2.4) devreye girer; teslim edilmeyen opsiyon hiçbir fark/fatura hesabına GİRMEZ. Gerçek hasta katılımı hâlinde M.6 + Ek-3 ön şart |
 
-**Ödeme planı [ÖNERİ — Ayhan onayı bekliyor]:** %50 imzada avans (50.000 TL) · %25 kimlik tesliminde (25.000 TL) · %25 web yayınında (25.000 TL). Avans iade edilmez [avukat R17].
+**Ödeme planı (✅ AYHAN, 8 Tem 2026):** **%50 imzada avans (50.000 TL) · %50 finalde (50.000 TL)** — "final" = D1 teslim kapsamının tamamlanması (kimlik teslimi + web sitesinin yayına alınması + sosyal kurulum). Avans iade edilmez [avukat R17; yarıda kesilmede hakediş hesabı M.9.3 — %50/%50 kırılımda ara-hakediş tanımı avukatla netleştirilir].
 
 ## B · AYLIK HİZMETLER / ABONELİK (D2)
 
@@ -40,7 +40,7 @@
 *Toplam ~20-21 özgün üretim/ay + Facebook yansıtma. Adetler ÜRETİM adedidir; her içeriğin yayını Ana Sözleşme M.5 hukuki onay akışına tabidir (özellikle sosyal medya rejimi — avukat S11 yanıtına göre kanal içerik türleri kalibre edilir). Aylık karma, bedel değişmeden M.8.5 ile ayarlanabilir.*
 
 - Asgari taahhüt: **12 ay** (Ana Sözleşme M.8.1). 12 aylık taahhüt değeri: **1.020.000 TL**.
-- Faturalama: her ayın [1]'inde peşin (M.3.1). Yenilemede endeksleme: M.8.4; taahhüt-içi TÜFE eşiği: M.3.2.
+- Faturalama: aylık bedel her ayın **1'i ile 5'i arasında** peşin ödenir (✅ AYHAN, 8 Tem; M.3.1). Yenilemede endeksleme: M.8.4; taahhüt-içi TÜFE eşiği: M.3.2.
 - Başlangıç: Kurumsal Çekirdek + web yayını sonrası ayın 1'i (M.2.2).
 
 ## C · KAPSAM DIŞI (hatırlatma — M.2.3)
