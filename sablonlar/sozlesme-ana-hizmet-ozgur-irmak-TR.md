@@ -27,7 +27,7 @@ Bu sözleşme ("**Ana Sözleşme**"), ekleriyle birlikte tek bir bütündür. **
 
 **2.1 — Tek Seferlik İşler (D1):** Ajans, Müşteri için aşağıdaki kalemleri üretir *(granüler kapsam: Ek-2 Fiyat Teklif Formu ve ekindeki iş kalemi listesi)*:
 a) **Kurumsal Çekirdek:** konumlandırma, isim/tagline ve marka mimarisi kararı, logo tasarımı (varyasyonlarıyla) ve kullanım kuralları, renk paleti, tipografi sistemi (TR/EN/AR/RU — Latin+Kiril+Arap glyph kapsamı), marka sesi, brand guide, temel uygulama şablonları;
-b) **Sistem Kuruluşu:** web sitesi (Wix platformu, [4 dil: TR/EN/AR/RU — nihai dil/mimari kararı Madde 5.4'e tabi], Arapça RTL desteği), sosyal medya kurulumu (YouTube, Instagram, Facebook, LinkedIn — profil + görsel kit + şablonlar), **1 (bir) kampanya çekimi** (~4 dk marka filmi + fotoğraf seti; kapsam ve koşulları Ek-2'de; gerçek hasta katılımı hâlinde Madde 6 ve Ek-3 ön şarttır).
+b) **Sistem Kuruluşu:** web sitesi (Wix platformu, [4 dil: TR/EN/AR/RU — nihai dil/mimari kararı Madde 5.4'e tabi], Arapça RTL desteği), sosyal medya kurulumu (YouTube, Instagram, Facebook, LinkedIn — profil + görsel kit + şablonlar; Ek-2'de jest kalemi), **lansman içerik prodüksiyonu:** Müşteri'nin mevcut görüntüleriyle hazırlanır (Ek-2 jest kapsamı). **Profesyonel kampanya çekimi** (~4 dk marka filmi + fotoğraf seti) kapsama dâhil DEĞİLDİR — Ek-2'de fiyatlanmış opsiyonel kalemdir; yazılı iş emriyle (Madde 2.4) devreye girer; gerçek hasta katılımı hâlinde Madde 6 ve Ek-3 ön şarttır.
 
 **2.2 — Aylık Hizmetler / Abonelik (D2):** Aylık strateji yönetimi + görsel içerik üretimi ve içerik metinleri (aylık [ADET] içerik — Ek-2'de), marka tutarlılığı denetimi, aylık raporlama ve değerlendirme, hukuk-onay koordinasyonu (Madde 5). Abonelik, Tek Seferlik İşler'in [Kurumsal Çekirdek + web yayını] tamamlanmasını takip eden ayın 1'inde [SEÇENEK: taraflarca yazılı olarak teyit edilen tarihte] başlar.
 
@@ -50,7 +50,7 @@ g) Ek-2'de açıkça yazılmayan her iş.
 
 **3.2 — Para birimi: TL** *(✅ AYHAN KARARI, 8 Tem 2026).* Enflasyon koruması iki mekanizmayla sağlanır: (i) Abonelik bedeli yenileme dönemlerinde Madde 8.4'teki endeksleme ile güncellenir; (ii) Asgari Taahhüt Süresi İÇİNDE dahi, 12 aylık TÜFE'nin **[%X]**'i aşması hâlinde taraflar bedeli güncellemek üzere masaya oturur → **[AVUKAT R10 revize: TL seçildi; taahhüt-içi uyarlama maddesinin geçerli yazımı + endeks seçimi (TÜFE/ÜFE ort.)].**
 
-**3.3 — Fatura ve vergiler:** Faturalar Steps On Clouds adına kesilir; KDV ve yasal yükümlülükler [dahil/hariç — Ek-2]. Ödeme, fatura tarihinden itibaren **[X] gün** içinde [banka havalesi] ile yapılır.
+**3.3 — Fatura ve vergiler:** Faturalar Steps On Clouds adına kesilir; **Ek-2'deki tüm bedeller KDV HARİÇTİR** *(✅ AYHAN, 8 Tem)*, KDV faturada ayrıca gösterilir. Ödeme, fatura tarihinden itibaren **[X] gün** içinde [banka havalesi] ile yapılır.
 
 **3.4 — Gecikme → kademeli askı** *(Ek-1 Madde 3.4 ile birebir aynı mekanik — iki belge çelişmez)*:
 a) Ödeme **[30] günü** aşan süreyle gecikirse Ajans yazılı ihtar gönderir;
@@ -164,7 +164,7 @@ Tarafların kontrolü dışında, öngörülemeyen ve önlenemeyen olaylar (doğ
 
 **14.1 —** Aşağıdaki ekler bu sözleşmenin ayrılmaz parçasıdır:
 - **Ek-1:** Karşılıklı Rekabet Yasağı, Münhasırlık ve Gizlilik Protokolü (v0.2 taslağından nihaileşecek metin) — *bu sözleşmeyle aynı anda imzalanır.*
-- **Ek-2:** Fiyat Teklif Formu + iş kalemi listesi (bedeller, ödeme planı, terminler, aylık içerik adedi) — *[AYHAN dolduracak].*
+- **Ek-2:** Fiyat Teklif Formu + iş kalemi listesi (`ek-2-fiyat-teklif-formu-ozgur-irmak.md` — onaylı bedeller işli; ödeme planı + aylık içerik adedi Ayhan onayıyla kesinleşir).
 - **Ek-3:** Veri İşleme Protokolü — *[ayrıca hazırlanacak; ilk hasta-içerikli çalışma öncesi imza ön şartı — Madde 6.2].*
 
 **14.2 — Öncelik sırası:** Çelişki hâlinde: (1) rekabet/münhasırlık/gizlilik/metodoloji konularında **Ek-1**, (2) bedel/termin/adet konularında **Ek-2**, (3) diğer tüm konularda **bu Ana Sözleşme** üstün gelir → **[AVUKAT: öncelik kurgusunun teyidi].**
