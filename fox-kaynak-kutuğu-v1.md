@@ -193,7 +193,14 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
   *Denetmen için çıkarım: 8 mercek başlangıç noktası, tavan değil — mercek dışı "Ek Soru" da yazılabilir.*
 - **MARS — Multi-Agent Framework Incorporating Socratic Guidance** (arXiv:2503.16874) — bir ajan öneri üretir, biri değerlendirir, biri Socratic sorularla derinleştirir; iteratif optimizasyon %11.9'a varan iyileşme sağlamış.
   *Denetmen için çıkarım: her bulgu finalize edilmeden önce iç "Sorgulayıcı" (kök sebep mi, semptom mu?) ve "Doğrulayıcı" (kanıt iddiayı destekliyor mu, confirmation bias var mı?) rolleriyle test edilir.*
-- **Uygulama:** `.claude/agents/denetmen.md` — Denetim Merceklerin (her mercek için Sokratik ön-süzgeç) + yeni "Sokratik Sorgulama Protokolü" bölümü + rapor formatına "Sorulmamış Sorular" alanı. Faz 3 (Rol Ayrımı, 4 Eki 2026) bu protokolün dış rollere (Devil's Advocate / Red Team / Verification) ayrışmasıdır.
+- **Uygulama:** `.claude/agents/denetmen.md` — Denetim Merceklerin (her mercek için Sokratik ön-süzgeç) + yeni "Sokratik Sorgulama Protokolü" bölümü + rapor formatına "Sorulmamış Sorular" alanı. Faz 3 (Rol Ayrımı) bu protokolün dış rollere (Devil's Advocate / Red Team / Verification) ayrışmasıdır — bkz. hemen aşağıdaki not.
+
+### Denetmen Faz 3 — Rol Ayrımı Tamamlandı (5 Tem 2026, Ayhan kararıyla 4 Ekim'den öne çekildi)
+Denetmen üç uzman alt role bölündü, ana ajan orkestratöre dönüştü:
+- **`.claude/agents/devils-advocate.md`** — karşı argüman (strateji/teklif/ortaklık kararları). Devraldığı mercekler: Kapsam Kayması + Değer Uyumu'nun stratejik boyutu. Zemin: pre-mortem, Red Team düşüncesi, mantık hataları, Erdem Etiği, Blair Enns value-based pricing.
+- **`.claude/agents/red-team.md`** — stres testi/dış aktör niyeti (sözleşme/dış temas/güvenlik). Devraldığı mercek: Risk + CLAUDE.md §4 Savunma Doktrini 5 merceği. Zemin: Greene/Cialdini, Hukuk Zemini (TBK/TTK/FSEK/uluslararası), Dark Pattern regülasyonu, Anayasal Hukuk (Büyük 50).
+- **`.claude/agents/verification.md`** — bağımsız doğrulama (rakam/tarih/madde/taahhüt). Devraldığı mercekler: Doğruluk + Bilgi Kalitesi (3 Katman) + Sahte Kesinlik (Tip A/B). Zemin: hukuki madde doğrulama, sektörel regülasyon güncelliği (örn. yürürlükten kalkmış yönetmelik atfı riski).
+Ana `denetmen.md` artık orkestratör: routing tablosu (çıktı tipi → hangi alt rol) + sentez protokolü (alt rol bulguları + kendi 4 merceği [Tutarlılık/Değer Uyumu/Kalite Tabanı/Atlanmış Soru] → tek rapor). **Not:** bu erken tetikleme bir scheduled-task anomalisiyle keşfedildi (task `fireAt` 4 Ekim'e kayıtlıydı ama 5 Tem'de koştu) — Fox önce durdu ve Ayhan'a sordu, "öne çek" onayı üzerine uygulandı. İlk canlı üç-alt-rol testi henüz yapılmadı.
 
 ---
 
@@ -209,4 +216,4 @@ G. Kore · Avustralya · İspanya · Meksika · Endonezya · Hollanda · S. Arab
 
 ---
 
-*Sürüm: v1.3 · Son güncelleme: 5 Temmuz 2026 · Fox · v1.3: Bölüm VII'ye Sokratik Sorgulama Metodolojisi eklendi (Princeton SocraticAI + MARS — Denetmen Faz 2 entegrasyonu). v1.2: bölüm numaralandırması düzeltildi (VII/VIII ters sıradaydı), aldatıcı tasarım regülasyonu eklendi.*
+*Sürüm: v1.4 · Son güncelleme: 5 Temmuz 2026 · Fox · v1.4: Bölüm VII'ye Denetmen Faz 3 (Rol Ayrımı) tamamlanma notu eklendi — Ayhan kararıyla 4 Ekim'den öne çekildi. v1.3: Sokratik Sorgulama Metodolojisi eklendi (Princeton SocraticAI + MARS — Denetmen Faz 2 entegrasyonu). v1.2: bölüm numaralandırması düzeltildi (VII/VIII ters sıradaydı), aldatıcı tasarım regülasyonu eklendi.*
