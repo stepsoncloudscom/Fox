@@ -40,6 +40,13 @@ Kareler bir filmden alınmış gibi. Hareket, an, hikâye sezgisi.
 
 ---
 
+## İYİ ÖRNEK HAVUZU (dış referanslar — imzaya yakın bulunanlar)
+*10 Tem 2026 açıldı — Downloads'taki 5 brand book şablonu taramasından (Branding Ajanı incelemesi).*
+- **"Black and White Modern" + "Black Modern" Canva şablon ailesi (placeholder marka: Borcelle):** yüksek kontrastlı siyah-beyaz editorial moda fotoğrafçılığı, güçlü kadın figürleri (özne duruşu), temiz negatif alan, sinematik/film-still ışık. Ayhan'ın imzasına (editorial · atmosferik · güçlü) en yakın piyasa örneği. **Kullanım:** Özgür Irmak brand guide görsel yönünde ışık disiplini + "figür özne" duruşu referansı — protez bağlamına uyarlanarak (onur merceği aynen geçerli). Logo clear-space kural sayfaları da yapısal olarak örnek alınabilir.
+- **Karşı-örnek (ne OLMADIĞIMIZ):** "Blue and White Modern" (Rimberio) tipi şablon — düz kurumsal mavi, stok gülümseme, ürün ışığı, ruhsuz. "Authentic görsel kullanın" yazıp stok fotoğraf kullanma çelişkisi = tutarlılık dersinin ta kendisi.
+
+---
+
 ## ONUR MERCEKLİ TEMSİL (Misyon işleri — kritik)
 Ampüte/engelli içerikte estetik kural (Anayasa §9):
 - Acıma YOK, ilham pornosu YOK.
@@ -61,4 +68,4 @@ Ampüte/engelli içerikte estetik kural (Anayasa §9):
 Bu parmak izi 2 Towdoo karesi + brandbook + artist book'tan çıkarıldı — başlangıç. Ayhan'ın daha çok işine baktıkça (farklı projeler, video, kişisel favoriler) derinleşecek. Ayhan "şu işi sev / şu kareyi beğenmedim" dedikçe örüntü keskinleşir.
 
 ---
-*Sürüm: v1 · 4 Haziran 2026 · Fox · Faz: Estetik algı eğitimi başladı.*
+*Sürüm: v1.1 · 4 Haziran 2026 · Fox · Faz: Estetik algı eğitimi başladı. · v1.1 (10 Tem 2026): "İyi Örnek Havuzu" bölümü açıldı — 5 brand book şablonu taramasından editorial S/B referansı + karşı-örnek eklendi.*

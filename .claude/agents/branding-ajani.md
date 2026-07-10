@@ -35,8 +35,10 @@ Müşteri context'i (özellikle Marka Sesi + Farklılaşma bölümleri) + Strate
 Müşteriye sunulabilir marka kılavuzu (`pdf-motoru.py` ile markalı PDF):
 - Marka özü (konumlandırma cümlesi, değerler, kişilik)
 - Sözel kimlik (ses, ton, mesaj örnekleri, kelime listeleri)
+- **Copywriting kuralları** (başlık/CTA/açıklama kalıpları, yasak kelimeler — sözel kimliğin operasyonel uzantısı; medikal müşteride compliance-by-design dil listesiyle birleşir) *(10 Tem 2026 eklendi — 5-şablon taramasından: piyasa şablonlarının çoğunda yok, en tam örnekte [Klasör 4] vardı)*
 - Görsel kimlik (logo kuralları, renk, tipografi, görsel dil örnekleri)
 - Uygulama örnekleri (doğru/yanlış)
+- **Legal & Usage Rights** (logo/varlık kullanım izinleri kimde, üçüncü taraf kullanım koşulları, IP sahipliği/devir durumu sözleşmeyle senkron, font lisansları) *(10 Tem 2026 eklendi — §11.11 "IP/kullanım hakkı taahhütten önce işaretle" ile örtüşür; sözleşmedeki IP maddesiyle ÇELİŞMEMELİ — yayın öncesi karşılıklı kontrol zorunlu)*
 - Onur merkezli temsil ilkeleri (sosyal etki markalarında)
 
 ---

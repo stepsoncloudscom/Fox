@@ -81,6 +81,8 @@ Bunlar "yapay zekâ üretimi" parmak izidir — müşteriye gitmez:
 - ❌ **Merkeze yığılmış metin blokları** (gövde metni sola hizalı; yalnızca başlık ortalanır).
 - ❌ **Düşük kontrast** (açık zeminde açık metin, koyu zeminde koyu ikon).
 - ❌ **Stok/jenerik kurumsal estetik** — "herhangi bir şirkete uyar" görünüm.
+- ❌ **Placeholder/dolgu sızıntısı** — lorem ipsum, "@reallygreatsite" tipi şablon kalıntısı, doldurulmamış alan. *(10 Tem 2026 eklendi — 5 brand book şablonu taramasında en jenerik örneklerin ortak işareti; daha önce 17 Haz Canva deck vakasında da canlı yaşandı.)*
+- ❌ **Söylem-görsel çelişkisi** — belge "authentic/özgün görsel kullanın" derken kendisinin stok fotoğraf kullanması. Yazdığımız kuralı aynı belgede ihlal etmek çifte kalite ihlalidir: hem görsel zayıf hem güven sarsılır. Kontrol sorusu: "Bu belgenin verdiği kuralları belgenin kendisi geçiyor mu?" *(10 Tem 2026 eklendi — aynı taramadan.)*
 
 ---
 

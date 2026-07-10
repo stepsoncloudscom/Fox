@@ -231,6 +231,14 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 - Bu belge onaylanınca brand book **`sablonlar/pdf-motoru.py`** ile markalı PDF olarak üretilir; müşteri kimliği esas olduğundan tema/renk bu belgedeki palete göre motora eklenir (SOC imzası geride durur — görsel standart §1).
 - Her görsel çıktı render-and-review checklist'inden (görsel standart §7) + Denetmen medikal merceğinden (yasak kalıp · izin · avukat-gate · seçicilik · glyph/RTL) geçer.
 
+### 4.5 Legal & Usage Rights (brand book'a zorunlu bölüm — 10 Tem 2026 eklendi)
+*Kaynak: 5 brand book şablonu taraması (piyasa şablonlarının çoğunda bu bölüm yok — en tam örnekte vardı) + Anayasa §11.11. Ana Hizmet Sözleşmesi'ndeki IP maddesiyle SENKRON tutulmak zorundadır.*
+- **IP sahipliği:** Sözleşme M-IP hükmü esas — **devir, tam ödeme koşullu; tescil müşteride** (sozlesme-ana-hizmet v02 ile birebir aynı dille yazılır; brand book sözleşmeden farklı bir sahiplik ifadesi İÇEREMEZ — çelişki = Denetmen DUR bayrağı).
+- **Logo/varlık kullanım izni:** Hangi varlığı kim kullanabilir (müşteri · SOC portföy hakkı · üçüncü taraf/bayi) — sözleşmedeki portföy/referans hakkı maddesiyle hizalı.
+- **Font lisansları:** Kilitli tipografi ailesinin (§3.3) ticari kullanım lisans durumu belge içinde açıkça listelenir (web + baskı + sosyal ayrı ayrı).
+- **Tescil durumu:** Logo temel öğesi (Talaria) için TÜRKPATENT + uluslararası benzerlik taraması sonucu bu bölümde raporlanır (§3.1 IP bayrağı ile bağlı — avukat gündeminde).
+- **Üçüncü taraf koşulu:** Bayi/iş ortağı marka varlığı kullanımı yazılı izne tabidir; izin şablonu brand book ekinde.
+
 ---
 
 ## 5 · AÇIK SORULAR + [DOĞRULANACAK] + SKOR
