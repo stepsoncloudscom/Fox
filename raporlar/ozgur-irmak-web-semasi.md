@@ -8,7 +8,7 @@
 ## 1. SİTE HARİTASI (sayfa ağacı)
 
 - **Ana Sayfa**
-  - **Hakkımızda** — kurucu/usta hikâyesi (Özgür Irmak, 1999, 20+ yıl), felsefe ("en iyi protez kişiye özel"), ekip, teknoloji vizyonu
+  - **Hakkımızda** — kurucu/usta hikâyesi (Özgür Irmak, 1998, 28 yıl), felsefe ("en iyi protez kişiye özel"), ekip, teknoloji vizyonu
   - **Çözümler** *(açılır menü)*
     - Bacak Protezleri (diz üstü mikroişlemcili · diz altı · aktif vakum)
     - Kol Protezleri
@@ -27,7 +27,7 @@
 
 **Ana Sayfa**
 1. Hero — "yenilenmiş öncü" mesajı + kampanya filmi/teaser + tek net CTA (randevu/danışma)
-2. Güven şeridi — 1999'dan beri · çözüm ortağı logoları · rakam/kanıt (⚖️ ölçülü, doğrulanmış)
+2. Güven şeridi — 1998'den beri · çözüm ortağı logoları · rakam/kanıt (⚖️ ölçülü, doğrulanmış)
 3. Çözümler özeti (kartlar → kategori sayfaları)
 4. Neden Özgür Irmak — ustalık + teknoloji + kişiye özel (seçicilik DEĞİL)
 5. Özgürlük Hikâyeleri kısa vitrin (1-2 hikâye + filme yönlendir)

@@ -25,7 +25,7 @@ Bu cümle marka iletişiminin çatısıdır. Her başlık, her sayfa, her video 
 
 İsim tesadüf değil: **Özgür** (özgürlük) + **Irmak** (akış). Protez, bir kısıtın çözümü değil; hareketin yeniden başladığı andır. Dışarıdan bakan "ne kadar güçlü" demez; içeriden yaşayan **"ben hazırım"** der.
 
-Bu çift katman — özgürlük ve akış — taglinelarda, görsel metaforda ve içerik anlatısında taşınır. Marka felsefesi başka yerde aranmaz; ismin kendisindedir.
+Bu çift katman — özgürlük ve akış — tagline'larda, görsel metaforda ve içerik anlatısında taşınır. Marka felsefesi başka yerde aranmaz; ismin kendisindedir.
 
 ### Kanonik kıdem çapası
 
@@ -72,7 +72,7 @@ Usta sıcaklığı ile yüksek teknoloji eşit ağırlıktadır. **Denge testi:*
 | Uluslararası duygusal | "Hayat, kendi akışında." | "Life, in its own flow." | Uluslararası site/hesaplar, kampanya filmi |
 | İçerik kapanışı | "Adım adım, birlikte." | "Step by step, together." | Video/post kapanışları, imza cümlesi |
 
-Katmanlar karıştırılmaz: kurumsal zemin duygusal taglinela açılmaz, içerik kapanışı kurumsal başlık yapılmaz.
+Katmanlar karıştırılmaz: kurumsal zemin duygusal tagline ile açılmaz, içerik kapanışı kurumsal başlık yapılmaz.
 *(⚠️ Ana tagline "1998" kıdem teyidi belgesine bağlıdır — belge gelmeden basılı işe girmez.)*
 
 ### Marka sesi — 7 kural
@@ -129,11 +129,19 @@ Satın aldıran dil yok; **bilgiye davet eden** dil var. Aciliyet sıfır.
 
 ### 4.4 Kanal kalıpları
 
-**Instagram (haftada 3):** tek odak + kısa gövde (≤3 cümle) + içerik kapanışı ("Adım adım, birlikte."). Emoji kullanımı: en fazla 1, dekoratif değil işlevsel; ünlem asla.
+*(Kanal adetleri sözleşme/aylık plana tabidir; adet değişirse bu kitap değil aylık plan güncellenir — kitap kalıbı tanımlar, hacmi değil.)*
+
+**Instagram (haftada 3):** tek odak + kısa gövde (≤3 cümle) + içerik kapanışı ("Adım adım, birlikte."). Emoji kullanımı: en fazla 1, dekoratif değil işlevsel; ünlem asla. *(Emoji kuralı yeni mikro-karardır — kilitli belgede yok, Ayhan onayına işaretli.)*
 > Karbon fiber ayak modülü, yürüyüş fazında enerjiyi depolayıp geri verir. Hangi aktivite seviyesine hangi modül — bunu birlikte, deneme yürüyüşünde belirliyoruz. Adım adım, birlikte.
 
-**LinkedIn (ayda 4):** register bir kademe kurumsal; B2B yönlendirici ağına (hekim/fizyoterapist) konuşur — Madde 17-19 serbest alanı. Süreç, vaka disiplini (isimsiz/izinli), teknoloji altyapısı anlatılır.
+*(⚠️ Şerh: cihaz-fayda anlatımının sosyal medyadaki yeri Madde 15/2 kapsam sorusuna bağlıdır [avukat gündemi S11]; teyide kadar IG içerikleri süreç/bilgilendirme anlatısıyla sınırlı tutulur — yukarıdaki örnek teyit SONRASI modeldir.)*
+
+**Facebook:** IG'nin aynasıdır (sözleşme içerik planı) — ayrı içerik üretilmez, IG kalıbı aynen yansıtılır; kanal-özel uyarlama yapılmaz.
+
+**LinkedIn (ayda 4):** register bir kademe kurumsal; B2B yönlendirici ağına (hekim/fizyoterapist) konuşur. Süreç, vaka disiplini (isimsiz/izinli), teknoloji altyapısı anlatılır.
 > Protez uyumunda multidisipliner takip: fizyoterapist raporu, soket revizyonu ve yürüyüş analizi aynı dosyada birleşince, revizyon ihtiyacı erken görülür. Meslektaşlarımızla kurduğumuz bu akışın detaylarını paylaşmaktan memnuniyet duyarız.
+
+*(⚠️ Şerh: LinkedIn kamuya açık bir platformdur. RG 29001 Madde 17-19 meslek mensuplarına tanıtım serbestîsi ÜÇ kanalla sınırlıdır [mesleki dergi · bilimsel toplantı · belgeli eleman ziyareti] ve 19/4 profesyonel bilgiye erişimin meslek mensuplarıyla sınırlı tutulmasını ister. Bu rejimin LinkedIn'e uygulanıp uygulanamayacağı AVUKAT SORUSUDUR — teyide kadar LinkedIn içeriği de genel bilgilendirme rejiminde yazılır.)*
 
 **YouTube (ayda 4 video, açıklama metni):** ilk 2 satır bilgi özeti (arama görünürlüğü), ardından bölüm zaman damgaları; kapanış cümlesi sabit.
 
@@ -145,7 +153,7 @@ Satın aldıran dil yok; **bilgiye davet eden** dil var. Aciliyet sıfır.
 
 - TR ana metin; EN/AR/RU çeviri değil **uyarlama** — ses kuralları (7 kural) her dilde geçerli.
 - AR: RTL dizgi + Plex Sans Arabic; deyim düzeyinde yerelleştirme (motamot çeviri yasak).
-- Uluslararası kanallarda (M.8 rejimi) duygusal tagline katmanı kullanılabilir; TR kanallarında kurumsal katman esastır.
+- Uluslararası kanallarda (RG 12/11/2025-33075 Madde 8 — sağlık turizmi istisnası rejimi) duygusal tagline katmanı kullanılabilir; TR kanallarında kurumsal katman esastır.
 
 ---
 
@@ -181,7 +189,7 @@ Satın aldıran dil yok; **bilgiye davet eden** dil var. Aciliyet sıfır.
 *⚠️ Bu bölümün nihai metni, Ana Hizmet Sözleşmesi'nin avukat onaylı finaline birebir bağlıdır. Aşağıdaki taslak sözleşme v02 parametreleriyle yazılmıştır; avukat düzeltmesi gelirse ÖNCE sözleşme, SONRA bu bölüm güncellenir. Çelişki = yayın engeli.*
 
 ### Fikri mülkiyet sahipliği
-Bu kitapta tanımlanan marka kimliği varlıklarının (logo, renk sistemi, tipografik düzen, özgün metinler) fikri mülkiyeti, hizmet sözleşmesi kapsamında **tam ödemenin gerçekleşmesi koşuluyla Özgür Irmak Protez & Ortez'e devredilir.** Marka tescili müşteri adına yapılır. Devir kapsamı ve istisnalar (açık dosyalar, üçüncü taraf lisansları) sözleşmenin ilgili maddesinde tanımlıdır; tereddütte sözleşme metni esastır.
+Bu kitapta tanımlanan marka kimliği varlıklarının (logo, renk sistemi, tipografik düzen, özgün metinler) **mali hakları**, hizmet sözleşmesi kapsamında **ilgili iş kaleminin bedelinin tamamen ödenmesi koşuluyla Özgür Irmak Protez & Ortez'e devredilir. Manevi haklar kanun gereği (FSEK) devredilemez; bunlar üzerinde kullanım yetkisi verilir.** Marka tescili müşteri adına yapılır. Devir kapsamı ve istisnalar (açık dosyalar, üçüncü taraf lisansları) sözleşmenin ilgili maddesinde tanımlıdır; tereddütte sözleşme metni esastır.
 
 ### Kullanım hakları matrisi
 
@@ -189,8 +197,8 @@ Bu kitapta tanımlanan marka kimliği varlıklarının (logo, renk sistemi, tipo
 |---|---|---|
 | Özgür Irmak (müşteri) | Tüm kimlik varlıkları, tüm mecralar | Tam ödeme sonrası tam devir |
 | Steps On Clouds | Portföy/referans gösterimi | Sözleşmedeki referans hakkı maddesi kapsamında |
-| Bayi / iş ortağı / tedarikçi | Logo ve varlık kullanımı | Müşterinin **yazılı izni** — izin şablonu kitap ekindedir |
-| Basın / üçüncü kişiler | Logo görseli haber amaçlı | Oransal bütünlük + bu kitabın kullanım kurallarına uygunluk |
+| Bayi / iş ortağı / tedarikçi | Logo ve varlık kullanımı | Müşterinin **yazılı izni** — izin şablonu ayrıca hazırlanır (avukat gündemi; bu kitabın teslim kalemi değildir) |
+| Basın / üçüncü kişiler | *Hak bağışı değildir* — marka sahibinin hakları saklıdır | Haber amaçlı kullanımda oransal bütünlük beklenir; yanıltıcı, kötüleyici veya ticari çağrışımlı kullanım kapsam dışıdır |
 
 ### Font lisansları
 - **IBM Plex Sans / Plex Sans Arabic:** SIL Open Font License — web + baskı + sosyal ticari kullanım serbest.

@@ -79,7 +79,7 @@ SGK bekleme kuyruğunu atlamak isteyen veya standart protezin üzerinde teknoloj
 *"En iyi", "tek", "garantili iyileşme" gibi mutlak ifadeler kısıtlı (Reklam Kurulu YMYL).*
 
 **Kanıt noktaları:**
-- 1999'dan beri uygulama (somut, belgelenebilir)
+- 1998'den beri uygulama (somut, belgelenebilir)
 - Ottobock + Össur ekosistemi — global üst segment (distribütörlük belgesi şartıyla)
 - Yurtdışı hasta geçmişi (referans ve izin şartıyla) `[doğrulanacak]`
 - Kişiye özel silikon parmak — niche yetenek, görsel olarak güçlü

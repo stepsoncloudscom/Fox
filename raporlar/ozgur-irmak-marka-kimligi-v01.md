@@ -19,7 +19,7 @@
 **TR:** Çeyrek asrı aşkın ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.
 **EN:** More than a quarter century of mastery, today's technology — a new standard in freedom of movement.
 
-*✅ KANONİK KIDEM ÇAPASI (Ayhan beyanı, 7 Tem 2026): **1998 başlangıç — 2026 itibarıyla 28 yıl; "30 yıl" kullanılmaz.** Tek kaynak bu belgedir — tüm ajanlar/kanallar bu değeri kullanır, kimse kendi rakamını taşıyamaz (Denetmen Z1 mekanizması). Yayın öncesi müşteri belge teyidi düşük-riskli şart olarak korunur (rakam müşteriye ait olgu).*
+*✅ KANONİK KIDEM ÇAPASI (Ayhan beyanı, 7 Tem 2026): **1998 başlangıç — 2026 itibarıyla 28 yıl; "30 yıl" kullanılmaz.** Tek kaynak bu belgedir — tüm ajanlar/kanallar bu değeri kullanır, kimse kendi rakamını taşıyamaz (Denetmen Z1 mekanizması). Yayın öncesi müşteri belge teyidi şarttır — ⚠️ 10 Tem V1 bulgusuyla risk YÜKSELDİ: eski araştırma notları 1999 diyordu, Ayhan beyanı 1998; belge hangisini gösterirse çapa odur, fark çıkarsa tüm türev belgeler yeniden taranır. KURAL (10 Tem, Denetmen "Sorulmamış Soru 1"): çapa değeri her değiştiğinde zorunlu repo tarama turu (grep 1996/1999/eski değer) yapılır — Z1 tek-kaynak mekanizmasının yayılma ayağı.*
 
 *Kalibrasyon: Össur "Life Without Limitations" ampütenin bakış açısından; bizimki ustanın/klinisyenin güvencesinden. Tamamlayıcı, taklit değil.*
 
@@ -267,7 +267,7 @@ BRANDING AJANI KALİTE SKORU: 77/100 — B
 ─────────────────────────────────
 Sözel Kimlik (norm. %41.7): 78/100 — Konumlandırmadan türetilmiş, isim varlığı işlenmiş,
   3-aday tagline + 4-dil register + compliance-hizalı kelime listeleri tam; tagline B'nin
-  kanıt çapası (1999) henüz teyitsiz olduğundan A bandına çıkmaz.
+  kanıt çapası (1998 — Ayhan 10 Tem; ⚠️ eski araştırma notları 1999 diyordu, belge teyidi hangisini gösterirse çapa odur) henüz teyitsiz olduğundan A bandına çıkmaz.
 Görsel Kimlik (norm. %41.7): 74/100 — 3 Gestalt-gerekçeli logo yönü + ayrışan palet +
   3-yazı-sistemi tipografi stratejisi kurulu; üretilmiş logo/uygulama olmadığı için
   yön belgesi tavanı (B bandı) geçilmez.
