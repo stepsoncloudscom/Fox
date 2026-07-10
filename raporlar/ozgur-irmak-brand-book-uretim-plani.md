@@ -27,7 +27,7 @@
 ### Faz 0 — Ön Koşullar (kapı: proje aktivasyonu)
 - [ ] **Sözleşme imzası + D1 %50 avans** (kimlik işi bununla resmen başlar — Kademe 3, Ayhan)
 - [ ] Avukat düzeltmeleri işlendi mi → IP maddesi kesin hali = §12'nin kaynağı
-- [ ] Tagline B kıdem teyidi ("1996'dan beri" belge kanıtı — müşteriden)
+- [ ] Tagline B kıdem teyidi ("1998'den beri" belge kanıtı — müşteriden)
 - [ ] Baskı/ekran renk kalibrasyon testi planı (hex sabitleme)
 
 ### Faz 1 — Logo Craft (kritik yol — en uzun teslim)

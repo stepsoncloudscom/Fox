@@ -1,7 +1,7 @@
 # Özgür Irmak — Kalan Hatlar (Yol Haritası)
 *Fox · 7 Temmuz 2026 · Marka kimliği kararları kilitlendikten sonra kalan iş hatlarının tek-bakış haritası. Görsel/logo başlığı Ayhan kararıyla KAPALI — bu belgede yer almaz (park durumu: marka-kimligi-v01 §3.1).*
 
-**Kilitli zemin (değişmez):** hibrit mimari · ton 50/50 · isim oyunu omurga · tagline kombinasyonu (B ana: "1996'dan beri ustalık, bugünün teknolojisiyle") · renk Eksen 15 · tipografi Plex+Lora hibrit · 11 kelimelik değer seti · kanonik kıdem 30 yıl/1996.
+**Kilitli zemin (değişmez):** hibrit mimari · ton 50/50 · isim oyunu omurga · tagline kombinasyonu (B ana: "1998'den beri ustalık, bugünün teknolojisiyle") · renk Eksen 15 · tipografi Plex+Lora hibrit · 11 kelimelik değer seti · kanonik kıdem 1998 (28 yıl; "30 yıl" kullanılmaz — düzeltme 10 Tem).
 
 ---
 

@@ -10,14 +10,14 @@
 
 > Bu kitap bir kurallar listesi değil; bir duruşun kaydıdır.
 >
-> Özgür Irmak, 1996'dan beri protez ve ortez uygulayan bir merkezin adıdır — ama bu kitabın konusu geçmiş değil. Konu, o otuz yıllık el bilgisinin bugünün teknolojisiyle buluştuğu yer: ölçü alınan, uyarlanan, denenen, takip edilen bir süreç ve o sürecin sonunda kendi akışına dönen bir insan.
+> Özgür Irmak, 1998'den beri protez ve ortez uygulayan bir merkezin adıdır — ama bu kitabın konusu geçmiş değil. Konu, o çeyrek asrı aşkın el bilgisinin bugünün teknolojisiyle buluştuğu yer: ölçü alınan, uyarlanan, denenen, takip edilen bir süreç ve o sürecin sonunda kendi akışına dönen bir insan.
 >
 > Bu kimliği kullanan herkes — tasarımcı, metin yazarı, ekip üyesi — tek bir soruyu taşır: **bu iş, o insanın "ben hazırım" dediği anı hak ediyor mu?**
 
 ### Konumlandırma
 
-**TR:** Otuz yıllık ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.
-**EN:** Three decades of mastery, today's technology — a new standard in freedom of movement.
+**TR:** Çeyrek asrı aşkın ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.
+**EN:** More than a quarter century of mastery, today's technology — a new standard in freedom of movement.
 
 Bu cümle marka iletişiminin çatısıdır. Her başlık, her sayfa, her video bu cümlenin bir yüzünü anlatır; onunla çelişen hiçbir ifade kimlik içinde yer almaz.
 
@@ -29,7 +29,7 @@ Bu çift katman — özgürlük ve akış — taglinelarda, görsel metaforda ve
 
 ### Kanonik kıdem çapası
 
-**30 yıl — 1996'dan beri.** Tüm kanallarda tek değer budur. "Çeyrek asır", "30 yılı aşkın", "uzun yıllardır" gibi türevler kullanılmaz; çapa tektir ve sabittir.
+**1998'den beri.** Tüm kanallarda tek değer budur. Süre ifadesi gerekirse tek onaylı türev: **"çeyrek asrı aşkın"** (2026 itibarıyla 28 yıl). "30 yıl", "otuz yıllık", "uzun yıllardır" gibi türevler kullanılmaz; çapa tektir ve sabittir.
 
 ### Değerler (11 kelime)
 
@@ -45,7 +45,7 @@ Değerler duvar süsü değildir; her biri sistemde bir karşılık taşır (bkz
 
 ### Marka mimarisi — Hibrit
 
-Kurum markası öndedir; ustanın 30 yıllık kişisel güven mirası **kanıt katmanı** olarak içeride durur. Kimlik ustanın portresi üzerine kurulmaz — usta, markanın kanıtıdır; yüzü değil.
+Kurum markası öndedir; ustanın çeyrek asrı aşkın kişisel güven mirası **kanıt katmanı** olarak içeride durur. Kimlik ustanın portresi üzerine kurulmaz — usta, markanın kanıtıdır; yüzü değil.
 
 "Biyonik protezler" ayrı bir marka değildir; ana markanın ürün hattıdır ve daima ana kimlik altında sunulur.
 
@@ -68,16 +68,16 @@ Usta sıcaklığı ile yüksek teknoloji eşit ağırlıktadır. **Denge testi:*
 
 | Katman | TR | EN | Nerede |
 |---|---|---|---|
-| Ana (kurumsal) | "1996'dan beri ustalık, bugünün teknolojisiyle." | "Mastery since 1996, with today's technology." | Web, kurumsal belgeler, tabela altı |
+| Ana (kurumsal) | "1998'den beri ustalık, bugünün teknolojisiyle." | "Mastery since 1998, with today's technology." | Web, kurumsal belgeler, tabela altı |
 | Uluslararası duygusal | "Hayat, kendi akışında." | "Life, in its own flow." | Uluslararası site/hesaplar, kampanya filmi |
 | İçerik kapanışı | "Adım adım, birlikte." | "Step by step, together." | Video/post kapanışları, imza cümlesi |
 
 Katmanlar karıştırılmaz: kurumsal zemin duygusal taglinela açılmaz, içerik kapanışı kurumsal başlık yapılmaz.
-*(⚠️ Ana tagline "1996" kıdem teyidi belgesine bağlıdır — belge gelmeden basılı işe girmez.)*
+*(⚠️ Ana tagline "1998" kıdem teyidi belgesine bağlıdır — belge gelmeden basılı işe girmez.)*
 
 ### Marka sesi — 7 kural
 
-1. **Kanıt konuşur.** Sıfat yerine belge: "en iyi" yok, "1996'dan beri" var; "kaliteli" yok, süreç anlatımı var.
+1. **Kanıt konuşur.** Sıfat yerine belge: "en iyi" yok, "1998'den beri" var; "kaliteli" yok, süreç anlatımı var.
 2. **Bilgilendir, satma.** Her metin şu testten geçer: *"Hasta bu metinden neyi öğrenmiş oldu?"* Cevap yoksa metin yok.
 3. **Birlikte dili.** "Size yapıyoruz" değil, "birlikte çözüyoruz." Ortak fiiller: değerlendiriyoruz, uyarlıyoruz, deniyoruz, takip ediyoruz.
 4. **Özne hasta değil, birey.** "Vaka" dili iç yazışmada bile kullanılmaz.
@@ -87,7 +87,7 @@ Katmanlar karıştırılmaz: kurumsal zemin duygusal taglinela açılmaz, içeri
 
 ### Kelime listeleri
 
-**KULLAN:** süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "1996'dan beri" / "30 yıl"
+**KULLAN:** süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "1998'den beri" / "çeyrek asrı aşkın"
 
 **KAÇIN — mevzuat (yasal risk):** en iyi · tek · lider · garantili · kesin çözüm · %X başarı · mucize · kampanya · indirim · fırsat · hemen arayın · sınırlı süre · rakip karşılaştırması
 
@@ -116,7 +116,7 @@ Katmanlar karıştırılmaz: kurumsal zemin duygusal taglinela açılmaz, içeri
 **Yapı:** ① bireyin sorusu/durumu (1-2 cümle, birlikte dili) → ② sürecin ilgili adımı (ne yapılır, neden) → ③ teknoloji/ustalık kanıtı (50/50 denge) → ④ dingin kapanış (bilgi kaynağına yönlendirme).
 
 **Örnek (web, hizmet sayfası):**
-> Ölçü alma, protez sürecinin en çok merak edilen adımlarından biri. Bu aşamada güdük yapısını birlikte değerlendiriyor, yük noktalarını haritalandırıyor ve soket tasarımını buna göre uyarlıyoruz. 1996'dan beri uyguladığımız el ölçüsü disiplini, bugün dijital tarama ile birlikte çalışıyor — ikisi birbirinin yerine değil, birbirini doğrulamak için. Sürecin tamamını değerlendirme randevusunda adım adım konuşuyoruz.
+> Ölçü alma, protez sürecinin en çok merak edilen adımlarından biri. Bu aşamada güdük yapısını birlikte değerlendiriyor, yük noktalarını haritalandırıyor ve soket tasarımını buna göre uyarlıyoruz. 1998'den beri uyguladığımız el ölçüsü disiplini, bugün dijital tarama ile birlikte çalışıyor — ikisi birbirinin yerine değil, birbirini doğrulamak için. Sürecin tamamını değerlendirme randevusunda adım adım konuşuyoruz.
 
 ### 4.3 CTA / kapanış kalıbı
 
@@ -205,7 +205,7 @@ Logo temel öğesi için TÜRKPATENT + uluslararası benzerlik taraması **[tesc
 
 ## AÇIK KALEMLER (bu belge özelinde)
 
-1. **Tagline B kıdem belgesi** — müşteriden "1996'dan beri" kanıtı gelmeden ana tagline basılı işe girmez (fallback: konumlandırma cümlesinin kısa hali).
+1. **Tagline B kıdem belgesi** — müşteriden "1998'den beri" kanıtı gelmeden ana tagline basılı işe girmez (fallback: konumlandırma cümlesinin kısa hali).
 2. **Bölüm 12 finali** — avukat sözleşme düzeltmesine kilitli.
 3. **4.4 örnek metinleri** — gösterimdir; yayınlanacak her gerçek metin ayrıca avukat gate'inden geçer.
 4. **Denetmen turu** — bu belge Faz 5'te Denetmen filosundan (Verification: tarih/lisans/madde; Red Team: üçüncü-taraf kullanım koşulları) geçecek; o tur öncesi "iç taslak" statüsündedir.

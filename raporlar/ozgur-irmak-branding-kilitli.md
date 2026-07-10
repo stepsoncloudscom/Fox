@@ -6,13 +6,13 @@
 ## 1 · MARKA ÖZÜ
 
 **Konumlandırma cümlesi**
-- TR: **Otuz yıllık ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.**
-- EN: **Three decades of mastery, today's technology — a new standard in freedom of movement.**
+- TR: **Çeyrek asrı aşkın ustalık, bugünün teknolojisiyle — hareket özgürlüğünde yeni bir standart.**
+- EN: **More than a quarter century of mastery, today's technology — a new standard in freedom of movement.**
 
 **Büyük Fikir**
 İsim tesadüf değil: **Özgür** (özgürlük) + **Irmak** (akış). Protez bir kısıtın çözümü değil, hareketin yeniden başladığı andır. Dışarıdan bakan "ne kadar güçlü" demez; içeriden yaşayan **"ben hazırım"** der.
 
-**Kanonik kıdem çapası:** 30 yıl — **1996'dan beri.** Tüm kanallarda tek değer budur.
+**Kanonik kıdem çapası:** **1998'den beri** (2026 itibarıyla 28 yıl). Tüm kanallarda tek değer budur. Süre ifadesi gerekirse tek onaylı türev: **"çeyrek asrı aşkın"**. "30 yıl" / "otuz yıllık" KULLANILMAZ — yanlış rakam. *(Ayhan düzeltmesi 10 Tem 2026: başlangıç 1996 → 1998.)*
 
 **Değer seti (11 kelime):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim · Enerji · Güç
 
@@ -20,7 +20,7 @@
 *("Premium" sıfat değildir; hizmet seviyesinin sonucudur.)*
 
 **Kilitli yapı kararları**
-1. **Marka mimarisi: HİBRİT** — kurum markası önde; ustanın 30 yıllık kişisel güven mirası kanıt katmanı olarak içeride. Kimlik ustanın portresi üzerine kurulmaz.
+1. **Marka mimarisi: HİBRİT** — kurum markası önde; ustanın çeyrek asrı aşkın kişisel güven mirası kanıt katmanı olarak içeride. Kimlik ustanın portresi üzerine kurulmaz.
 2. **Ton ekseni: DENGELİ 50/50** — usta sıcaklığı × yüksek teknoloji eşit ağırlık. Test: bir sayfa/karede yalnız duygu ya da yalnız teknik veri varsa denge bozuktur.
 3. **İsim oyunu: OMURGA** — özgürlük/akış çift katmanı marka felsefesinin merkezi; tagline ve görsel metaforda taşınır.
 
@@ -35,7 +35,7 @@
 - AR/RU descriptor'lar wordmark'a dokunmadan ayrı satır olarak dizilir; RTL'de lockup aynalanabilir, wordmark çevrilmez.
 
 **Tagline sistemi (kombinasyon — kilitli)**
-- **Ana (kurumsal/TR):** "1996'dan beri ustalık, bugünün teknolojisiyle." / EN: "Mastery since 1996, with today's technology."
+- **Ana (kurumsal/TR):** "1998'den beri ustalık, bugünün teknolojisiyle." / EN: "Mastery since 1998, with today's technology."
 - **Uluslararası duygusal katman:** "Hayat, kendi akışında." / EN: "Life, in its own flow."
 - **İçerik kapanış cümlesi:** "Adım adım, birlikte." / EN: "Step by step, together."
 
@@ -49,7 +49,7 @@
 7. Geçmişe atıf yok — "yenilendik / yeniden doğduk" tipi ifadeler kullanılmaz; dil ileriye bakar.
 
 **Kelime listeleri**
-- KULLAN: süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "1996'dan beri" / "30 yıl"
+- KULLAN: süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarlama · takip · ustalık · deneyim · teknoloji · mikroişlemcili · miyoelektrik · hareket · hareket özgürlüğü · akış · birlikte · adım · bilgilendirme · "1998'den beri" / "çeyrek asrı aşkın"
 - KAÇIN (mevzuat): en iyi · tek · lider · garantili · kesin çözüm · %X başarı · mucize · kampanya · indirim · fırsat · hemen arayın · sınırlı süre · rakip karşılaştırması
 - KAÇIN (onur): ilham verici · kahraman · "engeline rağmen" · acıma çağrısı · zor/kolay vaka · "normal hayata dönüş" (yerine: "kendi hayatına/akışına")
 - KAÇIN (klişe): kusursuz deneyim · yeni nesil · devrim niteliğinde · bir adım öteye · potansiyelini ortaya çıkar · zahmetsizce · (EN) elevate / seamless / unleash / cutting-edge / game-changer
