@@ -76,6 +76,7 @@
 5. **Dinginlik:** Ünlem yok, ALL-CAPS vurgu yok (başlık tipografisi hariç), aciliyet yok ("hemen", "kaçırmayın" yasak — zaten kırmızı kuşak).
 6. **Ton dengesi 50/50 (Ayhan kararı, 6 Tem):** Usta/insan anlatısı ile teknoloji kanıtı eşit ağırlıkta — teknik detay (mikroişlemcili diz, miyoelektrik el, malzeme) arka plana itilmez, insani dil de teknik kataloğa ezdirilmez. Pratik test: bir sayfa/karede yalnız duygu ya da yalnız spec varsa denge bozulmuştur.
 7. **Geçmişe atıf yok:** "Yeniden doğduk", "artık farklıyız", "yenilendik" tipi ifadeler kullanılmaz — Karar 1 hangi yönde çıkarsa çıksın dış dil ileriye bakar. (Karar 1-B seçilirse dönüşüm anlatısının nasıl işleneceği ayrı içerik kararıdır; kimlik dili değişmez.)
+   > ✅ **CARVE-OUT (Ayhan kararı, 11 Tem 2026 — Instagram dönüş serisi):** IG dönüş serisi açılışında **"Yenilendik. Yeni enerji."** düzeyinde geçmişe atıf SERBEST — yalnız bu kanal/seri kapsamında; aranın **nedenine girilmez**, ceza geçmişi anlatısı bu carve-out'a DAHİL DEĞİL (Karar 1'in o ayağı açık — dış dilde sessizlik varsayılan). "Yeniden doğduk / artık bambaşkayız" tipi abartılı dönüşüm dili carve-out dışında. Operasyon: `raporlar/ozgur-irmak-instagram-lansman-stratejisi.md`.
 
 **4 dil register notu (D.3 lokalizasyon ilkesiyle):**
 - **TR** — ana ses; yukarıdaki kurallar birebir.

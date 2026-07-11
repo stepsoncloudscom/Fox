@@ -21,8 +21,8 @@
 
 ## 2 · Kimlik ve mevzuatla çakışan noktalar (yayın öncesi çözülmeli)
 
-- **F1 — "Yenilendik/geri döndük" ↔ kimlik §2.3/7 ("geçmişe atıf yok") ↔ Karar 1 (AÇIK).** Kimlik belgesi "yenilendik, artık farklıyız" tipi dili yasaklıyor; bu kural ceza geçmişi stratejisine (Karar 1: sessizlik / dönüşüm anlatısı) kuplajlı. Notlardaki eksen **fiilen Karar 1-B'yi (dönüşüm anlatısı) seçiyor** — ama Karar 1 resmen kapanmadı. 1-B seçilirse kimlikte tanımlı carve-out (hangi kanalda, hangi dille geçmişe atıf) yazılmalı. Ek risk: "geri döndük" anlatısı yorumlarda "neden gittiniz / o ceza neydi?" sorusunu davet eder — yanıt protokolü hazır olmadan seri açılmamalı.
-- **F2 — Fiyat şeffaflığı içeriği = açık avukat sorusu.** "Neden fiyatlar hâlâ kapalı?" postu + kendi fiyatlandırma mantığını açma taahhüdü, avukat soruları #9 (fiyat bilgisi hangi kanalda paylaşılabilir?) ve #6/#11 (sosyal medyanın 15/2 bilgilendirme istisnasına girip girmediği) yanıtlanmadan yayınlanamaz. Sağlık yönetmeliği M.5 fiyat/kampanya dilini yurt içi tanıtımda yasaklıyor — "fiyat şeffaflığı" söylemi ile "fiyat bilgisi paylaşımı" arasındaki hukuki çizgiyi avukat çizmeli.
+- **F1 — ✅ ÇÖZÜLDÜ (Ayhan kararı, 11 Tem): açılış dili "Yenilendik. Yeni enerji."** Kimlik §2.3/7'ye carve-out yazıldı: IG dönüş serisi açılışında bu düzeyde geçmişe atıf serbest; aranın nedenine girilmez; ceza geçmişi anlatısı carve-out'a dahil değil (dış dilde sessizlik varsayılan). KALAN İŞ: "neden gittiniz / o ceza neydi?" yorum-DM yanıt protokolü seri açılmadan hazır olmalı (Bölüm 4/4).
+- **F2 — ✅ KONUMLANDI (Ayhan kararı, 11 Tem): fiyat konusu ÇOK SONRAKİ faz + TURUNCU kuşak (kırmızı değil).** Yani: yasak değil, gate'li — ilk hafta serisinde ve devam serisinin ilk konularında YOK; gündeme geldiğinde avukat soruları #9 (fiyat bilgisi hangi kanalda paylaşılabilir?) ve #6/#11 (sosyal medya 15/2 bilgilendirme istisnası) yanıtlanmış olmalı. "Fiyat şeffaflığı" söylemi ile "fiyat bilgisi paylaşımı" arasındaki hukuki çizgiyi avukat çizer; o güne kadar fiyat teması hiçbir postta açılmaz.
 - **F3 — Örtük üstünlük iması.** "Sektör kapalı, biz şeffafız" kurgusu isim vermese de karşılaştırmalı üstünlük okuması üretebilir (18/6 + Reklam Kurulu). Güvenli kurgu: sorunu **soru olarak** sahiplenmek + kendi pratiğini "iddia" değil "süreç anlatımı" olarak göstermek ("biz daha iyiyiz" değil, "biz şöyle yapıyoruz, çünkü…").
 - **F4 — Yorumlarda kullanıcı deneyimi teşviki = testimonial + KVKK.** Sağlık deneyimi kamuya açık yorumda özel nitelikli veri; marka bunu aktif teşvik ederse sorumluluk doğabilir, öne çıkarma/repost testimonial'a dönüşür. Protokol gerek: yorumlar serbest akar ama marka repost/alıntı yapmaz (izinsiz), soruları DM/danışma kanalına yönlendirme kalıbı hazır olur.
 - **F5 — "Kendi hatalarımızı da konuşuruz" pozisyonu ceza geçmişine kapı açar.** Pozisyon ③ değerli ama sınır tanımlanmadan (neyi kabul ederiz, neyi anlatmayız) yayına giremez — Karar 1 ile birlikte çözülür.
@@ -30,16 +30,16 @@
 
 ## 3 · Önerilen 5-post yayı (iskelet — metinler İçerik Ajanı + Denetmen + avukat gate sonrası)
 
-1. **"Buradayız."** — Sizi yeniden görmek güzel duygusu; yenilenmiş ekip, ileriye bakan dil. Aranın nedeni yok. Görsel: atölye/ekip gerçeği (stok değil). *(F1 çözülmeden kelime seçimi kilitlenmez: "yenilendik" mi, geçmişe-atıfsız "yeni bir dönem başlıyor" mu.)*
+1. **"Yenilendik. Yeni enerji."** ✅ (açılış dili kilitli — Ayhan, 11 Tem) — Sizi yeniden görmek güzel duygusu; yenilenmiş ekip, ileriye bakan dil. Aranın nedeni yok. Görsel: atölye/ekip gerçeği (stok değil).
 2. **"Bu hesap nasıl konuşacak?"** — Karakter tanıtımı: sana soru soracağız, seninle konuşacağız, izleyici değilsin. İlk hafif interaktif öğe (ör. "protezle ilgili en çok neyi merak ediyorsun?" sticker/anket).
 3. **"Neyi önemsiyoruz?"** — Değerler + süreç şeffaflığı (değerlendirme → ölçü → üretim → uygulama → takip). Eleştirel tonun ilk iması: "bu sürecin her adımının açık anlatılması gerektiğine inanıyoruz."
 4. **"Sorular birikti."** — Kullanıcıların uzun süredir sorduğu sorular temsili/anonim biçimde görünür kılınır (testimonial değil, soru derlemesi). Merak köprüsü: "Bunları tek tek konuşacağız."
 5. **"Protez sektöründe neler oluyor?"** — Seri açılışı; ton tavanı cümlesi burada: "…yıllardır konuşulmayan bazı şeyler var. Üstelik biz de bu sistemin parçasıyız." Devam serisinin (5 konu başlığı) kapısı.
 
-*Konu sıralaması F2 nedeniyle: fiyat/şeffaflık bölümü avukat yanıtı gelmeden 5. post sonrası serinin İLK konusu yapılmaz; teknoloji veya beden/toplumsal algı ile başlanabilir.*
+*Konu sıralaması (Ayhan, 11 Tem): fiyat/şeffaflık ÇOK SONRAKİ konu (turuncu kuşak — F2); devam serisi teknoloji veya beden/toplumsal algı ile başlar.*
 
 ## 4 · Sıradaki adımlar
-1. **Ayhan:** Karar 1'i kapat (bu notlar fiilen 1-B yönünde — onaylanırsa carve-out yazılır).
-2. **Fox:** Avukat soru setinden #6, #9, #11'i bu seriye bağlayıp öne çek (sosyal medya istisnası + fiyat paylaşım sınırı).
+1. ~~Ayhan: Karar 1 IG dili~~ ✅ KAPANDI (11 Tem): açılış "Yenilendik. Yeni enerji." — kimlik §2.3/7 carve-out yazıldı. (Karar 1'in ceza-geçmişi-anlatısı ayağı ayrı; dış dilde sessizlik varsayılan.)
+2. **Fox:** Avukat soru setinden #6, #9, #11'i bu seriye bağlayıp öne çek (sosyal medya istisnası + fiyat paylaşım sınırı — fiyat faziyle senkron, acil değil).
 3. **İçerik Ajanı:** 5-post metin taslakları (yeşil kuşak + §2.4 kelime listeleri + bu belgenin yayı) → Denetmen → avukat → Ayhan.
-4. Yorum/DM yanıt protokolü (F1 "neden gittiniz?" + F4 deneyim paylaşımı senaryoları) seri açılmadan hazır.
+4. Yorum/DM yanıt protokolü seri açılmadan hazır — **4 senaryo** (Denetmen DÜZELT-1 ile genişletildi, 11 Tem): ① "neden gittiniz / o ceza neydi?" (F1) ② kişisel sağlık deneyimi paylaşımı (F4 — teşekkür + DM/danışma kanalına yönlendirme, repost/alıntı yok) ③ **yorumlarda üçüncü kişi/kurum suçlamaları** (isimli itham barındırmak = hukuki/itibar riski; gizleme/silme + standart yanıt kalıbı) ④ **"madem şeffafsınız, fiyatları açıklayın" talepleri** (F2 turuncu kuşağı yorumda zorlar; "fiyat kişiye özel değerlendirmeyle netleşir, bu kanalda paylaşmıyoruz" tipi sabit yanıt — avukat onaylı kalıp).
