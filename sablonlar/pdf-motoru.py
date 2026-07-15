@@ -247,7 +247,8 @@ def build(data, out_path):
         bt = _caps_tr(data['baslik']) if T['title_caps'] else data['baslik']
         story.append(Paragraph(bt, S['title']))
     if data.get('alt_baslik'):
-        story.append(Paragraph(data['alt_baslik'], S['subtitle']))
+        at = _caps_tr(data['alt_baslik']) if T['title_caps'] else data['alt_baslik']
+        story.append(Paragraph(at, S['subtitle']))
 
     if data.get('skor'):
         story.append(Spacer(1, 0.5*cm))
