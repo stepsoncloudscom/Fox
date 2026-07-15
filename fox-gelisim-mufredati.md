@@ -126,15 +126,17 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - ~~**Hafıza protokolü L2/L3 katmanları**~~ ✅ 3 Tem Fable 5 oturumunda kapandı — 4 gerçek zincir + eşikler + kristal listesi (v2).
 - ~~**Estetik müfredatı Disiplin 1-5**~~ ✅ 3 Tem Fable 5 oturumunda tam rotasyon tamamlandı (v2) — 24 Haz'dan beri bekliyordu.
 - ~~**Slop-scan script**~~ ✅ 3 Tem'de kuruldu: `sablonlar/araclar/slop_tarama.py` (test edildi — YASAK/ŞÜPHELİ iki seviye).
+- ~~**Beymen 2. taslak — Boga veya Aida Bergsen**~~ ✅ KAPANDI — Notion'da her ikisi de "İlk mail GÖNDERİLDİ (29 Haz)" görünüyor; kuyruk bayatlamıştı.
+- ~~**Görüşme sonucu teyitleri (9 Tem)**~~ ✅ KAPANDI — Notion 11 Tem itibariyle dördü de (Jendue/Meltem Aybar/Ro&Glo/Fickle Hearts) güncel: gerçek durum + gecikme notu işlenmiş. Kuyruk yazıldığı andan sonra elle güncellenmiş.
+- ~~**Ala Skateboards Tuncay mesajı (29 Haz)**~~ ✅ KAPANDI/BAYATLAMIŞTI — Notion "Aktif" + 5 Haz'da model netleşmiş (bedelsiz alan + co-creation) görünüyor; "24+ gün sessizlik" kaydı güncel duruma uymuyordu, kuyruktan düşürüldü.
 - **State of Fashion 2026 tam raporu** — 11 Haz'dan açık; moda-birincil pivotla önemi arttı. Ayrı odaklı oturum ister (uzun PDF).
 - **Luxmed lookalike analizi** — içerik paketi yayına girince 90 gün performans verisiyle ilk canlı lookalike döngüsü (İçerik Faz 3 yol haritasıyla hizalı).
 - **Lululemon mikro-elçi mekaniği → SOC somut planı** — 11 Haz vaka öğretisinden; ampüte topluluk büyümesi için plana çevrilecek.
-- **Syla outreach yanıt takibi** — ⚠️ 1 Tem eşiği GEÇTİ (bugün 3 Tem). Gönderim durumu Ayhan'dan teyit + takip döngüsü kararı. OPERASYONEL — beklemez.
-- **Ala Skateboards Tuncay mesajı (29 Haz)** — 24+ gün sessizlik; baskı durumu teyit + ilişki canlı tutma. Kısa taslak Ayhan'a sunulacak (Kademe 1).
-- **Beymen 2. taslak — Boga veya Aida Bergsen (29 Haz)** — Mehry Mu onaylı şablona göre analiz + onaya getir. Tek-tek; kalıba sokma, marka-gözlem ilk cümle kuralı.
-- **Beymen 4-marka nazik takip (9 Tem)** — Aida Bergsen/Boga/Urart/Mehry Mu: ~1 hafta eşiği 3 gün önce geçti, taslak hazırlanıp Ayhan onayına sunulacak.
-- **Görüşme sonucu teyitleri (9 Tem)** — Jendue (Pil Curtis, 1 Tem), Meltem Aybar (1/2 Tem slot), Ro&Glo ve Fickle Hearts (6 Tem, davetliler hâlâ "needsAction") — dördü de Notion'da sonuçsuz görünüyor; Ayhan'dan kısa teyit istenecek, gelince Notion güncellenecek.
+- ⚠️ **YENİ (11 Tem) — Syla veri bütünlüğü açığı** — Syla, Notion Müşteri Panosu'nda ARTIK HİÇ GÖRÜNMÜYOR (önceki kuyruk maddeleri "1 Tem eşiği geçti" diyordu). Silindi mi, yeniden adlandırıldı mı, yoksa kayıt hatası mı — Ayhan'dan teyit gerekiyor. Kanıtsız spekülasyon yapılmadı, soru olarak brifinge kondu.
 - ~~**Denetmen Faz 1 değerlendirme özeti (24 Haz)**~~ ✅ 29 Haz Morning Brief'te tamamlandı — 1 Tem toplantısına hazır.
+- **YENİ (11 Tem) — Beymen 4-marka takip hâlâ AÇIK, eşik büyüdü** — Aida Bergsen/Boga/Urart/Mehry Mu'ya 29 Haz'da gönderilen ilk mailin "~6 Tem nazik takip" eşiği artık 5 gün geçti (9 Tem kaydında 3 gündü). Bugün taslak Ayhan onayına sunuldu — yarın gönderim teyidi takip edilecek.
+- **YENİ (11 Tem) — Ro&Glo acil yanıt takibi** — Ece 6 Tem'de "sizden haber gelmedi" dedi, 5 gündür yanıtsız kaldı. Bugün Ayhan'a Karar Formülüyle önüne kondu; yarın yanıt gitti mi / lead kurtarıldı mı kontrol edilecek.
+- **YENİ (11 Tem) — Fickle Hearts yeni tarih önerisi** — 6 Tem'de Ayhan'ın sağlık nedeniyle ertelediği görüşme için Derya'ya hâlâ yeni tarih önerilmedi. Yarın teyit edilecek.
 
 ### 24 Haziran 2026 — Morning Brief:
 
