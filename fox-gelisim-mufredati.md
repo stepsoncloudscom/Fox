@@ -122,6 +122,19 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 - **En değerli 3 çapraz öğreti:** (1) Zara küçük-parti/sinyal döngüsü = lookalike metodolojimizin tekstil hali — hız disiplini premium markaya bile uyarlanır; (2) Nike DTC dersi: kanal kararı ideoloji değil denge — veri keşif değerini ölçmez; (3) Lululemon yerel mikro-elçi modeli = SOC ampüte topluluğu büyümesinin kanıtlanmış şablonu, On Running Federer modeli = Anayasa §11.2 değer/pay ortaklığının milyar dolarlık kanıtı.
 - İleri adım: SOC topluluk stratejisinde Lululemon elçi mekaniği (fizyoterapist/ampüte sporcu/antrenör mikro-elçiler) somut plana çevrilecek.
 
+### 18 Temmuz 2026 — Morning Brief:
+
+**[Hata Günlüğü] Notion–Takvim çapraz kontrol açığı — YENİ ALT-SINIF (geçmiş görüşme sonucu)** ✅ Bu oturumda yakalandı ve düzeltildi
+- Mevcut kural (11 Haz, 9 Tem'de genişletildi) yalnız "gelecek görüşme takvimde var mı, Notion'da yok mu" sınıfını tarıyordu. Bugünkü örnek farklı: Esti Living'in 14 Tem 14:00 görüşmesi takvimde "accepted/accepted" olarak gerçekleşmiş görünüyor ama Notion'da hâlâ görüşme-öncesi notu duruyordu — 4 gündür sonuç işlenmemiş. Notion güncellendi (Son Temas→14 Tem, Sonraki Aksiyon→"özet bekleniyor"). **Kural genişletildi (3. uygulanış):** morning-brief artık hem gelecek hem GEÇMİŞ (son 7 gün) görüşmeleri tarar; geçmiş+sonuçsuz = otomatik soru.
+
+**[Premortem + Cephe Sahipliği] Nakit Motoru 6 taslak — gönderim sürtünmesi tekrar ediyor**
+- FONEM/DOLCEZZA/SERABELLA (13 Tem işlendi) + EXQUISE/BASARIN/NUR KALAY TAKİP-1 (15 Tem'de zaten G+15/16 gecikmeliydi, bugün +3 gün daha) hâlâ Gmail'de taslak. Premortem sorusu: "bu döngü neden tıkanıyor?" → tek tek onay yerine haftalık toplu-onay ritmi önerilebilir (Ayhan'a bugün karar olarak sunuldu).
+
+**[Serbest Keşif] Première Vision Paris 2026-2 zamanlaması → Nakit Motoru kadansı**
+- Fuar 1-3 Eylül 2026 (Paris Nord Villepinte). Nakit Motoru hedeflerinin çoğu (MA MULIER, ZILBERMAN, Who's Next/IFCO katılımcıları) bu fuarın ihracatçı ekosisteminden. Fuar öncesi 2-4 hafta marka ekipleri yoğunlaşır (24 Haz Syla premortem dersiyle aynı mekanizma: "zamanlama — fuar öncesi"); bugün (18 Tem), fuara ~6.5 hafta var — hâlâ sakin pencere, temas için iyi zamanlama. Ağustos ortasından sonra yanıt oranı düşebilir — outreach'i o tarihe kadar toparlamak kaldıraçlı.
+
+**[Kaldıraç: eskalasyon disiplini]** Syla (panosu eksikliği) ve Beymen 4 (gönderim teyidi) soruları bugün **3. kez** soruluyor, yanıt gelmedi. Kural adayı: aynı soru 3 brifingde yanıtsız kalırsa günlük tekrar yerine tek "beklemede" satırına düşer (gürültü kesilir), Ayhan yanıtlayınca yeniden aktif karar olur — bkz. §Katman1 kural 1 (karar-yoğun brifing, çıplak bilgi roll-up'a sıkışır).
+
 ### Derinleştirme Kuyruğu (check-up'tan doğan — sırayla işlenecek):
 - ~~**Hafıza protokolü L2/L3 katmanları**~~ ✅ 3 Tem Fable 5 oturumunda kapandı — 4 gerçek zincir + eşikler + kristal listesi (v2).
 - ~~**Estetik müfredatı Disiplin 1-5**~~ ✅ 3 Tem Fable 5 oturumunda tam rotasyon tamamlandı (v2) — 24 Haz'dan beri bekliyordu.
@@ -187,11 +200,9 @@ Her sabah, 10 boyuttan **bağımsız** bir madde. O günün takvimi, müşterisi
 
 ### 9 Temmuz 2026 — Morning Brief:
 
-**[Aktif Kuyruk] Syla outreach takibi — hâlâ AÇIK, eşik 8 gündür geçti**
-- 1 Tem eşiği geçeli 8 gün oldu, hâlâ Ayhan'dan gönderim/durum teyidi gelmedi. Bugünkü brifingde Karar Formülüyle tekrar önüne kondu (talep+bağlam+öneri+termin). Kaldıraç: tekrarlayan-hatırlatma yerine tek karar kartına sıkıştırmak — gürültü değil karar üretiyor.
+**[Aktif Kuyruk] Syla outreach takibi — hâlâ AÇIK, eşik 8 gündür geçti** — ⚠️ 17 Tem'de hâlâ çözülmedi, bkz. 17 Tem bloğu (Syla panosu eksikliğiyle birleşti).
 
-**[Cephe Sahipliği] Beymen 4-marka takip eşiği 3 gün önce doldu**
-- Aida Bergsen/Boga/Urart/Mehry Mu'ya 29 Haz'da gönderilen ilk mailin "~1 hafta sonra (≈6 Tem) nazik takip" eşiği 3 gün önce geçti. Ayhan hatırlatmadan Fox gündemine aldı (Anayasa §Katman1.5 cephe sahipliği tam bu). Aksiyon: taslak hazırlanacak, Ayhan onayı ile gönderilecek.
+**[Cephe Sahipliği] Beymen 4-marka takip eşiği 3 gün önce doldu** — ⚠️ 17 Tem'de hâlâ çözülmedi, bkz. 17 Tem bloğu (gönderim teyidi 3. kez soruluyor).
 
 **[Stoacı Disiplin] Kontrol ayrımı — 60+ TAG-KLOI lead'i**
 - İkilem: karşı tarafın yanıt verip vermemesi kontrolümüzde değil; mesaj kalitesi + takip disiplini + doğru zamanlama kontrolümüzde. Bugüne kaldıraç: pipeline'daki "neden yanıt yok" kaygısını "gönderdiğim ikinci temas doğru muydu, takip zamanlaması doğru mu" sorusuna çevir — sonucu değil süreci denetle.

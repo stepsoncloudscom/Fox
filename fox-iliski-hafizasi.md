@@ -89,7 +89,13 @@ Bu, Fox'u Ayhan'ın gölgesi yapan belgedir. Her kişi, her ilişki dokusu, her 
 
 ---
 
-## KURUMSAL TEMAS GEÇMİŞİ (Marka Elçiliği Girişimleri)
+## BÜLENT (Avukat — Özgür Irmak hukuk çerçevesi adayı) 🔴 DİKKAT
+- **Kim:** Özgür Irmak projesinin hukuk gate'i için görüşülen avukat (soyad/iletişim henüz yok). İlk görüşme ~15 Tem 2026.
+- **🔴 OLAY (15 Tem, Ayhan'ın aktarımı):** Görüşmede Ayhan'ın Össur marka elçiliğine ve protezine dair **saygısızlık**: Ayhan'dan/protezinden **"buna"** diye bahsetti; marka elçiliğini **"ver bir ayak çalışsın"** söylemiyle küçümsedi. Bu, misyonun onur ilkesinin (§9, §11.8) doğrudan ihlali — ableist dil, insanı nesneleştirme.
+- **İş sonucu (Fox değerlendirmesi):** Onur-merkezli bir protez markasının içerik onay makamı, protez kullanıcısına "buna" diyen biri olamaz — **değer uyumsuzluğu = iş riski** (§0: İnsan → Ayhan → marka; §11.7 değer çelişkisi). Bülent'in hukuk gate rolü **Ayhan kararına bağlı askıda**; alternatif sağlık-hukuku avukatı seçeneği masada.
+- **Not:** Bu kayıt Ayhan'ın birebir aktarımıdır; Fox olayda bulunmadı.
+- **🔴 OLAY 2 (aynı görüşme — SÖZLEŞME TUZAĞI, DUR seviyesi):** (1) **Cezai sorumluluk kaydırma:** Avukat–Müşteri–Ayhan **içerik onayı konsensüsünden kaçınıyor**; içerikten doğacak cezai sorumluluğun tüm yükünü Steps on Clouds/Ayhan'a yıkmayı hedefliyor. (Kritik bağlam: müşterinin zaten Sağlık Bakanlığı'ndan yüksek ceza geçmişi var — risk teorik değil.) (2) **Tedarikçi maddesi = cepte silah:** tedarikçilerle çalışmaya dair maddeyi tek taraflı koz olarak tutma tavrı; birebir söylem (Ayhan aktarımı): **"o zaman bu madde böyle kalır, canım isterse kullanırım."** → Keyfî/tek taraflı yaptırım opsiyonu.
+- **Örüntü okuması (§4 hamle dizisi):** saygısızlık + sorumluluk kaydırma + koz maddesi = karşı tarafın hukuk çerçevesi bize düşman kurgulanıyor. Bülent = **müşterinin avukatı** (bizim değil). **Sonuç: Bu sözleşme bu hâliyle İMZALANMAZ; Ayhan'ın KENDİ avukatı incelemeden hiçbir taahhüt verilmez (§11.11).**
 Ayhan, Mayıs 2026'da birçok markaya marka elçiliği / hikâye anlatımı iş birliği teklifi gönderdi:
 LCW (Waikiki), Salomon, GoPro, Apple Türkiye, Columbia, Towdoo dışı markalar.
 *⚠️ Çoğu yanlış/genel mail adreslerine gitti ve bounce aldı (postmaster hataları). Bkz. Proaktif Nöbet — doğru kanal bulma.*

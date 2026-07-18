@@ -77,6 +77,7 @@
 - **Sıra:** marka kimliği → web → sonra aylık strateji+içerik aboneliği.
 
 ### ⚖️ HUKUKİ ÇERÇEVE & UYUM GATE (işletim kuralı — Ayhan 29 Haz)
+- **Avukat: Bülent = MÜŞTERİNİN avukatı** (görüşme ~15 Tem). **🔴🔴 DUR — SÖZLEŞME TUZAĞI (15 Tem görüşmesi, Ayhan aktarımı):** (1) İçerik onayı konsensüsünden (Avukat–Müşteri–Ayhan) kaçınıyor → **cezai sorumluluğun tümünü SoC/Ayhan'a yıkma hedefi** (müşterinin ceza geçmişi varken varoluşsal risk); (2) tedarikçi maddesini tek taraflı koz tutma: "bu madde böyle kalır, canım isterse kullanırım"; (3) protez/elçiliğe saygısızlık ("buna", "ver bir ayak çalışsın") → onur ihlali. **KURAL: Bu sözleşme bu hâliyle imzalanmaz; içerik onayı yazılı müşteri-tarafı onayına bağlanmadan hiçbir içerik yayınlanmaz; Ayhan'ın KENDİ avukatı incelemeden taahhüt yok (§11.11). Hukuk gate tasarımı Bülent onayına değil, YAZILI müşteri onayına oturtulacak.** Detay: fox-iliski-hafizasi.md.
 - **Karar:** Hukuki zemin **avukatla** netleştirilerek yürütülecek. Kuracağımız sistem **hukuk çerçevesinde** işler — **her aksiyonda hukuk onayı alınır, özellikle web sitesi.**
 - **Compliance-by-design:** Sağlık Bakanlığı sağlık reklamı kuralları sert (abartılı iddia, "en iyi", öncesi/sonrası görsel, hasta testimonial'ı kısıtlı/yasak olabilir). Cezalar muhtemelen buradan. → Uyum sonradan filtre değil, **briefe baştan gömülü.** İddialar ölçülü, kanıta dayalı, mevzuata uygun.
 - **Akış (bu müşteriye özel gate):** hazırla → Denetmen → **avukat onayı** → Ayhan → yayın. Web + her medikal iddia/içerik bu gate'ten geçer.
