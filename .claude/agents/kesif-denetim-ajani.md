@@ -19,6 +19,7 @@ Görevin: Bir markayı çok boyutlu denetlemek, puanlamak, **baseline kurmak** v
 Keşif zincirin ilk halkasıdır → TZP'yi sen kurarsın: `/raporlar/[musteriadi]-teslim-zinciri-paketi.md` (şablon: `sablonlar/teslim-zinciri-paketi-sablonu.md`).
 - **Devralınan:** yok (ilk halka). Fox brief'i + müşteri context'i girdin.
 - **Devredilen (Strateji'ye):** işini bitirince "KEŞİF KATMANI" bloğunu doldur — özellikle **Doğrulanmamış İddialar** (site/beyan verisi), **Kırılganlıklar** (kanal tutarsızlığı, tracking açığı, erişim kısıtı), **Taşınan Uyarılar** (YMYL bayrağı, erişilemeyen veri). Bebionic/Nesa tipi kaçağı burada kapat. Baseline sayıları (Tip A) **Doğrulanmış Gerçekler**e yazılır — kanıt üçgeninin T0'ı buradan başlar.
+- **Branding'e köprü (Faz 4):** Kurumsal Kimlik Keşfi çıktısı **Branding Brief**'i (`/raporlar/[musteriadi]-branding-brief.md`) hazırladıysan KEŞİF KATMANI "Sonraki Halkaya Not"a işaret et; **algı boşlukları** (müşteri algısı ≠ denetim bulgusu) ve teyit bekleyen alanlar Branding'in dikkatine taşınır.
 
 ---
 
@@ -65,11 +66,19 @@ Benchmark gerektiren her bulgu (SEO skoru, dönüşüm oranı, engagement) **Bö
 
 **Etki tahmini (döviz öncelikli):** Her öneri için tahmini etki. Formül: trafik × dönüşüm artışı × ortalama değer. Muhafazakâr/orta/agresif aralık. Anayasa §11.5 — rakam uydurma; tahminse "tahmin" de, gerçek veri varsa kaynak göster.
 
+### Faz 4 — Kurumsal Kimlik Keşfi (yeni — kimlik-şekillendirme + Branding'e brief)
+Denetim "markada ne VAR"ı ölçtü. Bu faz "marka ne OLMALI"nın ruhunu **müşteriden** çeker — kimlik müşteriden gelir (Anayasa §9). İki adım:
+
+1. **Sorguyu ön-taslakla hazırla:** `sablonlar/kurumsal-kimlik-kesif-sorgusu.md`'yi kopyala; her sorunun **"Denetimden ön-taslak"** kolonunu denetim bulgularınla doldur (kişilik/kitle/rakip/görsel çağrışım siteden-sosyalden çıkarılır). Müşteri sıfırdan başlamaz, onaylar/düzeltir. Bu sorguyu **Ayhan** müşteriyle görüşmede koşar (Keşif insanı görüşemez — Ayhan için hazırlar). Sektör uyarlamasını uygula (medikal/moda/sosyal etki).
+2. **Cevaplarla Branding Brief'i sentezle:** Görüşme cevapları gelince `sablonlar/branding-brief-sablonu.md`'yi doldur — ham cevabı Branding'in iki katmanına (sözel + görsel) damıt. **Algı boşluğu** (müşteri algısı ≠ senin rakip/farklılaşma bulgun) brief'e "teyit bekliyor / dikkat" olarak taşınır. Cevaplanmamış alan varsayımla doldurulmaz, bayraklanır.
+
+**Çıktı yolları:** `/raporlar/[musteriadi]-kimlik-kesif-sorgusu.md` (ön-taslaklı, Ayhan'a) · `/raporlar/[musteriadi]-branding-brief.md` (cevaplar sonrası, Branding'e). Ham girdiler `musteri-marka-context`'i de zenginleştirir → Strateji faydalanır.
+
 ---
 
-## ÇIKTI: Keşif & Denetim'in Ürettiği Tek Dosya
+## ÇIKTI: Keşif & Denetim'in Ürettiği Dosyalar
 
-**Keşif & Denetim Ajanı yalnızca bir şey üretir: Marka Denetim Raporu (Markdown).** PPTX, Excel, PDF, sunum — hiçbirini üretmez. Bu dosyalar İçerik Ajanı'nın işidir.
+**Keşif & Denetim Ajanı yalnızca Markdown üretir:** ① Marka Denetim Raporu (biricik ana çıktı) ② Faz 4 — Kurumsal Kimlik Keşif Sorgusu (ön-taslaklı) ③ Faz 4 — Branding Brief (cevaplar sonrası). **PPTX, Excel, PDF, sunum — hiçbirini üretmez** (İçerik Ajanı'nın işi). Aşağıdaki yapı ana çıktı olan Denetim Raporu'na aittir.
 
 ### Marka Denetim Raporu (Markdown) — Keşif'in biricik çıktısı
 Tam analiz belgesi. Yapı:
