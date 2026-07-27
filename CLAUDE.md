@@ -102,6 +102,8 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **fox-buyume-mufredati.md** — Kuzey Yıldızı'na giden 4 büyüme disiplini (ürünleştirme, etki ölçümü, konumlandırma, sosyal etki/global); önce öğren-sonra uygula
 - **fox-gstack-ogrenim.md** — Dış kaynak öğrenim notu (garrytan/gstack): Boil the Lake (eksiksizlik), 3-katman bilgi kalitesi, Diataxis içerik çerçevesi, ajan mimarisi dersleri. İçerik+Denetmen ajanlarına uyarlandı.
 - **sablonlar/** — teklif, sözleşme, mail şablonları + `pdf-motoru.py` (Türkçe-doğru PDF üretimi) + `musteri-marka-context-sablonu.md` (her müşteri için tek kaynak doğruluk belgesi — tüm ajanlar referans alır)
+- **sablonlar/teslim-zinciri-paketi-sablonu.md** — ⭐ ajanlar arası devir sözleşmesi (TZP). Keşif→Strateji→İçerik→Growth→Branding zincirinde context'in erimeden taşınmasını garanti eder; her halka kendi katmanını ekler (biriken defter, müşteri başına tek dosya). Bebionic/exclusive-clause tipi kaçakları kapatır. Ajan ÖN KOŞUL'unda okunur, ÇIKTI'da doldurulur.
+- **sablonlar/kanit-ucgeni-olcum-sablonu.md** — ⭐ ölçüm kapanış döngüsü: T0 Baseline (Keşif) → T0 Tahmin (Strateji) → T+90 Gerçek (Growth) → Kapanış tablosu + Kanıt Kartı. Beş ajanın Faz 3 ölçüm ipliğini tek mekanizmada birleştirir; yalnız Tip A delta kartlaşır (§0.1). Orkestrasyon §6.1 tetikler.
 - **.claude/agents/denetmen.md** — Denetmen ajanının tanımı ve gelişim yol haritası
 - **.claude/agents/kesif-denetim-ajani.md** — Marka denetimi + baseline + müşteri raporu (Teslim Zinciri ilk halkası)
 - **.claude/agents/strateji-ajani.md** — Konumlandırma + AARRR büyüme stratejisi (Corey marketing-plan + Dunford, uyarlanmış)

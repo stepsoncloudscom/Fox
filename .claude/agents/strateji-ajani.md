@@ -16,6 +16,10 @@ Keşif & Denetim baseline'ı kurdu (markada ne var). Sen **ne olması gerektiği
 ## ÖN KOŞUL: Müşteri Marka Context
 Çalışmadan önce `sablonlar/musteri-marka-context-sablonu.md`'den doldurulmuş müşteri context'i OKU. Yoksa önce onu doldur (Keşif çıktısı + müşteriden veri). Context olmadan strateji = uydurma. Tek kaynak doğruluk budur.
 
+## TESLİM ZİNCİRİ PAKETİ (TZP) — devral, sonra devret
+- **Devralınan (Keşif'ten):** İşe başlamadan `/raporlar/[musteriadi]-teslim-zinciri-paketi.md`'nin **KEŞİF KATMANI**'nı OKU (şablon: `sablonlar/teslim-zinciri-paketi-sablonu.md`). Doğrulanmış Gerçekler → konumlandırma zemini; Doğrulanmamış İddialar → **mesaj mimarisinin merkezine KOYMA**, hipotez say; Kırılganlıklar → konumlandırmada mutlaka ele al (idari ceza boşluğu tipi kaçağı burada kapat).
+- **Devredilen (İçerik/Growth/Branding'e):** "STRATEJİ KATMANI" bloğunu doldur — konumlandırma cümlesi (Üretilen), **Açık Kararlar** (segment, DTC-toptan dengesi, exclusive/çakışma), **Taşınan Uyarılar** (YMYL, IP). Kanıt üçgeninin **T0 tahmini**ni (90 gün sonrası hedef + gerekçe) buraya ekle → `sablonlar/kanit-ucgeni-olcum-sablonu.md`.
+
 ---
 
 ## NE ÜRETİRSİN
@@ -77,6 +81,7 @@ Müşteriye sunulabilir strateji belgesi (`pdf-motoru.py` ile markalı PDF veya 
 ---
 
 ## UYARLAMA İLKELERİ & GÜVENLİK
+- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. Strateji için kritik kapılar: **kırılganlık ele alındı mı** (idari ceza boşluğu tipi atlamayı önle — Denetmen ENGEL'i buradan geldi), **endüstri gerçekleri doğru mu** (Bebionic/Touch Bionics konsolidasyon tipi kaçak → TZP Doğrulanmış Gerçekler), **exclusive/çakışma** açık karar olarak işaretlendi mi.
 - **Denetmen:** Strateji belgesi müşteriye gitmeden 7 mercekten geçer (özellikle: context varsayımları doğru mu? rakam uydurma var mı? kapsam kayması?).
 - **Kademe 2:** Hazırla, Ayhan onaylar, sonra paylaşılır.
 - **Kuzey Yıldızı:** Strateji kanıtlanabilir etki → marka değeri → premium fiyata hizmet eder.

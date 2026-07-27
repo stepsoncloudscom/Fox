@@ -92,6 +92,27 @@ Ayhan meşgulken/yokken boş döngüleri öngörüye çevir: açık kararları o
 
 ---
 
+## BÖLÜM 4 — ÜRETİM AJANI ÇIKIŞ-ÖNCESİ ÖZ-DENETİM (shift-left, 28 Tem 2026)
+*Kanonik blok — tek doğruluk kaynağı. Her üretim ajanı (Keşif, Strateji, İçerik, Growth, Branding) çıktısını Denetmen'e vermeden ÖNCE bu 7 kapıdan geçer. Amaç: Denetmen'i ilk-savunma değil istisna denetleyicisi yap → maliyet düşer (gözlem: Denetmen 84K vs üretim 53K token; ENGEL %22). Ajan kendini elemeden Denetmen'e gitmez.*
+
+### 7 Kapı (Denetmen 7 merceğinin üretici-tarafı karşılığı)
+Ajan, çıktının sonuna kısa bir **"Denetmen'e Hazırlık Notu"** ekler — her kapıyı ✓ / ⚠️ / N/A işaretler. Bu not Denetmen brifingini kısaltır (uzun brifing = maliyet, orkestrasyon §7).
+
+1. **Uydurma yok:** Her rakam/tarih/isim/segment/kategori markanın kendi kaynağından mı, yoksa varsayım mı? Varsayım → `[varsayım]` etiketli. İsimden kategori çıkarımı YASAK. Beyana dayalı iddia → "⚠️ teyit bekliyor".
+2. **Kırılganlık ele alındı mı:** Müşterinin en büyük zayıf noktasını (idari ceza / kanal tutarsızlığı / IP / tracking açığı — TZP'den) çıktıda ele aldım mı, yoksa atladım mı? *(Atlamak da kritik hata — Strateji'nin idari ceza boşluğunu hiç ele almaması Denetmen ENGEL'i yedi.)*
+3. **Kaynaklı benchmark:** Her hedef/eşik `puanlama-rubrigi.md` Bölüm 8'e bağlı mı? "İyi olsun" yerine "X benchmark'a göre Y". Eşiksiz tavsiye yok.
+4. **Kapsam & taahhüt:** Ayhan'ın onaylamadığı fiyat/söz/taahhüt veriyor muyum? Kapsam kayması var mı?
+5. **TZP devri:** Kendimden önceki TZP katmanlarını okudum + kendi katmanımı doldurdum mu? Taşınan Uyarılar (YMYL/IP/exclusive) çıktıya yansıdı mı?
+6. **Puanlama disiplini (§0.1):** Tip A (ölçüm) / Tip B (gözlem) ayrımı doğru mu? Yalnız Tip B → sayısal puan YOK, niteliksel band. Eksik veri → skora katılmadı, normalize edildi.
+7. **Görsel kalite (belge/görsel çıktıda):** Render-and-review yaptım mı? Marka fontu / glyph / ₺ / İ doğru mu? AI-slop yok mu? Doğru register/araç (pdf-motoru)? Birebir copy paraphrase edilmedi mi? → `görsel-uretim-standardi.md` §7.
+
+### Kural
+- **En az bir ⚠️ varsa** → Hazırlık Notu'nda açıkça belirt, Denetmen'e "şuraya bak" diye yönlendir (kör nokta gizleme).
+- Emin değilsen → uydurmaktansa TZP'ye "Açık Karar" olarak yaz, Fox'a eskalasyon.
+- Bu blok Fox'un 8 sorusunu (Bölüm 1) **değiştirmez, önceler**: ajan kendini eler → Fox sentezler → Denetmen istisna denetler. İki bağımsız süzgeç korunur.
+
+---
+
 ## NOT
 Faz 3 (planlı 4 Eki) **17 Haz 2026'da öne çekildi ve otonom hale getirildi.** Nöbet protokolü artık üç katmanda çalışır: (1) otonom sabah task'ları (görev haritası), (2) her oturumda dış temasta manuel refleks, (3) anticipatory öngörü (morning-brief). Denetmen'in kendi Faz 3'ü (rol ayrımı, `denetmen-faz3-rol-ayrimi` task'ı, 4 Eki) ayrıdır — bu protokol Fox'un nöbetidir.
 

@@ -77,6 +77,14 @@ Her dış çıkış: **Üreten ajan → Fox sentezi → Denetmen denetimi → ko
 **Sorumlu:** Fox — Ayhan'ın ek izni beklenmez. Güncelleme Kademe 1 iş.
 **Format:** git commit + anlamlı mesaj. Filo senkronizasyon güncellemesi tek commit'te.
 
+### 6.1 · KANIT ÜÇGENİ KAPANIŞI (ölçüm döngüsü — 28 Tem 2026)
+Her müşteri teslimi anında Fox iki şey yapar:
+1. **T+90 ölçüm görevi kur** — teslim tarihinden 90 gün sonrasına "kanıt üçgeni kapanışı" bekleyen görev (takvim/durum). `sablonlar/kanit-ucgeni-olcum-sablonu.md`.
+2. **Üçgeni izle** — T0 Baseline (Keşif) + T0 Tahmin (Strateji) proje başında kayıtlı; T+90'da Growth gerçek ölçümü yapar → Fox kapanış tablosu + Kanıt Kartı üretir, Denetmen doğrular.
+
+**Neden burada:** Beş ajanın Faz 3 yol haritaları aynı ölçüm ipliğini beş yerden tarif ediyordu; kanıt üçgeni onu tek mekanizmada topladı. Vaka dersleriyle **aynı anda** kapanır — biten iş hem öğrenme hem kanıt bırakır. Kanıt Kartı Kuzey Yıldızı #1'in (sistem satışı) referansı olur.
+**Disiplin:** Yalnız Tip A delta kartlaşır (§0.1). Uydurma delta = DUR.
+
 ---
 
 ---

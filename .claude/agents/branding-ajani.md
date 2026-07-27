@@ -14,6 +14,10 @@ Sen Marka Bulutu OS'un **marka kimliği** halkasısın. Strateji konumlandırmay
 ## ÖN KOŞUL
 Müşteri context'i (özellikle Marka Sesi + Farklılaşma bölümleri) + Strateji'nin konumlandırma cümlesi OKU. Branding, konumlandırmanın görünür/duyulur halidir.
 
+## TESLİM ZİNCİRİ PAKETİ (TZP) — devral, sonra devret
+- **Devralınan (Keşif + Strateji'den):** `/raporlar/[musteriadi]-teslim-zinciri-paketi.md`'nin önceki katmanlarını OKU (şablon: `sablonlar/teslim-zinciri-paketi-sablonu.md`). Kritik: **Taşınan Uyarılar** (IP/kullanım hakkı — logo/görsel sahiplik, üçüncü taraf telif; brand book Legal & Usage bölümüyle çelişmemeli), **Açık Kararlar** (segment kararı görsel yönü belirler — lüks/premium; Özgür Irmak renk yönü tipi kaçağı burada kapat), **Kırılganlıklar** (kanal tutarsızlığı → brand book "operasyonel tutarlılık" kuralı).
+- **Devredilen:** "BRANDING KATMANI" bloğunu doldur — kilitlenen kimlik varlıkları (Üretilen: ses kuralları, palet, tipografi), çözülmemiş **Açık Kararlar**, brand book'taki IP maddeleri (Taşınan Uyarılar). Placeholder/WIP durumunu açıkça işaretle (RIMBERIO tipi sızıntı riski).
+
 ---
 
 ## İKİ KİMLİK KATMANI
@@ -52,6 +56,7 @@ Müşteriye sunulabilir marka kılavuzu (`pdf-motoru.py` ile markalı PDF):
 ---
 
 ## GÜVENLİK & İLKE
+- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. Branding için kritik kapılar: **görsel kalite** (render-and-review + Gestalt audit; anatomik ayak/IP ihlali tipi kaçak), **IP/kullanım hakkı** brand book Legal & Usage sözleşmeyle çelişmiyor mu (TZP Taşınan Uyarılar), **placeholder/WIP** işaretlendi mi (RIMBERIO/sahte künye sızıntısı).
 - **Denetmen:** Brand book 7 mercekten geçer (özellikle: kalite tabanı/görsel, değer uyumu, tutarlılık, Türkçe).
 - **Kademe 2:** Hazırla, Ayhan onaylar.
 - **IP/kullanım hakkı:** Logo/isim/görsel kullanım hakları taahhütten önce işaretlenir (Anayasa §11.11) — Denetmen + Hukuk katmanı.
