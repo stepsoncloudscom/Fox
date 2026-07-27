@@ -28,11 +28,17 @@
 
 ### 1.3 Değerler
 
-> ✅ **AYHAN DEĞER SETİ (6 Tem, 3.-4. tur — ham girdi, "ruh Ayhan'da"):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim **+ Enerji · Güç** (4. tur eki). Aşağıdaki 5'li liste bir sonraki revizyonda bu 11 kelimeyle uzlaştırılır (yeni gelenler: **Cesaret, Bilim, Bilgi, Samimiyet, Enerji, Güç**; renk keşfi 3.-4. turları bu set üzerine kuruldu). Çeviri kuralları: özgürlük=boşluk · dürüstlük=süssüzlük · **güç=kontrast** · **enerji=hareket/ritim + doygun aksan** — bunlar renk değil sistem kuralı olarak brand book'a girer. Not: "güç" aynı zamanda onur doktrininin çekirdeği (acıma değil güç anlatısı) — değer setiyle misyon dili burada birleşiyor.
-1. **Ustalık & zanaat** — çeyrek asrı aşkın uygulama birikimi (1998'den beri — kanonik çapa §1.1); atölye gerçeği.
-2. **Hareket özgürlüğü** — markanın var oluş nedeni; ismin vaadi.
-3. **Kanıt & şeffaflık** — fazlasını söylemeyen, belgeleyebildiğini söyleyen dil (uyum rejimiyle aynı yön: etik = mevzuat).
-4. **Onur** — insan özne; acıma yok, ilham pornosu yok, seçicilik sinyali yok.
+> 🔒 **İLAN EDİLEN ÇEKİRDEK DEĞERLER — KİLİTLİ (Ayhan kararı, 27 Tem 2026):** **GÜVEN · CESARET · ADALET · EMPATİ** (sıralı). Brand book "Değerler" sayfasının kanonik seti budur; dışa dönük her yerde bu dört değer taşınır. Ayhan onayı: *"evet benim kararım."* Karar günlüğü 27 Tem. **Bir daha "off-canon/sapma" diye işaretlenmez.**
+> - **Uzlaşma (11-kelime setiyle):** GÜVEN + CESARET zaten türetim setinde vardı; **ADALET** = Ayhan/SOC anayasa değeri (§11.7 adalet/eşitlik) markaya taşındı; **EMPATİ** = türetim setindeki *İnsan + Samimiyet*'in damıtılmışı.
+> - ⚠️ **Not (Denetmen/Branding):** brand book deck'inde ADALET *ikonu* medikal artı + kırmızı zeminde geçiyordu → değer adı kilitli, yalnız **ikon** değişecek (medikal artı + uyarı-kırmızısı yasak). Bkz. düzeltme checklist'i.
+
+> 🎨 **TASARIM-TÜRETİM SÖZLÜĞÜ (11 kelime — ilan değil, görsel sistemin temeli; SİLİNMEZ):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim **+ Enerji · Güç**. Renk keşfinin 3.-4. turları bu set üzerine kuruldu; sistem kuralları buradan gelir: özgürlük=boşluk · dürüstlük=süssüzlük · **güç=kontrast** · **enerji=hareket/ritim + doygun aksan** (bkz. §3.2). "Güç" ayrıca onur doktrininin çekirdeği (acıma değil güç anlatısı). Bu katman, ilan edilen 4 değerin görsel dilini besler — onlarla çelişmez, onları görselleştirir.
+
+**Destekleyici temalar** (ilan edilen 4 değerin altında yaşayan anlatı temaları — değer sayfasında başlık değil, hikâye/metin katmanında):
+1. **Ustalık & zanaat** — çeyrek asrı aşkın uygulama birikimi (1998'den beri — kanonik çapa §1.1); atölye gerçeği. *(Güven'i besler.)*
+2. **Hareket özgürlüğü** — markanın var oluş nedeni; ismin vaadi. *(Cesaret'i besler.)*
+3. **Kanıt & şeffaflık** — fazlasını söylemeyen, belgeleyebildiğini söyleyen dil (uyum rejimiyle aynı yön: etik = mevzuat). *(Adalet/dürüstlüğü besler.)*
+4. **Onur** — insan özne; acıma yok, ilham pornosu yok, seçicilik sinyali yok. *(Empati'yi besler.)*
 5. **Süreklilik** — değerlendirme → ölçü → üretim → uygulama → takip; ilişki teslimle bitmez.
 
 ### 1.4 Marka kişiliği (4 sıfat)

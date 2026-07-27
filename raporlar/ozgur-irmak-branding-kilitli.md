@@ -14,7 +14,8 @@
 
 **Kanonik kıdem çapası:** **1998'den beri** (2026 itibarıyla 28 yıl). Tüm kanallarda tek değer budur. Süre ifadesi gerekirse tek onaylı türev: **"çeyrek asrı aşkın"**. "30 yıl" / "otuz yıllık" KULLANILMAZ — yanlış rakam. *(Ayhan düzeltmesi 10 Tem 2026: başlangıç 1996 → 1998.)*
 
-**Değer seti (11 kelime):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim · Enerji · Güç
+**İlan edilen çekirdek değerler (KİLİTLİ — Ayhan, 27 Tem 2026):** **GÜVEN · CESARET · ADALET · EMPATİ** (sıralı). Brand book "Değerler" sayfasının kanonik seti; dışa dönük her yerde bu dört. (ADALET = SOC anayasa değeri markaya taşındı; EMPATİ = İnsan+Samimiyet damıtımı.) Bir daha "off-canon" işaretlenmez.
+**Tasarım-türetim sözlüğü (11 kelime — ilan değil, görsel sistemin temeli, silinmez):** Cesaret · Güven · İnsan · Özgürlük · Samimiyet · Dürüstlük · Tecrübe · Bilgi · Bilim · Enerji · Güç → renk/sistem kuralları buradan (§3 değer→sistem).
 
 **Marka kişiliği (4 sıfat):** Usta · Çağdaş · İnsan-merkezli · Dingin
 *("Premium" sıfat değildir; hizmet seviyesinin sonucudur.)*

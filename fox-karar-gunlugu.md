@@ -15,6 +15,12 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Özgür Irmak Değer Seti — 4 Değer Kilitlendi (27 Tem)
+- **Karar (Ayhan, 27 Tem):** Özgür Irmak markasının dört çekirdek değeri = **GÜVEN · CESARET · ADALET · EMPATİ** (sıralı). Ayhan'ın açık onayı: *"evet benim kararım."*
+- **Bağlam:** Ayhan'ın manuel ilerlettiği brand guidelines sunumunda (sf.3/4) bu set geçiyordu. Fox denetimde işaretledi: kilitli 11-kelime değer havuzunda (Cesaret·Güven·İnsan·Özgürlük·Samimiyet·Dürüstlük·Tecrübe·Bilgi·Bilim·Enerji·Güç) "Adalet" ve "Empati" birebir yoktu → sürüklenme mi karar mı? Ayhan: karar.
+- **Anlam:** Bu set artık KİLİTLİ referans. Gelecekte "sapma mı?" diye işaretlenmez. "Adalet" = Ayhan/SOC çekirdek değeri (§11.7 adalet/eşitlik) markaya taşındı; "Empati" = 11-kelime setindeki İnsan/Samimiyet'in damıtılmışı. Marka kimliği v0.1 ve brand book bu 4 değerle senkronlanmalı.
+- **Statü:** KARAR ALINDI — kilitli. İlgili belgeler (marka-kimligi-v01, branding-kilitli) güncel değer setiyle hizalanacak.
+
 ### Moda'ya Tam Pivot + Luxmed/Protez Kapanışı (20 Haz)
 - **Tetikleyici:** Ayhan — *"bizim para kazanacağımız yer moda sektörü, gerisi boş. Bir an önce gerçek başlangıç noktamıza, modaya geri dönmeliyiz; modayı farkındalık ve bilinirlik için katalizör haline getirmeliyiz."* Protez/ortez sektörüne açık bıkkınlık ("sikerim protez ortez sektörünü").
 - **Karar (Ayhan, AskUserQuestion 20 Haz):** (1) **Moda/giyim = birincil ve asıl ev** — artık "nakit köprüsü" değil, stratejik merkez. (2) **Luxmed TAMAMEN BIRAKILDI** — protez/ortez pivotu kapandı. Enes'e davet mesajı GÖNDERİLMEYECEK; pilot pazarlığı durduruldu. Enes/Ömer kişisel ilişkisi korunur (iş kapanır, bağ kalır — §0 İnsan→Ayhan→marka).
