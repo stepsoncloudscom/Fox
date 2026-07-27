@@ -104,7 +104,7 @@ Ajan, çıktının sonuna kısa bir **"Denetmen'e Hazırlık Notu"** ekler — h
 4. **Kapsam & taahhüt:** Ayhan'ın onaylamadığı fiyat/söz/taahhüt veriyor muyum? Kapsam kayması var mı?
 5. **TZP devri:** Kendimden önceki TZP katmanlarını okudum + kendi katmanımı doldurdum mu? Taşınan Uyarılar (YMYL/IP/exclusive) çıktıya yansıdı mı?
 6. **Puanlama disiplini (§0.1):** Tip A (ölçüm) / Tip B (gözlem) ayrımı doğru mu? Yalnız Tip B → sayısal puan YOK, niteliksel band. Eksik veri → skora katılmadı, normalize edildi.
-7. **Görsel kalite (belge/görsel çıktıda):** Render-and-review yaptım mı? Marka fontu / glyph / ₺ / İ doğru mu? AI-slop yok mu? Doğru register/araç (pdf-motoru)? Birebir copy paraphrase edilmedi mi? → `görsel-uretim-standardi.md` §7.
+7. **Görsel kalite (belge/görsel çıktıda):** Render-and-review yaptım mı? Marka fontu / glyph / ₺ / İ doğru mu? AI-slop yok mu? Doğru register/araç (pdf-motoru)? Birebir copy paraphrase edilmedi mi? **Varsa Kilitli Kimlik Kaydı'na (KKK) karşı denetledim mi** — renk-hex/font/ses kuralı/ASLA birebir, şablon default'u sızmadı, 🅿️park boş / 🅰️aday "öneri" etiketli? → `görsel-uretim-standardi.md` §7 + `sablonlar/kilitli-kimlik-kaydi-sablonu.md`.
 
 ### Kural
 - **En az bir ⚠️ varsa** → Hazırlık Notu'nda açıkça belirt, Denetmen'e "şuraya bak" diye yönlendir (kör nokta gizleme).

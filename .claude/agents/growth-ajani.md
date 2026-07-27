@@ -69,7 +69,7 @@ Her hamle: AARRR etiketi + sahip + hangi araç/ajan yürütür.
 ---
 
 ## GÜVENLİK & İLKE
-- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. Growth için kritik kapılar: **kaynaklı benchmark** (email open %35+ tipi eşik — uydurma metrik yok), **medikal reklam / FTC-TKHK kıtlık** kısıtı (TZP Taşınan Uyarılar), **topluluk istismarı yok** (ampüte onuru).
+- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. Growth için kritik kapılar: **KKK'ya karşı denetle** (kampanya/reklam görselinde varsa `/raporlar/[musteriadi]-kilitli-kimlik-kaydi.md` renk/font/ses/ASLA'ya birebir uy), **kaynaklı benchmark** (email open %35+ tipi eşik — uydurma metrik yok), **medikal reklam / FTC-TKHK kıtlık** kısıtı (TZP Taşınan Uyarılar), **topluluk istismarı yok** (ampüte onuru).
 - **Denetmen:** Growth planı/çıktısı 7 mercekten geçer (özellikle: uydurma metrik? kanal etik mi? topluluk istismarı? döviz/kapsam?).
 - **Kademe 2-3:** Reklam bütçesi/ödeme = Kademe 3 (Ayhan yapar). Plan/içerik = Kademe 2 (hazırla, onaylat).
 - **Kanal disiplini (Anayasa §10):** Başarısız kanalı körlemesine tekrarlama; doğru/resmi kanalı bul. (Geçmiş bounce dersi.)

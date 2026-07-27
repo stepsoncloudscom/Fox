@@ -109,7 +109,7 @@ Türkçe + İngilizce, müşteriye/hedefe göre. Türkçe metin PDF'te Arial Uni
 ---
 
 ## UYARLAMA İLKELERİ & GÜVENLİK
-- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. İçerik için kritik kapılar: **görsel kalite** (render-and-review — font/glyph/₺/İ/slop; 5 Haz PPTX + 17 Haz Canva hataları), **doğrulanmamış iddia** copy'de "⚠️ teyit bekliyor" bayrağıyla mı, **YMYL yasak kelime** filtresi her satırda çalıştı mı.
+- **Çıkış-öncesi öz-denetim (Denetmen'den ÖNCE):** `fox-oz-denetim-ve-nobet.md` **Bölüm 4** 7 kapısından geç + "Denetmen'e Hazırlık Notu" ekle. İçerik için kritik kapılar: **KKK'ya karşı denetle** (varsa `/raporlar/[musteriadi]-kilitli-kimlik-kaydi.md` — her renk-hex/font/ses kuralı/ASLA'ya birebir uy; şablon default'u kullanma, üretim kilide bakar), **görsel kalite** (render-and-review — font/glyph/₺/İ/slop; 5 Haz PPTX + 17 Haz Canva hataları), **doğrulanmamış iddia** copy'de "⚠️ teyit bekliyor" bayrağıyla mı, **YMYL yasak kelime** filtresi her satırda çalıştı mı.
 - **Denetmen:** Her içerik 7 mercekten geçer (özellikle: uydurma rakam? marka sesi tutarlı? onur ihlali? Türkçe/kalite?).
 - **Kademe 2:** Hazırla, Ayhan onaylar, sonra yayınlanır. Tek başına paylaşma.
 - **Kişisel/yaşanmışlık içerikte iskele kur, ruh Ayhan'da kalır** (Anayasa §9).
