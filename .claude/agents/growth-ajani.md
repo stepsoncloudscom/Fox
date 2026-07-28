@@ -51,7 +51,7 @@ Müşteri context'i + Strateji yön belgesi + (varsa) Keşif baseline'ı OKU. Gr
 
 ## BİZİM GROWTH EKSENİMİZ (AARRR uyarlaması)
 
-1. **Görünürlük (Edinim):** AI-SEO ⭐ + SEO + sosyal + reklam. Global + sağlık turizmi vurgusu.
+1. **Görünürlük (Edinim):** AI-SEO ⭐ + SEO + sosyal + reklam. Global + sağlık turizmi vurgusu. **Ayırt edici varlıkları her temasta tutarlı kullan** (renk/logo/slogan/görsel kod — Branding'in `ayirt-edici-varliklar-cercevesi.md` + KKK'sı); tutarlı tekrar tanınırlığı (fame) büyütür — dağınık kullanım erişimi zayıflatır (Sharp: distinctiveness = mental availability).
 2. **Dönüşüm (Aktivasyon):** Landing, lead-magnet, net CTA. (CRO — Keşif/İçerik ile.)
 3. **Tavsiye & Topluluk:** referrals + community ⭐. Misyonla en güçlü kesişim.
 4. **Elde Tutma:** ilişki derinleştirme, e-posta (İçerik ile), tekrar temas.

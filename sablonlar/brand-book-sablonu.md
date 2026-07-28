@@ -25,7 +25,7 @@
 - Tipografi: font + **lisans (KKK §2)** + hiyerarşi. ☐ drift font yok.
 - Görsel dil / fotoğraf yönü: atmosfer, örnekler. ☐ üçüncü taraf telifli görsel yok (Össur tipi).
 
-**4 · Ayırt Edici Varlıklar** — *[#3 geliştirmesinde açılacak — şimdilik başlık placeholder; boş bırakılırsa "sonraki fazda" not düş, lorem koyma]*
+**4 · Ayırt Edici Varlıklar** — markayı tanıtan varlıklar (renk/logo/slogan/tipografi/görsel kod) + her birinin rolü ve tutarlı kullanımı (`sablonlar/ayirt-edici-varliklar-cercevesi.md`). ☐ Fame/Uniqueness iddiası varsa Tip A ölçüme dayalı (uydurma tanınırlık % yok — §0.1). Ölçüm yoksa "kurulacak/korunacak varlık" niteliksel sunulur.
 
 **5 · Uygulama Örnekleri** — doğru/yanlış kullanım (sosyal, kartvizit, ambalaj vb.). ☐ gerçek örnek, RIMBERIO/Acme yok.
 
