@@ -113,10 +113,13 @@ Her ürün metni şu kalıba çekilir:
 - Doğrulandı: Genium X4 / Rheo Knee / MCPDriver → yeni açıklama + info-section [] + Türkçe glyph temiz.
 - Mekanik: Wix Stores V3 Bulk Update Products (`returnEntity:false`), 2 batch + tekil düzeltmeler. Tüm çağrılar success.
 
-**YAPILMADI — bilinçli (uydurma yasağı §11.5):**
-- **24 ürün tamamen BOŞ** (hiç açıklama yok → kaybedilecek bilgi yok). Kaynak (üretici) verisi olmadan yazılmadı. Liste — Branding/İçerik'in kaynak-veri turunda doldurulacak:
-  *Evanto - Prosthetic Foot · Sprinter Junior · Maverick Vertical Shock · Maverick junior · Freestyle Swim · Kintrol · Restore · Bebionic Hand · Bebionic Hand EQD · Michelangelo Hand Transcarpal · AxonHook · AxonSkin Visual · AxonRotation · Electric wrist rotator · Myo Plus TR · Transhumeral Soft Harness · Genium X3 · Movido · Modular Knee Joint with Rotary Hydraulic · Knee joint with friction brake (monocentric, lock) · Polycentric Modular Knee Joint · ProFlex Plus Sleeve · C-Brace · E-Mag Active.*
-- **3 gizli (visible:false) yinelenen ürün** — info-section'ları temizlendi ama İngilizce placeholder açıklama duruyor (gizli, görüntülenmiyor): *TECHNICAL PACK · Evanto Ayak · Taleo Ayak.* Ayhan kararı: bunlar silinmeli mi (yinelenen) yoksa stub mu?
+**TAMAMLANDI — kaynak-veri turu (29 Tem, Ayhan "a yı başlat"):**
+- **24 boş ürünün hepsi** resmî **Ottobock** verisiyle (web-doğrulanmış: ottobock.com / shop.ottobock) uyumlu + onur dilinde yazıldı — uydurma yok, superlatif/üstünlük çıkarıldı, sayısal veriler "üreticinin verilerine göre" ile, her ürüne standart kapanış satırı. Kaynak notları: `scratchpad/bos_urun_kaynak_notlari.md`. Tek bulk çağrısı, 24/24 success.
+- **Navii** (Ayhan "yetersiz" dedi): minimal stub → Össur MR-aktüatör + IMU + IP68 + kullanıcı kilidi verisiyle dolu açıklamaya yükseltildi.
+- **Sonuç:** Görünen 70 ürünün tamamı uyumlu açıklamalı.
+
+**KALAN (Ayhan kararı bekliyor):**
+- **3 gizli (visible:false) yinelenen ürün** — info-section'ları temizlendi ama İngilizce placeholder açıklama duruyor (gizli, görüntülenmiyor): *TECHNICAL PACK · Evanto Ayak · Taleo Ayak.* Karar: silinsin mi (yinelenen) yoksa stub mu?
 
 **AÇIK — Ayhan/avukat kapısı:**
 1. **🔴 YAPISAL:** Site hâlâ Wix Stores (mağaza) altyapısında. Fiyat alanları (0) + sepet/satın-al mantığı duruyor. TİTCK internet-satışı yasağı için bunların da kapatılması/"danışma talebi"ne çevrilmesi gerekir — ayrı iş, avukat sorusu #1-2.
