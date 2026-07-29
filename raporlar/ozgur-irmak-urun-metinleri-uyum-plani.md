@@ -55,8 +55,8 @@ Her ürün metni şu kalıba çekilir:
 2. **Nasıl çalıştığı / neyden yapıldığı** (teknik veri — korunur, üreticinin verisiyle sınırlı).
 3. **Kime uygun** (aktivite düzeyi — "seçicilik" değil, teknik uygunluk dili).
 4. **Standart kapanış satırı (tüm ürünlerde aynı — uyum + onur çapası):**
-   > *"Cihazın uygunluğu kişiye özel değerlendirme ile belirlenir; uygulama ve uyarlama merkezimizde uzman tarafından yapılır."*
-   Bu satır sayfayı "satın al"dan "değerlendir + uygula"ya çevirir (bilgilendirme yatağı) ve onur çerçevesini taşır.
+   > *"Cihazın uygunluğu kişiye özel değerlendirme ile belirlenir; uygulama ve uyarlama merkezimizde teknik sorumlu tarafından yapılır."*
+   Bu satır sayfayı "satın al"dan "değerlendir + uygula"ya çevirir (bilgilendirme yatağı) ve onur çerçevesini taşır. **⚠️ Terim kararı (Ayhan, 29 Tem):** "uzman" → **"teknik sorumlu"** — ısmarlama protez-ortez merkezi mevzuatındaki sorumlu personel karşılığı; "uzman" hukuken yanıltıcı çağrışım riskli. Tüm 70 üründe güncellendi.
 
 **Yasak (çıkar):** ünlem, "siz…mi arıyorsunuz" hitabı, imperatif CTA, slogan, "en iyi/birinci sınıf/yeni standart/devrim/kusursuz/benzersiz", "potansiyelini ortaya çıkar" tipi AI-klişe, acıma/"engeline rağmen"/seçicilik.
 **Ton:** sade, kanıtlı, dingin; özne = birey/kullanıcı, "vaka" değil.
