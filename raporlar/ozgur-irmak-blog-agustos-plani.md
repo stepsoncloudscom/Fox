@@ -7,16 +7,18 @@
 
 ## 1 · AĞUSTOS TAKVİMİ — 4 YAZI
 
-Yayın günü önerisi: **her Çarşamba** (ayarlanabilir). Hepsi HUB'a ("Protez Bacak ve Kol Bakımı") iç link verir → hub otoritesini besler.
+Yayın günü: **her Çarşamba, 5 Ağustos başlangıçlı** (Ayhan kararı, kilitli). Ağustos Çarşambaları: 5, 12, 19, 26. Hepsi HUB'a ("Protez Bacak ve Kol Bakımı") iç link verir → hub otoritesini besler.
 
-| Hf | Yayın (öneri) | Başlık yönü | Diataxis | Arama niyeti (gerçek SERP sinyali) | Pillar / iç link | Gate | Onur / uyum notu |
-|----|---------------|-------------|----------|-----------------------------------|------------------|------|------------------|
-| 1 | **6 Ağu Çar** | Protez Süreci: Değerlendirme → Ölçü → Uygulama → Takip | Açıklama | "protez bacak nasıl yapılır", "uygulama süreci" — SERP'te güçlü | Pillar A mini-hub → HUB | DÜŞÜK | Özne = süreci yöneten birey; şeffaflık = güven. "Garantili sonuç" yok. |
-| 2 | **13 Ağu Çar** | Protez Çeşitleri: Bacak ve Kol Türlerine Genel Bakış | Referans | "protez çeşitleri", "protez bacak çeşitleri" — güçlü. ⚠️ Sitede EN "types of prosthetic leg" var → TR karşılığı, terim tutarlı | Pillar C mini-hub → HUB | DÜŞÜK | "Hangisi kime uygun" — "en iyi/fiyat" değil. |
-| 3 | **20 Ağu Çar** | Miyoelektrik (Biyonik) El Nasıl Çalışır? | Referans | "miyoelektrik el nasıl çalışır", "biyonik el nedir" — aktif, yüksek merak | Pillar C → W2 → HUB | DÜŞÜK | Üreticinin verisiyle; "mucize/en gelişmiş" yok. Yetkinliği bilgiyle göster. |
-| 4 | **27 Ağu Çar** | Silikon Liner Nedir, Ne İşe Yarar? | Referans/Açıklama | "silikon liner nedir/ne işe yarar" — SERP'te var; HUB'da liner geçiyor → doğal bağ | Pillar C ↔ HUB (bakım) | DÜŞÜK-ORTA | HUB'a **birincil iç link**. Fiyat/marka övgüsü yok. |
+| Hf | Yayın | Başlık yönü | Diataxis | Arama niyeti (gerçek SERP sinyali) | Pillar / iç link | Gate | Onur / uyum notu |
+|----|-------|-------------|----------|-----------------------------------|------------------|------|------------------|
+| 1 | **5 Ağu Çar** | Protez Süreci: Değerlendirme → Ölçü → Uygulama → Takip | Açıklama | "protez bacak nasıl yapılır", "uygulama süreci" — SERP'te güçlü | Pillar A mini-hub → HUB | DÜŞÜK | Özne = süreci yöneten birey; şeffaflık = güven. "Garantili sonuç" yok. |
+| 2 | **12 Ağu Çar** | Protez Çeşitleri: Bacak ve Kol Türlerine Genel Bakış | Referans | "protez çeşitleri", "protez bacak çeşitleri" — güçlü. ⚠️ Sitede EN "types of prosthetic leg" var → TR karşılığı, terim tutarlı | Pillar C mini-hub → HUB | DÜŞÜK | "Hangisi kime uygun" — "en iyi/fiyat" değil. |
+| 3 | **19 Ağu Çar** | Miyoelektrik (Biyonik) El Nasıl Çalışır? | Referans | "miyoelektrik el nasıl çalışır", "biyonik el nedir" — aktif, yüksek merak | Pillar C → W2 → HUB | DÜŞÜK | Üreticinin verisiyle; "mucize/en gelişmiş" yok. Yetkinliği bilgiyle göster. |
+| 4 | **26 Ağu Çar** | Silikon Liner Nedir, Ne İşe Yarar? | Referans/Açıklama | "silikon liner nedir/ne işe yarar" — SERP'te var; HUB'da liner geçiyor → doğal bağ | Pillar C ↔ HUB (bakım) | DÜŞÜK-ORTA | HUB'a **birincil iç link**. Fiyat/marka övgüsü yok. |
 
 **İç link hamlesi (ay boyunca):** her yeni yazı çıktıkça HUB'a "İlgili yazılar" bölümüne eklenir; W2→W3 (çeşitler→miyoelektrik) ve W3/W4→W2 teknoloji kümesi birbirine örülür.
+
+> ✂️ **FORMAT KURALI (Ayhan, kilitli):** Her yazı **en fazla 6 paragraf.** Kısa-form: net, sıkı, şişmesiz. Metin Yazarı bunu bağlayıcı sayar — bölüm başlıkları serbest ama gövde 6 paragrafı aşmaz; uzun FAQ/liste gerekiyorsa paragraf bütçesi içinde kalacak şekilde kırpılır (gerekirse konu ikiye bölünür, yazı şişirilmez). Bu kural tüm takvim için geçerli.
 
 ---
 
