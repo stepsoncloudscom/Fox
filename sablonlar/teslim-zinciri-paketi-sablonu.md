@@ -1,5 +1,5 @@
 # Teslim Zinciri Paketi (TZP) — Ajanlar Arası Devir Sözleşmesi
-*Marka Bulutu OS teslim zinciri bağ dokusu. Keşif → Strateji → İçerik → Growth → Branding halkaları arasında context'in erimeden taşınmasını garanti eder.*
+*Marka Bulutu OS teslim zinciri bağ dokusu. Keşif → Strateji → (Metin Yazarı + İçerik) → Growth → Branding halkaları arasında context'in erimeden taşınmasını garanti eder.*
 
 ---
 

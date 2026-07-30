@@ -114,7 +114,8 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **.claude/agents/denetmen.md** — Denetmen ajanının tanımı ve gelişim yol haritası
 - **.claude/agents/kesif-denetim-ajani.md** — Marka denetimi + baseline + müşteri raporu (Teslim Zinciri ilk halkası)
 - **.claude/agents/strateji-ajani.md** — Konumlandırma + AARRR büyüme stratejisi (Corey marketing-plan + Dunford, uyarlanmış)
-- **.claude/agents/icerik-ajani.md** — Metin + görsel içerik (Corey copywriting + ses & görsel parmak izi); iki kollu
+- **.claude/agents/metin-yazari.md** — ⭐ Tüm yazılı kelime: dönüşüm copy + uzun-form anlatı + e-posta/sosyal/reklam + cümle craft (ritim/line editing) + register kalibrasyonu + onur merkezli anlatı. İçerik Ajanı'nın eski Metin kolunu tam devraldı (Model A, 30 Tem). Sözel kimlik kararı (isim/slogan) Branding'de kalır; kilidin içinde yazar.
+- **.claude/agents/icerik-ajani.md** — Görsel yön + belge üretimi (PDF/Canva/PPTX) + koordinasyon; **metin yazmaz** — copy Metin Yazarı'ndan gelir, İçerik yerleştirir/görselleştirir (v3, Model A tam ayrım)
 - **.claude/agents/growth-ajani.md** — Görünürlük/AI-SEO/dönüşüm/topluluk (Corey 22 skill, sert elenerek uyarlandı)
 - **.claude/agents/branding-ajani.md** — Sözel + görsel marka kimliği, brand book (marka kiti + parmak izi zeminli)
 - **marka-bulutu-os-uyarlama-plani.md** — ai-marketing-claude reposundan öğrenilen mimarinin Steps On Clouds'a uyarlama planı
