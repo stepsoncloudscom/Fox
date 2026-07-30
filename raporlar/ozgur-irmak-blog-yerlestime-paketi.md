@@ -1,7 +1,29 @@
 # Özgür Irmak — Blog Yerleştirme Paketi (Protez Bakımı v0.2)
 *İçerik Ajanı · Marka Bulutu OS · 30 Temmuz 2026 · Model A ilk canlı test: metin Metin Yazarı'ndan, yerleştirme + görsel yön + schema İçerik'ten.*
 
-> ⚖️ **GATE AÇIK — TASLAK YAYINLANMADI.** Wix'te statü `UNPUBLISHED`. Yayın öncesi zorunlu sıra: Denetmen medikal re-check → klinisyen (nöropati lafzı) → avukat (disclaimer + genel) → Ayhan onayı. Bu paket yerleştirme + görsel/schema hazırlığıdır; hiçbir kelime uydurulmadı, hiçbir gate atlanmadı.
+> ✅ **YAYINLANDI (v0.3, metin-only, künyesiz) — 30 Tem 2026 20:42 UTC.** Onay zinciri (Ayhan relay): nöropati aynen · disclaimer avukat onaylı · M.5 temiz · "güdük" Özgür Bey onaylı (korundu) · künyesiz · görsel sonra. Editör-notu + 3 ⟦…⟧ kaldırıldı; yayınlanan metinde placeholder sıfır (GET ile teyit). Aşağıda §0 yayın sonucu.
+>
+> *(İlk sürüm notu, tarihsel: bu paket önce UNPUBLISHED taslak + görsel/schema hazırlığı olarak üretildi; sonra v0.3 onayıyla yayınlandı.)*
+
+---
+
+## 0 · YAYIN SONUCU (v0.3)
+
+| Alan | Değer |
+|---|---|
+| Post ID | `b75a0b66-a6d3-4be9-ab54-7d5ecb5cb340` |
+| Statü | **PUBLISHED** (`firstPublishedDate` 2026-07-30T20:42:25Z) · `hasUnpublishedChanges:false` |
+| Slug | **`protez-bacak-ve-kol-bakimi`** (istenen birebir) |
+| SEO başlık | Protez Bacak ve Kol Bakımı: Günlük Kullanım Rehberi |
+| Meta açıklama | v0.3 (excerpt + seoData meta olarak set) |
+| Beklenen URL | `https://ozgurirmakprotez.wixsite.com/mysite/post/protez-bacak-ve-kol-bakimi` — ⚠️ **SİTE hâlâ Draft** olduğundan public erişilmez; site yayınlanınca canlı olur (Ayhan/config). |
+| ⟦…⟧ placeholder | **SIFIR** — GET contentText baştan sona tarandı, hiç kalmadı |
+| Disclaimer | ✅ italik, Özet'ten sonra (avukat onaylı lafız birebir) |
+| "güdük" | ✅ başlık + FAQ'da korundu (Özgür Bey onayı) |
+| Kapanış | ✅ "Adım adım, birlikte." bold |
+| Yazar (byline) | memberId = **Steps On Clouds** (`bd311e7a…`). Byline'ın SAYFADA görünüp görünmemesi Wix blog post-sayfası tasarım ayarı (Editor), content API alanı DEĞİL. **Künyesiz için:** Wix Dashboard/Editor → Blog → Post Sayfası → Ayarlar → "Yazar adı" (ve istenirse tarih) öğesini gizle. Site public olmadan yapılırsa hiç görünmez. |
+| Dil tag | `en` — site tek-dilli (Wix Multilingual kurulu değil), post dili site default'una zorlanıyor. Görünür içerik Türkçe; yalnız hreflang/dil sinyali etkilenir → site-config işi. |
+| Render-and-review | Metin: API echo ile birebir teyit (glyph temiz). **Görsel/byline render'ı görülemedi** — site Draft + owner login gerektirir (Fox login yapmaz). |
 
 ---
 

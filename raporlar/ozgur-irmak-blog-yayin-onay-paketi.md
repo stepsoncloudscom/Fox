@@ -47,7 +47,7 @@
 ## AYRICA — yayın öncesi kalan (yer tutucu değil ama gerekli)
 Bu 3 kapanınca içerik "metin olarak" tam olur; tam temiz yayın için ek 3 kalem:
 - **E-E-A-T künyesi:** gerçek uzman adı + yetki (Özgür Irmak, protez-ortez uygulayıcısı + belge). Anonim sağlık içeriği görünürlük almaz (Denetmen §7-4). → İçerik/Branding yerleştirir; belge teyidi sende.
-- **Görsel:** kapak + gövde için gerçek atölye/kullanım çekimi (stok/AI-yüz yasak). Yoksa blog metin-only yayınlanabilir, görsel sonra eklenir — kararı sen ver.
+- **Görsel:** ✅ **KARAR (Ayhan, 30 Tem): metin-only yayın; görsel sonra eklenir.** Yayın görsele bağlı değil. Gerçek atölye çekimi geldiğinde (stok/AI-yüz yasak) sonradan iliştirilir.
 - **Yazılı müşteri-tarafı onayı:** içerik onayı yazılı Özgür Bey onayına bağlı (marka-context sözleşme tuzağı); avukat = müşterinin avukatı.
 
 ---
