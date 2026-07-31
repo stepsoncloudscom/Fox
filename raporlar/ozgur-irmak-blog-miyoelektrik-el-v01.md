@@ -10,7 +10,7 @@ Miyoelektrik el, biyonik el olarak da bilinen bir kol/el protezi türüdür. Di�
 
 ## Kas Sinyalinden Harekete
 
-Bir kas kasıldığında çok küçük bir elektrik etkinliği oluşur. Miyoelektrik protezde, kalan uzuv bölgesindeki cilde temas eden elektrotlar bu sinyalleri algılar. Protezin içindeki mikroişlemci sinyalleri yorumlar ve küçük motorlara komut vererek elin ya da parmakların hareketini sağlar. Yani kişi ilgili kasını kasarak eli açıp kapatabilir; hareket, kişinin kendi kas kontrolünden doğar.
+Bir kas kasıldığında çok küçük bir elektrik etkinliği oluşur. Miyoelektrik protezde, güdükteki cilde temas eden elektrotlar bu sinyalleri algılar. Protezin içindeki mikroişlemci sinyalleri yorumlar ve küçük motorlara komut vererek elin ya da parmakların hareketini sağlar. Yani kişi ilgili kasını kasarak eli açıp kapatabilir; hareket, kişinin kendi kas kontrolünden doğar.
 
 ## Tutuş ve Kavrama Modelleri
 

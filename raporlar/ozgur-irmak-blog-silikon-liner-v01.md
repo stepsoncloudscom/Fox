@@ -6,11 +6,11 @@
 
 ## H1 — Silikon Liner Nedir, Ne İşe Yarar?
 
-Silikon liner, bacak ya da kol protezi kullanan kişilerin çoğunun her gün kullandığı, cilt ile protezin sert soketi arasına giren yumuşak bir arayüzdür. İnce bir kılıf gibi uzuv bölgesine geçirilir ve protezle cilt arasındaki en yakın temas noktasını oluşturur. Bu yazı, silikon liner'ın ne olduğunu ve ne işe yaradığını bilgilendirme amacıyla anlatır.
+Silikon liner, bacak ya da kol protezi kullanan kişilerin çoğunun her gün kullandığı, cilt ile protezin sert soketi arasına giren yumuşak bir arayüzdür. İnce bir kılıf gibi güdüğe geçirilir ve protezle cilt arasındaki en yakın temas noktasını oluşturur. Bu yazı, silikon liner'ın ne olduğunu ve ne işe yaradığını bilgilendirme amacıyla anlatır.
 
 ## Ne İşe Yarar — Koruma
 
-Liner'ın ilk işlevi korumadır. Protez kullanımında uzuv bölgesi gün boyu basınca maruz kalır; silikon ya da jel liner bu basıncı daha dengeli dağıtarak cilt ile soket arasında yumuşak bir tampon oluşturur. Bu, sürtünme ve baskıyı azaltmaya yardımcı olur.
+Liner'ın ilk işlevi korumadır. Protez kullanımında güdük gün boyu basınca maruz kalır; silikon ya da jel liner bu basıncı daha dengeli dağıtarak cilt ile soket arasında yumuşak bir tampon oluşturur. Bu, sürtünme ve baskıyı azaltmaya yardımcı olur.
 
 ## Ne İşe Yarar — Tutunma
 
@@ -18,7 +18,7 @@ Liner'ın ilk işlevi korumadır. Protez kullanımında uzuv bölgesi gün boyu 
 
 ## Malzeme ve Kişiye Özellik
 
-Liner'lar genellikle silikon ya da jel malzemeden üretilir ve farklı kalınlık ile özelliklerde olabilir. Doğru liner, uzuv bölgesinin biçimine ve cilt hassasiyetine göre seçilir; bu yüzden liner de protez gibi kişiye özel bir tercihtir.
+Liner'lar genellikle silikon ya da jel malzemeden üretilir ve farklı kalınlık ile özelliklerde olabilir. Doğru liner, güdüğün biçimine ve cilt hassasiyetine göre seçilir; bu yüzden liner de protez gibi kişiye özel bir tercihtir.
 
 ## Bakım Önemlidir
 

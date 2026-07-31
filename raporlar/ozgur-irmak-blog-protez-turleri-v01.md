@@ -22,7 +22,7 @@ Bu ana grupların dışında, kişiye özel silikon parmak protezleri gibi daha 
 
 ## Hangisi Kime Uygun?
 
-Doğru protezi belirleyen tek bir özellik değil, bir bütündür: uzuv seviyesi, cilt ve uzuv bölgesinin durumu, aktivite düzeyi, meslek ve günlük hedefler. Aynı seviyedeki iki kişi için farklı protezler uygun olabilir. Bu yüzden tür seçimi bir katalogdan değil, teknik sorumluyla yapılan kişiye özel değerlendirmeden çıkar. Protezinizi uzun ömürlü kullanmanın günlük yollarını [Protez Bacak ve Kol Bakımı](/protez-bacak-ve-kol-bakimi) rehberinde bulabilirsiniz.
+Doğru protezi belirleyen tek bir özellik değil, bir bütündür: uzuv seviyesi, cilt ve güdüğün durumu, aktivite düzeyi, meslek ve günlük hedefler. Aynı seviyedeki iki kişi için farklı protezler uygun olabilir. Bu yüzden tür seçimi bir katalogdan değil, teknik sorumluyla yapılan kişiye özel değerlendirmeden çıkar. Protezinizi uzun ömürlü kullanmanın günlük yollarını [Protez Bacak ve Kol Bakımı](/protez-bacak-ve-kol-bakimi) rehberinde bulabilirsiniz.
 
 ## Bir Başlangıç Noktası
 

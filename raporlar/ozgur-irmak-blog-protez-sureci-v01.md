@@ -10,7 +10,7 @@ Bir bacak ya da kol protezi hazır alınan bir ürün değil; kişiye özel bir 
 
 ## Değerlendirme ve Ölçü Alma
 
-Süreç bir değerlendirmeyle başlar. Uzuv bölgesinin durumu, günlük yaşam biçimi, hareket ihtiyaçları ve hedefler konuşulur; hangi protez türünün uygun olabileceği burada değerlendirilir. Ardından ölçü alma gelir — protezin oturacağı soketin kişiye tam uyması için uzuv bölgesinin biçimi hassas biçimde ölçülür. Bu iki adım, sonraki her şeyin dayandığı temeldir.
+Süreç bir değerlendirmeyle başlar. Güdüğün durumu, günlük yaşam biçimi, hareket ihtiyaçları ve hedefler konuşulur; hangi protez türünün uygun olabileceği burada değerlendirilir. Ardından ölçü alma gelir — protezin oturacağı soketin kişiye tam uyması için güdüğün biçimi hassas biçimde ölçülür. Bu iki adım, sonraki her şeyin dayandığı temeldir.
 
 ## Prova ve Üretim
 
@@ -22,7 +22,7 @@ Protez teslim edildiğinde uygulama ve alışma dönemi başlar. Hizalama, oturu
 
 ## Takip
 
-Süreç, protezi teslim almakla bitmez. Zamanla uzuv bölgesi ve kullanım alışkanlıkları değişebilir; düzenli takip, protezin uyumunu ve konforunu korumaya yardımcı olur. Protezinizle geçirdiğiniz günlük hayatı kolaylaştıran bakım alışkanlıkları için [Protez Bacak ve Kol Bakımı](/protez-bacak-ve-kol-bakimi) rehberimize göz atabilirsiniz.
+Süreç, protezi teslim almakla bitmez. Zamanla güdük ve kullanım alışkanlıkları değişebilir; düzenli takip, protezin uyumunu ve konforunu korumaya yardımcı olur. Protezinizle geçirdiğiniz günlük hayatı kolaylaştıran bakım alışkanlıkları için [Protez Bacak ve Kol Bakımı](/protez-bacak-ve-kol-bakimi) rehberimize göz atabilirsiniz.
 
 ## Adım Adım İlerleyen Bir Yol
 
