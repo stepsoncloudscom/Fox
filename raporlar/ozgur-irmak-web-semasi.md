@@ -3,6 +3,14 @@
 
 > **Mimari kararı:** Tek master-brand sitesi. **ozgurprotez.com + biyonikprotezler.com birleşir** → biyonik/myoelektrik protezler ayrı marka değil, **Çözümler altında öne çıkan bir bölüm/ürün hattı**. Eski domain 301 ile yeni siteye yönlendirilir (SEO devri korunur).
 
+> ## ⚠️ AÇIK REVİZYON BAYRAĞI — TEK-SİTE / 4-DİL MİMARİSİ (4 Tem 2026'dan beri açık; işlendi 3 Ağu 2026)
+> **Bu belgenin çok dillilik mimarisi (Bölüm 3) YÜRÜRLÜKTE DEĞİL — karar bekliyor.**
+> Dayanak: `ozgur-irmak-uyumlu-ticaret-plani.md` §0.B ve §2/3 — Sağlık Hizmetlerinde Tanıtım ve Bilgilendirme Yönetmeliği **M.8**, uluslararası hasta iletişimini **ayrı site/hesaplar + Türkçe-hariç diller + yurt dışı hedefleme** koşuluna bağlıyor. Şart seti avukat teyidinden geçmeden **EN/AR/RU yayın yok.**
+> **Sonuç:** TR tek dil olarak ilerler. EN/AR/RU içerik üretilebilir ama **yayınlanamaz**; dondurulmuş taslak olarak beklenir.
+> **Bu bayrağı gören her ajan:** Bölüm 3'ü (Wix Multilingual / 4 dil) yürürlükte sanma; TR dışı bir dil işi geldiğinde Fox'a sor.
+> **Kapanma koşulu:** avukat görüşü + Ayhan'ın ①ayrı site / ②aynı sitede kapalı tut kararı. Karar verildiğinde bu blok silinir ve Bölüm 3 yeniden yazılır.
+> *(Denetmen tespiti, Hakkımızda v01 denetimi — `denetmen-ozgur-irmak-hakkimizda-denetim.md`.)*
+
 ---
 
 ## 1. SİTE HARİTASI (sayfa ağacı)
@@ -77,9 +85,10 @@
 
 ## 8. UYGULAMA DURUMU (3 Tem 2026)
 - **Taslak site kuruldu** — Wix Harmony AI, Steps on Clouds hesabı altında (ajans-build), 7 sayfalık yapı, şema brief'inden.
-- **siteId:** `f1afaa27-4baf-40f9-b9ac-4cd220b7c151`
-- **Önizleme:** https://stepsonclouds.wixsite.com/my-site-2
-- **Editör:** https://editor.wix.com/edit/od/c521f8bd-c45e-4c05-b5dd-8f0193a5a1ce?metaSiteId=f1afaa27-4baf-40f9-b9ac-4cd220b7c151
+- **siteId (GÜNCEL — 31 Tem 2026):** `6e57503f-4b11-4ac2-8912-9a46e160abf8` (Wix hesabı: **ÖzgürProtez**, ayrı hesap — SOC değil). Eski `f1afaa27-...` (SOC hesabı my-site-2) artık geçersiz/erişilemez.
+- **Önizleme:** https://ozgurirmakprotez.wixsite.com/mysite (Draft · Free plan · Editor Type: klasik Editor · Velo açık)
+- **Kurulu app'ler:** Promote SEO · Wix Blog · Chat · Forms · Members · Stores(V3) · Groups · Invoices
+- ⚠️ **API kısıtı (31 Tem doğrulandı):** Klasik editör **statik sayfa metni Wix REST API ile düzenlenemez** (API yalnız Blog/Stores/CMS verisine erişir; Hizmet/Süreç bölümleri için özel koleksiyon yok). Statik bölüm güncellemesi = editör (Ayhan girişli tarayıcı) ya da Ayhan elle yapıştırır. Fox şifre girmez.
 - **Görsel kararı (Ayhan 3 Tem):** AI **placeholder/referans görseller ŞİMDİLİK KALIYOR**; gerçek görsel (SOC arşivi + D1 çekimi) kimlik onayından (CP1) sonra. SOC medya taraması yapıldı: AI görselleri (ChatGPT Image) + TagKloi/moda client işleri elendi; protez/ampüte seti Wix kütüphanesinde net değil (muhtemelen Drive `Profile.pdf`/Össur).
 - ⚠️ **Otomatik yayınlandı** (wixsite.com subdomain — görünmez/indekssiz). Hukuk gate: gerçek yayın/domain öncesi avukat onayı; şimdilik paylaşılmaz/indekslenmez.
 - **Sonraki (kimlik CP1 sonrası):** şemaya hizalama — Uluslararası Hastalar sayfası, biyonik birleşme, 4 dil (Wix Multilingual + AR RTL), yasal sayfalar, erişilebilirlik, marka kimliği kaplaması + gerçek görsel.
