@@ -1,0 +1,99 @@
+ÖZGÜR IRMAK PROTEZ VE ORTEZ — HAKKIMIZDA SAYFASI
+Wix'e yapıştırmaya hazır metin · v0.5 · 4 Ağustos 2026
+UYARI: Editor'e yapıştır, YAYINLA'ya basma — avukat onayı bekliyor.
+
+═══════════════════════════════════════════════
+
+[BAŞLIK / H1]
+
+Hakkımızda
+
+
+[GİRİŞ PARAGRAFI]
+
+Özgür Irmak Protez ve Ortez Merkezi'nde protez, teslim edilen bir cihaz değil kişiye özel bir süreçtir. İki kişi aynı bileşenleri kullanabilir; biri gününü uzun yürüyüşlerle geçirir, biri ince el işiyle — ihtiyaçları aynı olmaz. Bu yüzden ölçü alma ve uyarlama kadar dinlemek de işin parçasıdır.
+
+
+[ALT BAŞLIK / H2]
+
+1998'den Bugüne
+
+[METİN]
+
+Özgür Irmak, 1998 yılında Trakya Üniversitesi Ortopedik Protez ve Ortez programından mezun oldu; merkez de aynı yıl kuruldu. Çeyrek asrı aşkın bu birikim, merkezin çalışma biçiminin temelidir. Teknoloji ve malzeme bu süre boyunca çok değişti; değişmeyen, her uygulamanın tek bir kişi için yapılması.
+
+
+[ALT BAŞLIK / H2]
+
+Nasıl Çalışırız
+
+[METİN]
+
+Sürecimiz, cihazın uygulandığı günden çok önce başlar ve o günde bitmez. Değerlendirme ve hazırlık dönemi zemini kurar; teknik kadromuz ve fizyoterapistlerimiz aynı süreç içinde birlikte çalışır; uygulamadan sonra takip kullanım boyunca sürer, çünkü oturuş ve alışkanlıklar zamanla değişir. Ustalık tek bir uygulamada değil, bu sürekliliğin içinde birikir.
+
+[VURGU SATIRI — ayrı, öne çıkan tipografiyle]
+
+Hangi sistemin kullanılacağını cihazın özelliği değil, kişinin gününün nasıl geçtiği belirler.
+
+
+[ALT BAŞLIK / H2]
+
+Birlikte
+
+[METİN]
+
+Protez kullanan bir kişi, bir sürecin nesnesi değil; kendi hayatının öznesidir. Buradaki işimiz bir hedef dayatmak değil, kişinin kendi akışına dönmesi için gereken teknik zemini kurmak. Sürecin sizin için nasıl ilerleyeceğini merkezimizde birlikte konuşabiliriz.
+
+[KAPANIŞ — kalın]
+
+Adım adım, birlikte.
+
+
+═══════════════════════════════════════════════
+SAYFA ALTI — KÜÇÜK PUNTO
+═══════════════════════════════════════════════
+
+Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.
+
+Cihazın uygunluğu kişiye özel değerlendirme ile belirlenir; uygulama ve uyarlama merkezimizde teknik sorumlu tarafından yapılır.
+
+Bu sayfa 04.08.2026 tarihinde güncellenmiştir. İçerik sorumlusu: Ayhan Erden · [E-POSTA GİRİLECEK]
+
+
+═══════════════════════════════════════════════
+SAYFA SEO AYARLARI (Wix > Sayfa Ayarları > SEO)
+═══════════════════════════════════════════════
+
+Sayfa başlığı (Title):
+Hakkımızda | Özgür Irmak Protez ve Ortez, 1998'den Beri
+
+Açıklama (Meta description):
+1998'den beri protez ve ortez. Özgür Irmak Protez ve Ortez Merkezi'nde protez, teslim edilen bir cihaz değil kişiye özel bir süreçtir.
+
+URL sonu (Slug):
+hakkimizda
+
+
+═══════════════════════════════════════════════
+YAPIŞTIRIRKEN DİKKAT
+═══════════════════════════════════════════════
+
+1. YAYINLA'YA BASMA. Metin avukat onayı beklemede (KKK §7).
+
+2. İki yer tutucu doldurulacak:
+   - [E-POSTA GİRİLECEK] — sitede görünecek içerik sorumlusu adresi
+   - Tarih 04.08.2026 yazıldı; sayfayı başka gün yayınlarsan güncelle
+
+3. "teknik kadromuz" ifadesi geçici. Mevzuattaki karşılık "ortez ve protez
+   teknikeri"; ürün metinlerinde onaylı kullanım "teknik sorumlu". Avukat
+   kararı gelince bu tek terim değişecek.
+
+4. Metne EKLEME YAPMA — özellikle şunlar bilinçli olarak yok:
+   - Ürün/marka adı (Ottobock, Össur vb.) ve marka logosu → Teknoloji sayfasına
+   - Şehir/adres → teyit gelmedi
+   - Kadro sayısı, personel adı ve fotoğrafı → kalıcı kilit (senin kararın)
+   - Üniversite eğitim beyanı → kalıcı olarak çıkarıldı (senin kararın)
+   - CAD/CAM tezgâhı → aktif mi teyit edilmedi
+
+5. Tipografi: Hakkımızda sayfası "editorial an" sayılır — H1 üstü giriş
+   bloğunda Lora kullanılabilir (KKK §4). Gövde IBM Plex Sans.
