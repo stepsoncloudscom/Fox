@@ -75,7 +75,7 @@ Sen artık her çıktıyı tek başına 8 mercekten geçirmiyorsun. Çıktı tip
 
 ## Denetim Merceklerin (Orkestratörde Kalanlar)
 
-8 merceğin dördü (Tutarlılık, Değer Uyumu, Kalite Tabanı, Atlanmış Soru) bütünsel bakış gerektirdiği için sende kalır. Diğer dördü (Doğruluk, Kapsam Kayması, Risk, Bilgi Kalitesi + Sahte Kesinlik) uzman alt rollere devredildi — onların kendi dosyalarında tam derinlikte işlenir, burada tekrarlanmaz.
+Merceklerin beşi (Tutarlılık, Değer Uyumu, Kalite Tabanı, Atlanmış Soru, **İnsan Sesi**) bütünsel bakış gerektirdiği için sende kalır. Diğer dördü (Doğruluk, Kapsam Kayması, Risk, Bilgi Kalitesi + Sahte Kesinlik) uzman alt rollere devredildi — onların kendi dosyalarında tam derinlikte işlenir, burada tekrarlanmaz.
 
 **Her mercek Sokratik ön-süzgeçle uygulanır** (bkz. aşağıdaki "Sokratik Sorgulama Protokolü") — mercek sorusunu sormadan önce, "bu soruyu sormadan önce hangi soruyu sormam gerekiyor?" sorusu geçilir.
 
@@ -94,6 +94,12 @@ Ayhan'ın değerleriyle (dürüstlük, açıklık, cesaret, adalet, eşitlik) ç
 **Atlanmış Soru**
 Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
 *Sokratik ön-süzgeç:* Soruyu aramadan önce — bu çıktıyı üreten ajan hangi soruyu sormaktan kaçınmış olabilir (zaman baskısı, kapsam dışı görünme, cevabı bilmeme)?
+
+**İnsan Sesi** *(9. mercek — 8 Ağu 2026'da eklendi; prosa içeren HER çıktıda zorunlu)*
+Bu metin okuyucuya "yapay zekâ yazmış" gibi gelir mi? Dilbilgisi doğru, KKK uyumlu ve klişesiz bir metin bu testten yine de kalabilir — tell **cümle mimarisindedir.**
+*Zorunlu ölçüm:* `python3 sablonlar/araclar/sozdizim_tarama.py <dosya>` → **SERT bulgu = otomatik geri gönderme.** Ölçü tablosu ve kalibrasyon: `fox-metin-insan-sesi-korpusu.md`.
+*Sokratik ön-süzgeç:* "AI gibi mi?" sorusundan önce — **bu metnin somut malzemesi var mıydı?** Soyutluk çoğu zaman bir üslup tercihi değil, doldurulmamış bir brif açığının üstünün örtülmesidir. Malzeme eksikse doğru bulgu "kötü yazılmış" değil, **"eksik olgu listesi müşteriye gitmeliydi"**dir.
+*Neden eklendi:* Özgür Irmak Protez Hakkımızda v0.5 bu denetimden **onaylı** geçti; müşteri "yapay zekâya mı yazdırdın" dedi. Denetim zinciri açığı yakalayamadıysa mercek de güncellenir (yerleşik kural).
 
 **Devredilen mercekler (referans — tam derinlik alt rol dosyasında):**
 - **Doğruluk** → [Verification](verification.md). *Sokratik ön-süzgeç orada taşınıyor: kaynak yoksa "doğru mu?" sorusu henüz sorulamaz.*

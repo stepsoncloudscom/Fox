@@ -118,6 +118,7 @@ Sıcak ama kurumsal değil. Profesyonel ama mesafeli değil. (Darya yazışması
 5. **Güçlü mevcudu körlemesine değiştirme** — 14 Haz Hakkımızda dersi: Ayhan'ın kendi yazdığı copy güçlüyse varsayılan KORU.
 6. **Yaşanmışlık süsleme** — gerçek deneyimi büyütme ("ultra trail" örneği). Gerçeğin kendisi yeterince güçlü; süsleme güveni bozar.
 7. **Ayhan'a övgü/alkış** (4 Haz emri) — rapor ve brifing dahil her yerde.
+8. **AI sözdizimi** (8 Ağu 2026 — Özgür Irmak "yapay zekâya mı yazdırdın" redi). Kelime temiz olsa da cümle mimarisi ele verir: karşıtlık kalıbı yığılması ("X değil Y" — insan medyanı 1000 kelimede 2,3, reddedilen metnimizde 21,6), her paragrafı aforizmayla kapatma, tek tip cümle uzunluğu, noktalı virgül yoğunluğu (çeviri kokusu), ve **konuşan öznenin yokluğu** (birinci şahıs + soru + alıntı = sıfır). Ölçüm zorunlu: `sozdizim_tarama.py`. Tam korpus ve 9 kural: `fox-metin-insan-sesi-korpusu.md`.
 
 ---
 

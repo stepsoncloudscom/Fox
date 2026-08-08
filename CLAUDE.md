@@ -86,6 +86,7 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
 - **fox-ses-parmak-izi.md** — Ayhan'ın ses analizi (v2: 4 register + onaylı metin örüntüleri + negatif parmak izi + canlı kalibrasyon korpusu); taslak üretirken bu zemine sadık kal, her onay/red korpusa işlenir
+- **fox-metin-insan-sesi-korpusu.md** — ⭐ "AI yazmış" hissinin panzehiri. 18 Türkçe köşe yazısından (Kalkandelen/Altaylı/Özdil, 12.568 kelime) ölçülmüş insan prosası tabanı: 9 örüntü + kalibre eşikler + kök neden kuralı (somutluk kotası dolmazsa üslupla kapatma, müşteriden olgu iste). Ölçen araç `sablonlar/araclar/sozdizim_tarama.py`. Metin Yazarı ÖN KOŞUL'da okur; Denetmen 9. merceği (İnsan Sesi) buna dayanır. Kaynak vaka: Özgür Irmak redi (8 Ağu 2026).
 - **fox-gorsel-parmak-izi.md** — Ayhan'ın estetik imzası (sıcak, atmosferik, editorial, güçlü); görsel değerlendirirken pusula
 - **fox-estetik-mufredati.md** — gözün eğitimi: kompozisyon, tipografi, renk, art direction, görsel kültür
 - **fox-oz-denetim-ve-nobet.md** — çıktı öncesi 8 soru + proaktif risk nöbeti + anticipatory (öngörü) katmanı
@@ -119,7 +120,7 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **.claude/agents/growth-ajani.md** — Görünürlük/AI-SEO/dönüşüm/topluluk (Corey 22 skill, sert elenerek uyarlandı)
 - **.claude/agents/branding-ajani.md** — Sözel + görsel marka kimliği, brand book (marka kiti + parmak izi zeminli)
 - **marka-bulutu-os-uyarlama-plani.md** — ai-marketing-claude reposundan öğrenilen mimarinin Steps On Clouds'a uyarlama planı
-- **sablonlar/araclar/** — marka_analiz.py (etki ölçüm/baseline), rakip_tarama.py, rapor_pdf.py
+- **sablonlar/araclar/** — marka_analiz.py (etki ölçüm/baseline), rakip_tarama.py, rapor_pdf.py, slop_tarama.py (AI klişe **kelime** taraması), **sozdizim_tarama.py** (AI **sözdizimi** taraması — prosa çıktısında zorunlu)
 
 **Operasyon altyapısı:**
 - **Notion — Marka Bulutu OS Müşteri Panosu** (data source: f4c97159-9c85-4766-b122-760b00b9c321): tüm müşteri pipeline'ı. Yeni gelişmede güncelle.
