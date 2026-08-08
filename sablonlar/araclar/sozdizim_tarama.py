@@ -76,13 +76,25 @@ BAGLAC = [
 # ── 5. AFORİZMA KAPANIŞI ───────────────────────────────────────────────────
 # Paragrafın son cümlesi: kısa + geniş zaman genelleme fiili + sıfır somut çapa.
 GENIS_ZAMAN = re.compile(r"\w+(?:ir|ır|ur|ür|er|ar|maz|mez)\b[.!?…]?\s*$")
+# Talimat / okura hitap: aforizma DEĞİLDİR. Türkçe tarif ve how-to dili geniş
+# zamanla yazılır ("…değişir", "…belirlenir"); bu bir üslup imzası değil, türün
+# gereğidir. Bu muafiyet olmadan ölçü, gazete polemiği dışındaki her metin
+# türünü haksız yere işaretler (kalibrasyon notu, 8 Ağu 2026).
+TALIMAT = re.compile(
+    r"\b(?:siz|size|sizi|sizin|kendi\w*)\b"
+    r"|\w+(?:ın|in|un|ün|yın|yin|yun|yün|ınız|iniz|unuz|ünüz)\b\s*[.!?…]?\s*$"
+    r"|\w+(?:nız|niz|nuz|nüz)\w*\b",
+    re.IGNORECASE,
+)
 
 # ── 6. İNSAN İŞARETİ (metinde konuşan bir özne var mı) ─────────────────────
 # Korpus bulgusu: köşe yazılarında birinci şahıs + soru + alıntı HER ZAMAN var;
 # "AI yazmış" denen kendi metinlerimizde üçü de SIFIRDI.
 BIRINCI_SAHIS = re.compile(
     r"\b(ben|bana|beni|benim|bence|biz|bize|bizi|bizim)\b"
-    r"|\w+(?:yorum|yoruz|dım|dim|dum|düm|dık|dik|duk|dük|mışım|miştik)\b",
+    # -dık/-tık, -dim/-tim … aynı ekin ünsüz uyumlu biçimleri; ikisi de sayılır
+    r"|\w+(?:yorum|yoruz|[dt]ım|[dt]im|[dt]um|[dt]üm|[dt]ık|[dt]ik|[dt]uk|[dt]ük"
+    r"|mışım|mişim|mıştık|miştik)\b",
     re.IGNORECASE,
 )
 
@@ -191,12 +203,17 @@ def analiz(dosya: Path):
     aforizma = []
     for p in paras:
         pc = cumleler(p)
-        if not pc:
+        # Tek cümlelik paragraf "aforizmayla KAPANMAZ" — paragrafın kendisidir.
+        # (Korpus: insan yazarların paragraflarının ~%64'ü tek cümle.)
+        if len(pc) < 2:
             continue
         son = pc[-1]
         if (len(son.split()) <= 14
                 and GENIS_ZAMAN.search(son)
-                and not somut_capalar([son])):
+                and not somut_capalar([son])
+                # Talimat/hitap cümlesi aforizma değildir: "…kurulayın", "…sorun",
+                # "sizin/-nız". Türkçe tarif dili geniş zamanla yazılır.
+                and not TALIMAT.search(son)):
             aforizma.append(son)
 
     return {
