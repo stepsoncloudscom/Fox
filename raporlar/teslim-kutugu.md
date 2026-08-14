@@ -21,6 +21,7 @@
 | 3 | 8 Ağu 2026 | Blog 4 yazı (liner/türler/miyoelektrik/süreç) | Özgür Protez | Metin Yazarı | v01→v02 | — | ⏳ Wix draft | İnsan Sesi Kapısı geçişi (AI sözdizimi) | — |
 | 4 | 13 Ağu 2026 | Yürüme Analizi çözüm sayfası | Özgür Protez | Metin Yazarı → Denetmen | v01→v02 | **GERİ** (7 DUR · 7 DÜZELT · 9 NOT) | 🔴 Bloklu | Sayfanın tamamı **teyitsiz tedarikçi şartnamesi** verisine dayanıyordu; ayrıca 3 adımlık talep-yaratma dizisi (TİTCK M.5) | — |
 | 5 | 14 Ağu 2026 | Süreklilik onarımı (durum bölme + hook'lar + bu kütük) | Fox içi | Fox | v01 | — | ✅ Onaylı (A/B/C) | — | — |
+| 6 | 15 Ağu 2026 | Kanıt hattı: Özgür Protez TZP (geriye dönük) + Kanıt Üçgeni T0 | Fox içi / Özgür Protez | Fox | v01 | — | — | Ölçüm sırasında **🔴 site yayında değil** bulgusu çıktı (404 · Draft · Free plan) — 6 haftalık üretim kamuya görünmüyor. Kök neden: 9 merceğin hiçbiri **erişim** sormuyordu → Denetmen 10. mercek eklendi | — |
 
 ## Aylık rollup
 

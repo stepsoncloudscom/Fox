@@ -101,6 +101,12 @@ Bu metin okuyucuya "yapay zekâ yazmış" gibi gelir mi? Dilbilgisi doğru, KKK 
 *Sokratik ön-süzgeç:* "AI gibi mi?" sorusundan önce — **bu metnin somut malzemesi var mıydı?** Soyutluk çoğu zaman bir üslup tercihi değil, doldurulmamış bir brif açığının üstünün örtülmesidir. Malzeme eksikse doğru bulgu "kötü yazılmış" değil, **"eksik olgu listesi müşteriye gitmeliydi"**dir.
 *Neden eklendi:* Özgür Irmak Protez Hakkımızda v0.5 bu denetimden **onaylı** geçti; müşteri "yapay zekâya mı yazdırdın" dedi. Denetim zinciri açığı yakalayamadıysa mercek de güncellenir (yerleşik kural).
 
+**Erişilebilirlik** *(10. mercek — 14 Ağu 2026'da eklendi; "yayınlandı/yüklendi/teslim edildi" denen HER çıktıda zorunlu)*
+Tek soru: **"Bunu bugün, hesabı olmayan bir yabancı görebiliyor mu? Kanıtı ne?"**
+*Zorunlu kanıt:* URL + HTTP statü kodu (ya da platformun kendi yayın statüsü). **"Yükledim", "publish ettim", "API başarılı döndü" kanıt değildir** — ara katmanın statüsüdür, erişimin değil.
+*Sokratik ön-süzgeç:* "Yayında mı?" sorusundan önce — **bu platformda kaç ayrı yayın kavramı var?** (Wix'te post publish ≠ site publish; Wix free plan özel alan adı bağlamaz. Draft'ta duran bir sitedeki "published" post kimseye görünmez.)
+*Neden eklendi:* Özgür Protez blogu 30 Tem'de "YAYINLANDI" olarak kaydedildi ve Fox bunu bağımsız teyit etti — ama **post statüsünü** teyit etti, **erişimi** değil. Site hiç yayınlanmamıştı; 14 Ağu'da ölçüldüğünde URL **404** veriyordu. Altı haftalık üretim kamuya görünmüyordu ve dokuz merceğin hiçbiri bunu sormuyordu. Kanıt: `raporlar/ozgur-irmak-kanit-ucgeni.md`.
+
 **Devredilen mercekler (referans — tam derinlik alt rol dosyasında):**
 - **Doğruluk** → [Verification](verification.md). *Sokratik ön-süzgeç orada taşınıyor: kaynak yoksa "doğru mu?" sorusu henüz sorulamaz.*
 - **Kapsam Kayması** → [Devil's Advocate](devils-advocate.md). *Sokratik ön-süzgeç: Ayhan'ın gerçekte onayladığı sınır neydi, yazılı mı varsayılmış mı?*
@@ -113,7 +119,7 @@ Bu metin okuyucuya "yapay zekâ yazmış" gibi gelir mi? Dilbilgisi doğru, KKK 
 
 *Faz 2 entegrasyonu — 5 Temmuz 2026 (4 Ağustos 2026'dan öne çekildi, 5 gün sonra 10 Tem'de Faz 3 ile devam edildi). İlham: Princeton NLP Group — SocraticAI (çok-ajanlı Sokratik diyalogla self-discovery: Socrates ve Theaetetus tartışır/konsensüse varır, Plato diyaloğu hata için proofread eder — sabit şablon yerine serbest sorgulama) ve MARS (Multi-Agent Framework Incorporating Socratic Guidance — bir ajan öneri üretir, biri değerlendirir, biri Socratic sorularla derinleştirir; iteratif optimizasyon).*
 
-8 mercek "bu doğru mu?" sorusuna cevap arar. Sokratik protokol bir katman önce durur: **doğru soruyu soruyor muyum, önce onu sorgula.** Bu protokol artık hem orkestratörün kendi 4 merceğinde hem de her alt rolün kendi delegasyonunda geçerlidir — ortak yöntem, dağıtık uygulama.
+10 mercek "bu doğru mu?" sorusuna cevap arar. Sokratik protokol bir katman önce durur: **doğru soruyu soruyor muyum, önce onu sorgula.** Bu protokol artık hem orkestratörün kendi 4 merceğinde hem de her alt rolün kendi delegasyonunda geçerlidir — ortak yöntem, dağıtık uygulama.
 
 **1. Önsel Soru İlkesi**
 Her mercek uygulanmadan önce sor: **"Bu soruyu sormadan önce hangi soruyu sormam gerekiyor?"**
@@ -131,7 +137,7 @@ Bulguyu finalize etmeden iki iç role böl:
 Bu iç diyalog rapora yazılmaz — yalnızca bulgunun kalitesini yükseltmek için kullanılır.
 
 **5. Serbest Sorgulama (sabit şablona karşı)**
-8 mercek + 3 alt rol başlangıç noktasıdır, tavan değil. Mercek/rol sınırına uymayan ama gözden kaçmaması gereken bir soru varsa, "Ek Soru" başlığıyla ayrıca yazılır.
+10 mercek + 3 alt rol başlangıç noktasıdır, tavan değil. Mercek/rol sınırına uymayan ama gözden kaçmaması gereken bir soru varsa, "Ek Soru" başlığıyla ayrıca yazılır.
 
 **Ne zaman tam ağırlıkla uygulanır:** Kademe 2/3 çıktılar, strateji/konumlandırma, sözleşme, yüksek riskli/belirsiz durumlar. Düşük riskli Kademe 1 işlerde tam ağırlık gerekmez — hızlı geçiş yeterli.
 

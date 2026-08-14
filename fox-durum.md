@@ -1,6 +1,6 @@
 # Fox — DURUM / Kaldığımız Yer
 
-**Son güncelleme: 14 Ağustos 2026**
+**Son güncelleme: 15 Ağustos 2026** *(14-15 Ağu oturumu)*
 **Kural: bu dosya 40 satırı geçmez.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
@@ -16,11 +16,13 @@
 | **Fox / Marka Bulutu OS gelişimi** | 14 Ağu: A (süreklilik) + B (kanıt hattı) + C (ürünleştirme) onaylandı | A bitti · B: Özgür Protez TZP + Kanıt Üçgeni T0 (21 Ağu) · C: paket iskeleti (5 Eyl) | Fox |
 
 ## AYHAN'DA BEKLEYENLER (bloklayan)
-1. Özgür Bey'e **11 kalemlik teknik teyit** talebi — Yürüme Analizi sayfasının tek kapısı.
-2. Blog 5 yazı yayın onayı (Wix'te draft duruyor).
-3. SOC mağaza mekanizması kararı.
+1. 🔴 **Özgür Protez sitesi yayında değil** — Wix planı kimin adına/bütçesiyle yükseltilecek + yayın öncesi hangi kapılar (avukat) kapanmalı? Cevaplanmadan içerik üretmek stok biriktirmektir.
+2. Özgür Bey'e **11 kalemlik teknik teyit** talebi — Yürüme Analizi sayfasının tek kapısı.
+3. Blog 5 yazı yayın onayı (Wix'te draft duruyor).
+4. SOC mağaza mekanizması kararı.
 
 ## RİSK BAYRAKLARI
+- 🔴 **TESLİM ≠ ERİŞİM (15 Ağu, ölçüldü):** Özgür Protez Wix sitesi **Draft** — URL **404**; `ozgurprotez.com` hâlâ "YENİLENİYORUZ". 6 haftalık üretim (5 blog · Hakkımızda · ~70 ürün metni · KVKK) **kamuya görünmüyor**. Site dili yalnız `tr` (4-dil hedefi uygulanmamış), plan **Free** (özel alan adı bağlanamaz). Ölçüm: `raporlar/ozgur-irmak-kanit-ucgeni.md`. Panzehir: Denetmen 10. mercek **Erişilebilirlik**.
 - 🔴 **Döviz/global pipeline boş.** Özgür Protez aktif ama TL. Kuzey Yıldızı #3 (globalleşme) karşılıksız. *(20 Haz'ın "hiç iş yok" bayrağı geçersiz — Özgür Protez o tarihten sonra geldi.)*
 - ⚠️ **Sözleşme/ödeme durumu bu dosyada kayıtlı değil** — Özgür Protez'in hangi kalemi faturalandı, teyit edilmeli.
 - ⚠️ **Medikal içerikte uydurma sıfır toleransı:** TİTCK + YMYL. Teyitsiz teknik veri "yumuşatılarak" bırakılmaz, çıkarılır.
