@@ -126,6 +126,8 @@ Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlı
 - **.claude/agents/icerik-ajani.md** — Görsel yön + belge üretimi (PDF/Canva/PPTX) + koordinasyon; **metin yazmaz** — copy Metin Yazarı'ndan gelir, İçerik yerleştirir/görselleştirir (v3, Model A tam ayrım)
 - **.claude/agents/growth-ajani.md** — Görünürlük/AI-SEO/dönüşüm/topluluk (Corey 22 skill, sert elenerek uyarlandı)
 - **.claude/agents/branding-ajani.md** — Sözel + görsel marka kimliği, brand book (marka kiti + parmak izi zeminli)
+- **marka-bulutu-os-urun-tanimi.md** — ⭐ OS'un satılabilir ürün iskeleti (15 Ağu 2026, v0.1): K0 Denetim / K1 Kurumsal Çekirdek / K2 Sistem Kuruluşu / K3 Aylık İşletim — her katmanın teslim listesi, dahil-değil sınırı, kapısı. **Fiyatlar [AYHAN]** — Fox rakam koymaz. §5 kanıt durumu dürüst tablo: süreç/uyum kalitesi satılabilir, "şu kadar büyüttük" henüz satılamaz.
+- **.claude/agents/pipeline-ajani.md** — 🚧 TASLAK, Ayhan onayı bekliyor. SoC'nin KENDİ gelir hattı (niteleme/teklif/takip/kayıp analizi). §6B çakışma analizi dosyanın içinde.
 - **marka-bulutu-os-uyarlama-plani.md** — ai-marketing-claude reposundan öğrenilen mimarinin Steps On Clouds'a uyarlama planı
 - **sablonlar/araclar/** — marka_analiz.py (etki ölçüm/baseline), rakip_tarama.py, rapor_pdf.py, slop_tarama.py (AI klişe **kelime** taraması), **sozdizim_tarama.py** (AI **sözdizimi** taraması — prosa çıktısında zorunlu)
 

@@ -23,6 +23,8 @@
 | 5 | 14 Ağu 2026 | Süreklilik onarımı (durum bölme + hook'lar + bu kütük) | Fox içi | Fox | v01 | — | ✅ Onaylı (A/B/C) | — | — |
 | 6 | 15 Ağu 2026 | Kanıt hattı: Özgür Protez TZP (geriye dönük) + Kanıt Üçgeni T0 | Fox içi / Özgür Protez | Fox | v01 | — | — | Ölçüm sırasında **🔴 site yayında değil** bulgusu çıktı (404 · Draft · Free plan) — 6 haftalık üretim kamuya görünmüyor. Kök neden: 9 merceğin hiçbiri **erişim** sormuyordu → Denetmen 10. mercek eklendi | — |
 
+| 7 | 15 Ağu 2026 | Ürün tanımı iskeleti (K0-K3) + Pipeline Ajanı taslağı | Fox içi | Fox | v01 | — | ⏳ 5 açık karar Ayhan'da | Fiyat/kapsam Fox'un kararı değil — slotlar `[AYHAN]` bırakıldı (§11.5) | — |
+
 ## Aylık rollup
 
 | Ay | Teslim | İlk turda kabul | Ort. tur | En sık red sebebi |

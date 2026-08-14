@@ -13,7 +13,7 @@
 | · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
 | **Steps On Clouds** (kendi marka) | ⚠️ *Bu blok 10–20 Haz kayıtlarından taşındı, tazeliği teyit edilmedi* | Wix Editor'a copy yapıştırma · mağaza mekanizması kararı ("destekler" mi "finanse eder" mi) · Run For Empathy mailleri | Ayhan |
 | **Orhan doğum günü kart oyunu** (kişisel, Ayhan+Melek) | Brief v01 hazır (9 Ağu) | Joker kart içerikleri + yaş teyidi | Ayhan |
-| **Fox / Marka Bulutu OS gelişimi** | 14 Ağu: A (süreklilik) + B (kanıt hattı) + C (ürünleştirme) onaylandı | A bitti · B: Özgür Protez TZP + Kanıt Üçgeni T0 (21 Ağu) · C: paket iskeleti (5 Eyl) | Fox |
+| **Fox / Marka Bulutu OS gelişimi** | 14-15 Ağu: A + B + C üçü de koştu | **A ✅** · **B ✅** (TZP + Kanıt Üçgeni T0 — site yayın bulgusu çıktı) · **C ✅ iskelet** → Ayhan'da 5 karar (fiyat kademeleri · K0 ücretli mi · platform maliyeti kimde · para birimi · Pipeline ajanı kurulsun mu) | Ayhan |
 
 ## AYHAN'DA BEKLEYENLER (bloklayan)
 1. 🔴 **Özgür Protez sitesi yayında değil** — Wix planı kimin adına/bütçesiyle yükseltilecek + yayın öncesi hangi kapılar (avukat) kapanmalı? Cevaplanmadan içerik üretmek stok biriktirmektir.
