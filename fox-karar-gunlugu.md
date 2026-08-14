@@ -15,6 +15,13 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Fox & OS Gelişim Hattı — A/B/C üçü birden onaylandı (14 Ağu)
+- **Karar (Ayhan, 14 Ağu):** Fox'un kendi denetiminden çıkan üç hat da koşulacak: **A** süreklilik onarımı · **B** kanıt hattı (Özgür Protez'i ölçülebilir vakaya çevir) · **C** ürünleştirme + satış/pipeline ajanı.
+- **Bağlam:** Fox repo denetiminde 5 iç + 3 yapısal açık buldu. En sert bulgu: **süreklilik döngüsü fiilen kırıktı** — `fox-durum.md` 15 gün bayat kalmıştı, içindeki risk bayrağı hâlâ "pipeline'da iş yok" diyordu; oysa Özgür Protez canlı müşteriydi ve 6 dosya commit'siz duruyordu. Yani her yeni oturum **yanlış gerçekliği devralıyordu.** Kök neden: checkpoint emri yazılıydı, **tetikleyicisi yoktu** (SessionStart hook vardı, SessionEnd yoktu).
+- **Sıra gerekçesi:** B ve C, A'nın kirli zemini üzerine yazardı. Önce zemin.
+- **A'da yapılanlar (aynı gün, Kademe 1):** durum dosyası ikiye ayrıldı (40 satır tavanı + `raporlar/oturum-gunlugu.md` arşivi) · SessionEnd + PreCompact hook'ları kuruldu · `raporlar/teslim-kutugu.md` açıldı (§5'in ilk verisi) · CLAUDE.md'ye **red→ölçü 48 saat** ve **aylık budama** ritmi eklendi · Metin Yazarı'na **Olgu Kotası Kapısı** kondu.
+- **Neden budama zorunlu:** her ders yalnızca *eklenirse* ajan kendi ağırlığından yavaşlar — Metin Yazarı 10 günde v1.0→v1.2, Denetmen 267 satır. Ekleme serbest, budama zorunlu.
+
 ### Özgür Irmak Değer Seti — 4 Değer Kilitlendi (27 Tem)
 - **Karar (Ayhan, 27 Tem):** Özgür Irmak markasının dört çekirdek değeri = **GÜVEN · CESARET · ADALET · EMPATİ** (sıralı). Ayhan'ın açık onayı: *"evet benim kararım."*
 - **Bağlam:** Ayhan'ın manuel ilerlettiği brand guidelines sunumunda (sf.3/4) bu set geçiyordu. Fox denetimde işaretledi: kilitli 11-kelime değer havuzunda (Cesaret·Güven·İnsan·Özgürlük·Samimiyet·Dürüstlük·Tecrübe·Bilgi·Bilim·Enerji·Güç) "Adalet" ve "Empati" birebir yoktu → sürüklenme mi karar mı? Ayhan: karar.

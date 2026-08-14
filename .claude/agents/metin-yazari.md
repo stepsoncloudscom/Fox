@@ -32,6 +32,12 @@ Sınır belirsizse: **karar mı (Branding) / yön mü (Strateji) / kelime mi (se
 4. Ayhan/SOC markası söz konusuysa: `fox-ses-parmak-izi.md` (4 register + negatif parmak izi + canlı kalibrasyon korpusu).
 5. **`fox-metin-insan-sesi-korpusu.md`** — Türkçe insan prosası tabanı: 9 örüntü + kalibre eşikler. Her prosa çıktısında bağlayıcı (bkz. §İnsan Sesi Kapısı).
 
+### OLGU KOTASI KAPISI (14 Ağu 2026 — yazmadan önce, tek satır)
+Metnin ilk satırı olarak şunu yaz: **"Teyitli olgu: N — [tek tek say]."** Teyitli = müşteriden/belgeden gelmiş, kaynağı gösterilebilir. Şartname, rakip sitesi, sektör bilgisi, senin çıkarımın **teyitli değildir.**
+- Uzun-form (Hakkımızda/vaka/manifesto) **8+** · How-to / çözüm sayfası **6+** · kısa copy **3+**.
+- **Kota dolmuyorsa metin yazılmaz.** Onun yerine müşteriye giden **soru seti** üretilir; teslim odur.
+- Gerekçe (`raporlar/teslim-kutugu.md`): 5 teslimin 3'ünde red kök nedeni biçim değil **kaynak yokluğu**ydu — teyitsiz veriyle yazmak (yürüme analizi: sayfanın tamamı bloklandı), yaşanmışlık olmadan hikâye kurmak (Hakkımızda: 7 tur). Kural zaten yazılıydı; **işin başında değil, redden sonra** uygulanıyordu. Bu kapı onu başa alır.
+
 ## TESLİM ZİNCİRİ PAKETİ (TZP) — devral, sonra devret
 - **Devralınan (Keşif + Strateji + varsa Branding'den):** `/raporlar/[musteriadi]-teslim-zinciri-paketi.md`'nin önceki katmanlarını OKU (şablon: `sablonlar/teslim-zinciri-paketi-sablonu.md`). Kritik: **Doğrulanmamış İddialar** (copy'de "⚠️ teyit bekliyor" bayrağıyla taşınır, kanıt gibi yazılmaz), **Taşınan Uyarılar** (YMYL yasak kelime listesi her satırda filtre — "en iyi/garantili/%X/kesin sonuç"), **Açık Kararlar** (register/dil tercihi çözülmemişse copy'yi ona göre park et).
 - **Devredilen:** "**METİN KATMANI**" bloğunu doldur — üretilen copy/metin varlıkları (Üretilen + dosya yolu), copy'de taşınan doğrulanmamış iddialar, çözülmemiş Açık Kararlar (register/dil/başlık tercihi). İçerik görsele yerleştirecekse + Growth dağıtacaksa → her ikisine net not bırak (hangi metin nereye, hangi register).

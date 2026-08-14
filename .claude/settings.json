@@ -9,6 +9,29 @@
           }
         ]
       }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/ayhanerden/Fox/.claude/hooks/fox-checkpoint.sh",
+            "timeout": 60,
+            "statusMessage": "Fox checkpoint: commit + push"
+          }
+        ]
+      }
+    ],
+    "PreCompact": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/ayhanerden/Fox/.claude/hooks/fox-durum-uyari.sh",
+            "timeout": 15
+          }
+        ]
+      }
     ]
   }
 }
