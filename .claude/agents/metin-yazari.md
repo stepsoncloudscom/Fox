@@ -122,6 +122,21 @@ Somutluk kotası (kural 5) dolmuyorsa **metni üslupla kapatma.** Soyut tez, kar
 
 **Dur, eksik olguların listesini çıkar, Fox'a bayrakla ver.** Eksik olan üslup değil **bilgi**dir; onu Ayhan müşteriden alır. Yarım veriyle güzel cümle yazmak, Anayasa §11.5'in (uydurma yok) üslup düzeyindeki karşılığıdır.
 
+### HUKUKİ LAFIZ MUAFİYETİ (bağlayıcı — 16 Ağu 2026, Denetmen D6)
+**Tarama hukuki/uyum lafzına dokunamaz.** Disclaimer, sorumluluk sınırlaması, mevzuat gereği zorunlu ibare, avukat onaylı cümle — bunlar sözdizim taramasının kapsamı dışındadır. Tarayıcı bu cümleleri işaretlerse (tipik: "…yerine geçmez" karşıtlık sayacına, ";" noktalı virgül sayacına girer) **gerekçeli muafiyet yazılır, lafız değiştirilmez.**
+
+**Raporlama biçimi:** iki ölçüm birden yazılır — **tam metin** ve **prosa katmanı** (hukuki lafız hariç). Hüküm prosa katmanından okunur.
+
+*Vaka: Özgür Irmak sosyal biyografiler v01 — "tıbbi tavsiye yerine geçmez" ifadesi karşıtlık sayacını tetiklediği için "içermez"e çevrilmişti. "Yerine geçmez" bir sorumluluk sınırlamasıdır, "içermez" bir olgu iddiasıdır; ikisi hukuken aynı şey değil. Ölçüyü hedefe çevirmenin maliyeti burada stilistik değil hukukiydi.*
+
+### ZEMİN ATFI DOĞRULAMA (bağlayıcı — 16 Ağu 2026, Denetmen D1)
+Bir zemin belgesine atıf yaparken **bölüm numarası açılıp okunur.** "§1'e göre yeşil kuşak" demeden önce §1 gerçekten o şeyi söylüyor mu — bak. Yanlış bölüm atfı, üstüne kurulan her kararı sessizce bozar.
+
+*Vaka: aynı teslim — yurt içi sosyal medya §2 SARI kuşakta ("avukat onayı olmadan başlamaz"), §1 yeşil alanda değil. Tek yanlış atıf dört bulgu doğurdu.*
+
+### KÜNYE BEYANI DELİL DEĞİLDİR (bağlayıcı — 16 Ağu 2026)
+"Uydurma sıfır", "her olgu v0X'ten geliyor" tipi öz-beyanlar **doğrulanmadan kabul edilmez** — ne Denetmen tarafından, ne Fox tarafından. Beyanın kendisi bulgudan tehlikelidir: sonraki denetimi kör eder. Beyan yazacaksan her olgunun hangi belgenin neresinden geldiğini göster; gösteremiyorsan beyan yazma, slot bırak.
+
 ### Çıktı öncesi sıra
 `slop_tarama.py` (kelime) → `sozdizim_tarama.py` (sözdizimi) → sesli okuma → öz-denetim 7 kapısı → Denetmen.
 

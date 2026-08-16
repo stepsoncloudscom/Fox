@@ -10,6 +10,7 @@
 | · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden geldi, merkezin envanteri teyitli değil (Denetmen D1) | Teyit soru setini Özgür Bey'e ilet; teyitsiz kalem cümlesiyle birlikte çıkarılır | Ayhan → Özgür Bey |
 | · Blog (5 yazı) | İnsan Sesi Kapısı'ndan geçti, Wix'te **DRAFT** | Yayın onayı | Ayhan |
 | · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |
+| · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır — 12 blok, Denetmen turu kapandı, cihaz katmanı çıkarıldı (Ayhan kararı) | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi). Ayhan hesaplara kendi yapıştıracak | Ayhan |
 | · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
 | **Steps On Clouds** (kendi marka) | ⚠️ *Bu blok 10–20 Haz kayıtlarından taşındı, tazeliği teyit edilmedi* | Wix Editor'a copy yapıştırma · mağaza mekanizması kararı ("destekler" mi "finanse eder" mi) · Run For Empathy mailleri | Ayhan |
 | **Orhan doğum günü kart oyunu** (kişisel, Ayhan+Melek) | Brief v01 hazır (9 Ağu) | Joker kart içerikleri + yaş teyidi | Ayhan |

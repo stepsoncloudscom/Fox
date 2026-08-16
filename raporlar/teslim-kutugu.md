@@ -24,6 +24,7 @@
 | 6 | 15 Ağu 2026 | Kanıt hattı: Özgür Protez TZP (geriye dönük) + Kanıt Üçgeni T0 | Fox içi / Özgür Protez | Fox | v01 | — | — | Ölçüm sırasında **🔴 site yayında değil** bulgusu çıktı (404 · Draft · Free plan) — 6 haftalık üretim kamuya görünmüyor. Kök neden: 9 merceğin hiçbiri **erişim** sormuyordu → Denetmen 10. mercek eklendi | — |
 
 | 7 | 15 Ağu 2026 | Ürün tanımı iskeleti (K0-K3) + Pipeline Ajanı taslağı | Fox içi | Fox | v01 | — | ⏳ 5 açık karar Ayhan'da | Fiyat/kapsam Fox'un kararı değil — slotlar `[AYHAN]` bırakıldı (§11.5) | — |
+| 8 | 16 Ağu 2026 | Sosyal biyografiler (IG/FB/LinkedIn ×2/YouTube — 12 blok) | Özgür Protez | Metin Yazarı → Denetmen → Fox doğrulama | v01→v02 | **GERİ** (4 🔴 · 11 🟡) | ⏳ Ayhan'da (slot verisi + 2 karar) | ① **Kanal kuşağı yanlış okundu** — sosyal medya §2 SARI kuşak, v01 §1'e atıfla "yeşil" demişti (tek yanlış bölüm atfı 4 bulgu doğurdu) ② **"Ataşehir" hiçbir belgede yok**, 5 yüzeyde olgu gibi kullanılmış ③ miyoelektrik/mikroişlemcili **kapasite iddiası belgesiz** ④ bio yazımı migrasyonun son adımı sayılmadı (canlı arşiv denetlenmemiş) ⑤ öz-puan 88/100 ölçümsüz (Doğruluk 20/20 — teyitsiz olgu barındıran metinde) | — |
 
 ## Aylık rollup
 
