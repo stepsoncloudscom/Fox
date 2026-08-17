@@ -11,7 +11,7 @@
 · Sonuna **` Temiz`** eklenmişse: indirme sonrası **ayıklama turu yapılmış** demektir (tekrar kareler + bozuk/aşırı yakın kırpımlar çıkarılmış). Kalanların numarası korunur, boşluk normaldir (`-01 -03 -05 …`).
 
 **Ürün alt klasörü:** `<Kategori>_<ürün kodu> - <ad>`
-· Kategoriler: **Ayak · Diz · El · Kisa** (kısa yürüme cihazı/AFO) · **Uzun** (KAFO) · *(Proteor'da eklendi:* **Sistem** *— diz+bilek+ayak bütünleşik)*
+· Kategoriler: **Ayak · Diz · El · Kisa** (kısa yürüme cihazı/AFO) · **Uzun** (KAFO) · *(Proteor'da eklendi:* **Sistem** *— diz+bilek+ayak bütünleşik)* · *(Össur liner turunda eklendi:* **Liner · Liner-Corap · Liner-Aksesuar · Liner-Arac** *— Össur'un kendi alt kategorisinden türetildi)*
 · Ürün kodu varsa öne (`Ayak_1C30-1 - Trias`), yoksa yalnız ad (`Ayak_Pro-Flex-Terra`).
 
 **Dosya adı (sabit SEO öneki + ürün slug + 2 haneli sıra):**
@@ -33,6 +33,7 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 | Ottobock-Yurume-Cihazi-Gorselleri | 10 | 36 | ❌ ham |
 | Fior-Gentz-Yurume-Cihazi-Gorselleri | 37 | 138 | ❌ ham |
 | **Proteor-Protez-Gorselleri** | **35** | **338** | ❌ ham (16 Ağu) |
+| **Ossur-Liner-Gorselleri** | **40** | **49** *(+41 ikon)* | ❌ ham (17 Ağu) |
 
 > ⚠️ **16 Ağu tespiti:** Össur ve Ottobock'un 4 klasörü o gün masaüstünde **görünmez oldu** (Çöp Kutusu boş, aynı anda masaüstüne yeni dosyalar geldi → iCloud Masaüstü senkronu ya da başka cihazdaki taşıma). Yukarıdaki sayılar aynı gün ölçülen son gerçek değerlerdir. **Ayhan iCloud Drive → Masaüstü'nden teyit etmeli.**
 
@@ -41,6 +42,25 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 - **34/35 üründe** ürün çekimi var · 800px altı **sıfır** · 1000px+ **101** görsel
 - Kaynak: `proteor.com/components/` + `us.proteor.com` (modern `/feet/ /knees/ /ankles/` + eski `/composants/`), içerik hash'iyle tekilleştirildi.
 - Üretim betiği: `sablonlar/araclar/proteor_gorsel_indir.py`
+
+### Össur Linerler detayı (17 Ağu, yeni)
+`~/Desktop/Ossur-Liner-Gorselleri/` · **40 ürün klasörü · 49 ürün görseli · 41 ikon · 435 MB** · betik `sablonlar/araclar/ossur_liner_gorsel_indir.py`
+
+- **Kaynak Össur Türkiye (`ossur.com/tr-tr`), ürün adları ve kategori Türkçe geldi** — `commercialName` alanı doğrudan sitenin TR kaydı. Uydurma çeviri yok.
+- **Kategori dağılımı:** 32 `Liner_` · 4 `Liner-Corap_` · 2 `Liner-Aksesuar_` · 2 `Liner-Arac_`. Össur bu dördünü tek "Linerler" menüsüne koyuyor; klasör adında ayrıldı ki çorap/aksesuar ürün gibi sayfalanmasın.
+- **Çözünürlük: medyan 6000px, maksimum 7680px, 1000px altı sıfır.** Dört markanın en iyi kaynağı.
+- **Ürün kodu = Össur'un kendi `PN` numarası** (`Liner_PN20011 - Iceross Dermo Locking`). Ottobock'taki `1C30-1` mantığının Össur karşılığı.
+
+**Teknik yöntem (bir dahaki Össur turunda tekrar keşfedilmesin):**
+1. `ossur.com/tr-tr` sayfaları **client-side render**; HTML'de ürün görseli **yok**, `__NEXT_DATA__` içindeki `content` boş gelir. Sayfayı curl'lemek işe yaramaz — Proteor'daki HTML-kazıma yöntemi burada çalışmaz.
+2. Veri, sayfanın tarayıcıda çağırdığı ürün API'sinden gelir (bifrost, betiğin başında yazılı): `?limit=0&loadLevel=full&locale=tr-tr` → **tek istekte 234 ürünlük tüm TR kataloğu** (ayak, diz, kol, kilit, adaptör dahil). Liner turu bunun `/linerler/` dilimi.
+3. Görseller Cloudinary'de. Sitenin verdiği URL bir **dönüşüm** taşır (`f_auto,q_auto,w_1400,h_1400,c_pad`) → 1400px. Bu blok URL'den **silinince orijinal iner** (3000–7680px). Betik bunu yapar.
+
+**Bulgular:**
+1. **✅ Sitenin gösterdiği 1400px tavan değil.** Eski `Ossur-Protez-Gorselleri` klasöründeki 1400–1600px kareler bu yüzden öyle; orijinaller 4–5 kat büyük. **Ayak/Diz/Kol tarafı aynı betikle yeniden çekilirse çözünürlük sıçrar** — `YOL` sabitini değiştirmek yetiyor.
+2. **⚠️ Ürün başına tek stüdyo karesi.** Össur TR ürün sayfasında galeri yok, tek hero görseli var; 6 üründe API ek kare veriyor (en fazla 4). Proteor'daki 9 kare/ürün yoğunluğu burada yok — sayfa tasarımı buna göre kurulmalı.
+3. **⚠️ Kaynakta paylaşılan kare:** PN20041 Iceross Stabilo Junior Locking ile PN20042 Iceross Dermo Junior Locking **aynı fotoğrafı** kullanıyor (bayt bayt aynı). İki ürün sayfası aynı görselle çıkacaksa bu bilinçli bir karar olmalı. *Betik dersi: tekilleştirme ürün içinde yapılır, ürünler arasında yapılmaz — global hash ikinci ürünün klasörünü boş bırakıyordu.*
+4. **ℹ️ 41 ikon/piktogram** (`_Ikon-Piktogram/`) ürüne değil **özelliğe** ait: aktivite seviyesi, güdük şekli, yumuşak doku durumu, el becerisi, süspansiyon yöntemi. Marka genelinde ortak kullanıldığı için ürün klasörlerine kopyalanmadı, kökte tek kopya duruyor. Ürün karşılaştırma tablosu ya da "hangi liner sana uygun" akışı kurulacaksa hazır görsel dil.
 
 ---
 
@@ -70,10 +90,35 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 - `Trittschaum_Aufsicht_260520.jpg` — "Aufsicht" üstten görünüm; içerik **boş teal plaka**, basınç haritası değil → `Trittschaum_Druckgebirge` ile değiştirildi.
 - Teknik not: zebris.de TYPO3; sayfada görseller 576px `_processed_` türev. Orijinal yalnız lightbox `href`inde ya da `srcset`in son adımında. Türevi indiren bir betik 10 karenin 10'unu da 576px alırdı.
 
+### Contemplas + Amfit — donanım zincirinin diğer iki ayağı (17 Ağu)
+Sayfa tek cihaz değil bir **zincir** anlatıyor: Zebris ölçer → Contemplas videoyla eşler → Amfit kalıbı çıkarıp tabanlığı freze eder. Her ayak kendi klasöründe, kendi öneki ile.
+
+`~/Desktop/Contemplas-Yurume-Analizi-Gorselleri/` · 3 görsel · 6,0 MB · kaynak `contemplas.com` (WordPress, `wp-content/uploads` = orijinal)
+
+| Dosya (önek `ozgur-protez-yurume-analizi-`) | Ne | Çözünürlük |
+|---|---|---|
+| `contemplas-yazilim-olcum-modulleri.png` | Yazılımın 5 ölçüm katmanı etiketli (markersız takip / kuvvet / EMG / basınç / zamansal-uzamsal) | 7680×4320 |
+| `contemplas-cok-kamerali-video-analizi.jpg` | 5 kameralı kurulum, kameralar numaralı | 5184×3456 |
+| `contemplas-templo-yazilimi-ekrani.png` | TEMPLO yazılımı açılış ekranı | 1024×630 |
+
+`~/Desktop/Amfit-Tabanlik-Uretim-Gorselleri/` · 3 görsel · 365 KB · kaynak `amfit.com` · format **webp** (web'e hazır; Wix kabul eder, düzenleme gerekirse dönüştürülür)
+
+| Dosya (önek `ozgur-protez-kisiye-ozel-tabanlik-`) | Ne | Çözünürlük |
+|---|---|---|
+| `amfit-pimli-dijitizer-ve-cad-cam-freze.webp` | Freze + renkli pimli sayısallaştırıcı platformu, tek karede | 1600×1229 |
+| `amfit-freze-tabanlik-uretimi.webp` | Freze detayı, takoz kesilirken | 1400×1400 |
+| `amfit-cam-yazilimi-tabanlik-yerlesimi.webp` | CAM yazılımı: takoz üzerine tabanlık yerleşimi | 1600×1292 |
+
+**Seçimde elenenler ve sebepleri:**
+- **Amfit iMPRESS (köpük kalıp tarayıcı) kareleri alınmadı.** Şartname "ayak tabanındaki **algılayıcı pimler**" diyor — iMPRESS köpük kalıp tarar, farklı ölçüm yöntemi. Görsel doğru cihazı göstermezse metinle çelişir.
+- **Contemplas'ın klinik/spor kulübü mekân kareleri alınmadı** (`spital_speising`, `hessingpark`, forma-sponsor duvarlı salon). Üçüncü tarafın tesisi; Özgür Protez sayfasında **"bizim merkezimiz" gibi okunur.**
+- ⚠️ Aynı risk kalan `contemplas-cok-kamerali-video-analizi.jpg` için de geçerli — başka bir laboratuvar. Yöntem anlatan bir şema gibi, altyazıyla ("çok kameralı analiz prensibi") kullanılabilir; mekân iddiası taşıyan bir yere konmaz.
+- ℹ️ TEMPLO ekranı "Version 2024" yazıyor — sayfa bir süre sonra tarihlenir.
+
 ## 3 · BULGULAR (Proteor turu)
 
 1. **🔴 ALLUX 2 — görsel yok.** Proteor'un kendi 3 sayfasında da tek görsel var, o da **404 ölü bağlantı** (`Visuel-paysage-prothese.jpg`). Üreticinin sitesindeki kırık bağlantı; bayi sitesinden çekilmedi (üçüncü taraf telifi + düşük kaynak güvenilirliği). **Görsel doğrudan Proteor'dan istenmeli.**
-2. **⚠️ Proteor'un varlık kalitesi Össur/Ottobock'un altında.** Össur/Ottobock 1400–1600px kare veriyor; Proteor'un eski Freedom hattında (Sierra, Agilix, Plie 3, RUSH ailesi, Pacifica) **orijinaller 279×349px**. Kırpılmış değil — kaynağın kendisi o. ABD sitesi birleştirilerek 800px altı sıfıra indirildi ama bazı ürünlerde tavan 952px'te kalıyor.
+2. **⚠️ Proteor'un varlık kalitesi Össur/Ottobock'un altında.** *(17 Ağu düzeltmesi: "Össur 1400–1600px verir" ölçümü **sitenin gösterdiği türev**e aitti; Össur'un orijinalleri 6000px+ — bkz. §2 Össur Linerler bulgu 1. Aradaki fark bu yüzden yazılandan büyük.)* Össur/Ottobock 1400–1600px kare veriyor; Proteor'un eski Freedom hattında (Sierra, Agilix, Plie 3, RUSH ailesi, Pacifica) **orijinaller 279×349px**. Kırpılmış değil — kaynağın kendisi o. ABD sitesi birleştirilerek 800px altı sıfıra indirildi ama bazı ürünlerde tavan 952px'te kalıyor.
 3. **⚠️ Yürüme cihazı tarafı Proteor'da ürün granülünde yok.** `proteor.com/equipment/` sayfaları ürün değil **kategori** sayfası (ankle-foot-orthoses, leg-orthoses…). Ottobock/Fior Gentz'deki gibi `Kisa_/Uzun_` ürün klasörü kurulamaz. Bu yüzden **yalnız `Proteor-Protez-Gorselleri` kuruldu.**
 4. **✅ Doğrulandı, hata değil:** Ottobock klasöründeki F23/F24 Maverick, VS4 Kintrol, VS5 Restore, LP2-W2 Freestyle Swim **doğru yerde.** 2020 Freedom Innovations devrinde Ottobock Maverick ailesini ve Kintrol'ü **elinde tuttu**; Proteor'a Plie3, Kinnex, Kinterra, Agilix, DynAdapt, Sierra, Highlander, Pacifica geçti.
 
@@ -86,6 +131,9 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 | 1 | Dosya adı önekine `proteor` eklensin mi? | **Eklenmedi** — önek site geneli sabit dize. Toplu yeniden adlandırma 1 dakikalık iş, geri alınabilir. |
 | 2 | Proteor klasörü "Temiz" turundan geçsin mi? | Ham bırakıldı; ayıklama Ayhan'ın gözüyle yapılır. |
 | 3 | ALLUX 2 görselleri Proteor'dan istenecek mi? | Beklemede. |
+| 4 | Liner dosya adı önekine `liner` eklensin mi? | **Eklendi** (`Ozgur-protez-**liner**-ossur-…`) — ortez klasörlerindeki `-ortez-` varyantı örnek alındı. Sebep: liner ürün adlarının hiçbirinde ("iceross-dermo-locking") kategori kelimesi geçmiyor, sabit önek de "bacak-ayak" diyor; dosya "silikon liner" görsel aramasına hiçbir yerden bağlanmıyordu. İstenmezse toplu adlandırma 1 dakika. |
+| 5 | Össur Ayak/Diz/Kol klasörleri yeni betikle **yeniden mi çekilsin**? | Çekilmedi — talep linerdi. Ama §2'de ölçüldü: mevcut kareler 1400–1600px, orijinaller 6000px+. Karar Ayhan'da. |
+| 6 | PN20041 ↔ PN20042 aynı fotoğrafı paylaşıyor (kaynakta öyle). İki ürün sayfası aynı görselle mi çıksın? | Her iki klasöre de kondu; ayrım isteniyorsa kendi çekimimiz gerekir. |
 
 ---
 
@@ -96,7 +144,7 @@ Bu görsellerin tamamı **üreticinin telifli materyalidir.** Yazılı kullanım
 - **belgesiz "yetkili bayi" iması** (medikal bağlamda ayrıca ağır),
 - Wix'in kendi ürün alanı uyarısıyla da çelişir (*"Write your own description instead of using manufacturers' copy"*).
 
-Aynı bayrak Özgür Irmak marka kimliği denetiminde **"Össur telifli görseller"** maddesi olarak zaten açılmıştı — kapanmadı, Proteor'la birlikte kapsamı büyüdü. **Zebris'te bayrak bir kat daha ağır (17 Ağu):** görsel yalnız telif değil **cihaz sahipliği iması** taşıyor. Merkezde birebir bu cihazın bulunduğu teyit edilmeden Zebris marka görseli sitede kullanılırsa, sayfa sahip olunmayan bir cihazı gösterir — bu telif değil **yanıltıcı tanıtım**dır (TİTCK alanı). Yürüme Analizi sayfasının 11 kalemlik teknik teyidi (Denetmen D1) bu görsellerin de kapısıdır.
+Aynı bayrak Özgür Irmak marka kimliği denetiminde **"Össur telifli görseller"** maddesi olarak zaten açılmıştı — kapanmadı, Proteor'la birlikte kapsamı büyüdü. **Zebris'te bayrak bir kat daha ağır (17 Ağu):** görsel yalnız telif değil **cihaz sahipliği iması** taşıyor. Merkezde birebir bu cihazın bulunduğu teyit edilmeden Zebris marka görseli sitede kullanılırsa, sayfa sahip olunmayan bir cihazı gösterir — bu telif değil **yanıltıcı tanıtım**dır (TİTCK alanı). Yürüme Analizi sayfasının 11 kalemlik teknik teyidi (Denetmen D1) bu görsellerin de kapısıdır. **Contemplas ve Amfit'te aynı kapı üç kat daha dar:** Amfit freze (CAD/CAM üretim ünitesi) merkezde fiilen var mı, yoksa tabanlık dışarıda mı frezeliyor? Görsel "bizde bu makine var" der; teyit yoksa yerine süreç anlatan bir şema konur, makine fotoğrafı konmaz.
 **Fox avukat değildir; işaretler.** Yayın öncesi: ya üreticiden yazılı görsel kullanım izni, ya kendi çekimlerimiz.
 
 *Yan not (sarı):* Dosya adlarında rakip klinik adları gömülü (`luxmed-nesa-proklinik-teknik-ortopedi`). SEO kazancı ile marka hijyeni arasında Ayhan kararı — ayrı ele alınacak.

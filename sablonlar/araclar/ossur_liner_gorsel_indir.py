@@ -11,7 +11,10 @@ Proteor/Ottobock klasörleriyle aynı standart:
   Ozgur-protez-liner-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<slug>-NN.<ext>
 Ayrılan:  _Ikon-Piktogram/   ürüne değil özelliğe ait şema/ikonlar (markanın tamamında
                              ortak kullanıldığı için ürün klasörüne değil köke, tek kopya)
-Aynı görsel iki üründen gelirse içerik hash'iyle tekilleştirilir.
+Tekilleştirme ÜRÜN İÇİNDE yapılır (aynı kare iki kez inmesin). Ürünler ARASI tekilleştirme
+YAPILMAZ: Össur bazı ürünlerde aynı stüdyo karesini paylaşıyor (ör. PN20041 Stabilo Junior
+ile PN20042 Dermo Junior aynı fotoğraf) — global hash kullanılırsa ikinci ürünün klasörü
+boş kalır. Paylaşımlı kareler çalışma sonunda listelenir.
 """
 import hashlib, json, os, re, shutil, subprocess, time, unicodedata
 import urllib.request
@@ -106,8 +109,8 @@ def main():
     ikon_dizin = os.path.join(HEDEF, "_Ikon-Piktogram")
     os.makedirs(ikon_dizin)
 
-    genel_hash, ikon_hash = set(), set()
-    rapor, ikon_say = [], 0
+    ikon_hash, gorulen = set(), {}          # gorulen: hash → ilk sahibi (paylaşım tespiti)
+    rapor, ikon_say, paylasim = [], 0, []
 
     for u in urunler:
         pn = u["productNumber"]
@@ -123,7 +126,7 @@ def main():
                 if o not in adaylar:
                     adaylar.append(o)
 
-        n, enb = 0, 0
+        n, enb, urun_hash = 0, 0, set()
         for g in adaylar:
             try:
                 d = getir(g, ikili=True)
@@ -133,9 +136,13 @@ def main():
             if len(d) < 2000:
                 continue
             h = hashlib.md5(d).hexdigest()
-            if h in genel_hash:
+            if h in urun_hash:                 # aynı kare aynı ürün içinde iki kez
                 continue
-            genel_hash.add(h)
+            urun_hash.add(h)
+            if h in gorulen:                   # başka ürünle paylaşılan kare — yine indirilir
+                paylasim.append((pn, gorulen[h]))
+            else:
+                gorulen[h] = pn
             n += 1
             yol = os.path.join(klasor, f"{PREFIX}-{slug(ad)}-{n:02d}{uzanti(d, g)}")
             with open(yol, "wb") as f:
@@ -179,6 +186,10 @@ def main():
         print(f"{kat:16} {pn:9} {ad[:34]:34} {n:6} {str(e)+'px':>9}{bayrak}")
     print(f"\nTOPLAM: {top} ürün görseli + {ikon_say} ikon / {len(urunler)} ürün")
     print(f"  ⚠ görsel bulunamayan: {eksik}   ⚠ 800px altında kalan: {dusuk}")
+    if paylasim:
+        print("  ⚠ kaynakta paylaşılan kare (aynı fotoğraf iki ürün sayfasında):")
+        for a, b in paylasim:
+            print(f"      {a} ↔ {b}")
     print(f"→ {HEDEF}")
 
 
