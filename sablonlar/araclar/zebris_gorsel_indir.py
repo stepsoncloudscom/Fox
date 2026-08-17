@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-"""Zebris yürüme analizi görselleri — zebris.de'den seçilmiş 10 kare, SEO adıyla.
+"""Yürüme Analizi sayfasının donanım zinciri — üç üreticiden SEO adlı görsel indirme.
 
-Hedef: ~/Desktop/Zebris-Yurume-Analizi-Gorselleri/
-Dosya: ozgur-protez-yurume-analizi-<açıklayıcı-slug>.<uzantı>
+Zincir:  Zebris (sensörlü band + basınç ölçümü) → Contemplas (video/yazılım katmanı)
+         → Amfit (dijital ayak kalıbı + CAD/CAM tabanlık üretimi)
 
-Seçim ilkesi: Yürüme Analizi sayfasının anlatısını taşıyan kareler —
-cihazın kendisi (2), yazılım/ölçüm ekranları (4), basınç haritası (1),
-statik duruş (1), yürüme yolu platformu (1), dijital ayak kalıbı (1).
+Hedefler: ~/Desktop/Zebris-Yurume-Analizi-Gorselleri/     (10 kare)
+          ~/Desktop/Contemplas-Yurume-Analizi-Gorselleri/ (3 kare)
+          ~/Desktop/Amfit-Tabanlik-Uretim-Gorselleri/     (3 kare)
 
 Not: zebris.de TYPO3 kullanıyor; sayfada görseller 576px türev olarak duruyor,
 orijinal yalnız lightbox href'inde ya da srcset'in son adımında görünüyor.
-Aşağıdaki yollar o orijinallerdir (1200–4167px).
+Aşağıdaki yollar o orijinallerdir. contemplas.com WordPress (uploads = orijinal),
+amfit.com düz webp servis ediyor.
 
 Kardeş betik: proteor_gorsel_indir.py (aynı disiplin, farklı kaynak)
 """
@@ -21,6 +22,31 @@ HEDEF = os.path.expanduser("~/Desktop/Zebris-Yurume-Analizi-Gorselleri")
 PREFIX = "ozgur-protez-yurume-analizi"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
                     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
+
+# --- Contemplas: video/yazılım katmanı. Seçim ilkesi: tesis kimliği taşımayan,
+#     yazılımın ne ölçtüğünü gösteren kareler öncelikli. (SEO slug, tam URL)
+CONTEMPLAS_HEDEF = os.path.expanduser("~/Desktop/Contemplas-Yurume-Analizi-Gorselleri")
+CONTEMPLAS = [
+    ("contemplas-yazilim-olcum-modulleri",
+     "https://contemplas.com/wp-content/uploads/2025/12/gait-analysis-parameters.png"),
+    ("contemplas-cok-kamerali-video-analizi",
+     "https://contemplas.com/wp-content/uploads/2021/12/multicamera-systems.jpg"),
+    ("contemplas-templo-yazilimi-ekrani",
+     "https://contemplas.com/wp-content/uploads/2020/11/Bildschirm_new.png"),
+]
+
+# --- Amfit: dijital kalıp + freze. Şartname "pimli sayısallaştırıcı" diyor; bu yüzden
+#     iMPRESS (köpük kalıp tarayıcı) kareleri ALINMADI — farklı ölçüm yöntemi.
+AMFIT_HEDEF = os.path.expanduser("~/Desktop/Amfit-Tabanlik-Uretim-Gorselleri")
+AMFIT_PREFIX = "ozgur-protez-kisiye-ozel-tabanlik"
+AMFIT = [
+    ("amfit-pimli-dijitizer-ve-cad-cam-freze",
+     "https://amfit.com/images/products/mill-and-digi.webp"),
+    ("amfit-freze-tabanlik-uretimi",
+     "https://amfit.com/images/products/mill-5811pb-insole-ko.webp"),
+    ("amfit-cam-yazilimi-tabanlik-yerlesimi",
+     "https://amfit.com/images/products/amfitcam-hero.webp"),
+]
 
 # (SEO slug, kaynak yolu)
 # ⚠️ Render-and-review turunda elenenler (17 Ağu): Laufbaender/TLR4_h.jpg = Reebok
@@ -71,22 +97,32 @@ def boyut(veri):
     return 0, 0
 
 
-def main():
-    os.makedirs(HEDEF, exist_ok=True)
-    for slug, yol in SECIM:
-        url = BASE + urllib.parse.quote(yol, safe="/:%")
+def indir(klasor, onek, kalemler):
+    os.makedirs(klasor, exist_ok=True)
+    for slug, yol in kalemler:
+        url = yol if yol.startswith("http") else BASE + urllib.parse.quote(yol, safe="/:%")
         try:
             veri = urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=45).read()
         except Exception as e:
             print(f"  ✗ {slug}: {e}")
             continue
         uzanti = ".jpg" if yol.lower().endswith((".jpg", ".jpeg")) else os.path.splitext(yol)[1].lower()
-        ad = f"{PREFIX}-{slug}{uzanti}"
-        with open(os.path.join(HEDEF, ad), "wb") as f:
+        ad = f"{onek}-{slug}{uzanti}"
+        with open(os.path.join(klasor, ad), "wb") as f:
             f.write(veri)
         w, h = boyut(veri)
-        print(f"  ✓ {ad}  {w}×{h}  {len(veri)//1024}KB")
-    print(f"\nKlasör: {HEDEF}")
+        olcu = f"{w}×{h}" if w else "webp"
+        print(f"  ✓ {ad}  {olcu}  {len(veri)//1024}KB")
+    print(f"  → {klasor}\n")
+
+
+def main():
+    print("ZEBRIS — sensörlü band + basınç ölçümü")
+    indir(HEDEF, PREFIX, SECIM)
+    print("CONTEMPLAS — video/yazılım katmanı")
+    indir(CONTEMPLAS_HEDEF, PREFIX, CONTEMPLAS)
+    print("AMFIT — dijital ayak kalıbı + CAD/CAM tabanlık")
+    indir(AMFIT_HEDEF, AMFIT_PREFIX, AMFIT)
 
 
 if __name__ == "__main__":
