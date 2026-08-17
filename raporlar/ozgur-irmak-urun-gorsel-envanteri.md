@@ -44,6 +44,32 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 
 ---
 
+### Zebris — yürüme analizi cihazı (17 Ağu, yeni klasör tipi)
+`~/Desktop/Zebris-Yurume-Analizi-Gorselleri/` · **10 görsel** · 4,8 MB · kaynak `zebris.de/en/medical/*` · betik `sablonlar/araclar/zebris_gorsel_indir.py`
+
+**Neden standarttan sapıyor (bilinçli):** Bu klasör *ürün* değil *hizmet sayfası* besliyor. Üç sapma:
+1. Klasör adı `Zebris-Yurume-**Analizi**-Gorselleri` — mevcut `…-Yurume-Cihazi-…` ortez/AFO demek, çakışmasın diye.
+2. Alt klasör yok (10 dosya, tek düzey).
+3. Dosya adı öneki `ozgur-protez-yurume-analizi-` — rakip klinik adları (`luxmed-nesa-proklinik…`) **gömülmedi**; küçük harf. Ayhan sabit öneki isterse toplu adlandırma 1 dakika.
+
+| Dosya (önek `ozgur-protez-yurume-analizi-`) | Ne | Çözünürlük |
+|---|---|---|
+| `zebris-fdm-t-klinik-yurume-bandi.jpg` | h/p/cosmos tabanlı klinik band, ürün çekimi | 4000×3091 |
+| `zebris-fdm-t-yurume-bandi-tutamakli.jpg` | Tutamaklı + oturaklı klinik varyant | 4000×3091 |
+| `zebris-ayak-tabani-basinc-haritasi-3d.png` | Band üzerinde 3B basınç tepeleri | 2103×897 |
+| `zebris-yurume-analizi-yazilimi-kamera-gorunumu.jpg` | Yazılım: 3B basınç + senkron video | 1200×719 |
+| `zebris-ayak-yuvarlanma-basinc-dagilimi-ekrani.jpg` | Yazılım: sağ/sol yuvarlanma haritası | 1200×719 |
+| `zebris-statik-durus-analizi-ciplak-ayak.jpg` | Yazılım: statik duruş + yük dağılımı %'leri | 1200×719 |
+| `zebris-yurume-analizi-raporu.jpg` | Çıktı raporu sayfaları | 1200×675 |
+| `zebris-yurume-yolu-basinc-olcum-platformu.jpg` | Uzun yürüme yolu basınç platformu | 1200×798 |
+| `zebris-pdm-c-basinc-olcum-platformu.jpg` | Platform + ekran, kullanım karesi (insanlı) | 1999×2622 |
+| `zebris-ayak-basinc-dagilimi-3d-model.jpg` | Tek ayak 3B basınç modeli | 852×416 |
+
+**Render-and-review iki hata yakaladı — ikisi de dosya adına güvenmekten:**
+- `Laufbaender/TLR4_h.jpg` (4167px, en yüksek çözünürlüklü kare) **Reebok tüketici koşu bandı.** Medikal sayfada klinik cihaz gibi durur → elendi.
+- `Trittschaum_Aufsicht_260520.jpg` — "Aufsicht" üstten görünüm; içerik **boş teal plaka**, basınç haritası değil → `Trittschaum_Druckgebirge` ile değiştirildi.
+- Teknik not: zebris.de TYPO3; sayfada görseller 576px `_processed_` türev. Orijinal yalnız lightbox `href`inde ya da `srcset`in son adımında. Türevi indiren bir betik 10 karenin 10'unu da 576px alırdı.
+
 ## 3 · BULGULAR (Proteor turu)
 
 1. **🔴 ALLUX 2 — görsel yok.** Proteor'un kendi 3 sayfasında da tek görsel var, o da **404 ölü bağlantı** (`Visuel-paysage-prothese.jpg`). Üreticinin sitesindeki kırık bağlantı; bayi sitesinden çekilmedi (üçüncü taraf telifi + düşük kaynak güvenilirliği). **Görsel doğrudan Proteor'dan istenmeli.**
@@ -70,7 +96,7 @@ Bu görsellerin tamamı **üreticinin telifli materyalidir.** Yazılı kullanım
 - **belgesiz "yetkili bayi" iması** (medikal bağlamda ayrıca ağır),
 - Wix'in kendi ürün alanı uyarısıyla da çelişir (*"Write your own description instead of using manufacturers' copy"*).
 
-Aynı bayrak Özgür Irmak marka kimliği denetiminde **"Össur telifli görseller"** maddesi olarak zaten açılmıştı — kapanmadı, Proteor'la birlikte kapsamı büyüdü.
+Aynı bayrak Özgür Irmak marka kimliği denetiminde **"Össur telifli görseller"** maddesi olarak zaten açılmıştı — kapanmadı, Proteor'la birlikte kapsamı büyüdü. **Zebris'te bayrak bir kat daha ağır (17 Ağu):** görsel yalnız telif değil **cihaz sahipliği iması** taşıyor. Merkezde birebir bu cihazın bulunduğu teyit edilmeden Zebris marka görseli sitede kullanılırsa, sayfa sahip olunmayan bir cihazı gösterir — bu telif değil **yanıltıcı tanıtım**dır (TİTCK alanı). Yürüme Analizi sayfasının 11 kalemlik teknik teyidi (Denetmen D1) bu görsellerin de kapısıdır.
 **Fox avukat değildir; işaretler.** Yayın öncesi: ya üreticiden yazılı görsel kullanım izni, ya kendi çekimlerimiz.
 
 *Yan not (sarı):* Dosya adlarında rakip klinik adları gömülü (`luxmed-nesa-proklinik-teknik-ortopedi`). SEO kazancı ile marka hijyeni arasında Ayhan kararı — ayrı ele alınacak.
