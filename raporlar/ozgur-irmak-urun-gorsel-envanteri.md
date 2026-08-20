@@ -11,7 +11,7 @@
 · Sonuna **` Temiz`** eklenmişse: indirme sonrası **ayıklama turu yapılmış** demektir (tekrar kareler + bozuk/aşırı yakın kırpımlar çıkarılmış). Kalanların numarası korunur, boşluk normaldir (`-01 -03 -05 …`).
 
 **Ürün alt klasörü:** `<Kategori>_<ürün kodu> - <ad>`
-· Kategoriler: **Ayak · Diz · El · Kisa** (kısa yürüme cihazı/AFO) · **Uzun** (KAFO) · *(Proteor'da eklendi:* **Sistem** *— diz+bilek+ayak bütünleşik)* · *(Össur liner turunda eklendi:* **Liner · Liner-Corap · Liner-Aksesuar · Liner-Arac** *— Össur'un kendi alt kategorisinden türetildi)*
+· Kategoriler: **Ayak · Diz · El · Kisa** (kısa yürüme cihazı/AFO) · **Uzun** (KAFO) · *(Proteor'da eklendi:* **Sistem** *— diz+bilek+ayak bütünleşik)* · *(Össur liner turunda eklendi:* **Liner · Liner-Corap · Liner-Aksesuar · Liner-Arac** *— Össur'un kendi alt kategorisinden türetildi)* · *(Levitate turunda eklendi:* **Blade · Blade-Kit · Ayak-Kilifi · Taban · Adaptor** *)*
 · Ürün kodu varsa öne (`Ayak_1C30-1 - Trias`), yoksa yalnız ad (`Ayak_Pro-Flex-Terra`).
 
 **Dosya adı (sabit SEO öneki + ürün slug + 2 haneli sıra):**
@@ -34,6 +34,7 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 | Fior-Gentz-Yurume-Cihazi-Gorselleri | 37 | 138 | ❌ ham |
 | **Proteor-Protez-Gorselleri** | **35** | **338** | ❌ ham (16 Ağu) |
 | **Ossur-Liner-Gorselleri** | **40** | **49** *(+41 ikon)* | ❌ ham (17 Ağu) |
+| **Levitate-Protez-Gorselleri** | **27** | **199** | ❌ ham (17 Ağu) |
 
 > ⚠️ **16 Ağu tespiti:** Össur ve Ottobock'un 4 klasörü o gün masaüstünde **görünmez oldu** (Çöp Kutusu boş, aynı anda masaüstüne yeni dosyalar geldi → iCloud Masaüstü senkronu ya da başka cihazdaki taşıma). Yukarıdaki sayılar aynı gün ölçülen son gerçek değerlerdir. **Ayhan iCloud Drive → Masaüstü'nden teyit etmeli.**
 
@@ -61,6 +62,29 @@ Ozgur-protez-ossur-ottobock-luxmed-nesa-proklinik-teknik-ortopedi-bacak-ayak-<sl
 2. **⚠️ Ürün başına tek stüdyo karesi.** Össur TR ürün sayfasında galeri yok, tek hero görseli var; 6 üründe API ek kare veriyor (en fazla 4). Proteor'daki 9 kare/ürün yoğunluğu burada yok — sayfa tasarımı buna göre kurulmalı.
 3. **⚠️ Kaynakta paylaşılan kare:** PN20041 Iceross Stabilo Junior Locking ile PN20042 Iceross Dermo Junior Locking **aynı fotoğrafı** kullanıyor (bayt bayt aynı). İki ürün sayfası aynı görselle çıkacaksa bu bilinçli bir karar olmalı. *Betik dersi: tekilleştirme ürün içinde yapılır, ürünler arasında yapılmaz — global hash ikinci ürünün klasörünü boş bırakıyordu.*
 4. **ℹ️ 41 ikon/piktogram** (`_Ikon-Piktogram/`) ürüne değil **özelliğe** ait: aktivite seviyesi, güdük şekli, yumuşak doku durumu, el becerisi, süspansiyon yöntemi. Marka genelinde ortak kullanıldığı için ürün klasörlerine kopyalanmadı, kökte tek kopya duruyor. Ürün karşılaştırma tablosu ya da "hangi liner sana uygun" akışı kurulacaksa hazır görsel dil.
+
+
+### Levitate detayı (17 Ağu, yeni — 5. marka)
+`~/Desktop/Levitate-Protez-Gorselleri/` · **27 ürün klasörü · 199 görsel · 280 MB** · kaynak `letslevitate.com` · betik `sablonlar/araclar/levitate_gorsel_indir.py`
+
+**Levitate kim:** protez ayak/blade üreticisi — Forever ayak ailesi (S / LP / 6" / 7" / 9"), 8" ve 10" koşu blade'leri, footshell, taban, adaptör hattı. Dört markanın yanına 5. olarak eklendi.
+
+| Kategori | Ürün | Görsel |
+|---|---:|---:|
+| `Ayak_` (Forever ailesi) | 5 | 65 |
+| `Adaptor_` | 14 | 85 |
+| `Blade_` + `Blade-Kit_` | 4 | 28 |
+| `Ayak-Kilifi_` (footshell) | 2 | 13 |
+| `Taban_` (sole) | 2 | 8 |
+
+**Teknik yöntem:** mağaza **Shopify**. Shopify her mağazada açık bir katalog ucu bırakır: `/products.json?limit=250` → tüm ürünler + görsel listesi, verilen `src` zaten master dosya. Kazıma yok, tek istek. *(Üç ayrı çıkarma yöntemi biriktirdik: HTML kazıma = Proteor/Zebris · gizli ürün API'si = Össur · açık Shopify ucu = Levitate. Yeni markada önce platform tespit edilir, yöntem ondan sonra seçilir.)*
+
+**Bulgular:**
+1. **⚠️ Görsellerin tamamı CGI render, fotoğraf değil.** Beyaz zeminde 3B ürün görselleri; tek bir yaşam karesi, kullanıcı ya da ortam karesi yok. Sonuç: `_Yasam-Kareleri/` klasörü kurulmadı — **çünkü kaynakta yok.** Bir ürün sayfasında Össur/Ottobock'un stüdyo **fotoğrafları** ile Levitate'in render'ları yan yana gelirse görsel dil kırılır; ya hepsi ayrı bloklarda durur ya da tek dil seçilir.
+2. **⚠️ Çözünürlük Össur'un altında:** medyan 1920px, maksimum 3085px (Össur medyan 6000px). 800px altı yok; tek kare 657px (`Adapter - Male`, kaynakta öyle). Baskı işi için yeterli değil, web için fazlasıyla yeterli.
+3. **ℹ️ Ürün kodu yok.** Össur `PN20011`, Ottobock `1C30-1` verirken Levitate katalogda kod taşımıyor (kodlar yalnız varyant SKU'sunda). Klasör bu yüzden `<Kategori>_<ad>` — standardın "kod yoksa yalnız ad" dalı.
+4. **ℹ️ Kaynakta paylaşılan kareler:** Forever 6"/7"/9" ortak kareler kullanıyor; `Blade 10" Kit`in 8 karesi `Blade 10"` ile birebir aynı. Össur'daki gibi her ürün klasörüne kondu — kit ile ürünü aynı görselle sayfalamak bilinçli karar olmalı.
+5. **✅ Render-and-review yapıldı** (5 Haz dersi): örneklem gözle açıldı, hepsi doğru ürünü gösteriyor; logo/ölçü tablosu/placeholder karışmamış.
 
 ---
 
@@ -134,6 +158,8 @@ Sayfa tek cihaz değil bir **zincir** anlatıyor: Zebris ölçer → Contemplas 
 | 4 | Liner dosya adı önekine `liner` eklensin mi? | **Eklendi** (`Ozgur-protez-**liner**-ossur-…`) — ortez klasörlerindeki `-ortez-` varyantı örnek alındı. Sebep: liner ürün adlarının hiçbirinde ("iceross-dermo-locking") kategori kelimesi geçmiyor, sabit önek de "bacak-ayak" diyor; dosya "silikon liner" görsel aramasına hiçbir yerden bağlanmıyordu. İstenmezse toplu adlandırma 1 dakika. |
 | 5 | Össur Ayak/Diz/Kol klasörleri yeni betikle **yeniden mi çekilsin**? | Çekilmedi — talep linerdi. Ama §2'de ölçüldü: mevcut kareler 1400–1600px, orijinaller 6000px+. Karar Ayhan'da. |
 | 6 | PN20041 ↔ PN20042 aynı fotoğrafı paylaşıyor (kaynakta öyle). İki ürün sayfası aynı görselle mi çıksın? | Her iki klasöre de kondu; ayrım isteniyorsa kendi çekimimiz gerekir. |
+| 7 | **Levitate bu hattın parçası mı?** Dosya adı öneki diğer dört markayla aynı (Özgür Protez SEO dizesi) verildi. | **Varsayıldı** — talep "öncekiler gibi" geldi, marka da protez ayak/blade üreticisi. Levitate başka bir iş içinse önek yanlış; toplu adlandırma 1 dakika. |
+| 8 | Levitate render'ları Össur/Ottobock fotoğraflarıyla aynı sayfada mı kullanılacak? | Karar Ayhan'da — görsel dil çakışması §2'de yazılı. |
 
 ---
 
