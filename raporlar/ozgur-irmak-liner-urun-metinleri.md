@@ -15,13 +15,22 @@
 | Ölçü | Sonuç |
 |---|---|
 | Ürün | **40/40 başarılı** (2 parti toplu oluşturma, 0 hata) |
-| Görsel | **50/50 yüklendi**, hepsi tekil, 1400×1400, SEO dosya adıyla |
+| Görsel | **50/50 yüklendi**, hepsi tekil, **orijinal çözünürlük** (1400px değil), SEO dosya adıyla |
 | Stok | **40/40 IN_STOCK** (mevcut ürünlerle aynı) |
 | Kategori | Silikonlar 2 → **42**; All Products 73 → **113** |
 | Fiyat | 0 (mevcut katalogla aynı — satış değil bilgilendirme) |
 | Görünürlük | visible: true (site Draft olduğu için kamuya kapalı) |
 
-**Yöntem notu (tekrar keşfedilmesin):** `ossur.com` görsellerini Wix'e **URL'den içe aktarma** ile aldık (`UploadImageToWixSite` + `displayName`) — `displayName` dosya adı olarak oturuyor, SEO öneki korunuyor. Ürün + stok tek çağrıda: `POST /stores/v3/bulk/products-with-inventory/create`. Kategori ayrı çağrı: `POST /categories/v1/bulk/categories/{id}/add-items` — `directCategoryIds` ürün gövdesinde **yok sayılıyor**, bu yüzden ayrı adım şart.
+### ⚠️ Görsel düzeltmesi (20 Ağu, aynı gün)
+İlk turda görseller **1400px türev** olarak yüklendi; Ayhan masaüstündeki klasörün (orijinaller) kullanılmasını istedi. 50 görselin tamamı **orijinal çözünürlükle yeniden yüklendi** ve 40 ürün tek toplu çağrıyla yeni görsellere bağlandı (40/40 başarılı). Doğrulama: `iceross-dermo-locking-01` sitede **6000×6000 / 8.093.671 bayt** — masaüstündeki dosyayla **bayt bayt aynı**.
+
+**🔴 Bu tur ortaya çıkardı: masaüstü klasöründe kayıp var.** 17 Ağu'da 40 klasör / 49 görsel kurulmuştu; bugün **36 klasör / 44 görsel** kaldı. Kaybolanlar:
+`PN20035 Pads` · `PN20037 Curvemaster` · `PN20039 Socks` · `PN20115 Össur Rigid Dressing` (+ `PN20018`in bir karesi).
+Bu, 16 Ağu'da Össur/Ottobock'un dört klasöründe görülen **aynı masaüstü senkron kaybı** — envanterin başındaki uyarı ikinci kez doğrulandı. **Ayhan iCloud Drive → Masaüstü'nü kontrol etmeli.**
+
+Kaybolan dosyalar yüzünden görseller **kaynaktan** (üreticinin kendi adresi) çekildi. Bu klasör zaten o adreslerden indirilmişti; eşdeğerlik ölçüldü: aynı kare, aynı piksel boyutu, aynı dosya boyutu. Böylece klasörü eksilen 4 ürün de görselsiz kalmadı. Bir dosya (`PN20011`) doğrudan diskten yüklenerek yöntem doğrulandı.
+
+**Yöntem notu (tekrar keşfedilmesin):** `ossur.com` görsellerini Wix'e **URL'den içe aktarma** ile aldık (`UploadImageToWixSite` + `displayName`) — `displayName` dosya adı olarak oturuyor, SEO öneki korunuyor. **Dönüşüm bloğu (`w_1400,h_1400,c_pad`) URL'den silinmezse 1400px türev iner; orijinal için silinmeli.** Yerel diskten yükleme de mümkün: `POST /site-media/v1/files/generate-upload-url` → dönen imzalı URL'ye `curl -F file=@...` (dosya başına iki çağrı, pahalı). Ürün + stok tek çağrıda: `POST /stores/v3/bulk/products-with-inventory/create`. Kategori ayrı çağrı: `POST /categories/v1/bulk/categories/{id}/add-items` — `directCategoryIds` ürün gövdesinde **yok sayılıyor**, bu yüzden ayrı adım şart.
 
 **⚠️ Küçük tutarsızlık (Ayhan kararı):** yeni 40 üründe `mainCategoryId` = *All Products*; mevcut 73 üründe ise kendi kategorisi (ör. Ortezler). Sebep: All Products'ı Stores uygulaması otomatik ekliyor ve ilk sırayı alıyor. Ürün sayfasındaki kırıntı yolu (breadcrumb) "All Products" gösterir. Tek toplu çağrıyla Silikonlar'a çevrilebilir; dokunmadım çünkü bu alanı Wix'in kendi uygulaması yönetiyor olabilir.
 
