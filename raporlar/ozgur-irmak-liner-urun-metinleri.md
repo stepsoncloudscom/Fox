@@ -8,7 +8,32 @@
 
 ---
 
-## 0 · BAŞLIK SORUNU (Ayhan kararı bekliyor)
+## 0 · YÜKLENDİ (20 Ağustos 2026)
+
+**40 ürünün tamamı siteye kuruldu** — Wix Stores V3 API'siyle, Draft'ta. Kanal: Chrome köprüsü iki ayarda takıldı (eklenti kayıtsız + Apple Events JS kapalı), Ayhan API yolunu onayladı.
+
+| Ölçü | Sonuç |
+|---|---|
+| Ürün | **40/40 başarılı** (2 parti toplu oluşturma, 0 hata) |
+| Görsel | **50/50 yüklendi**, hepsi tekil, 1400×1400, SEO dosya adıyla |
+| Stok | **40/40 IN_STOCK** (mevcut ürünlerle aynı) |
+| Kategori | Silikonlar 2 → **42**; All Products 73 → **113** |
+| Fiyat | 0 (mevcut katalogla aynı — satış değil bilgilendirme) |
+| Görünürlük | visible: true (site Draft olduğu için kamuya kapalı) |
+
+**Yöntem notu (tekrar keşfedilmesin):** `ossur.com` görsellerini Wix'e **URL'den içe aktarma** ile aldık (`UploadImageToWixSite` + `displayName`) — `displayName` dosya adı olarak oturuyor, SEO öneki korunuyor. Ürün + stok tek çağrıda: `POST /stores/v3/bulk/products-with-inventory/create`. Kategori ayrı çağrı: `POST /categories/v1/bulk/categories/{id}/add-items` — `directCategoryIds` ürün gövdesinde **yok sayılıyor**, bu yüzden ayrı adım şart.
+
+**⚠️ Küçük tutarsızlık (Ayhan kararı):** yeni 40 üründe `mainCategoryId` = *All Products*; mevcut 73 üründe ise kendi kategorisi (ör. Ortezler). Sebep: All Products'ı Stores uygulaması otomatik ekliyor ve ilk sırayı alıyor. Ürün sayfasındaki kırıntı yolu (breadcrumb) "All Products" gösterir. Tek toplu çağrıyla Silikonlar'a çevrilebilir; dokunmadım çünkü bu alanı Wix'in kendi uygulaması yönetiyor olabilir.
+
+---
+
+## 0.1 · BAŞLIK KARARI (uygulandı)
+
+Sitedeki mevcut düzen incelendi: **"Karbon Ayak-Ayak Bileği Ortezi (Kesilebilir)"** — cihaz tanımı + parantez içinde ayırt edici. Linerlerde aynı kalıp uygulandı: *"Silikon Liner (Dizaltı, Pimli, Cilt Bakım Bileşenli)"*. 40 başlığın hepsi tekil.
+
+*Aşağıdaki eski başlık tartışması kayıt için bırakıldı.*
+
+## 0.2 · BAŞLIK SORUNU (çözüldü — bkz. §0.1)
 
 Ürün adı yasaklanınca 40 ürünün 12'si aynı başlığa düşüyor ("Silikon Liner — Dizaltı, Pimli"). Mağazada birbirinden ayırt edilemez. Üç seçenek:
 
