@@ -9,7 +9,7 @@
 > **Standart kapanış (hepsinin sonuna):** *Cihazın uygunluğu kişiye özel değerlendirme ile belirlenir; uygulama ve uyarlama merkezimizde teknik sorumlu tarafından yapılır.*
 
 ## ⚠️ TEYİT BEKLEYEN — yayından önce kapanmalı
-1. **6/7/9 inç neyi ifade ediyor?** Yapı yüksekliği mi, ayak boyu mu? Üretici sayfasında net yazmıyor. Başlıklar bu cevaba göre kesinleşir.
+1. ~~6/7/9 inç neyi ifade ediyor?~~ **KAPANDI (Ayhan, 22 Ağu): yapı yüksekliğidir.** Başlıklar ve metinler buna göre kesinleşti.
 2. **Kompakt model (S)** — üretici sayfasında "YENİ" olarak geçiyor, teknik alanı yayınlanmamış. Metni diğer ayaklardan türetmedim; genel gövdeyle bıraktım.
 3. **Set içeriği (2 ürün)** — sette hangi parçaların çıktığı üreticinin sayfasında listelenmemiş. Görsellerde anahtar, adaptör ve bağlantı elemanları görünüyor ama sayı/parça listesi teyitsiz. Metinde parça sayısı verilmedi.
 4. **Ayak kılıfı (2 ürün)** — üreticinin teknik sayfası yok. Metin yalnız işlev üzerinden yazıldı.
@@ -21,16 +21,16 @@
 ## A · PROTEZ AYAKLAR (5)
 
 ### 1. Cam Elyaf Protez Ayak 6inç Yükseklik
-Cam elyaf kompozitten üretilen dinamik protez ayak. Yaylanan topuk yapısı basma anındaki darbeyi soğurur, adımın itiş fazında depoladığı enerjiyi geri verir; yürüyüş akışkan ve kontrollü kalır. K3–K4 aktivite düzeyi için tasarlanmıştır: günlük kullanımın yanında yüksek tempolu hareketi de karşılar. Azami kullanıcı ağırlığı 125 kg. Ayak boyu 22–29 cm aralığında sunulur. Tatlı su, tuzlu su ve klorlu suya dayanıklıdır.
+Cam elyaf kompozitten üretilen dinamik protez ayak. Yaylanan topuk yapısı basma anındaki darbeyi soğurur, adımın itiş fazında depoladığı enerjiyi geri verir; yürüyüş akışkan ve kontrollü kalır. Yapı yüksekliği 6 inç. K3–K4 aktivite düzeyi için tasarlanmıştır: günlük kullanımın yanında yüksek tempolu hareketi de karşılar. Azami kullanıcı ağırlığı 125 kg. Ayak boyu 22–29 cm aralığında sunulur. Tatlı su, tuzlu su ve klorlu suya dayanıklıdır.
 
 ### 2. Cam Elyaf Protez Ayak 7inç Yükseklik
-Yukarıdaki gövdenin aynısı — yalnız yükseklik satırı değişir.
+Yukarıdaki gövdenin aynısı; **yapı yüksekliği 7 inç.**
 
 ### 3. Cam Elyaf Protez Ayak 9inç Yükseklik
-Yukarıdaki gövdenin aynısı — yalnız yükseklik satırı değişir.
+Yukarıdaki gövdenin aynısı; **yapı yüksekliği 9 inç.**
 
 ### 4. Cam Elyaf Protez Ayak Alçak Profil
-Cam elyaf kompozitten üretilen, düşük yapı yüksekliğine sahip protez ayak. Uzun güdük veya sınırlı boşluk nedeniyle standart yükseklikte ayak uygulanamayan kullanıcılar için geliştirilmiştir. Tam uzunlukta parmak kaldıracı ve yaylanan topuk yapısı, günlük kullanımda denge ve öngörülebilir bir adım sağlar. K2, K3 ve K4 aktivite düzeylerine uygundur; diz altı ve diz üstü uygulamalarda kullanılabilir. Azami kullanıcı ağırlığı 125 kg. Tatlı su, tuzlu su ve klorlu suya dayanıklıdır.
+Cam elyaf kompozitten üretilen, düşük yapı yüksekliğine sahip protez ayak. Uzun güdük veya sınırlı boşluk nedeniyle standart yapı yüksekliğinde ayak uygulanamayan kullanıcılar için geliştirilmiştir. Tam uzunlukta parmak kaldıracı ve yaylanan topuk yapısı, günlük kullanımda denge ve öngörülebilir bir adım sağlar. K2, K3 ve K4 aktivite düzeylerine uygundur; diz altı ve diz üstü uygulamalarda kullanılabilir. Azami kullanıcı ağırlığı 125 kg. Tatlı su, tuzlu su ve klorlu suya dayanıklıdır.
 
 ### 5. Cam Elyaf Protez Ayak Kompakt
 Cam elyaf kompozitten üretilen protez ayak. Yaylanan topuk yapısı darbeyi soğurur ve adımın itiş fazında enerjiyi geri verir. Azami kullanıcı ağırlığı 125 kg. Tatlı su, tuzlu su ve klorlu suya dayanıklıdır.
