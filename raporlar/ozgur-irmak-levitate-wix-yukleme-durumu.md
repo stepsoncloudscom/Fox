@@ -33,7 +33,9 @@ Medya kök klasörü: `Levitate-Temiz` = ff2147cc799549b4a489f22f2d0fd732
    revision ilk güncellemede "1", sonra artar.
 
 ## Kalan işler
-- Kategori ataması: Ayaklar 05cada7e-334e-428c-b7bb-d0b4b09c7ec8 (9 ürün) ·
-  Kılıflar 72895830-9c38-4394-8a11-5915e2c58533 (2) · Tabanlıklar 12bbbaa4-677b-43ba-be4c-d7afb0557f94 (2)
-  — kategori atama endpoint'i henüz doğrulanmadı, tahminle çağrılmayacak
+- ~~Kategori ataması~~ **TAMAM (24 Ağu):** Ayhan kararıyla 13 ürünün hepsi tek kategoriye —
+  **Ayaklar** (05cada7e-334e-428c-b7bb-d0b4b09c7ec8). Kılıflar/Tabanlıklar kullanılmadı.
+  Endpoint: `POST /categories/v1/bulk/categories/{categoryId}/add-items`
+  body: `{"items":[{"catalogItemId":"<id>","appId":"215238eb-22a5-4c36-9e7b-e7c08025e04e"}],"treeReference":{"appNamespace":"@wix/stores","treeKey":null}}`
+  Doğrulama: 13/13 başarılı, Ayaklar itemCounter 18 → **31**.
 - ÜTS/TİTCK teyidi (yayın kapısı) · 4 açık teknik teyit
