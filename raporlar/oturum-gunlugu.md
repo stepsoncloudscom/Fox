@@ -238,3 +238,36 @@ Sürdürülebilir/vegan moda (cupro/vegan ipek), towdoo.com. **Sahibi: Tuğba Ha
 
 ---
 *Disiplin: Her oturum sonu bu dosyayı güncel tut + commit + push. Yeni Fox bunu + CLAUDE.md okuyunca tam devralır.*
+
+---
+## 21–24 Ağustos 2026 — Levitate hattı: logo temizleme + Wix yükleme
+
+**Görsel adlandırma (21 Ağu).** Levitate klasöründeki 199 görselin tamamında `-levitate-` zaten
+vardı (indirme scripti adlandırmaya gömmüş) — işlem gerekmedi. Bulgu: Proteor (329) ve
+Fior Gentz (138) klasörlerinde marka token'ı yok. Ayrıca dosya adlarındaki rakip marka
+zinciri (`ossur-ottobock-luxmed-nesa-proklinik`) keyword-stuffing riski olarak işaretlendi.
+
+**Photoshop köprüsü kuruldu.** `osascript` → PS 2026 (27.9.1) ExtendScript. Tuzak:
+`do javascript <dosya>` PS 2026'da hata 8800 verir; inline `eval` ile diskten okutmak şart.
+Tek görselde Content-Aware Fill doğrulandı (5 maske turu sürdü; numpy'ın macOS BLAS'ında
+`matmul` bozuk çıktı, çarpım elle yazıldı).
+
+**Otomatik tespit BAŞARISIZ (dürüst kayıt).** 27 ürün geometrisinde logoyu otomatik bulmak
+için 4 yöntem denendi — yerel kontrast+şekil, doğrusal gruplama, 3B/çıkartma fiziksel ayracı,
+çok ölçekli şablon eşleştirme. Hiçbiri ayıramadı: şablonun çıkarıldığı görselde bile gerçek
+glif 2. sırada kaldı (0,622 vs 0,631 sahte eşleşme). Sonuç: eşikle çözülmez, eğitilmiş
+nesne tespiti problemi. Ayhan B yolunu seçti → Fox 27 klasörü gözle taradı, 184 işaret seçti.
+Toplu koşu: 113 görsel PS'ten geçti, görünür alanda maske dışı hasar 0. Ama kalite tutarsız
+(beyaz leke / silinmemiş logo). Düzeltme turu önerildi, **Ayhan "yapma" dedi.**
+
+**Ürün metinleri (22 Ağu).** Ayhan adaptörleri çıkardı → 13 ürün kaldı. Metinler üreticinin
+kendi teknik sayfalarından uyarlandı. **Kritik bulgu: ürünler karbon değil cam elyaf
+(fiberglass).** Üretici bunu ayırt edici özellik olarak vurguluyor; "Karbon Protez Ayak"
+başlığı yanlış beyan olurdu. Başlık formatı düzeltilerek onaylandı:
+`Cam Elyaf Protez Ayak 6inç Yükseklik`. 6/7/9 inç = yapı yüksekliği (Ayhan teyidi).
+
+**Wix yükleme (24 Ağu).** ÖzgürProtez · Stores V3 · Draft · TRY.
+13 ürün bulk create (13/13) → görseller Ayhan Medya Yöneticisi'ne yükledi, Fox 13 ürüne
+bağladı (38 görsel, Türkçe alt metin) → 13 ürün Ayaklar kategorisine (itemCounter 18→31).
+Fiyat ₺0,00 — mevcut 102 ürünle aynı kurulum, Ayhan kararı.
+Kılıflar/Tabanlıklar kategorileri var ama boş bırakıldı (Ayhan kararı).
