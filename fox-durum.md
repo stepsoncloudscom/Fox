@@ -7,7 +7,7 @@
 | Cephe | Durum | Sıradaki adım | Kimde |
 |---|---|---|---|
 | **Özgür Irmak Protez ve Ortez** (medikal) | Canlı iş — web/blog/metin üretimi sürüyor | ↓ alt kalemler | karışık |
-| · Levitate hattı (13 ürün) | Metinler hazır (`raporlar/ozgur-irmak-levitate-urun-metinleri.md`), görseller logo-temizlenmiş ama düzeltme turu görmedi (Ayhan: yapma). **Wix'e YÜKLENMEDİ** | Stores V3'e 13 ürün + 114 görsel Draft yükleme + 6 teyit sorusu | Fox / Özgür Bey |
+| · Levitate hattı (13 ürün) | **Wix'e YÜKLENDİ** — 13 ürün + metin + görsel (13/13), fiyat ₺0,00, site Draft. Kategori ataması yapılmadı | Kategori ataması (Ayaklar/Kılıflar/Tabanlıklar) + ÜTS/TİTCK teyidi | Fox / Özgür Bey |
 | · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden geldi, merkezin envanteri teyitli değil (Denetmen D1) | Teyit soru setini Özgür Bey'e ilet; teyitsiz kalem cümlesiyle birlikte çıkarılır | Ayhan → Özgür Bey |
 | · Blog (5 yazı) | İnsan Sesi Kapısı'ndan geçti, Wix'te **DRAFT** | Yayın onayı | Ayhan |
 | · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |
