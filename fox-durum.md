@@ -37,5 +37,4 @@
 - Müşteri context: `sablonlar/*-marka-context.md` · Sektör: moda · medikal-protez · Notion: `f4c97159-9c85-4766-b122-760b00b9c321`
 
 ## SÜREKLİLİK (otomatik)
-Hook'lar: SessionStart `git pull` + bu dosya · SessionEnd otomatik commit+push · PreCompact bayatlık uyarısı.
-**Hook disiplinin yerine geçmez — bu dosyayı Fox güncellemekle yükümlüdür**, hook yalnız kaybı önler.
+Hook'lar: SessionStart `git pull`+bu dosya · SessionEnd oto commit+push · PreCompact bayatlık uyarısı. **Hook disiplinin yerine geçmez — bu dosyayı Fox güncellemekle yükümlüdür.**
