@@ -14,7 +14,7 @@
 | · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır — 12 blok, Denetmen turu kapandı, cihaz katmanı çıkarıldı (Ayhan kararı) | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi). Ayhan hesaplara kendi yapıştıracak | Ayhan |
 | · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
 | **Steps On Clouds** (kendi marka) | ⚠️ tazeliği teyitsiz (Haz kayıtları) | Wix copy · mağaza mekanizması kararı · Run For Empathy mailleri | Ayhan |
-| **Orhan doğum günü kart oyunu** (kişisel, Ayhan+Melek) | Brief v01 hazır (9 Ağu) | Joker kart içerikleri + yaş teyidi | Ayhan |
+| **Orhan doğum günü kart oyunu** (kişisel) | Brief v01 hazır (9 Ağu) | Joker kart içerikleri + yaş teyidi | Ayhan |
 | **Fox / Marka Bulutu OS gelişimi** | 14-15 Ağu A+B+C koştu, iskelet hazır | Ayhan'da 5 karar (fiyat kademeleri · K0 ücretli mi · platform maliyeti · para birimi · Pipeline ajanı) | Ayhan |
 
 ## AYHAN'DA BEKLEYENLER (bloklayan)
@@ -24,17 +24,16 @@
 4. SOC mağaza mekanizması kararı.
 
 ## RİSK BAYRAKLARI
-- 🔴 **TESLİM ≠ ERİŞİM (15 Ağu, ölçüldü):** Özgür Protez Wix sitesi **Draft** — URL **404**; `ozgurprotez.com` hâlâ "YENİLENİYORUZ". 6 haftalık üretim (5 blog · Hakkımızda · ~70 ürün metni · KVKK) **kamuya görünmüyor**. Site dili yalnız `tr` (4-dil hedefi uygulanmamış), plan **Free** (özel alan adı bağlanamaz). Ölçüm: `raporlar/ozgur-irmak-kanit-ucgeni.md`. Panzehir: Denetmen 10. mercek **Erişilebilirlik**.
+- 🔴 **TESLİM ≠ ERİŞİM (15 Ağu, ölçüldü):** site **Draft**, URL 404, `ozgurprotez.com` "YENİLENİYORUZ". 6 haftalık üretim (5 blog · Hakkımızda · ~85 ürün metni · KVKK) kamuya görünmüyor. Dil yalnız `tr`, plan **Free**. Ölçüm: `raporlar/ozgur-irmak-kanit-ucgeni.md` · Panzehir: Denetmen 10. mercek Erişilebilirlik.
 - 🔴 **Döviz/global pipeline boş.** Özgür Protez aktif ama TL. Kuzey Yıldızı #3 (globalleşme) karşılıksız. *(20 Haz'ın "hiç iş yok" bayrağı geçersiz — Özgür Protez o tarihten sonra geldi.)*
-- ⚠️ **Sözleşme/ödeme durumu bu dosyada kayıtlı değil** — Özgür Protez'in hangi kalemi faturalandı, teyit edilmeli.
-- ⚠️ **Medikal içerikte uydurma sıfır toleransı:** TİTCK + YMYL. Teyitsiz teknik veri "yumuşatılarak" bırakılmaz, çıkarılır.
+- ⚠️ Özgür Protez'in hangi kalemi faturalandı — **sözleşme/ödeme durumu kayıtlı değil**, teyit edilmeli.
+- ⚠️ **Medikal içerikte uydurma sıfır toleransı:** TİTCK + YMYL. Teyitsiz veri yumuşatılmaz, çıkarılır.
 - ⚠️ **Levitate görselleri düzeltme turu görmedi** (Ayhan kararı) — Forever/Blade'de logo kalıntısı ihtimali; sitede canlıya çıkmadan gözden geçirilmeli.
 - ⚠️ **IP açık:** üretici görselinden marka silme (telif + debranding) ve TİTCK ile marka hukukunun ters çekmesi. Avukat sorusu kapanmadı.
 - ⚠️ Her görsel çıktı render-and-review'den geçer (5 Haz dersi).
 
 ## DETAY HARİTASI (lazım oldukça oku — hepsini birden yükleme)
-- Geçmiş oturumlar: `raporlar/oturum-gunlugu.md` · Teslim/maliyet kaydı: `raporlar/teslim-kutugu.md`
-- Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
+- Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
 - Ses: `fox-ses-parmak-izi.md` + `fox-metin-insan-sesi-korpusu.md` · Görsel: `fox-gorsel-parmak-izi.md`
 - Ajanlar: `.claude/agents/*.md` · Ortak sistemler: puanlama rubriği · görsel standardı · TZP · Kanıt Üçgeni
 - Müşteri context: `sablonlar/*-marka-context.md` · Sektör: moda · medikal-protez · Notion: `f4c97159-9c85-4766-b122-760b00b9c321`
