@@ -30,12 +30,10 @@
 - ⚠️ **Medikal içerikte uydurma sıfır toleransı:** TİTCK + YMYL. Teyitsiz veri yumuşatılmaz, çıkarılır.
 - ⚠️ **Levitate görselleri düzeltme turu görmedi** (Ayhan kararı) — Forever/Blade'de logo kalıntısı ihtimali; sitede canlıya çıkmadan gözden geçirilmeli.
 - ⚠️ **IP açık:** üretici görselinden marka silme (telif + debranding) ve TİTCK ile marka hukukunun ters çekmesi. Avukat sorusu kapanmadı.
-- ⚠️ Her görsel çıktı render-and-review'den geçer (5 Haz dersi).
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
-- Ses: `fox-ses-parmak-izi.md` + `fox-metin-insan-sesi-korpusu.md` · Görsel: `fox-gorsel-parmak-izi.md`
-- Ajanlar: `.claude/agents/*.md` · Ortak sistemler: puanlama rubriği · görsel standardı · TZP · Kanıt Üçgeni
+- Ses: `fox-ses-parmak-izi.md` + `fox-metin-insan-sesi-korpusu.md` · Görsel: `fox-gorsel-parmak-izi.md` · Ajanlar: `.claude/agents/*.md`
 - Müşteri context: `sablonlar/*-marka-context.md` · Sektör: moda · medikal-protez · Notion: `f4c97159-9c85-4766-b122-760b00b9c321`
 
 ## SÜREKLİLİK (otomatik)
