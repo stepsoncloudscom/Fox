@@ -1,17 +1,17 @@
 # Fox — DURUM / Kaldığımız Yer
 
 **Son güncelleme: 24 Ağustos 2026** *(21-24 Ağu oturumu — Levitate hattı)*
-**Kural: bu dosya 40 satırı geçmez.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
+**Kural: 40 satır tavanı.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
 | Cephe | Durum | Sıradaki adım | Kimde |
 |---|---|---|---|
 | **Özgür Irmak Protez ve Ortez** (medikal) | Canlı iş — web/blog/metin üretimi sürüyor | ↓ alt kalemler | karışık |
 | · Levitate hattı (13 ürün) | **Wix'e YÜKLENDİ** — 13 ürün + metin + görsel (13/13), fiyat ₺0,00, hepsi Ayaklar kategorisinde, site Draft | ÜTS/TİTCK teyidi + 4 teknik teyit (yayın kapısı) | Fox / Özgür Bey |
-| · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden geldi, merkezin envanteri teyitli değil (Denetmen D1) | Teyit soru setini Özgür Bey'e ilet; teyitsiz kalem cümlesiyle birlikte çıkarılır | Ayhan → Özgür Bey |
+| · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden, envanter teyitsiz (Denetmen D1) | Teyit setini Özgür Bey'e ilet; teyitsiz kalem çıkarılır | Ayhan → Özgür Bey |
 | · Blog (5 yazı) | İnsan Sesi Kapısı'ndan geçti, Wix'te **DRAFT** | Yayın onayı | Ayhan |
 | · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |
-| · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır — 12 blok, Denetmen turu kapandı, cihaz katmanı çıkarıldı (Ayhan kararı) | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi). Ayhan hesaplara kendi yapıştıracak | Ayhan |
+| · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır, Denetmen turu kapandı | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi) | Ayhan |
 | · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
 | **Steps On Clouds** (kendi marka) | ⚠️ tazeliği teyitsiz (Haz kayıtları) | Wix copy · mağaza mekanizması kararı · Run For Empathy mailleri | Ayhan |
 | **Orhan doğum günü kart oyunu** (kişisel) | Brief v01 hazır (9 Ağu) | Joker kart içerikleri + yaş teyidi | Ayhan |
@@ -32,7 +32,7 @@
 - ⚠️ **IP açık:** üretici görselinden marka silme (telif + debranding) ve TİTCK ile marka hukukunun ters çekmesi. Avukat sorusu kapanmadı.
 - ⚠️ Her görsel çıktı render-and-review'den geçer (5 Haz dersi).
 
-## DETAY HARİTASI (lazım oldukça oku — hepsini birden yükleme)
+## DETAY HARİTASI (lazım oldukça oku)
 - Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
 - Ses: `fox-ses-parmak-izi.md` + `fox-metin-insan-sesi-korpusu.md` · Görsel: `fox-gorsel-parmak-izi.md`
 - Ajanlar: `.claude/agents/*.md` · Ortak sistemler: puanlama rubriği · görsel standardı · TZP · Kanıt Üçgeni
