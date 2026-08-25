@@ -9,11 +9,30 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ### SOC Mağaza Mekanizması — "destekler" mi "finanse eder" mi?
 - **Durum:** Mağaza copy'sinde misyon bağı nasıl ifade edilecek — temkinli "destekler" mi, açık taahhüt "finanse eder" mi?
-- **Statü:** AÇIK — Ayhan'ın kararı bekleniyor (10 Haz'dan beri).
+- **Statü:** AÇIK — Ayhan'ın kararı bekleniyor (10 Haz'dan beri, **25 Ağu itibarıyla 76 gün**). Canlı mağaza metni şu an mekanizmayı belirsiz bırakıyor (ölçüldü 25 Ağu).
+
+### SOC Hero Sloganı — reddedilen hâlâ canlı
+- **Durum:** 10 Haz'da "farklılıkları güce çevir" için **"uygun değil"** kararı verildi, yeni seçenekler hazırlandı — ama site hiç güncellenmedi. Bugün ana sayfa hâlâ bu sloganı taşıyor, üstüne Bebas büyük-İ hatasıyla (`çevİr`).
+- **Statü:** AÇIK — Ayhan hangi alternatifi seçecek?
+
+### SOC Ticari Kol — adı, kapsamı, fiyatı
+- **Durum:** 7 Haz'da "ticari kol menüde ayrı + ikincil olacak" kararı alındı; hiç kurulmadı, menüde yok. Adı "Ajans" mı **"Marka Bulutu OS"** mu? `marka-bulutu-os-urun-tanimi.md` v0.1 (15 Ağu) iskeleti hazır, **fiyat kademeleri Ayhan'da**.
+- **Statü:** AÇIK — Kuzey Yıldızı #1'in (sistemi sat) kamuya açılan tek yüzü bu; kapanmadan gelir hattı görünmez.
 
 ---
 
 ## VERİLEN KARARLAR
+
+### SOC'ye Dönüş — Durum Ölçüldü, Aksiyon Planı Kuruldu (25 Ağu)
+- **Tetikleyici:** Ayhan — *"şimdi biraz kendimize dönelim diyorum. Yani Steps On Clouds'a."* Yön sorulduğunda: *"şu anki güncel durumu inceleyip aksiyon planı oluşturmalıyız."*
+- **Yöntem kararı:** Haziran kayıtlarına güvenilmedi; **canlı site bugün tek tek ölçüldü** (ana sayfa · etkinlikler · blog · projeler · hakkımızda · mağaza). Gerekçe: SOC cephesi `fox-durum.md`'de "tazeliği teyitsiz" işaretliydi ve 14 Ağu'nun 15-günlük bayatlama vakası aynı hatayı tekrarlatabilirdi.
+- **Bulgu (ölçülen):** (1) 5 Tem + 2 Ağu Empati Koşuları hâlâ **"Yaklaşan Etkinlikler" altında, kayıt açık** — canlıda yanlış bilgi. (2) İki koşu da sahada yapıldı ama **hiç kayıt tutulmadı** (Ayhan teyidi) — fotoğraf/katılımcı/geri bildirim yok, misyon kanıtı buharlaştı. (3) Blogun son yazısı **31 Eki 2025** (~10 ay). (4) Hero'da reddedilmiş slogan + Bebas İ hatası. (5) Ticari kol menüde yok. (6) Mağaza: 1 ürün, mekanizma belirsiz.
+- **Kök neden (kayda geçti):** **SOC'de üretim tamamlandı, yayın hiç olmadı.** Faz 1-5'in tamamı `raporlar/`'da duruyor; canlı sitede Haziran'ın ilk haftasından beri anlamlı değişiklik yok. Sebep: Wix API statik metni desteklemiyor → copy'ler **elle Editör'e yapıştırılacaktı**, Ayhan'ın zamanı Özgür Protez'e gitti, hiç yapıştırılmadı.
+- **Anlam:** Bu, Özgür Protez'in 🔴 TESLİM ≠ ERİŞİM bayrağının aynısı. Fark: orada blokaj dışarıda (müşteri kararı, Wix planı), **SOC'de tamamen bizde.** Fox'un "tamamlandı" tanımı hatalı — belge bitince değil, **canlıda görülünce** kapanmalı.
+- **Plan:** `raporlar/soc-durum-ve-aksiyon-plani-2026-08.md` — Blok 0 yanlışı durdur (26-27 Ağu) · Blok 1 kanıtı kurtar + Kayıt Protokolü v1 (28 Ağu-1 Eyl) · Blok 2 ticari kolu aç (2-8 Eyl) · Blok 3 GSC/Analytics (26 Ağu, paralel).
+- **Sıra gerekçesi:** Canlıdaki yanlış bilgi her gün itibar sızdırıyor → önce o. Kanıt zaten kayıp, bir hafta bekleyebilir. Ticari kol **kanıt eldeyken** açılır — boş vitrinle satışa çıkmak fiyatı düşürür (Kuzey Yıldızı: kanıtlanabilir etki → premium fiyat).
+- **Haziran tavsiyesi elendi:** Denetim raporunun (4 Haz) "hero'yu Marka Bulutu OS'a çevir" önerisi plana **alınmadı** — 7 Haz'daki "sosyal etki birincil" konumlandırma kararıyla çelişiyor. Eski rapor, sonraki kararla geçersizleşmişti.
+
 
 ### Fox & OS Gelişim Hattı — A/B/C üçü birden onaylandı (14 Ağu)
 - **Karar (Ayhan, 14 Ağu):** Fox'un kendi denetiminden çıkan üç hat da koşulacak: **A** süreklilik onarımı · **B** kanıt hattı (Özgür Protez'i ölçülebilir vakaya çevir) · **C** ürünleştirme + satış/pipeline ajanı.
