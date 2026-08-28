@@ -192,4 +192,16 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ---
 
-*Sürüm: v1.2 · Son güncelleme: 3 Temmuz 2026 · Fox*
+## KARARLAR (28 Ağu)
+
+### Özgür Protez — Ortez hattında ürün adı kullanımı (Liner kuralından sapma)
+- **Karar (Ayhan, 28 Ağu):** Össur ortez hattında **ürün adı hem site metinlerinde hem fotoğraf dosya adlarında kullanılır** (ör. Rebound, Unloader, Philadelphia). 20 Ağu'da Linerler için konan "ürün adı ve marka adı KULLANILMAZ" kuralı ortezde uygulanmaz.
+- **Gerekçe (Fox okuması):** Ayırt edicilik. Linerlerde 40 ürün mekanizmayla (kilitli/vakumlu/jel) ayrışabiliyordu; ortezde 35 diz + 28 ayak-ayakbileği ortezi adsız kalırsa katalog "Diz Ortezi 1…35"e döner, hem müşteri hem arama motoru için ayırt edilemez olur.
+- **Kapsam sınırı:** Bu sapma yalnız ortez hattı içindir. Liner metinleri değişmez.
+- **Açık kalan:** Üreticinin marka adını ve stüdyo görselini kendi sitende kullanmak distribütör/görsel kullanım iznine bağlı — **yayın kapısında** Özgür Bey'in teyidi gerekir (Levitate ÜTS/TİTCK teyidiyle aynı pakette).
+- **Kapsam kararı (A):** 109 ortez ürününün tamamı indirilir; gereksizleri Ayhan sonradan ayıklar. Metin + Wix yüklemesi ayıklanmış listeyle yapılır.
+- **Statü:** KARAR ALINDI — indirme turunda uygulandı.
+
+---
+
+*Sürüm: v1.3 · Son güncelleme: 28 Ağustos 2026 · Fox*
