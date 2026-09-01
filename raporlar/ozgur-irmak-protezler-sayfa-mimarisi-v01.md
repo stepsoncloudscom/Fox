@@ -127,7 +127,7 @@ Madde 15/2 yatağında — *"cihaz nedir, kime uygulanır, süreç nasıl işler
 
 | # | Bağımlılık | Kimde | Bloklar mı |
 |---|---|---|---|
-| 1 | **Editör oturumu** — klasik editörde sayfa/menü kurmanın REST API'si YOK. Fox şifre girmez (Kademe 3). | Ayhan | 🔴 Kurulumu bloklar |
+| 1 | **Editör oturumu** — klasik editörde sayfa/menü kurmanın REST API'si YOK. **Ölçüldü 1 Eyl:** 414 kaynaklık API indeksi ad taramasıyla tarandı, 7 eşleşmenin hiçbiri işi yapmıyor (detay: memory `wix-sayfa-menu-api-yok`). Fox şifre girmez (Kademe 3). **Editör linki:** `https://editor.wix.com/html/editor/web/renderer/edit/9e8e814f-8e82-4b5f-b238-60a489811977?metaSiteId=6e57503f-4b11-4ac2-8912-9a46e160abf8` | Ayhan | 🔴 Kurulumu bloklar |
 | 2 | **Teknik veri teyidi** — 4 sistem tipinin merkezde fiilen uygulanan hangi ürünlerle karşılandığı. Uydurulamaz (medikal, sıfır tolerans). | Özgür Bey | 🔴 Metni bloklar |
 | 3 | **Avukat onayı** — dil rejimi örnek sayfayla onaylanacak (uyumlu ticaret planı, Soru 1 yeniden çerçevelendi). | Ayhan → avukat | 🔴 Yayını bloklar |
 | 4 | ~~Metin üretimi~~ → **ÇÖZÜLDÜ 1 Eyl: Ayhan metni ve görselleri kendisi dolduracak.** Form hazır: `ozgur-irmak-protezler-doldurma-paketi.md` | Ayhan | ✅ Bloklamıyor |
