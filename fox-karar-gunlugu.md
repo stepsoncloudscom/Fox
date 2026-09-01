@@ -221,3 +221,5 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 - Memory sayısı 16 → 19; MEMORY.md'ye 3 pointer eklendi.
 
 **Kalan açık (Ayhan kararı):** öz-denetim 8 sorusu CLAUDE.md'de "uygula" diye anılıyor ama `fox-oz-denetim-ve-nobet.md` yüklenmiyor. Ya 8 soru CLAUDE.md'ye tek satır özet olarak inecek, ya da çıktı öncesi dosyayı açmak kapı hâline gelecek. Şu hâliyle sorular çoğu oturumda hiç sorulmuyor.
+
+**Aynı gün, devam — Ayhan kararı: (a).** Öz-denetim 8 sorusunun kısa sürümü CLAUDE.md:140'a gömüldü (`Disiplin` satırından "8 soruyu uygula" ibaresi çıkarıldı, yerine soruların kendisi geldi). Maliyet: CLAUDE.md 2.680 → 2.905 kelime (~+225 kelime / her oturum). Karşılığı: sorular artık yüklenmeden değil, yüklenerek geliyor. `fox-oz-denetim-ve-nobet.md` başına **çift kayıt uyarısı** kondu — CLAUDE.md ateşler, o dosya gerekçe/vaka tutar; metin değişirse ikisi birden güncellenir (çelişik talimat riski).

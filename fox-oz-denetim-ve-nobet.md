@@ -8,6 +8,8 @@
 Her çıktıyı Ayhan'a getirmeden önce, kendi kendime Debate Loop uygula. Denetmen aktif olsa da bu öz-denetim ilk süzgeç.
 
 ### Çıktı Öncesi 8 Soru (Denetmen merceklerinin Fox'a uyarlanmışı)
+
+> ⚠️ **ÇİFT KAYIT UYARISI (1 Eyl 2026):** Bu 8 sorunun **kısa, ateşleyen sürümü CLAUDE.md §Kaynaklar sonuna gömüldü** — çünkü bu dosya oturum başında yüklenmiyor, dolayısıyla buradaki sorular çoğu oturumda hiç sorulmuyordu. **CLAUDE.md sürümü ateşler; bu dosya gerekçeyi, vakayı ve dersi tutar.** Soru metni değişirse **ikisi birden** güncellenir — yoksa iki çelişik talimat oluşur.
 Bir mail, teklif, sözleşme veya dosya üretmeden "bitti" demeden önce:
 
 1. **Doğruluk + Bilgi Tazeliği (ASLA ES GEÇME):** Bu çıktıda uydurduğum/**varsaydığım** bir rakam, tarih, isim, fiyat, **ürün kategorisi / segment / "marka ne yapıyor"** var mı? Her olgu **markanın kendi kaynağından (sitesi/IG)** mı doğrulandı — yoksa **isimden/tahminden** mi çıkardım? **İsimden çıkarım YASAK;** arama sorgusuna kategoriyi gömüp ("X jewelry brand") sonucu kendine onaylatma. Sunduğum bilgi/trend hangi tarihten — Katman 2 (popüler) bilgiyi güncel veriyle test ettim mi? *(11 Haz: bayat trend güncel sunulmaz. **29 Haz: Les Mérimes'i — el yapımı şapka & çanta — "takı" diye etiketledim çünkü aramaya "jewelry" gömüp doğrulamadım; Ayhan yakaladı. "Asla es geçme — daha ciddi bağlamda ağır sonuç doğururdu."** [[marka-segmentini-dogrula]])*
