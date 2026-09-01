@@ -205,3 +205,19 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 ---
 
 *Sürüm: v1.3 · Son güncelleme: 28 Ağustos 2026 · Fox*
+
+## 1 Eylül 2026 — Ölü ders taraması (Ayhan emri: "yap işlensin, sürekli büyümen lazım")
+
+**Tespit:** CLAUDE.md §Kaynaklar "Her oturum başında bu dosyalar okunur" diyordu — **yanlıştı.** Hook yalnız `fox-durum.md` yüklüyor (settings.json ile doğrulandı). Yani ~30 dosyalık liste "aktif" sanılıyordu; gerçekte konu değmedikçe hiç açılmıyorlar. Yanlış satırın kendisi yüklendiği için yanılsamayı her oturum tazeliyordu.
+
+**Yapılan:**
+- CLAUDE.md:87 düzeltildi — liste "otomatik okunur" değil **harita** olarak tanımlandı; "arşive yazılan ders ölü derstir" kuralı ve üç yüklü yüzeyin (CLAUDE.md · fox-durum.md · memory + MEMORY.md pointer) adı yazıldı. **Ekleme değil düzeltme** — budama disiplini gereği CLAUDE.md'ye yeni madde eklenmedi.
+- `raporlar/oturum-gunlugu.md` (273 satır) tarandı; "kurallaştı" cümlesi taşıyıp hiçbir yüklü yüzeye inmemiş **6 ölü ders** bulundu. 5'i işlendi:
+  1. Mevcut içerik varsayılan KORUNUR (14 Haz) → yeni memory
+  2. Belge kendi kuralını çiğniyor mu (10 Tem) → yeni memory
+  3. Gece yarısı "yarın" belirsizliği → yeni memory
+  4. Photoshop `do javascript` hata 8800 + macOS numpy `matmul` bozuk (21-24 Ağu) → mevcut `logo-silme-tespit-yontemi` memory'sine eklendi
+  5. Filo Senkronizasyon Kuralı → **terfi ETTİRİLMEDİ** (orkestrasyon protokolünde kalsın; proje kapanışında zaten o dosya açılıyor — gereksiz yüklenen satır olurdu)
+- Memory sayısı 16 → 19; MEMORY.md'ye 3 pointer eklendi.
+
+**Kalan açık (Ayhan kararı):** öz-denetim 8 sorusu CLAUDE.md'de "uygula" diye anılıyor ama `fox-oz-denetim-ve-nobet.md` yüklenmiyor. Ya 8 soru CLAUDE.md'ye tek satır özet olarak inecek, ya da çıktı öncesi dosyayı açmak kapı hâline gelecek. Şu hâliyle sorular çoğu oturumda hiç sorulmuyor.

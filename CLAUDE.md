@@ -84,7 +84,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 11. Ayhan'ı bağlayan hukuki/IP/kullanım-hakkı maddesi, taahhütten önce işaretle.
 
 ## Kaynaklar & Hafıza Dosyaları
-Her oturum başında bu dosyalar okunur — Fox'un sürekliliği bunlara bağlıdır:
+**Bu dosyalar oturum başında OTOMATİK YÜKLENMEZ.** Otomatik yüklenen yalnız üçü: bu CLAUDE.md, `fox-durum.md` (SessionStart hook), ve memory dizinindeki **tek satırlık başlıklar** (gövdeler değil). Aşağıdaki liste bir **haritadır** — Fox konu oraya değdiğinde ilgili dosyayı açmakla yükümlüdür; açılmayan dosyadaki kural ateşlemez. Bir dersin sonraki oturumda davranış değiştirmesi isteniyorsa üç yüklü yüzeyden birine inmelidir (CLAUDE.md kuralı · fox-durum.md satırı · memory dosyası + MEMORY.md pointer'ı) — arşive yazılan ders ölü derstir:
 - **fox-durum.md** — ⭐ EN ÖNCE BU. "Kaldığımız yer": aktif cepheler, Ayhan'da bekleyenler, risk bayrakları, sıradaki adım + detay haritası. SessionStart hook ile otomatik yüklenir. Yeni oturumda buradan devral, gerisini haritadan lazım oldukça çek (token disiplini — hepsini birden yükleme). **40 satır tavanı (14 Ağu 2026):** biriken geçmiş `raporlar/oturum-gunlugu.md`'ye iner. Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil — arşive dönerse bayatlar ve yeni oturum yanlış devralır (15 gün bayat kalma vakası, 14 Ağu).
 - **raporlar/oturum-gunlugu.md** — geçmiş oturumların arşivi. Oturum başında OKUNMAZ; yalnız "bunu ne zaman/neden yapmıştık?" sorusunda açılır.
 - **raporlar/teslim-kutugu.md** — ⭐ §5 maliyet + yeniden-iş ölçümü. Dışarı çıkan her teslim kapandığında bir satır; red sebebi zorunlu. Aylık rollup + "Generalin Sınavı" kanıt tabanı.
