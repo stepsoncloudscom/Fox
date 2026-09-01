@@ -9,7 +9,7 @@
 | **Özgür Irmak Protez ve Ortez** (medikal) | Canlı iş — web/blog/metin üretimi sürüyor | ↓ alt kalemler | karışık |
 | · Levitate hattı (13 ürün) | **Wix'e YÜKLENDİ** — 13 ürün + metin + görsel (13/13), fiyat ₺0,00, hepsi Ayaklar kategorisinde, site Draft | ÜTS/TİTCK teyidi + 4 teknik teyit (yayın kapısı) | Fox / Özgür Bey |
 | · Össur Ortez hattı (109 ürün) | **İNDİRİLDİ 28 Ağu** — 269 orijinal görsel + 23 ikon (1,8 GB) + 109 satır teknik veri. Ad kuralı: ürün adı kullanılır (Liner'dan sapma, karar günlüğü). | **Ayhan ayıklayacak** → sonra metin turu → Wix (ayrı onay) | Ayhan |
-| · **Protezler anlatı sayfaları** (9 sayfa) | Mimari v0.1 hazır 1 Eyl — ağaç+slug+iskelet+uyum kapısı. Ayhan kararı: kategori DEĞİL anlatı sayfası; 51 ürüne dokunulmadı. Klasik editörde sayfa/menü **REST API'si yok**. | Editör oturumu (menü derinliği kararı) + Özgür Bey teknik teyidi → sonra Metin Yazarı | Ayhan |
+| · **Protezler anlatı sayfaları** (9 sayfa) | Mimari v0.1 hazır 1 Eyl — ağaç+slug+iskelet+uyum kapısı. Ayhan kararı: kategori DEĞİL anlatı sayfası; 51 ürüne dokunulmadı. Klasik editörde sayfa/menü **REST API'si yok**. | **Ayhan metni/görseli kendisi dolduracak** (karar 1 Eyl) — form hazır. Özgür Bey teknik teyidi ön koşul → doldur → Editör oturumu | Ayhan |
 | · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden, envanter teyitsiz (Denetmen D1) | Teyit setini Özgür Bey'e ilet; teyitsiz kalem çıkarılır | Ayhan → Özgür Bey |
 | · Blog (5 yazı) | İnsan Sesi Kapısı'ndan geçti, Wix'te **DRAFT** | Yayın onayı | Ayhan |
 | · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |

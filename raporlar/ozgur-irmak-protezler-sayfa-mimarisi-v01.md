@@ -130,7 +130,7 @@ Madde 15/2 yatağında — *"cihaz nedir, kime uygulanır, süreç nasıl işler
 | 1 | **Editör oturumu** — klasik editörde sayfa/menü kurmanın REST API'si YOK. Fox şifre girmez (Kademe 3). | Ayhan | 🔴 Kurulumu bloklar |
 | 2 | **Teknik veri teyidi** — 4 sistem tipinin merkezde fiilen uygulanan hangi ürünlerle karşılandığı. Uydurulamaz (medikal, sıfır tolerans). | Özgür Bey | 🔴 Metni bloklar |
 | 3 | **Avukat onayı** — dil rejimi örnek sayfayla onaylanacak (uyumlu ticaret planı, Soru 1 yeniden çerçevelendi). | Ayhan → avukat | 🔴 Yayını bloklar |
-| 4 | **Metin üretimi** — prosa Metin Yazarı'nın kulvarı (CLAUDE.md §6: Fox içerik üretmez, koordine eder). | Ayhan onayı | ⚠️ Fox tek başına başlatmaz |
+| 4 | ~~Metin üretimi~~ → **ÇÖZÜLDÜ 1 Eyl: Ayhan metni ve görselleri kendisi dolduracak.** Form hazır: `ozgur-irmak-protezler-doldurma-paketi.md` | Ayhan | ✅ Bloklamıyor |
 | 5 | Keyword araştırması (§6 ikincil kelimeler hipotez) | Fox/Growth | ⚠️ Yayını bloklamaz, kaliteyi düşürür |
 
 ⚠️ **Site zaten Draft ve 404.** Bu sayfalar kurulsa bile mevcut yayın blokajı (Free plan · dil yalnız `tr` · avukat kapısı) açılmadan kimse göremez. `fox-durum.md` risk bayrağı — bu iş o blokajı **çözmez**, stoka bir kalem daha ekler. Yayın kası açılmadan 9 sayfa daha üretmek ölçülmemiş iştir ([[yayin-kasi-cikti-canlida-kapanir]]).
@@ -139,8 +139,11 @@ Madde 15/2 yatağında — *"cihaz nedir, kime uygulanır, süreç nasıl işler
 
 ## 9 · SIRADAKİ ADIM (Fox önerisi)
 
-1. **Ayhan:** Editör oturumu günü belirle → 9 sayfa iskeleti + menü kurulur (Fox tarayıcıyı sürer, Ayhan giriş yapar). Menü derinliği kararı orada ekrana bakarak verilir.
-2. **Ayhan → Özgür Bey:** 4 sistem tipi için teknik teyit talebi (Yürüme Analizi 11 kalem + Levitate 4 kalem taleplerine eklenir — tek mesajda gider, ayrı ayrı rahatsız etmeye gerek yok).
-3. **Teyit gelince:** Metin Yazarı 9 sayfayı üretir → Denetmen (15/2 testi + İnsan Sesi kapısı) → avukat → yayın.
+*(Güncellendi 1 Eyl — Ayhan metni/görseli kendisi dolduracak.)*
+
+1. **Ayhan → Özgür Bey:** 4 sistem tipi için teknik teyit talebi (Yürüme Analizi 11 kalem + Levitate 4 kalem taleplerine eklenir — tek mesajda gider). **Bu, metin doldurmanın ön koşulu:** teyitsiz kalem yumuşatılmaz, çıkarılır.
+2. **Ayhan:** `ozgur-irmak-protezler-doldurma-paketi.md` doldurulur (metin + görsel + SEO meta). §D son kontrol listesi işaretlenir.
+3. **Ayhan + Fox:** Editör oturumu → 9 sayfa kurulur, doldurulmuş metin yapıştırılır, menü bağlanır. Menü derinliği kararı orada ekrana bakarak verilir.
+4. **Sonra:** Denetmen (15/2 testi + İnsan Sesi kapısı) → avukat dil rejimi onayı → yayın.
 
 *Kaynaklar: `ozgur-irmak-web-semasi.md` · `ozgur-irmak-uyumlu-ticaret-plani.md` §1-2, §6 · `denetmen-ozgur-irmak-hakkimizda-denetim.md` N3 · `ozgur-irmak-hakkimizda-v05.md` §anahtar kelime devri · `ozgur-irmak-kalan-hatlar.md` HAT 4*
