@@ -69,7 +69,15 @@ Ağaç **4 seviye** derin (Protezler → Bacak → Diz Altı → Aktif Vakum). H
 - Wix klasik editörde render **edilebilir ama doğrulanmadı** — Editör oturumunda kontrol edilecek.
 - Render etse bile 4 seviyeli hover menüsü **WCAG AA'da düşer** (klavye navigasyonu + hedef boyutu). HAT 4 bu siteye WCAG AA tabanı şart koşuyor; bu marka *erişilebilirlik satıyor* — menüsü erişilemez olamaz.
 
-**Fox önerisi — menü 2 seviye, sayfa 4 seviye:**
+### ✅ KARAR (Ayhan, 1 Eyl): **TAM 4 SEVİYE — hepsi menüde.**
+Fox 2 seviye önerdi, Ayhan 4 seviyeyi seçti. Karar uygulanır; itiraz tekrarlanmaz.
+**Karşılığında kapı kondu:** yayın öncesi **klavye navigasyon testi zorunlu** — menü yalnız fare ile değil Tab/Ok tuşlarıyla da gezilebilmeli, alt seviyeler klavyeyle açılmalı. Test geçmeden yayın yok. *(Aşağıdaki 2-seviye önerisi arşiv olarak duruyor; uygulanmayacak.)*
+
+**Kurulum sırası (Ayhan, 1 Eyl):** önce **9 boş sayfa + menü** kurulur, metin paralel doldurulur.
+
+---
+
+~~**Fox önerisi — menü 2 seviye, sayfa 4 seviye:**~~ *(uygulanmadı — arşiv)*
 
 ```
 MENÜ (header):  Protezler ▾ → Bacak Protezleri · Diz Üstü Protezleri · Kol Protezleri

@@ -223,3 +223,17 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 **Kalan açık (Ayhan kararı):** öz-denetim 8 sorusu CLAUDE.md'de "uygula" diye anılıyor ama `fox-oz-denetim-ve-nobet.md` yüklenmiyor. Ya 8 soru CLAUDE.md'ye tek satır özet olarak inecek, ya da çıktı öncesi dosyayı açmak kapı hâline gelecek. Şu hâliyle sorular çoğu oturumda hiç sorulmuyor.
 
 **Aynı gün, devam — Ayhan kararı: (a).** Öz-denetim 8 sorusunun kısa sürümü CLAUDE.md:140'a gömüldü (`Disiplin` satırından "8 soruyu uygula" ibaresi çıkarıldı, yerine soruların kendisi geldi). Maliyet: CLAUDE.md 2.680 → 2.905 kelime (~+225 kelime / her oturum). Karşılığı: sorular artık yüklenmeden değil, yüklenerek geliyor. `fox-oz-denetim-ve-nobet.md` başına **çift kayıt uyarısı** kondu — CLAUDE.md ateşler, o dosya gerekçe/vaka tutar; metin değişirse ikisi birden güncellenir (çelişik talimat riski).
+
+## 1 Eylül 2026 — Özgür Protez: "Protezler" menü dalı — 3 karar
+
+**Bağlam:** Ayhan menüye Protezler dalı istedi (Bacak/Kol → Diz Altı/Üstü → 4 süspansiyon sistemi). Fox mimariyi kurdu: `raporlar/ozgur-irmak-protezler-sayfa-mimarisi-v01.md` + doldurma paketi.
+
+**Karar 1 — Katman: anlatı sayfası, kategori DEĞİL.** Fox 4 seçenek sundu (mağaza kategori ağacı / Editör menüsü / ikisi / anlatı sayfaları). Ayhan: **anlatı sayfaları**, ve *"ürünlere dokunma"*. → `Protezler` mağaza kategorisindeki 51 ürün olduğu gibi bırakıldı; kategori API'sine hiç yazılmadı. 9 sayfa bilgilendirme mimarisi olarak kurulacak (Madde 15/2 yatağı).
+
+**Karar 2 — Metin ve görselleri Ayhan dolduracak.** Metin Yazarı ajanı devreye alınmadı; Fox doldurulacak formu üretti (yasak dil tablosu + görsel seçim kuralları + 9 sayfa iskeleti + son kontrol listesi). Fox'un kulvarı mimari/koordinasyon olarak kaldı (CLAUDE.md §6).
+
+**Karar 3 — Menü tam 4 seviye + iskelet önce.** Fox **menü 2 seviye** önerdi (gerekçe: 4 katlı hover menüsü WCAG AA'da düşer, klavye navigasyonu; bu marka erişilebilirlik satıyor). **Ayhan tam 4 seviyeyi seçti.** Fox itirazını bir kez söyledi, tekrarlamadı; endişe **paragraf değil kapı** hâline getirildi → yayın öncesi **klavye navigasyon testi** zorunlu madde olarak son kontrol listesine kondu (§Bakım ritmi: "red → ölçü/kapı, 48 saat"). Kurulum sırası: **önce 9 boş sayfa + menü**, metin paralel doldurulur.
+
+**Ölçüm (bu turda kazanılan kalıcı bilgi):** Wix REST API'sinde site sayfası oluşturan / header menüsü düzenleyen endpoint **yok** — 414 kaynaklık indeks ad taramasıyla doğrulandı, 7 eşleşmenin hiçbiri işi yapmıyor. Memory: `wix-sayfa-menu-api-yok`. Tek yol Editör; editör deep-link'i `GET /editor-urls` ile çekildi.
+
+**Açık blokaj:** Claude in Chrome eklentisi bağlı değil → Fox Editör'de tıklayamıyor. `Control_Chrome` kanalı yalnız sekme görüyor (JS/okuma Apple Events izni kapalı, tıklama/yazma hiç yok). Kurulum eklenti bağlanınca başlar.

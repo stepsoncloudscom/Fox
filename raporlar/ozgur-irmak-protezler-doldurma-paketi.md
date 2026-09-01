@@ -193,6 +193,7 @@ Her uç sayfa aynı 7 bölümü taşır. Aşağıda bir kez açık yazıldı, so
 - [ ] Sayfa başlıklarında Türkçe doğru: büyük **İ** noktalı, ğ ü ş ı ö ç bozuk değil
 - [ ] Hub sayfası ile uç sayfa aynı kelimede yarışmıyor
 - [ ] Blog yazılarından kopyalanmadı, linklendi
+- [ ] 🔴 **KLAVYE TESTİ** — menü 4 seviye kuruldu (Ayhan kararı 1 Eyl). Tab/Ok tuşlarıyla Protezler → Bacak → Diz Altı → Aktif Vakum'a fare kullanmadan ulaşılabiliyor mu? Ulaşılamıyorsa menü yapısı düzeltilmeden yayın yok. *(WCAG AA — bu marka erişilebilirlik satıyor.)*
 
 **Bunlar tamamsa:** Editör oturumunda 9 sayfa kurulur + menü bağlanır → Denetmen 15/2 testi → avukat dil rejimi onayı → yayın.
 
