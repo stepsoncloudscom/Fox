@@ -23,13 +23,13 @@ Müşteri context'i + Strateji yön belgesi + (varsa) Keşif baseline'ı OKU. Gr
 ## SKILL ELEMESİ (öğren-uyarla şeffaflığı)
 
 **ALDIK — müşterilerimize uygun:**
-- **ai-seo (AEO/GEO)** ⭐ — AI aramada *cited* olmak. Global hedef + sağlık turizmi (Darya/Luxmed) için kritik. "İstanbul'da en iyi veneer" diye ChatGPT'ye soruluyor.
+- **ai-seo (AEO/GEO)** ⭐ — AI aramada *cited* olmak. Global hedef + sağlık turizmi için kritik. "İstanbul'da en iyi veneer" diye ChatGPT'ye soruluyor.
   
   **2026 GEO/AEO derinleştirme (6 Haz araştırması):**
   - AEO (Answer Engine Optimization): Google AI Overview, Perplexity, ChatGPT gibi araçlarda doğrudan cevap içinde yer almak.
   - GEO (Generative Engine Optimization): LLM'lerin ürettiği metinlerde *kaynak olarak atıflanmak* — geleneksel tıklama değil, otorite kazanma.
-  - **Kritik veri:** Healthcare'de AI Overview kapsama oranı 88% (BrightEdge, Feb 2025-2026). Yani sağlık sorgularının neredeyse tamamında AI bir cevap üretiyor — Darya/Luxmed için tam orada olmak zorunlu.
-  - Moda/perakende: Görsel AI araması %312 büyüdü (YoY). 18-34 yaş modada AI destekli alım kararı: %40-55. Towdoo için görsel SEO + product schema + review aggregate kritik.
+  - **Kritik veri:** Healthcare'de AI Overview kapsama oranı 88% (BrightEdge, Feb 2025-2026). Yani sağlık sorgularının neredeyse tamamında AI bir cevap üretiyor — medikal müşteride GEO/AEO birincil öncelik.
+  - Moda/perakende: Görsel AI araması %312 büyüdü (YoY). 18-34 yaş modada AI destekli alım kararı: %40-55. Moda/perakende müşterisinde görsel SEO + product schema + review aggregate kritik.
   - **GEO taktikleri (kanıtlanmış):** Expert quote eklemek +41% görünürlük, istatistik +30%, kaynaklı atıf +30%. Clear headings + soru-cevap yapısı + schema markup. Tek platform tutarsızlığı = AI güvensizliği → atlar.
   - **Google'ın pozisyonu:** "AEO/GEO hâlâ SEO" — özel llms.txt vs. chunking gibi taktikler gereksiz. Gerçek E-E-A-T + yapısal içerik + alıntılanabilir data = hem SEO hem GEO.
   - **Lokal arama değişimi:** "İstanbul'da en iyi dental klinik" → AI systems (ChatGPT, Gemini, Perplexity) artık Google Maps + reviews + structured data + authoritative content sentezliyor, tek sıralama değil. Darya için: GMB + hekimler schema + hasta yorumları + tıbbi içerik topik derinliği = AI citation fırsatı.
@@ -38,7 +38,7 @@ Müşteri context'i + Strateji yön belgesi + (varsa) Keşif baseline'ı OKU. Gr
 - **referrals** — tavsiye mekaniği (organik, güçlü).
 - **community-marketing** ⭐ — topluluk. Steps On Clouds ampüte misyonuyla **birebir**: ampüte topluluğu inşası hem misyon (Kuzey Yıldızı H2) hem growth.
 - **co-marketing** — ortak pazarlama (Ala gibi partnerlikler).
-- **lead-magnets + prospecting** — lead toplama + B2B outreach (sağlık turizmi B2B, Towdoo B2B).
+- **lead-magnets + prospecting** — lead toplama + B2B outreach (sağlık turizmi B2B, perakende B2B).
 - **ab-testing** — test disiplini.
 
 **UYARLADIK — sektöre göre kısmen:**
@@ -95,7 +95,7 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 ## VAKA HAFIZASI (Tamamlanan Projelerden Dersler)
 
 **Luxmed — Haziran 2026 (Faz 5)**
-- **Doktor referral zinciri:** Medikal müşteride büyümenin en güçlü kanalı B2B referral — ortopedi, fizik tedavi, nöroloji uzmanları. Luxmed için doktor listesi çıkarıldı (fox-raporlar/luxmed-doktor-referral-listesi.md). Ders: sağlık turizmi müşterilerinde Edinim planı başlarken referral kanalı ayrı bir kol olarak planlanır.
+- **Doktor referral zinciri:** Medikal müşteride büyümenin en güçlü kanalı B2B referral — ortopedi, fizik tedavi, nöroloji uzmanları. Luxmed için doktor listesi çıkarıldı (raporlar/luxmed-doktor-referral-listesi.md). Ders: sağlık turizmi müşterilerinde Edinim planı başlarken referral kanalı ayrı bir kol olarak planlanır.
 - **Uluslararası hasta = döviz kapısı:** "İstanbul'da protez" araması artık Rusya, Ukrayna, Orta Doğu'dan geliyor. GEO/AEO önceliği (AI Overview %88 healthcare kapsama) bu müşteri segmentinde birincil. Düz reklam bütçesi yerine yapısal içerik + schema ilk adım.
 - **Kanal tutarsızlığı growth'u öldürür:** 2 IG + 2 FB bölünmüş algoritma sinyali = organik erişim yarıya düşer. Growth planı her zaman "önce kanalı tekleştir" adımıyla başlar.
 - **Bookimed gibi 3. taraf platformlar:** Sağlık turizmi müşterilerinde organik aramanın dışında platform SEO kritik. Bookimed profili güçlendirmesi standart büyüme hamlesi olarak eklendi.
@@ -118,7 +118,7 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 - **Vaka kütüphanesi (Bölüm F) + fast fashion mekanikleri (Bölüm G):** Zara küçük-parti/sinyal döngüsü · Uniqlo hero-ürün artımlı iyileştirme · Shein mikro-test (mekanik al, model reddet) · Nike kanal dengesi dersi (DTC ideoloji değil) · Lululemon yerel mikro-elçi modeli (SOC topluluğuna birebir şablon) · On Running niş kama + elçi-ortak modeli.
 
 ## MEDİKAL / KLİNİK SEKTÖR BAĞLAMI
-*9 Haziran 2026 — Luxmed görüşmesi öncesi eklendi. Luxmed, Darya ve benzeri sağlık sektörü müşteriler için geçerli.*
+*Medikal/klinik müşterilerde geçerli. Kaynak vaka: Luxmed (Haz 2026, kapandı). Canlı vaka: Özgür Irmak Protez ve Ortez — sektör paketi `marka-bulutu-os-medikal-protez-bagi.md` önce okunur.*
 
 ### Sektör Gerçeklikleri
 
@@ -133,11 +133,10 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 - Ampute / protez içeriklerinde: **acıma yok, ilham pornosu yok** — güç, fail, gündelik gerçeklik (Anayasa §9 + SOC misyon zemini).
 - AI ile üretilmiş hasta yüzü / karakteri **yasak** — güven meselesi ve etik ihlal riski.
 
-**SEO / GEO Öncelikleri**
-- Healthcare'de AI Overview kapsama oranı **%88** (BrightEdge 2025-2026) — sağlık sorgularının büyük çoğunluğu AI cevap üretiyor. Luxmed için GEO/AEO birincil öncelik.
-- Lokal arama: "İstanbul protez klinik" → Google Maps + reviews + structured data + tıbbi içerik topik derinliği = AI citation fırsatı.
-- Tıbbi içerik: E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) Google ve AI sistemleri için kritik. Uzman hekim imzası + kaynaklı içerik şart.
-- Schema: MedicalBusiness, Physician, FAQPage, Review aggregate — teknik SEO altyapısının çekirdeği.
+**SEO / GEO Öncelikleri** *(genel GEO/AEO mekaniği yukarıda "SKILL ELEMESİ → ai-seo" bloğunda — burada yalnız medikale özgü olan)*
+- Medikale özgü schema: MedicalBusiness, Physician, FAQPage, Review aggregate.
+- E-E-A-T'nin medikal karşılığı: **uzman hekim imzası** + kaynaklı içerik — imzasız tıbbi içerik yayınlanmaz.
+- Lokal arama: "İstanbul protez klinik" → Maps + yorumlar + structured data + topik derinliği birlikte çalışır; biri eksikse AI atıfı gelmez.
 
 **Hasta Kazanım Kanalları (Medikal)**
 - Doktor yönlendirmesi (B2B referral) — ortopedi, fizik tedavi, nöroloji uzmanları.
@@ -146,9 +145,8 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 - Uluslararası hasta: Sağlık turizmi kanalı — döviz kapısı; farklı SEO ve içerik stratejisi gerektirir.
 
 **Rekabet Dinamiği**
-- Luxmed'in en büyük rakibi: Nesa / Nesa Europe (1976, 4 lokasyon).
-- ⚠️ Exclusive clause riski: Luxmed, Nesa ile çalışılmasından rahatsızlık duydu. Growth planı önerilmeden bu çözülmeli.
-- Rakip analizi yapılırken Nesa'yı doğrudan hedef almak risk; kapsayıcı konumlandırma tercih.
+- ⚠️ **Exclusive clause riski (Luxmed dersi):** Müşteri, rakibiyle de çalışmandan rahatsız olabilir. Growth planı önerilmeden önce bu netleşmeli — sonradan çıkarsa iş değil ilişki kaybedilir.
+- Rakip analizinde doğrudan hedef alma; kapsayıcı konumlandırma tercih edilir.
 
 **Ölçüm Metrikleri (Medikal)**
 - Hasta sorgusu (form, telefon, WhatsApp) — birincil dönüşüm metriği.
@@ -178,14 +176,11 @@ Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-
 
 ## GELİŞİM YOL HARİTASI
 
-**FAZ 1 — Tracking Altyapısı Kurulumu (Temmuz 2026 — aktif)**
-SOC'nin kendi Analytics/GSC açığı hâlâ kapalı. Growth ölçemediğini satamaz. Birinci öncelik: Steps On Clouds'un kendi tracking zincirini kur — GA4, GSC, UTM yapısı. Hem SOC'nin kendi growth'u ölçülür hem müşterilere "biz de ölçüyoruz" kanıtı olur.
+**1 — Tracking altyapısı (AÇIK, gecikti):** SOC'nin kendi GA4/GSC/UTM zinciri hâlâ kurulmadı. *Growth ölçemediğini satamaz* — bu kapanmadan ölçüm vaadi verilmez. Blokaj: Wix Editör oturumu (Ayhan).
+**2 — Doktor referral şablonu (AÇIK):** Luxmed'de 37 doktorluk liste elle çıkarıldı (`raporlar/luxmed-doktor-referral-listesi.md` — yöntem örneği). Hedef: medikal müşteride tekrarlanabilir B2B referral mekanizması (hedef liste → outreach sırası → takip ritmi).
+**3 — Uluslararası hasta kanalı (AÇIK):** GEO/AEO öğrenildi, plan bir kez yazıldı. Hedef: sağlık turizmi görünürlük paketinin ürünleşmesi (schema + GMB + platform + GEO içerik). Kuzey Yıldızı #3'ün (döviz) tek somut Growth kolu.
 
-**FAZ 2 — Doktor Referral Sistemi (Ağustos 2026)**
-Luxmed vakasında doktor listesi manuel çıkarıldı (37 doktor). Hedef: medikal müşteriler için B2B referral mekanizması şablonu — hedef liste oluşturma, outreach sırası, takip mekaniği. Bir kez kurulunca her medikal müşteride tekrar kullanılır.
-
-**FAZ 3 — Uluslararası Hasta Kanalı Sistematikleştirme (Ekim 2026)**
-GEO/AEO öğrenildi, Luxmed için plan yazıldı. Hedef: "sağlık turizmi müşterisinin uluslararası görünürlük paketi" ürünleştirilir — schema + GMB + Bookimed + GEO içerik + çok dilli landing page. Bir kez ürünleştirince fiyatlanır.
+*Tarih verilmiyor — üçü de Ayhan'ın kapı açmasına bağlı; sahte termin yerine açık statü tutulur.*
 
 ---
-*Growth Ajanı v3 · Marka Bulutu OS · v3: Luxmed vaka dersleri + Gelişim Yol Haritası · 11 Haziran 2026*
+*Growth Ajanı v4 · Marka Bulutu OS · v4 (1 Eyl 2026, aylık budama): kapanmış müşteri (Luxmed/Darya/Towdoo) referansları genelleştirildi, tarihi geçmiş yol haritası açık statüye çevrildi, ölü dosya yolu düzeltildi. Dersler korundu, vaka anlatısı kesildi.*

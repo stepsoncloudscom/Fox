@@ -237,3 +237,13 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 **Ölçüm (bu turda kazanılan kalıcı bilgi):** Wix REST API'sinde site sayfası oluşturan / header menüsü düzenleyen endpoint **yok** — 414 kaynaklık indeks ad taramasıyla doğrulandı, 7 eşleşmenin hiçbiri işi yapmıyor. Memory: `wix-sayfa-menu-api-yok`. Tek yol Editör; editör deep-link'i `GET /editor-urls` ile çekildi.
 
 **Açık blokaj:** Claude in Chrome eklentisi bağlı değil → Fox Editör'de tıklayamıyor. `Control_Chrome` kanalı yalnız sekme görüyor (JS/okuma Apple Events izni kapalı, tıklama/yazma hiç yok). Kurulum eklenti bağlanınca başlar.
+
+## 2 Eylül 2026 — Aylık budama (Eylül) + bayatlık aracı
+
+**Seçilen dosya: `growth-ajani.md` (v3 → v4).** Çıkarılan/değiştirilen: kapanmış müşteri (Luxmed/Darya/Towdoo) hedeflemesi genelleştirildi — *dersler korundu, vaka anlatısı değil hedefleme kesildi*; medikal bölümdeki GEO/AEO tekrarı (aynı %88 istatistiği 3 yerde, iki farklı biçimde yazılmış) tek yere indirildi; tarihi geçmiş 3 fazlık yol haritası sahte terminlerden arındırılıp **açık statüye** çevrildi; ölü dosya yolu (`fox-raporlar/…`) düzeltildi. Hacim 2.109 → 2.087 kelime. **Not: bu dosyada sorun şişme değil çürüktü** — budamanın ölçüsü kelime sayısı olmamalı.
+
+**Kurulan araç: `sablonlar/araclar/bayat_tarama.py`.** §Bakım'ın "red → ölçü/kapı" kuralı gereği, budama artık göz kararı değil. Üç kusuru sayar: ÖLÜ YOL (anılan ama diskte olmayan dosya) · BAYAT FAZ (2+ ay geçmiş tarihe hâlâ "aktif" diyen satır) · ÇİFT KAYIT (aynı istatistiğin 3+ tekrarı). Yanlış pozitifler için ayar yapıldı (rubrik tablo ağırlıkları, komut örnekleri, Drive atıfları elendi): 28 → 15 bulgu. Çıkış kodu 1/0 — ileride kapı olarak kullanılabilir.
+
+**Bulunan gerçek kusur:** `kesif-denetim-ajani.md` iş akışının 1. adımında **var olmayan** `analyze_page.py`'yi çağırıyordu (dosya `marka_analiz.py` olarak yeniden adlandırılmış, pointer güncellenmemiş). Düzeltildi. Bu, elle grep'le kaçırdığım bir bulgu — aracın kendini ödediği yer.
+
+**AÇIK — Ayhan + Denetmen kararı gerekiyor:** 6 ajanın (Branding/Denetmen/İçerik/Keşif/Metin Yazarı/Strateji) **FAZ 1'i Haziran-Temmuz'dan beri "aktif"** yazıyor; hiçbiri değerlendirilmedi (Denetmen kendi dosyasında "resmi 1 Tem değerlendirmesi yapılmadı" diyor). Fox'un kendi fazları 4/4 kapandı, filonunki kapanmadı. Fox tek başına "tamam" diyemez — kapatma kararı denetim gerektirir.

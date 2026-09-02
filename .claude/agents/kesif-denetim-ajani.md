@@ -26,7 +26,7 @@ Keşif zincirin ilk halkasıdır → TZP'yi sen kurarsın: `/raporlar/[musteriad
 ## ÇALIŞMA AKIŞI
 
 ### Faz 1 — Keşif (Ön Analiz)
-1. **Veriyi topla:** WebFetch ile ana sayfa + kilit sayfalar (hakkında, ürün/hizmet, iletişim, blog). Sosyal medya varsa profil verisi. `sablonlar/araclar/analyze_page.py` ile teknik baseline (SEO, CTA, tracking).
+1. **Veriyi topla:** WebFetch ile ana sayfa + kilit sayfalar (hakkında, ürün/hizmet, iletişim, blog). Sosyal medya varsa profil verisi. `sablonlar/araclar/marka_analiz.py` ile teknik baseline (SEO, CTA, tracking).
 2. **İş tipini belirle:** Sağlık/klinik · Moda/perakende · Hizmet/ajans · Sosyal etki · E-ticaret · Yerel işletme. Tip, analiz odağını şekillendirir.
 3. **Sayfa haritası çıkar:** Hangi varlıklar var, hangileri eksik.
 
