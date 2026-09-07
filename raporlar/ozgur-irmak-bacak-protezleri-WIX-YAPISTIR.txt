@@ -1,0 +1,107 @@
+ÖZGÜR IRMAK PROTEZ VE ORTEZ — WIX YAPIŞTIRMA DOSYASI
+Sayfa: Bacak Protezleri  ·  Slug: bacak-protezleri  ·  Sürüm v0.1 (2 Eylül 2026)
+Köşeli parantezli satırlar Wix'te YAPIŞTIRILMAZ — hangi bloğa gireceğini gösterir.
+Tire (—) öncesindeki parça adları ve kart başlıkları Wix'te KALIN yapılır.
+======================================================================
+
+[H1]
+
+Bacak Protezleri
+
+[GİRİŞ]
+
+Bacak protezi, birkaç parçanın birlikte çalıştığı bir yapı: güdüğü saran soket, aradaki liner, taşıyıcı bağlantı bölümü ve ayak. Amputasyon diz ekleminin üstündeyse buna bir de diz eklemi ekleniyor.
+
+İlk soru şu: diz eklemi yerinde mi?
+
+Cevabı, sonraki bütün kararları belirliyor.
+
+[H2 — başlık]
+Ayrım nereden başlıyor
+
+Amputasyon diz ekleminin altındaysa kendi diziniz duruyor. Protez bacağın alt bölümünü tamamlıyor. Adımın nereye ve ne hızda gideceğine kendi diziniz karar veriyor; protezden beklenen şey güdüğe güvenle tutunmak ve yükü doğru taşımak.
+
+Diz ekleminin üstündeyse dizin işini de protez üstleniyor: ayakta dururken vücudu taşımak, adım atarken bükülüp uzamak, oturup kalkarken kontrollü davranmak.
+
+İki durumun teknik gereksinimi ayrı. Diz Altı Protezleri ile Diz Üstü Protezleri'ni ayrı sayfalarda anlatmamızın sebebi bu.
+
+[KART BLOĞU — 2 kart]
+
+Diz Altı Protezleri → /diz-alti-protezleri
+Diz ekleminiz korunmuşsa protez soket, bağlantı bölümü ve ayaktan kuruluyor. Buradaki ayrım, protezin güdüğe nasıl tutunduğuna göre yapılıyor.
+
+Diz Üstü Protezleri → /diz-ustu-protezleri
+Diz eklemi de protezin bir parçası. Seçimi belirleyen ana konu, dizin duruşta ve adımda nasıl davrandığı.
+
+[H2 — başlık]
+Bir bacak protezi nelerden oluşuyor
+
+Soket — güdüğü saran sert gövde. Protezin vücuda oturduğu yer burası ve tek bir kişinin ölçüsüne göre yapılıyor. Özgür Irmak Protez ve Ortez'de soketler 3D CAD/CAM tezgâhında frezeleniyor.
+
+Liner — güdükle soket arasına giren, çoğunlukla silikon ya da jel esaslı iç kılıf. Yastıklama görevi var. Bazı sistemlerde protezin güdüğe tutunmasında da rol alıyor.
+
+Bağlantı bölümü — soketi ayağa, diz üstünde dize bağlayan taşıyıcı parçalar. Modüler yapıda bu parçalar sökülüp takılabiliyor. Sonradan ayar yapmayı mümkün kılan şey bu.
+
+Ayak — sabit bilekli sade yapılardan, yüklendiğinde enerji depolayıp itiş anında geri veren karbon yapılara kadar farklı aileleri var.
+
+Diz eklemi — yalnızca diz üstü protezlerde. Kilitli, mekanik, hidrolik, pnömatik ve mikroişlemcili tipleri bulunuyor. Ayrıntısı Diz Üstü Protezleri sayfasında.
+
+[H2 — başlık]
+Seçimi ne belirliyor
+
+Aynı bileşenlerle çalışan iki kişiden biri gününü ayakta geçiriyor olabilir, diğeri masa başında.
+
+Kararı etkileyen şeyler arasında amputasyon seviyesi, güdüğün uzunluğu ve doku yapısı, gün içinde ne kadar ve hangi zeminde hareket ettiğiniz, kilonuz, mesleğiniz ve varsa hassas bölgeler var. Uygunluk kişiye özel değerlendirmeyle belirleniyor.
+
+Kimseye hedef koymuyoruz. Bizim işimiz, sizin gününüzün altındaki teknik zemini kurmak.
+
+[H2 — başlık]
+Süreç nasıl işliyor
+
+Ölçüyle başlıyor, provayla ilerliyor, teslimle bitmiyor.
+
+Ölçü — güdük değerlendiriliyor, kalıp alınıyor.
+Prova — soket denenip ayarlanıyor; protez sizin üzerinizde dizilirken yürüyüşünüz de izleniyor.
+Teslim — dizilim ve oturuş ince ayarlanıyor.
+Takip — kontroller, gerektiğinde ayar, fizyoterapistlerimiz eşliğinde yürüme çalışmaları.
+
+Güdüğün ilk aylarda boyut ve şekil değiştirmesi beklenen bir durum. Bugün iyi oturan bir soket bir yıl sonra aynı şekilde oturmayabilir. Takip bu yüzden teslimattan sonra yapılan bir nezaket değil, işin kendisi.
+
+[H2 — başlık]
+Nereden devam etmeli
+
+Diz ekleminiz korunmuşsa Diz Altı Protezleri, korunmamışsa Diz Üstü Protezleri sayfası sizin için ayrıntıyı taşıyor.
+
+Hangisinin size uygun olduğundan emin değilseniz, sürecin nasıl ilerleyeceğini merkezimizde birlikte konuşabiliriz.
+
+[CTA]
+
+Danışma talebi oluşturun → /iletisim
+
+[KAPANIŞ — kalın]
+
+Adım adım, birlikte.
+
+======================================================================
+SAYFA ALTI — KÜÇÜK PUNTO
+
+Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezimize ya da hekiminize danışın.
+
+Cihazın uygunluğu kişiye özel değerlendirme ile belirlenir; uygulama ve uyarlama merkezimizde teknik sorumlu tarafından yapılır.
+
+Bu sayfa [TARİH] tarihinde güncellenmiştir. İçerik sorumlusu: [AD] · [E-POSTA]
+
+======================================================================
+WIX SEO PANELİ
+
+Sayfa başlığı : Bacak Protezleri | Özgür Irmak Protez ve Ortez
+Meta açıklama : Bacak protezi soket, liner, bağlantı bölümü ve ayaktan oluşuyor. Diz altı ile diz üstü protezlerin farkını ve seçimi neyin belirlediğini burada anlattık.
+URL slug      : bacak-protezleri
+Breadcrumb    : Protezler > Bacak Protezleri
+İç link       : /diz-alti-protezleri · /diz-ustu-protezleri · /protezler · /hakkimizda
+
+GÖRSEL ALT-TEXT'LERİ
+Hero    : Bacak protezinin soket, bağlantı bölümü ve ayak parçalarıyla tamamı
+Kart 1  : Diz altı protezinde soket ve ayak bağlantısı
+Kart 2  : Diz üstü protezinde diz eklemi ve taşıyıcı bağlantı
+
