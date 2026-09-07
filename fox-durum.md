@@ -1,6 +1,6 @@
 # Fox — DURUM / Kaldığımız Yer
 
-**Son güncelleme: 7 Eylül 2026** *(Blog: "Diz Üstü Protezler" yazısı Wix'e taslak olarak eklendi)*
+**Son güncelleme: 7 Eylül 2026** *(Blog: "Diz Üstü Protezlere Detaylı Bakış" eklendi ve yayınlandı — site Draft olduğu için hâlâ public değil)*
 **Kural: 40 satır tavanı.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
@@ -11,7 +11,7 @@
 | · Össur Ortez hattı (109 ürün) | **İNDİRİLDİ 28 Ağu** — 269 orijinal görsel + 23 ikon (1,8 GB) + 109 satır teknik veri. Ad kuralı: ürün adı kullanılır (Liner'dan sapma, karar günlüğü). | **Ayhan ayıklayacak** → sonra metin turu → Wix (ayrı onay) | Ayhan |
 | · **Protezler anlatı sayfaları** (9 sayfa) | Mimari v0.1 hazır 1 Eyl — ağaç+slug+iskelet+uyum kapısı. Ayhan kararı: kategori DEĞİL anlatı sayfası; 51 ürüne dokunulmadı. Klasik editörde sayfa/menü **REST API'si yok**. | **Ayhan metni/görseli kendisi dolduracak** (karar 1 Eyl) — form hazır. Özgür Bey teknik teyidi ön koşul → doldur → Editör oturumu | Ayhan |
 | · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden, envanter teyitsiz (Denetmen D1) | Teyit setini Özgür Bey'e ilet; teyitsiz kalem çıkarılır | Ayhan → Özgür Bey |
-| · Blog (6 yazı) | 5 yazı İnsan Sesi Kapısı'ndan geçti; 6. yazı **"Diz Üstü Protezler"** (Ayhan'ın verdiği metin, birebir) 7 Eyl eklendi — denetimden geçmedi. Hepsi Wix'te **DRAFT** | Yayın onayı | Ayhan |
+| · Blog (6 yazı) | **"Diz Üstü Protezlere Detaylı Bakış" 7 Eyl YAYINLANDI** (post `9f39fa7e…`, slug `diz-ustu-protezler`) — Ayhan talimatı, denetimden geçmedi. Blogda toplam 3 yayında + 3 taslak. **Site hâlâ Draft → hiçbiri public değil.** | Kalan 3 taslağın yayın onayı + site yayını | Ayhan |
 | · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |
 | · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır, Denetmen turu kapandı | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi) | Ayhan |
 | · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
@@ -22,7 +22,7 @@
 ## AYHAN'DA BEKLEYENLER (bloklayan)
 1. 🔴 **Özgür Protez sitesi yayında değil** — Wix planı kimin adına/bütçesiyle yükseltilecek + yayın öncesi hangi kapılar (avukat) kapanmalı? Cevaplanmadan içerik üretmek stok biriktirmektir.
 2. Özgür Bey'e teknik teyit talepleri (tek mesajda gitsin): Yürüme Analizi 11 kalem + **Levitate 4 kalem + ÜTS/TİTCK kaydı** + **Protezler 4 sistem tipi** (aktif/pasif vakum · pin · modüler).
-3. Blog 6 yazı yayın onayı (Wix'te draft duruyor).
+3. Blog: kalan 3 yazının yayın onayı + **sitenin kendisinin yayına alınması** (yayınlanan yazılar site Draft olduğu için görünmüyor).
 
 ## RİSK BAYRAKLARI
 - 🔴 **YAYIN KASI YOK — iki cephede aynı hastalık (ölçüldü 15 + 25 Ağu):** Özgür Protez sitesi **Draft**, URL 404, `ozgurprotez.com` "YENİLENİYORUZ" — 6 haftalık üretim (5 blog · Hakkımızda · ~85 ürün metni · KVKK) kamuya görünmüyor (dil yalnız `tr`, plan **Free**). SOC'de canlı sitede Haziran'dan beri değişiklik yok, 5 fazlık üretim `raporlar/`'da; 2 Empati Koşusu **kayıtsız** geçti → misyon kanıtı buharlaştı (Kayıt Protokolü v1). Ölçüm: `raporlar/ozgur-irmak-kanit-ucgeni.md` · Panzehir: Denetmen 10. mercek Erişilebilirlik.
