@@ -12,9 +12,8 @@
 | · **Protezler anlatı sayfaları** (9 sayfa) | Mimari v0.1 hazır 1 Eyl — ağaç+slug+iskelet+uyum kapısı. Ayhan kararı: kategori DEĞİL anlatı sayfası; 51 ürüne dokunulmadı. Klasik editörde sayfa/menü **REST API'si yok**. | **Görsel tarafı başladı 9–10 Eyl:** 4 klasör / 29 dosya Desktop'ta (DAFO-KAFO-GRAFO · Soft ortez · Dirsek altı & üstü myoelektrik) — seçim yapıldı, **sayfa eşleşmesi + kullanım izni teyidi yok**. Metin hâlâ Ayhan'da. | Ayhan |
 | · Yürüme Analizi sayfası | v0.2 hazır, **YAYIN BLOKLU** — 11 teknik kalem tedarikçi şartnamesinden, envanter teyitsiz (Denetmen D1) | Teyit setini Özgür Bey'e ilet; teyitsiz kalem çıkarılır | Ayhan → Özgür Bey |
 | · Blog (6 yazı) | 3 yayında + 3 taslak. 7 Eyl yayınlanan "Diz Üstü Protezler" denetimden geçmedi — **disclaimer'ı eksik + teyitsiz biyomekanik iddiası taşıyor** (risk raporu md.6). Site Draft → hiçbiri public değil. | Yazıyı düzelt · kalan 3 taslağın onayı · site yayını | Fox + Ayhan |
-| · Hakkımızda v0.7 | Metin hazır | Üniversite adı/yıl **belgesi** gelmeden yayınlanmaz | Özgür Bey |
+| · Hakkımızda v0.7 · KVKK v01 | Metin + PDF hazır | Hakkımızda: üniversite **belgesi** gelmeden çıkmaz · KVKK: avukat onayı + siteye konmalı (formlarda aydınlatma yok) | Özgür Bey / Ayhan |
 | · Sosyal biyografiler (IG/FB/LI×2/YT) | v0.2 hazır, Denetmen turu kapandı | Slot verisi (konum/tel/e-posta/link) + 2 karar (🕊 emoji · LinkedIn hesap tipi) | Ayhan |
-| · KVKK politikası v01 | PDF + docx hazır | Avukat/Ayhan onayı | Ayhan |
 | **Steps On Clouds** (kendi marka) | 🔴 **ölçüldü 25 Ağu:** canlıda yanlış bilgi (geçmiş etkinlikler "yaklaşan"+kayıt açık) · blog 10 ay ölü · ticari kol yok · Faz 1-5 üretimi stokta | 🔴 **4 karar Ayhan'da:** Wix Editör oturumu hangi gün · mağaza mekanizması (76 gündür açık) · hero slogan (reddedileni hâlâ canlı) · ticari kol adı + fiyat kademeleri. Plan: `raporlar/soc-durum-ve-aksiyon-plani-2026-08.md` | Ayhan + Fox |
 | **Park halinde** | Orhan kart oyunu brief v01 (9 Ağu) · Marka Bulutu OS iskeleti (15 Ağu) | Joker içerik+yaş teyidi · OS'ta 5 karar (fiyat kademeleri · K0 ücretli mi · platform maliyeti · para birimi · Pipeline ajanı) | Ayhan |
 
