@@ -271,3 +271,31 @@ başlığı yanlış beyan olurdu. Başlık formatı düzeltilerek onaylandı:
 bağladı (38 görsel, Türkçe alt metin) → 13 ürün Ayaklar kategorisine (itemCounter 18→31).
 Fiyat ₺0,00 — mevcut 102 ürünle aynı kurulum, Ayhan kararı.
 Kılıflar/Tabanlıklar kategorileri var ama boş bırakıldı (Ayhan kararı).
+
+---
+## 7–11 Eylül 2026 — Kayıtsız geçen beş gün (12 Eyl'de geriye dönük işlendi)
+
+**7 Eyl.** "Diz Üstü Protezlere Detaylı Bakış" blog yazısı Wix'e eklendi, başlık güncellendi,
+yayına alındı (post `9f39fa7e…`, slug `diz-ustu-protezler`). Tek commit'lenen iş bu.
+
+**8 Eyl — zamanlanmış koşular.** 8 ayrı oturum tetiklendi (müşteri takip radarı · günlük özet ·
+haftalık durum · aylık review). Hepsi Gmail taslağı bıraktı, hiçbiri depoya yazmadı.
+Radar bulgusu: **son 30 günde giden hiç mail yok**, son gönderim 6 Tem'de Özgür Bey'e.
+Haziran sonu gönderilen ~60 moda/Beymen teması Notion'da "yanıt bekleniyor" notuyla 2 aydır donmuş.
+
+**9–10 Eyl — anlatı sayfaları için görsel toplama (Ayhan ile canlı oturum).**
+4 klasör, 29 dosya, ~110 MB → `Desktop/Steps On Clouds/Clients/Özgür Irmak/Görseller /`:
+`Ortez-Secim-DAFO-KAFO-GRAFO` (9) · `Soft-Ortez-Lifestyle-Secim` (5: bel/diz/omuz) ·
+`Dirsek-Alti-Myoelektrik-Secim` (9) · `Dirsek-Ustu-Myoelektrik-Lifestyle` (6).
+Ayhan'ın yönü: ürünle birebir eşleşme şart değil, **lifestyle** yeterli.
+Kayıt notu: bir turda "Ottobock'ta lifestyle yok" denmişti — yanlıştı; sayfa özetleyici üzerinden
+okunduğu için `Images-lifestyle` klasörü kaçmıştı, ham HTML'de çıktı. **Ders: ürün sayfası taramasında
+özet katmanına güvenme, ham HTML'e in.**
+Açık kalan: hangi görsel hangi sayfaya · üretici görseli kullanım izni (IP bayrağı, yayın kapısı).
+
+**11 Eyl.** Oturum yok. Nakit Motoru Çar/Per/Cum koşmadı (sonraki tetik 14 Eyl).
+
+**Sistemik bulgu (12 Eyl).** Nakit Motoru defteri 17 Tem'den beri boş olmasına rağmen zamanlanmış
+görev koşuyor — kendi "0 iş çıksa bile heartbeat yaz" kuralı tutmuyor. Gmail'de 39 taslak birikti:
+8'i dış temas (FONEM/DOLCEZZA/SeraBella/EXQUISE/BASARIN/NUR KALAY/NAQİSHE/Fri Agency, 13–16 Tem),
+31'i Fox'un kendine yazdığı iç rapor. Üretim var, gönderim ve tüketim yok.
