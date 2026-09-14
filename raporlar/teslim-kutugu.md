@@ -36,3 +36,4 @@
 Redlerin **hiçbiri** biçim/format hatası değil — üçü de **kaynak yokluğu** ile ilgili: teyitsiz veriyle yazmak (4), yaşanmışlık olmadan hikâye kurmaya çalışmak (2), ölçülmemiş SERP niyetine yazmak (1). Kök neden kuralı bunu zaten söylüyordu: *somutluk kotası dolmazsa üslupla kapatma, müşteriden olgu iste.* Kural yazılıydı; **işin başında değil, redden sonra uygulanıyordu.**
 
 **Bundan çıkan kapı (14 Ağu):** üretim başlamadan önce Metin Yazarı "elimdeki teyitli olgu sayısı" satırını yazar; kota dolmuyorsa metin yazılmaz, **önce soru seti müşteriye gider.**
+| 2026-09-14 | Özgür Protez — ürün açıklamalarında marka/model temizliği (115 tarandı, 35 düzeltildi) | 1 tur | Denetmen: çağrılmadı (Kademe 1, Draft site, geri alınabilir) | Ayhan: doğrudan talimat | Red sebebi: yok — red olmadı | ~155k token (okuma ağırlıklı: katalog 7 sayfa tam okuma) |
