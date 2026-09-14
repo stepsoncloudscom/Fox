@@ -37,3 +37,4 @@ Redlerin **hiçbiri** biçim/format hatası değil — üçü de **kaynak yoklu�
 
 **Bundan çıkan kapı (14 Ağu):** üretim başlamadan önce Metin Yazarı "elimdeki teyitli olgu sayısı" satırını yazar; kota dolmuyorsa metin yazılmaz, **önce soru seti müşteriye gider.**
 | 2026-09-14 | Özgür Protez — ürün açıklamalarında marka/model temizliği (115 tarandı, 35 düzeltildi) | 1 tur | Denetmen: çağrılmadı (Kademe 1, Draft site, geri alınabilir) | Ayhan: doğrudan talimat | Red sebebi: yok — red olmadı | ~155k token (okuma ağırlıklı: katalog 7 sayfa tam okuma) |
+| 2026-09-14 | Özgür Protez — çakışan adlı 15 ürünün üretici verisiyle ayrıştırılması + Movido ad düzeltmesi | 1 tur | Denetmen: çağrılmadı (Kademe 1, Draft site, geri alınabilir) | Ayhan: doğrudan talimat | Red sebebi: yok — red olmadı | ~75k token (web araştırma + 16 yazma) |
