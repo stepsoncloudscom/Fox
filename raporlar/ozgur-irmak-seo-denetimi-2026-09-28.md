@@ -153,4 +153,79 @@ Bu teslim tam bir Growth denetimi değil, salt bir SEO incelemesi — bu yüzden
 4. PageSpeed/Core Web Vitals ölçümü — API anahtarı ile veya pagespeed.web.dev üzerinden manuel — ayrı, küçük bir takip görevi.
 
 ---
-*Growth Ajanı · 28 Eylül 2026 · Kademe 1 (araştırma-özet, iç rapor) — dışarı gönderim yok. Denetmen devrine hazır.*
+
+## UYGULAMA GÜNLÜĞÜ (28 Eylül 2026, aynı gün)
+
+Ayhan onayı ile ("ekstra düzeltme yapmadan noindex'i kapatalım, 7 kalemlik işe başlayalım, 5 ve 6'yı geç") aşağıdakiler Wix REST API üzerinden canlıya uygulandı ve tarayıcıdan doğrulandı:
+
+1. ✅ **Sitewide noindex kaldırıldı** — Site SEO Tags API, `robots: noindex` tag'i tags listesinden çıkarıldı. Canlıda teyit edildi (`<meta name="robots">` artık yok).
+2. ✅ **sitemap.xml düzeltildi** — ayrı bir işlem gerekmedi; noindex kaldırılınca Wix sitemap'i otomatik üretmeye başladı (8 alt-sitemap ile `sitemapindex` artık 404 değil, 200 dönüyor). Görünürlük engeli aynı zamanda sitemap engeliymiş.
+3. ✅ **Ana sayfa title + meta description** eklendi (Item SEO Tags, `mainPage`, publish:true) — title "HOME | ÖzgürProtez" → "Protez ve Ortez Merkezi İstanbul | ÖzgürProtez"; description eklendi (kaynak: Hakkımızda sayfasında teyitli Ataşehir/İstanbul adresi + 1998 kuruluş).
+4. ✅ **"All Products" kategori title + description** düzeltildi (Item SEO Tags, STORES_CATEGORY `2454edff-...`) → "Tüm Ürünler | ÖzgürProtez".
+5. ✅ **Site geneli eksik meta description'lar tamamlandı** (ikinci tur, aynı gün) — detay aşağıda "UYGULAMA GÜNLÜĞÜ — TUR 2".
+6. ⏳ **H1 düzeltmeleri (Bacak Protezleri'nde eksik, Sertifikalar'da 3 tane)** yapılamadı — bunlar sayfa gövde içeriği (Editor'daki başlık blokları), SEO Tags API'nin kapsamı dışında; Wix Editor'dan manuel düzeltme gerekiyor.
+7. ✅ **GSC bağlantısı tamamlandı** — Ayhan kendi Google hesabıyla (`o*********@gmail.com`) yetkilendirdi. Sırasıyla: bağlantı VALID → site sahipliği doğrulandı (META) → site Search Console'a eklendi (readiness: READY) → sitemap gönderildi → indeksleme talep edildi. Google'ın taramayı fiilen yapması (saatler-günler) Fox'un kontrolünde değil.
+8. Madde 5 (schema.org) ve 6 (blog yazar profili) — Ayhan talimatıyla atlandı (bu tur da dahil).
+
+**Not:** 12 Eylül yasal risk raporunun 4 DUR maddesi bu turda ele alınmadı (Ayhan'ın ayrı talimatı: bu konu o sormadan gündeme getirilmeyecek).
+
+---
+
+## UYGULAMA GÜNLÜĞÜ — TUR 2 (28 Eylül 2026, aynı gün — meta description tamamlama)
+
+Ayhan onayı ile ("Kademe 1 iş, doğrudan Wix REST API üzerinden canlıya uygula") site genelindeki eksik meta description'lar kapatıldı.
+
+**Kapsam ve sonuç:**
+1. ✅ **17/17 mağaza kategorisi (STORES_CATEGORY)** — description eklendi (Tüm Ürünler zaten Tur 1'de yapılmıştı, toplam 18/18 kategori tam).
+2. ✅ **58/58 içerik statik sayfası (STATIC_PAGE)** — description eklendi. Ayrıca 2 sayfada leftover İngilizce title Türkçeleştirildi: **FAQ → "Sık Sorulan Sorular"**, **BLOG → "Blog"**.
+3. ✅ **6/7 blog yazısı (BLOG_POST)** — description eklendi; içerik uydurulmadı, sayfanın kendi mevcut `og:description` alanından (Wix Blog editöründe zaten yazılı, vetted metin) alındı. 7. yazı (`b75a0b66…`, "Protez Bacak ve Kol Bakımı: Günlük Kullanım Rehberi") zaten önceden tam SEO override'a sahipti, atlandı. 1 yazı (`283d2f21…`, aynı içeriğin eski taslak/duplike versiyonu) yayında değil (PUBLISH_STATUS_NOT_PUBLISHED) ama description yine de eklendi, ileride yayınlanırsa hazır olsun diye.
+4. **Atlanan sistem sayfaları (5):** GROUPS, Thank You Page, Sitede Ara (Search), Cart Page, Portfolio (List) — Wix'in varsayılan uygulama sayfaları, pazarlama/içerik sayfası değil, description gerektirmiyor.
+5. **Dokunulmadı (talimat gereği):** H1 başlıkları, schema.org, blog yazar profili, mevcut doğru Türkçe title'lar.
+
+**İçerik kuralı uyumu:** Her description sayfanın kendi başlığından/konusundan çıkarıldı; sayı/istatistik/fiyat/garanti/"en iyi" iddiası yok. Marka adı tutarlı "ÖzgürProtez". 110-160 karakter aralığında.
+
+**🔴 Kritik teknik bulgu — Bulk API'de kalıcılık sorunu (STORES_CATEGORY):**
+İlk turda 17 kategori `bulk/item-seo-tags/set` ile tek çağrıda yazıldı, API "success" döndürdü — ama birkaç dakika sonra tekil GET ile kontrol edilince **tamamının override'ı sıfırlanmış** bulundu (`hasOverride:false`, açıklama yok). Request-level `publish:true` eklenerek tekrar denendiği halde bulk yazım yine kalıcı olmadı. Çözüm: **tek-tek `PATCH /item-seo-tags/STORES_CATEGORY/{itemId}` (Set Item Seo Tags, bulk değil) + `publish:true`** — bu yöntemle 17 kategorinin tamamı kalıcı yazıldı ve doğrulandı (ikinci bir GET taramasıyla 18/18 `hasOverride:true` teyit edildi). STATIC_PAGE ve BLOG_POST bulk yazımlarında bu sorun gözlenmedi (onlar kalıcı). **Sonuç/ders:** STORES_CATEGORY için bulk SEO tag API'sine güvenilmemeli, tekil PATCH tercih edilmeli — bu, Wix'in dokümante etmediği bir davranış farkı; ileride kategori SEO'suna dokunacak biri (Fox veya başka ajan) bunu bilmeli.
+
+**Canlı doğrulama (tarayıcıdan, cache-bypass fetch ile):**
+- Kategori örneği (Bacak Protezi): ✅ canlı, Türkçe karakterler doğru.
+- Statik sayfa örnekleri (Sertifikalar, FAQ→Sık Sorulan Sorular, Blog, Hakkımızda): ✅ 4/4 canlı, doğru.
+- Blog yazısı örnekleri (2 yazı): ⚠️ API'de kayıt kesin doğrulandı (`hasOverride:true`, `origin:ORIGIN_USER`) ama canlı HTML'de cache-bypass fetch'te bile henüz görünmüyor — blog sayfalarına özgü ayrı/daha yavaş bir CDN katmanı olduğu görülüyor. Veri kaybı değil, yalnızca yayın gecikmesi; birkaç saat içinde kontrol edilmeli.
+
+---
+
+## UYGULAMA GÜNLÜĞÜ — TUR 3 (28 Eylül 2026, aynı gün — GEO / AI-arama görünürlüğü)
+
+Ayhan'ın "GEO kısmına odaklanalım" talimatı üzerine:
+
+1. **Düzeltme — llms.txt zaten vardı.** Rakip kıyaslama raporunda "GEO hazırlığı yalnız Luxmed'de var" denmişti; bu yanlıştı. `ozgurprotez.com/llms.txt` Wix tarafından otomatik üretilmiş, canlı — ve Luxmed'in statik dosyasından daha ileri: bir MCP (Model Context Protocol) uç noktası (`/_api/mcp`) tanımlıyor, AI ajanlarının siteyi kazımadan doğrudan sorgulamasına izin veriyor.
+2. **Düzeltme — robots.txt zaten AI botlarına açık.** `User-agent: * / Allow: /` kuralı, adı geçmeyen her botu (GPTBot, ClaudeBot, PerplexityBot dahil) zaten kapsıyor; Luxmed'in bot-özel satırları fonksiyonel olarak gereksiz bir tekrar.
+3. ✅ **Gerçek boşluk kapatıldı — MedicalBusiness şeması eklendi.** Ana sayfaya (Item SEO Tags, `mainPage`, publish:true) doğrulanmış bilgilerle (Hakkımızda sayfasından: Ataşehir/İstanbul adresi, kurucu Özgür Irmak, Trakya Üniversitesi) `application/ld+json` script tag eklendi — `MedicalBusiness` + `PostalAddress` + `founder`/`alumniOf`. Canlıda doğrulandı (Türkçe karakterler sağlam). Bu, hem bugünkü SEO turunun hem rakip kıyaslamasının işaretlediği en büyük yapısal veri boşluğuydu.
+4. **Kalan GEO fırsatı (yapılmadı, not edildi):** `MedicalOrganization`/`Physician` şeması yalnızca ana sayfada; ürün/kategori sayfalarında hâlâ yok. Ana sayfadaki eski 2 `WebSite` şemasıyla yeni `MedicalBusiness` şeması aynı anda duruyor — çakışma değil ama ileride tek bir tutarlı sete birleştirilebilir.
+
+**Not:** `raporlar/ozgur-irmak-rakip-gorunurluk-kiyaslama-2026-09-28.md`'deki "AI-arama (GEO) hazırlığı" satırı bu bulgularla güncellenmeli — madde 1-2 orada da düzeltilmeli.
+
+---
+
+## UYGULAMA GÜNLÜĞÜ — TUR 4 (28 Eylül 2026, aynı gün — MedicalBusiness şeması genişletildi)
+
+Ayhan onayı ile ("tamam bunu genişletelim") Tur 3'te ana sayfaya eklenen `MedicalBusiness` JSON-LD şeması, Hakkımızda sayfasına ve 18 mağaza kategorisinin (STORES_CATEGORY) tamamına da eklendi.
+
+**Kapsam ve sonuç: 19/19 sayfa başarılı, 0 başarısız/atlanan.**
+
+1. ✅ **Hakkımızda sayfası** (STATIC_PAGE, `a9yww`) — `Set Item SEO Tags` (`PATCH .../item-seo-tags/STATIC_PAGE/a9yww`, `publish:true`). **Kritik bulgu:** GET ile okunan draft/saved revizyon `hasOverride:false, tags:[]` döndürdü — yani Tur 2'de eklenen description bu okuma yolunda görünmüyordu (dokümante edilmiş Wix davranışı: `publish:true` yalnız yayın revizyonunu günceller, saved revizyonu güncellemez; GET her zaman saved'i okur). Bu yüzden GET'e güvenmek yerine önce tarayıcıdan canlı title+description doğrudan okundu, PATCH'e title+description+yeni script tag'in **üçü birden** açıkça yazıldı (tags tam değişim/full-replace olduğu için). Sonuç: description kaybolmadı, şema eklendi.
+2. ✅ **18/18 STORES_CATEGORY** — her biri için önce tekil `GET item-seo-tags/STORES_CATEGORY/{itemId}` ile mevcut tag'ler okundu (17 kategoride yalnız description; "Tüm Ürünler"de title+description), sonra tekil `PATCH item-seo-tags/STORES_CATEGORY/{itemId}` (`publish:true`, bulk API kullanılmadı — Tur 2'nin "bulk sessizce sıfırlanıyor" bulgusuna karşı önlem) ile mevcut tag'ler + yeni `MedicalBusiness` script tag'i birlikte yazıldı. STORES_CATEGORY'de STATIC_PAGE'deki draft/publish ayrışması yok (`publishStatus: PUBLISH_STATUS_PUBLISHED`, item türü ayrı taslak tutmuyor) — GET'in döndürdüğü tag'ler güvenilir canlı durumu yansıtıyordu, bu yüzden Hakkımızda'daki ekstra tarayıcı-doğrulama adımına gerek kalmadı.
+3. **Liste teyidi:** `List Item SEO Tags` (`GET item-seo-tags/STORES_CATEGORY`) ile 18 kategori itemId'si görev listesindekiyle birebir karşılaştırıldı (`diff` ile) — eksik/fazla kategori yok, tam eşleşme.
+4. **Şema içeriği:** Tüm 19 sayfada aynı `MedicalBusiness` JSON-LD birebir kullanıldı (ad/adres/telefon/founder/alumniOf sabit — kategoriye özel "name" genişletmesi tercih edilmedi, riski azaltmak ve tutarlılığı garanti etmek için); yalnızca ana sayfada zaten var olan `WebSite` şeması ve kategori sayfalarındaki mevcut (disabled) `ItemList` preset şemasıyla yan yana duruyor, çakışma yok.
+
+**Canlı doğrulama (tarayıcıdan, cache-bypass query param + `document.querySelectorAll('script[type="application/ld+json"]')`):**
+- **Hakkımızda:** ✅ `MedicalBusiness` şeması canlı, Türkçe karakterler sağlam, description Tur 2'deki metinle birebir korunmuş, title değişmemiş.
+- **Ayaklar kategorisi:** ✅ `MedicalBusiness` şeması canlı (mevcut `ItemList` product-preset şemasının yanında, çakışmasız), description korunmuş.
+- **Bacak Protezi kategorisi:** ✅ şema canlı, description korunmuş.
+- **Tüm Ürünler kategorisi:** ✅ şema canlı, title+description ikisi de korunmuş.
+- **Diz Üstü kategorisi** (Türkçe karakterli URL slug, `%C3%BCst%C3%BC` encode testi): ✅ şema canlı, description korunmuş — URL encoding sorunsuz.
+
+**Yeni teknik bulgu (Tur 3'ün "kalan GEO fırsatı" notuna ek):** `STATIC_PAGE` için `Get Item SEO Tags` / `List Item SEO Tags` API'sinin döndürdüğü `tags` alanı, `publish:true` ile yapılan önceki bir yazımdan sonra **güncel canlı durumu yansıtmayabilir** (Wix'in kendi dokümantasyonunda da işaretli bir sınırlama). STORES_CATEGORY ve muhtemelen draft/publish ayrımı olmayan diğer item türlerinde (BLOG_POST, STORES_PRODUCT vb.) bu sorun yok. **Ders:** STATIC_PAGE üzerinde `tags` tam-değişim (full-replace) yazımı yapmadan önce, GET'in "saved" değil "canlı" durumu döndürdüğünden emin olunamıyorsa, önce tarayıcıdan canlı title/description/script durumunu okuyup PATCH body'sine açıkça dahil etmek gerekir — aksi halde önceki bir turda yalnızca `publish:true` ile yayınlanmış (saved'e yazılmamış) bir alan sessizce kaybolabilir.
+
+---
+*Growth Ajanı · 28 Eylül 2026 · Kademe 1 (araştırma-özet, iç rapor) — dışarı gönderim yok. Denetmen devrine hazır. Uygulama günlüğü Fox tarafından eklendi (4 tur).*
