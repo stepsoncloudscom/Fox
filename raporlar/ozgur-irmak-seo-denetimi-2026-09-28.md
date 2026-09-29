@@ -228,4 +228,20 @@ Ayhan onayı ile ("tamam bunu genişletelim") Tur 3'te ana sayfaya eklenen `Medi
 **Yeni teknik bulgu (Tur 3'ün "kalan GEO fırsatı" notuna ek):** `STATIC_PAGE` için `Get Item SEO Tags` / `List Item SEO Tags` API'sinin döndürdüğü `tags` alanı, `publish:true` ile yapılan önceki bir yazımdan sonra **güncel canlı durumu yansıtmayabilir** (Wix'in kendi dokümantasyonunda da işaretli bir sınırlama). STORES_CATEGORY ve muhtemelen draft/publish ayrımı olmayan diğer item türlerinde (BLOG_POST, STORES_PRODUCT vb.) bu sorun yok. **Ders:** STATIC_PAGE üzerinde `tags` tam-değişim (full-replace) yazımı yapmadan önce, GET'in "saved" değil "canlı" durumu döndürdüğünden emin olunamıyorsa, önce tarayıcıdan canlı title/description/script durumunu okuyup PATCH body'sine açıkça dahil etmek gerekir — aksi halde önceki bir turda yalnızca `publish:true` ile yayınlanmış (saved'e yazılmamış) bir alan sessizce kaybolabilir.
 
 ---
-*Growth Ajanı · 28 Eylül 2026 · Kademe 1 (araştırma-özet, iç rapor) — dışarı gönderim yok. Denetmen devrine hazır. Uygulama günlüğü Fox tarafından eklendi (4 tur).*
+
+## UYGULAMA GÜNLÜĞÜ — TUR 5 (29 Eylül 2026 — ürün sayfaları meta description)
+
+Ayhan onayı ("ürün sayfaları", 29 Eylül 2026) ile 115 STORES_PRODUCT sayfasının eksik meta description'ları tamamlandı. Kademe 1, doğrudan Wix REST API üzerinden canlıya uygulandı.
+
+**Kapsam ve sonuç: 115/115 ürün başarılı, 0 başarısız/atlanan.**
+
+1. **Envanter:** `Stores v3 search` (`fields: ["PLAIN_DESCRIPTION"]`) ile tüm katalog `paging.limit=15` sayfalarla okundu (8 parti, toplam 115 kayıt — benzersiz ID doğrulandı). Title tag'leri ayrıca `item-seo-tags/STORES_PRODUCT` üzerinden örneklem GET ile kontrol edildi: **14 Eylül'deki marka-temizliği ve çakışan-ad ayrıştırması sonrası tüm ürün adları zaten temiz** — bu turda title'a dokunulmadı, yalnızca description eklendi.
+2. **Meta description üretimi:** Her ürünün kendi `plainDescription`'ından türetilen, 110-160 karakter aralığında, cümle sınırında biten, marka adı sızıntısı taramasından geçmiş (Ottobock/Össur/Iceross/Unity/Axon/Michelangelo/bebionic/Genium/Kenevo/Taleo/Limb/Driver/Cockpit/MyModes/GripLock/Rheo/Navii/Flex-Run/Sprinter/ProFlex/Walkon vb. — sıfır sızıntı) açıklamalar hazırlandı. 14 kayıtta otomatik üretim yetersiz kaldı ve elle düzeltildi (8'i yarım cümle/noktalı virgülle bitiyordu, 6'sı 110 karakterin altında kalıyordu) — hepsi aynı kaynak-doğru ilkeyle (üründen türetilmiş, uydurma sıfır) tamamlandı.
+3. **Yazım yöntemi — bulk API STORES_PRODUCT için de güvenilmez (yeni teknik bulgu):** 5 ürünlük bir bulk-set testi (`POST /bulk/item-seo-tags/set`) anlık yanıtta `totalSuccesses:5, hasOverride:true` döndürdü; birkaç dakika sonra tekil `GET` ile iki kaydı yeniden kontrol edince `hasOverride:false, tags:[]` bulundu — yazım sessizce sıfırlanmıştı. Bu, Tur 2'de STORES_CATEGORY'de dokümante edilen bulguyla birebir aynı örüntü; artık **STORES_PRODUCT için de bulk API'nin canlıya güvenle yazmadığı doğrulanmış** oldu. Kalan 110 ürün tekil `PATCH item-seo-tags/STORES_PRODUCT/{itemId}` (`fieldMask:"tags"`, `publish:true`) ile yazıldı — her biri anlık yanıtta `hasOverride:true` + `resolvedTags` içinde `TAG_SOURCE_ITEM`/`origin:"ORIGIN_USER"` ile doğrulandı.
+4. **Kapsam sınırı — dokunulmadı:** `Product`/`Offer` JSON-LD şemasındaki price/availability alanlarına hiçbir aşamada dokunulmadı, değişiklik önerilmedi; yalnızca `meta name="description"` tag'i eklendi/güncellendi.
+5. **Marka-kalıntısı bulgusu (ürün adı düzeyinde):** Tarama sırasında hiçbir ürün adında üretici marka/model kalıntısı görülmedi (14 Eylül temizliği kalıcı). Slug ve SKU alanlarındaki bilinen kalıntı (14 Eylül raporu §4'te zaten belgeli — image filename/slug/SKU üretici model kodu taşıyor) bu turda tekrar doğrulandı ama kapsam dışı bırakıldı, yeniden işlenmedi.
+
+**Canlı doğrulama:** Son 10 kayıt dahil tüm 115 `PATCH` yanıtı inline kontrol edildi; her birinde yeni description hem `tags` override dizisinde hem `resolvedTags`'te `source: TAG_SOURCE_ITEM` olarak göründü, `publishStatus: PUBLISH_STATUS_PUBLISHED`.
+
+---
+*Growth Ajanı · 29 Eylül 2026 · Kademe 1 (doğrudan uygulama, Ayhan onaylı) — dışarı gönderim yok. Denetmen devrine hazır. Uygulama günlüğü Fox tarafından eklendi (5 tur).*
