@@ -47,29 +47,28 @@ Destekleyici: moda-yerli metodoloji (segment, DTC-toptan dengesi, fiyat mimarisi
 ## 6 · KANIT
 **Dürüst durum (`marka-bulutu-os-urun-tanimi.md` §5):** Ölçülebilir marka etkisi (Kanıt Kartı) **henüz hiçbir müşteride kapanmadı** — Tip A delta yok. Bugün kanıtlanan: çalışan maker-checker zinciri (Özgür Protez 4-ajan, her halka bir öncekinin açığını yakaladı), uyum-by-design (TİTCK/YMYL). **Bugün satılan şey "süreç ve uyum kalitesi" — "şu kadar büyüttük" değil.**
 
-**Portföy (Moda paketi §1.4 — hâlâ [TEYİT] bekliyor):** Vakko Esmod kökeni · Hummel/DeFacto kampanya deneyimi · editorial işler · Össur global film. Doğrulanmadan ve (Össur için) gösterim izni alınmadan pitch'in merkezine konmaz.
+**Portföy (Ayhan teyit etti, 6 Ekim 2026):** Vakko Esmod kökeni · Hummel/DeFacto kampanya deneyimi · editorial işler — hepsi **gösterilebilir**. Össur global film (ticari iş) — **showcase izniyle kullanılabilir.**
 
-## 7 · FİYATLAMA MODELİ
-**[AYHAN]** — Fox rakam koymaz. Mantık kurulu (Moda paketi §3.1): çapa + katmanlı erişim, aylık retainer = tekrarlayan gelir, değer-temelli (saat değil), indirim yok (kademe yukarı taşı), kapsam yazılı. **Rakam (3 kademe TL/döviz bandı) Ayhan'dan bekleniyor** — aşağıdaki Açık Girdiler'de.
+## 7 · FİYATLAMA MODELİ (Ayhan onayladı, 6 Ekim 2026)
+Mantık (Moda paketi §3.1): çapa + katmanlı erişim, aylık retainer = tekrarlayan gelir, değer-temelli (saat değil), indirim yok (kademe yukarı taşı), kapsam yazılı.
+
+| Kademe | Fiyat | İçerik Hacmi |
+|---|---|---|
+| **Temel** | 200.000 TL/ay | — (1 lansman içerik seti, tek seferlik) |
+| **Büyüme** | 300.000 TL/ay | Ayda 20 içerik parçası |
+| **Departman** | 500.000 TL/ay | Ayda 20 içerik parçası + dört halka tam öncelik |
+
+**Prodüksiyon (dış tedarik):** Ayhan yönetir + markup ekler; tedarikçi hatasından sözleşmesel sorumluluk tamamen Ayhan'da — marka tedarikçiyle doğrudan muhatap olmaz.
 
 ## 8 · PITCH'LER
-Tam metin (açılış/talep/bağlam/seçenek/öneri/termin/kapanış) → `raporlar/mbos-moda-edisyonu-satis-paketi-v0.md` Bölüm 2. Burada tekrarlanmaz — tek kaynak doğruluk bozulmasın.
-
-Kısa özet: Açılış kategori çerçevesiyle ("pazarlama yönü + görsel dil ayrı yerlerden geliyor, ben sentezliyorum"), Karar Formülü'yle devam eder, kapanış "tek gerçek fark" (On Running mantığı) ile biter.
+Tam metin (açılış/talep/bağlam/seçenek/öneri/termin/kapanış) → `raporlar/mbos-moda-edisyonu-satis-paketi-v0.md` Bölüm 2. Burada tekrarlanmaz — tek kaynak doğruluk bozulmasın. Termin: **İlkbahar-Yaz 2027 sezonu.**
 
 ---
 
-## AÇIK GİRDİLER (Ayhan — aynı 6 madde hem bu dosyayı hem Moda paketini tamamlıyor)
-*Moda Edisyonu Satış Paketi EK B'den — tekrar sorulmuyor, konsolide ediliyor.*
+## AÇIK GİRDİLER — ✅ TAMAMLANDI (6 Ekim 2026)
+*Moda Edisyonu Satış Paketi EK B ile birlikte kapandı. Sonuçlar §6-8'e işlendi.*
 
-| # | Girdi | Olmadan ne eksik |
-|---|---|---|
-| 1 | Fiyat bandı (Temel/Büyüme/Departman, TL ve/veya döviz) | §7 boş kalır, teklif iskeleti çalışmaz |
-| 2 | Portföy teyidi + gösterim izni (özellikle Össur) | §6 kanıt zayıf, "iddia" var "kanıt" yok |
-| 3 | Başlangıç termini | Pitch'in Termin adımı boş |
-| 4 | İçerik hacmi tanımı (Büyüme/Departman, aylık adet) | Kapsam belirsiz, kayma riski |
-| 5 | Kademe isimleri onayı ("Temel/Büyüme/Departman" uygun mu) | §5 taslak kalır |
-| 6 | Prodüksiyon kalemleme + sorumluluk modeli (markup/maliyet-geçiş, tedarikçi hatasından kim sorumlu) | Büyüme/Departman imzaya gidemez |
+**Sıradaki adım:** Bu rakam/izinlerle belge artık gerçek içerik taşıyor — müşteriye gitmeden önce `raporlar/mbos-moda-edisyonu-satis-paketi-v0.md` **Denetmen re-check** gerektirir (önceki onay rakamsız sürüme verilmişti).
 
 ---
 

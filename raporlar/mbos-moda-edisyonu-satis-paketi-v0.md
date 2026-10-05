@@ -1,8 +1,8 @@
 # Marka Bulutu OS — Moda Edisyonu · Satış-Yüzü Paketi
 *Emerging/DTC moda markalarına satış için. Üç bölüm: Konumlandırma · Pitch · Teklif İskeleti.*
 
-**Sürüm:** v1 (taslak) · **20 Haziran 2026** · Hazırlayan: Strateji Ajanı (Fox filosu) · Denetmen KOŞULLU ONAY (7 bulgu) → Fox düzeltme uyguladı; Ayhan Bulgu 3 kararı: Temel + görünür çıktı
-**Statü:** ⚠️ v1 — Denetmen re-check + Ayhan girdisi (fiyat + portföy/Össur gösterim izni + termin) bekliyor — müşteriye gitmeden önce.
+**Sürüm:** v2 · **20 Haziran 2026 (v1) → 6 Ekim 2026 (v2, Ayhan girdileriyle tamamlandı)** · Hazırlayan: Strateji Ajanı (Fox filosu) · Denetmen KOŞULLU ONAY (7 bulgu) → Fox düzeltme uyguladı; Ayhan Bulgu 3 kararı: Temel + görünür çıktı
+**Statü:** ✅ EK B'nin 6 girdisi de alındı (fiyat, portföy/Össur izni, termin, içerik hacmi, kademe isim onayı, prodüksiyon sorumluluk). **Müşteriye gitmeden önce Denetmen re-check gerekir** (gerçek rakam/izin girdikten sonraki zorunlu adım — aşağıdaki EK B artık "kapandı" olarak işaretli, ama onay yeniden koşmadı).
 **Register:** "Ayhan Erden" (iş / salt yaratıcı güç). Misyon/ampüte ekseni bu pakette YOK.
 
 > **Kaynak disiplini (CLAUDE.md §11.5 + Rubrik §0.1):** Bu belgede hiçbir fiyat, oran ya da sonuç uydurulmamıştır. Sektör birim-ekonomisi rakamları yalnızca `marka-bulutu-os-moda-sektor-bagi.md`'den kaynak gösterilerek alıntılanmıştır. Belirli bir markaya ait "şu kadar büyütürüz" türü sayısal vaat YOKTUR — markanın gerçek verisi olmadan niteliksel konuşulur.
@@ -78,12 +78,11 @@ Bir DTC moda markası bugün şu seçeneklerden birini yapıyor:
 
 **ICP olmayan (net dışarıda):** köklü lüks evler (Hermès tipi — kendi içlerinde halledilir), saf mass/fast-fashion (etik+marj modeli uymaz), TL-only + nakit akışı zayıf mikro markalar (retainer oturmaz — ikincil).
 
-## 1.4 Portföy / Kanıt Zemini — [TEYİT GEREKLİ — Ayhan]
-> Aşağıdaki kanıt zemini Ayhan'ın teyidini bekliyor. Doğrulanmadan pitch'in merkezine konmaz (Luxmed dersi: doğrulanmamış yetenek = kaldıraç değil, hipotez).
-- Vakko Esmod kökeni (moda eğitimi zemini) — **[TEYİT]**
-- Hummel / DeFacto kampanya deneyimi — **[TEYİT]**
-- Editorial işler — **[TEYİT + örnek/görsel link]**
-- Össur global film — **[TEYİT + kullanım izni]**
+## 1.4 Portföy / Kanıt Zemini — Ayhan teyit etti (6 Ekim 2026)
+- Vakko Esmod kökeni (moda eğitimi zemini) — **✅ gösterilebilir**
+- Hummel / DeFacto kampanya deneyimi — **✅ gösterilebilir**
+- Editorial işler — **✅ gösterilebilir** (örnek/görsel link ayrıca Branding'den istenir)
+- Össur global film — **✅ kullanılabilir** (showcase izni var — ticari iş olmasına rağmen Ayhan onayladı)
 
 **Not:** Bu portföy "salt yaratıcı güç" register'ında sunulur — moda/reklam/editorial yetkinliğin kanıtı olarak. Ampüte/misyon bağlamı bu pakette öne çıkmaz (gizlenmez ama satış ekseni değil — CLAUDE.md §8/§9).
 
@@ -117,12 +116,12 @@ Emerging bir markanın en kırılgan anı, marka kimliği oturmadan içerik ve r
 Çoğu emerging marka için **Seçenek 1 (Temel) ile başlamayı** öneriyorum: önce yönü ve görsel dili oturtalım, ilk 90 günde somut çıktıyı görün — sonra hacme (Seçenek 2) doğal olarak geçeriz. Zemin sağlam olmadan içerik üretmek, eğri temele kat çıkmaktır.
 
 ### Termin (ne zaman + neden)
-Yeni sezon/kampanya takviminize yetişmesi için başlangıcı **[Ayhan tarih verir]**'e kadar netleştirmemiz ideal; yaratıcı zemin işi birkaç hafta sürer ve sezon çıkışından önce hazır olması gerekir.
+**İlkbahar-Yaz 2027 sezonuna** yetişmesi için başlangıcı buna göre netleştirmemiz ideal; yaratıcı zemin işi birkaç hafta sürer ve sezon çıkışından önce hazır olması gerekir.
 
 ### Neden ben / neden bu sistem (kapanış — On Running mantığı)
 Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu.** Ajanslar insan ama yavaş ve pahalı; AI araçları hızlı ama yönsüz. Ben ikisini birleştiriyorum — yaratıcı kararı ve markanın imzasını ben veriyorum, departman hacmini AI ekibim üretiyor, her çıktı bir kalite kapısından geçiyor. Markanız beş ayrı muhatapla değil, tek bir yaratıcı yönle çalışır. Şunu da net söyleyeyim: **AI hacmi üretir, ama her yaratıcı karar ve markanızın imzası insandan — benden — çıkar. AI ekibim değil, ben yönetiyorum.**
 
-*[Portföy teyit edilince buraya 1-2 cümle somut kanıt eklenir — Vakko Esmod kökeni / Hummel-DeFacto / editorial / global film.]*
+*Somut kanıt (portföy teyit edildi, 6 Ekim 2026): Vakko Esmod kökenli moda eğitimi, Hummel ve DeFacto kampanya deneyimi, editorial işler ve Össur için üretilmiş global film — aynı yaratıcı yön, farklı ölçeklerde, hep tek elden.*
 
 ---
 
@@ -160,7 +159,7 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 | **Çıktı odağı** | Marka yönü + kimlik (brand book) + 1 lansman içerik seti | Sürekli içerik + görünürlük | Tam yaratıcı pazarlama departmanı |
 | **Dört acıdan** | 1, 4 + 3'e ilk dokunuş (lansman seti) | 1-4 (tamamı) | 1-4 + ölçek + optimizasyon |
 | **Model** | Aylık retainer | Aylık retainer | Aylık retainer (en yüksek devam) |
-| **Fiyat** | `[Ayhan — düşük giriş bandı]` | `[Ayhan — orta bant]` | `[Ayhan — üst bant/çapa]` |
+| **Fiyat** | **200.000 TL/ay** | **300.000 TL/ay** | **500.000 TL/ay** |
 
 **Her kademede ortak (tüm paketlerde):**
 - Tek yaratıcı muhatap: Ayhan (CMM).
@@ -174,14 +173,16 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 **Dahil değil:** Sürekli içerik üretimi, reklam/growth yürütme, kampanya operasyonu. → Bunlar Büyüme/Departman'da.
 
 ### BÜYÜME
-**Dahil:** Temel'in tamamı + sürekli içerik (editorial + UGC yönü/üretimi, aylık içerik hacmi `[adet → Ayhan/Branding netleştirir]`) + görünürlük (görsel AI araması/GEO, product schema, kanal disiplini).
+**Dahil:** Temel'in tamamı + sürekli içerik (editorial + UGC yönü/üretimi, **aylık 20 içerik parçası**) + görünürlük (görsel AI araması/GEO, product schema, kanal disiplini).
 **Dahil değil:** Reklam harcaması (ad spend — markaya ait, ayrı) · ürün fotoğraf çekimi prodüksiyon maliyeti (dış tedarik — `execution outsource`, ayrı kalemlenir) · web sitesi/e-ticaret altyapı geliştirme.
 
 ### DEPARTMAN
-**Dahil:** Dört halkanın tam ve sürekli işleyişi + öncelik + sürekli optimizasyon.
+**Dahil:** Dört halkanın tam ve sürekli işleyişi + öncelik + sürekli optimizasyon + **aylık 20 içerik parçası** (Büyüme ile aynı hacim — fark hacimde değil, dört halkanın eşzamanlı/öncelikli işleyişinde).
 **Dahil değil:** Yine reklam harcaması, fiziksel prodüksiyon maliyetleri, üçüncü-taraf araç/lisans ücretleri (markaya ait) — bunlar her kademede müşteriye ait, şeffaf ayrı kalemlenir.
 
 > **Strateji in-house, execution outsource ilkesi (Strateji Ajanı çekirdeği):** Yaratıcı yön + sistem çıktısı bizde; çekim/kurgu/fiziksel prodüksiyon/operasyon dış tedarik ve ayrı kalemlenir. Angarya kapısı kapalı.
+>
+> **Prodüksiyon sorumluluk modeli (Ayhan onayı, 6 Ekim 2026):** Dış tedarikçi (çekim/kurgu vb.) Ayhan tarafından yönetilir ve markup eklenir — markaya maliyet-geçiş olarak değil, Ayhan'ın yönettiği bir kalem olarak sunulur. **Tedarikçi hatasından sözleşmesel sorumluluk tamamen Ayhan'dadır** — marka tedarikçiyle doğrudan muhatap olmaz.
 
 ## 3.4 Geçiş & Büyütme Mantığı (land-and-expand)
 - Marka Temel'le başlar → ilk 90 günde somut çıktıyı görür → Büyüme'ye geçer → Departman'a ölçeklenir.
@@ -199,23 +200,25 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 3. **ICP = emerging/DTC** (contemporary–premium bandı). Lüks/established ve saf mass dışarıda. Bu varsayım pitch tonunu (kısa, hızlı karar, erişilebilir bütçe) belirledi.
 4. **3-kademe yapısı çapa mimarisine uygun** ve Ayhan'ın iş modeline oturuyor. Kademe sayısı/isimleri Ayhan'ın tercihiyle değişebilir.
 5. **AI görünür konumlandırma onaylı** — "AI-destekli creative marketing departmanı" dili müşteriye açık söylenir.
-6. **Portföy gerçek ama teyitsiz** — Vakko Esmod/Hummel-DeFacto/editorial/Össur film henüz [TEYİT] etiketli; doğrulanana dek pitch merkezine konmadı.
+6. **Portföy teyit edildi (6 Ekim 2026)** — Vakko Esmod/Hummel-DeFacto/editorial/Össur film doğrulandı ve gösterim izni (Össur dahil) onaylandı; artık pitch merkezinde kullanılabilir.
 7. **Retainer modeli markaya uygun** — emerging markaların aylık devam geliri ödeyebilecek nakit akışı olduğu varsayıldı (ICP filtresi bunu zaten süzüyor).
 8. **Sektör benchmarkları sektör geneli** (LTV:CAC ≥3:1, iade ~%30, brüt marj %45-55 — moda-sektor-bagi B.2). Bunlar müşteri-spesifik değil; markanın gerçek verisi geldiğinde Tip A'ya (ölçülmüş) taşınır (Rubrik §0.1).
 
 ---
 
-# EK B — AYHAN'DAN GEREKEN NET GİRDİLER
+# EK B — AYHAN'DAN GEREKEN NET GİRDİLER — ✅ TAMAMLANDI (6 Ekim 2026)
 *Belge müşteriye gitmeden bunlar tamamlanmalı. Karar Formülü: her biri net talep.*
 
-| # | Girdi | Neden gerekli | Olmadan ne eksik |
-|---|---|---|---|
-| 1 | **Fiyat bandı (3 kademe)** — TL ve/veya döviz | §11.5: rakam uydurulamaz; çapa mimarisi rakamsız çalışmaz | Teklif iskeleti rakamsız — müşteriye gidemez |
-| 2 | **Portföy teyidi + gösterim HAKKI** — 4 kalem hangisi gerçek + **hangisini portföyde gösterme iznin/hakkın var (özellikle Össur ticari işi — showcase izni)** + örnek/link | "Neden ben" kanıtı; ticari müşteri işini izinsiz göstermek Össur ilişkisini riske atar (moda-sektor-bagi C.4) | Pitch kapanışı kanıtsız + IP riski |
-| 3 | **Başlangıç termini** — pitch'teki "[tarih]" | Karar Formülü termin adımı; sezon takvimine bağlanır | Pitch'te boşluk |
-| 4 | **İçerik hacmi tanımı** — Büyüme/Departman'da aylık içerik adedi | Kapsam netliği (§11.3); scope creep kapısı | Kapsam belirsiz, kayma riski |
-| 5 | **Kademe isimleri/sayısı onayı** — "Temel/Büyüme/Departman" uygun mu | İsimlendirme Ayhan'ın tercihine açık | Yapı taslak kalır |
-| 6 | **Prodüksiyon kalemleme + sorumluluk** — dış tedarik nasıl fiyatlanacak (markup/maliyet+/marka kendi mi bulur) **+ sorumluluk modeli (tedarikçi hatasından Ayhan sözleşmesel sorumlu mu, yoksa tedarikçi markayla doğrudan mı) + şeffaflık (markup mı maliyet-geçiş mi, müşteriye beyan)** | "execution outsource"un ticari + hukuki karşılığı (moda-sektor-bagi C.2) | Büyüme/Departman imzaya gidemez |
+| # | Girdi | Sonuç |
+|---|---|---|
+| 1 | Fiyat bandı (3 kademe) | **Temel 200.000 TL/ay · Büyüme 300.000 TL/ay · Departman 500.000 TL/ay** |
+| 2 | Portföy teyidi + gösterim hakkı | Vakko Esmod, Hummel/DeFacto, editorial **gösterilebilir**; **Össur showcase izniyle kullanılabilir** |
+| 3 | Başlangıç termini | **İlkbahar-Yaz 2027 sezonu** |
+| 4 | İçerik hacmi (Büyüme/Departman) | **Ayda 20 içerik parçası**, iki kademede de aynı |
+| 5 | Kademe isimleri onayı | **"Temel/Büyüme/Departman" olarak kalıyor** |
+| 6 | Prodüksiyon kalemleme + sorumluluk | **Ayhan yönetir + markup ekler; tedarikçi hatasından sözleşmesel sorumluluk tamamen Ayhan'da** |
+
+**Sıradaki adım:** gerçek rakam/izin girdikten sonra bu belge **Denetmen re-check** gerektirir (önceki onay rakamsız/portföysüz hale verilmişti) — müşteriye gitmeden önce.
 
 ---
 
@@ -225,10 +228,12 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 - **Bölüm 1 (Konumlandırma):** En sağlam. Dunford 5 bileşen tam; rekabet alternatifleri (4 seçenek) ve boşluk net adlandırıldı; kategori yeniden-çerçevelemesi ("ajans değil, kadro değil, araç değil — dış kaynaklı yaratıcı departman") güçlü. Ayhan'ın tek cümlesi konumlandırmanın kalbine doğru yerleşti.
 - **Bölüm 2 (Pitch):** Karar Formülü iskeleti temiz, kısa, karar-tetikleyici (nakit aciliyetine uygun). On Running mantığı ("tek gerçek fark") kapanışta net. Sayısal vaat tuzağına düşmedi.
 
-**Ayhan girdisi / Branding olmadan eksik kalan:**
-- **Bölüm 3 (Teklif):** İskelet sağlam ama **rakamsız olduğu için yarım** — çapa mimarisi rakam olmadan müşteride çalışmaz. Fiyat bandı (Ayhan, Girdi 1) gelmeden tamamlanamaz.
-- **Pitch kapanışı:** Portföy teyidi (Girdi 2) gelmeden kanıt katmanı zayıf — şu an "yetkinlik iddiası" var, "kanıt" yok.
-- **Görsel kimlik vaadi (Branding halkası):** Bu belge "lüks/premium kod" diyor ama bunu görsel olarak gösteren bir örnek/moodboard yok. **Branding Ajanı**, satış paketine 1-2 görsel kanıt (sembolik moodboard / kademe görsel dili) üretirse pitch'in "görsel dil" vaadi kendi içinde kanıtlanmış olur — şu an vaat sözle, gösterimle değil. *(Render-and-review standardı: marka-bulutu-os-gorsel-uretim-standardi.md.)*
+**Ayhan girdisiyle kapanan (6 Ekim 2026):**
+- **Bölüm 3 (Teklif):** Fiyat bandı girdi (200K/300K/500K TL/ay) — artık rakamlı, çapa mimarisi tam çalışır durumda.
+- **Pitch kapanışı:** Portföy teyidi + Össur izni girdi — artık "yetkinlik iddiası" değil "kanıt" var.
+
+**Hâlâ eksik (Branding olmadan):**
+- **Görsel kimlik vaadi:** Bu belge "lüks/premium kod" diyor ama bunu görsel olarak gösteren bir örnek/moodboard yok. **Branding Ajanı**, satış paketine 1-2 görsel kanıt (sembolik moodboard / kademe görsel dili) üretirse pitch'in "görsel dil" vaadi kendi içinde kanıtlanmış olur — şu an vaat sözle, gösterimle değil. *(Render-and-review standardı: marka-bulutu-os-gorsel-uretim-standardi.md.)*
 
 **En büyük risk (aşağıda özetlendi).**
 
@@ -238,4 +243,4 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 Bu bir **ürün satış paketi**, belirli bir müşteri stratejisi değil. Puanlama Rubriği Bölüm 3 skoru müşteri-spesifik strateji belgesi için tasarlandı; burada müşteri verisi (ICP'nin gerçek markası, rekabet haritası verisi, AARRR benchmark hedefi) yok. Rubrik §0.1 mantığıyla: **Tip A (ölçülmüş) veri olmadığından sayısal skor sahte kesinlik olurdu.** İlk gerçek emerging marka müşterisi için strateji üretildiğinde tam Olgunluk Skoru verilecektir.
 
 ---
-*Marka Bulutu OS — Moda Edisyonu Satış Paketi v1 · 20 Haziran 2026 · Strateji Ajanı + Fox düzeltme · Denetmen re-check ONAY (7/7 bulgu kapandı) · Ayhan girdisi bekliyor · Yaşayan taslak.*
+*Marka Bulutu OS — Moda Edisyonu Satış Paketi v2 · 20 Haziran 2026 (v1) → 6 Ekim 2026 (v2) · Strateji Ajanı + Fox düzeltme · Denetmen ilk onay (7/7 bulgu kapandı, rakamsız sürüm) · EK B'nin 6 girdisi tamamlandı · **Müşteriye gitmeden Denetmen re-check gerekir** (gerçek rakam/izin girdikten sonraki zorunlu adım) · Yaşayan taslak.*
