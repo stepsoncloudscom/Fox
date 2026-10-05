@@ -62,4 +62,20 @@ Corey'nin dehası: `product-marketing` skill'i tek bir **context belgesi** oluş
 Corey reposu en temiz senaryo: markdown skills + JSON manifest + zararsız validate scriptleri. Kod çalıştırma/veri sızdırma yok. `curl|bash` yok. /tmp'de incelendi. Plugin olarak kurulması da değerlendirilebilir (resmi format) — ama önce bizim uyarlamamız.
 
 ---
-*Sürüm: v2 · 4 Haziran 2026 · Fox · Corey Haines birincil, zubair ikincil.*
+
+## 6 EKİM 2026 TARAMASI — gstack + Corey Haines + yeni ajans fork'u
+
+**gstack (garrytan/gstack):** v1.5x'ten v1.91'e sıçramış ama tamamen SWE/CI/eval mühendisliğine dönüşmüş (test suite, release gate, browser cookie import vb.) — bize transfer edilebilecek yeni bir "içerik kalitesi/mimari" dersi yok. `fox-gstack-ogrenim.md`'deki 4 bekleyen madde (skeleton+sections, LEARNINGS JSONL, slop-scan script, grain texture) hâlâ geçerli ve hâlâ uygulanmadı.
+
+**coreyhaines31/marketingskills:** v2.0'a geçmiş (17 skill yeniden adlandırıldı, page-cro+form-cro → cro birleşti — bizim mevcut ajan eşlemelerini bozmaz, biz adları değil kavramları aldık). **7 yeni skill** eklenmiş, hiçbiri triyaj edilmedi: `attribution`, `events`, `influencer-marketing`, `marketing-council`, `marketing-loops`, `offers`, `public-relations`.
+
+**YENİ BULGU — SidekicksStudio/marketing-agency-in-a-box:** Corey'nin reposunun ajans-özel fork'u. Doğrudan bizim bilinen boşluklarımıza değen **13 yeni skill**:
+- **Ajans işletmesi:** `agency-positioning`, `agency-proposal`, `case-study`, `client-contract`, `client-offboarding`, `client-reporting` — Pipeline Ajanı (hâlâ taslak) ve kanıt-üçgeni/case-study boşluğuyla doğrudan örtüşüyor.
+- **Client lifecycle:** `client-context`, `client-intake` — bizim Kurumsal Kimlik Keşif Sorgusu + Müşteri Marka Context'in muadili, karşılaştırmaya değer.
+- **Creator/influencer (yeni kategori, bizde yok):** `creator-brief`, `creator-contract`, `creator-discovery`, `creator-outreach`, `creator-reporting`, `creator-vetting` — moda pivotu (birincil strateji) için TikTok/IG influencer iş akışı sağlıyor.
+- Ayrıca: `reddit-outreach` (niş, düşük öncelik).
+
+**Triyaj önerisi (Ayhan onayı bekliyor):** `case-study`, `client-offboarding`, `agency-positioning`/`agency-proposal` öncelikli — bilinen boşlukları dolduruyor ve Pipeline Ajanı tartışmasına girdi. `creator-*` bloğu moda pivotuna bağlı ayrı değerlendirme. `client-context`/`client-intake` mevcut şablonlarla karşılaştırılıp fark varsa alınacak.
+
+---
+*Sürüm: v2 · 4 Haziran 2026 · Fox · Corey Haines birincil, zubair ikincil. · 6 Ekim 2026 taraması eklendi — triyaj Ayhan onayı bekliyor.*
