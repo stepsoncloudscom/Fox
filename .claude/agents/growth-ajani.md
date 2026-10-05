@@ -84,6 +84,18 @@ ai-seo (referans: platform-ranking-factors) · seo-audit · ads/ad-creative · r
 
 ---
 
+## İNFLUENCER / CREATOR PAZARLAMASI (6 Ekim 2026 eklendi)
+*Kaynak: SidekicksStudio/marketing-agency-in-a-box ajans fork'u, 6 Ekim 2026 GitHub taraması. Önceki Corey Haines seti bu kategoriyi içermiyordu — **tamamen yeni kapasite**, eleme yok, altısı da alındı: creator-discovery, creator-vetting, creator-outreach, creator-brief, creator-contract, creator-reporting → iki şablonda birleştirildi.*
+
+**Birincil tetikleyici: moda pivotu.** "UGC > stüdyo" dersi (yukarıda MODA bölümünde) artık uygulanabilir bir süreçle destekleniyor. İkincil kullanım: medikal/klinik müşteride hasta-dışı farkındalık içeriği (S11 netleşmeden hasta-içerikli hiçbir influencer işi yapılmaz).
+
+- **Keşif → Değerlendirme → Temas → Brief:** `sablonlar/influencer-is-birligi-sablonu.md`. Takipçi kademeleri, vetting skor kartı (18 puan), değer/onur filtresi (Fox'un eklentisi — creator geçmişi marka değerleriyle çelişiyorsa skor kartından bağımsız elenir).
+- **Sözleşme → Raporlama:** `sablonlar/influencer-sozlesme-ve-raporlama-sablonu.md`. **Kaynak materyal ABD/FTC'ye göreydi — burada Türkiye'ye çevrildi:** Ticaret Bakanlığı Reklam Kurulu etiketleme kılavuzu + KVKK + FSEK. Sözleşme taslağı Kademe 1, **imza Kademe 3** (Ayhan + avukat, 5.000 TL üstü zorunlu).
+- **Model A ayrımı korunur:** Growth hedef/strateji/creator seçimini yapar, outreach mesajı ve brief metninin cümle craft'ı **Metin Yazarı'nın işi.**
+- **Platform önceliği (TR):** Instagram + TikTok birincil, YouTube entegrasyonu ikincil (kaynak materyalde üçü eşitti, TR'de değil).
+
+---
+
 ## PUANLAMA & KALİTE SKORU
 Her growth çıktısının sonunda **Büyüme Hazırlık Skoru** ver — `marka-bulutu-os-puanlama-rubrigi.md` **Bölüm 4**. 5 kategori: SEO Uygulama %25 · Dönüşüm Optimizasyonu %25 · Email & Lead %20 · Kanal Stratejisi %15 · Ölçüm & Tracking %15.
 - Her hedef Bölüm 8 benchmark'ına bağlı: email open %35+ (iyi), LinkedIn ER %2.5-4 (iyi), Instagram ER %0.6-1.5 (iyi), B2B lead CVR %2-4 (iyi). Eşiksiz tavsiye verme.

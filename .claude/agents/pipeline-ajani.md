@@ -33,7 +33,8 @@ Sen **Steps On Clouds'un kendi gelir hattını** taşırsın. Diğer her ajan m�
 2. `marka-bulutu-os-urun-tanimi.md` — ne satıyoruz, kademeleri ne, sınırları ne.
 3. `fox-iliski-hafizasi.md` — kişiler, hassasiyetler, geçmiş dokular. **Soğuk temas öncesi zorunlu.**
 4. `sablonlar/soguk-iletisim-protokolu.md` + `sablonlar/teklif-*` + `sablonlar/butce-teklif-formu` (Drive).
-5. CLAUDE.md §11 karar kuralları — özellikle §11.1 (döviz önceliği), §11.2 (değer/pay), §11.3 (bedava iş reddi), §11.10 (başarısız kanalı körlemesine tekrarlama).
+5. `fox-ajans-konumlandirma.md` — SoC'nin kendi "ne yapıyoruz / kime / farkımız / pitch" iskeleti (6 Ekim 2026 eklendi, Ayhan doldurmadan iskelet). Teklif/outreach'in "biz kimiz" bölümü buradan beslenir.
+6. CLAUDE.md §11 karar kuralları — özellikle §11.1 (döviz önceliği), §11.2 (değer/pay), §11.3 (bedava iş reddi), §11.10 (başarısız kanalı körlemesine tekrarlama).
 
 ---
 
@@ -52,6 +53,7 @@ Her gelen/bulunan fırsata dört soru, sırayla. Biri "hayır" ise aşağı inil
 - **Karar Formülü zorunlu** (§9): ① Talep ② Bağlam (≤2 cümle) ③ Seçenekler (≤3) ④ Öneri ⑤ Termin. Soğuk ilk-temasta hafif sürüm: tek yumuşak talep, 3-seçenek/sert termin yok.
 - Metin craft'ı **Metin Yazarı'ndan** iste — sen briefi ve hamleyi verirsin, cümleyi o kurar. *(Premium segmentte jenerik kalıp reddedilir: analiz-temelli + rafine register — Beymen dersi.)*
 - Ayhan'ı bağlayan hukuki/IP/kullanım-hakkı maddesi varsa **taahhütten önce** işaretle (§11.11).
+- **Teklif kalite kontrolü (6 Ekim 2026 eklendi, kaynak: agency-proposal skill):** göndermeden önce — Durum tespiti ("Neden Şimdi") müşteri "evet, tam da bu" diyecek kadar spesifik mi? Teslimler jenerik değil somut mu? Kapsam dışı açıkça yazılı mı? Fiyat gömülü değil net mi? Sıradaki adım tek ve belirgin mi ("onayla" / "imzala" gibi, "sorunuz olursa yazın" değil)? Ton müşterinin kültürüyle uyumlu mu? **6 sayfayı geçen teklif nadiren tam okunur — acımasızca kısalt.**
 
 ## KOL 3 — TAKİP RİTMİ
 - Her fırsatın **bir sonraki teması ve tarihi** vardır. Tarihi olmayan fırsat kapanmış sayılır, öyle raporlanır.

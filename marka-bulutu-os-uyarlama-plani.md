@@ -75,7 +75,20 @@ Corey reposu en temiz senaryo: markdown skills + JSON manifest + zararsız valid
 - **Creator/influencer (yeni kategori, bizde yok):** `creator-brief`, `creator-contract`, `creator-discovery`, `creator-outreach`, `creator-reporting`, `creator-vetting` — moda pivotu (birincil strateji) için TikTok/IG influencer iş akışı sağlıyor.
 - Ayrıca: `reddit-outreach` (niş, düşük öncelik).
 
-**Triyaj önerisi (Ayhan onayı bekliyor):** `case-study`, `client-offboarding`, `agency-positioning`/`agency-proposal` öncelikli — bilinen boşlukları dolduruyor ve Pipeline Ajanı tartışmasına girdi. `creator-*` bloğu moda pivotuna bağlı ayrı değerlendirme. `client-context`/`client-intake` mevcut şablonlarla karşılaştırılıp fark varsa alınacak.
+**Triyaj kararı — Ayhan onayladı (A ve B, 6 Ekim 2026):**
+
+**A — öncelikli 4 (uyarlandı):**
+- `case-study` → `sablonlar/vaka-calismasi-sablonu.md` (Kanıt Üçgeni'nin tam-anlatı genişlemesi)
+- `client-offboarding` → `sablonlar/musteri-kapanis-sablonu.md` (erişim devri Kademe 3 olarak işaretlendi — Fox hazırlar, Ayhan uygular)
+- `agency-positioning` → `fox-ajans-konumlandirma.md` (iskelet, Ayhan doldurur — rakam/farklılaştırıcı uydurulmadı)
+- `agency-proposal` → canlı `sablonlar/teklif-marka-bulutu-TR.md` dokunulmadı (mevcut içerik korunur ilkesi); kalite kontrol listesi `.claude/agents/pipeline-ajani.md` KOL 2'ye eklendi
+
+**B — creator/influencer bloğu (6 skill, uyarlandı):**
+- `creator-discovery` + `creator-vetting` + `creator-outreach` + `creator-brief` → `sablonlar/influencer-is-birligi-sablonu.md` (tek akışta birleştirildi, değer/onur filtresi eklendi)
+- `creator-contract` + `creator-reporting` → `sablonlar/influencer-sozlesme-ve-raporlama-sablonu.md` (**FTC → Türkiye Reklam Kurulu/KVKK/FSEK'e çevrildi**, imza Kademe 3)
+- `.claude/agents/growth-ajani.md`'ye "İNFLUENCER / CREATOR PAZARLAMASI" bölümü eklendi — moda pivotu birincil tetikleyici
+
+**Ertelenen (triyaja girmedi, ayrı karar gerekir):** `client-context`/`client-intake` (mevcut Kurumsal Kimlik Keşif Sorgusu + Müşteri Marka Context ile çakışıyor, karşılaştırma yapılmadı) · Corey Haines'in 7 yeni skill'i (`attribution`, `events`, `influencer-marketing`, `marketing-council`, `marketing-loops`, `offers`, `public-relations`) · `reddit-outreach`.
 
 ---
-*Sürüm: v2 · 4 Haziran 2026 · Fox · Corey Haines birincil, zubair ikincil. · 6 Ekim 2026 taraması eklendi — triyaj Ayhan onayı bekliyor.*
+*Sürüm: v2 · 4 Haziran 2026 · Fox · Corey Haines birincil, zubair ikincil. · 6 Ekim 2026 taraması + triyaj A/B uygulandı (Ayhan onayı).*
