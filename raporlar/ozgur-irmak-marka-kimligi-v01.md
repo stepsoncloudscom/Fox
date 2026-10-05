@@ -148,11 +148,11 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 ### 3.2 Renk paleti — ✅ KİLİTLİ: EKSEN 15 "GÜÇLÜ SENTEZ" (Ayhan kararı, 7 Tem 2026)
 **Seçim süreci:** 4 turluk keşif (15 eksen): tur 1 kategori/estetik → tur 2 açık-zemin stratejisi → tur 3 Ayhan 9-değer setinden türetim → tur 4 Enerji/Güç yükseltmesi → 3 finalist (E15/E12/E13) 4 yüzeyde (web başlığı/kartvizit/sosyal kart/tabela) karşılaştırıldı → **Ayhan: Eksen 15 kilitli.**
 
-**Ayrışma zemini (değişmedi):** Kategori maviye kilitli — Ottobock "Life long blue" #004595; medikal refleks soğuk mavi/beyaz. Jenerik medikal mavisi hem lidere benzetir hem "her klinik" yapar (referans çalışması §2.3: "mavi kaç").
+**Ayrışma zemini — GÜNCELLENDİ (Ayhan kararı, 6 Eki 2026):** Önceki "mavi kaç" stratejisi (referans çalışması §2.3) terk edildi; ana zemin bilinçli olarak maviye çevrildi. Koruma notu: Ottobock'un kendi "Life long blue" (#004595, soğuk-klinik ton) tonuna doğrudan yaklaşılmaz — aşağıdaki #0A06BA daha doygun/indigo bir mavi, kategori lideriyle karıştırılma riski ayrı değerlendirilir.
 
 | Rol | Renk | Gösterge değer* | Değer bağı / kural |
 |---|---|---|---|
-| **Ana zemin — Irmak Gecesi** | Koyu petrol-mürekkep (geceye derinleşmiş ırmak) | ~#0C2B2E | Güven + tecrübe + bilgi/bilim. Güç = kontrast: zemin-beyaz çifti yüksek kontrastta tutulur. |
+| **Ana zemin — Irmak Mavisi** *(isim geçici — Ayhan/Branding onayı bekliyor)* | Doygun indigo-mavi | **#0A06BA** | Güven + tecrübe + bilgi/bilim. Güç = kontrast: zemin-beyaz çifti yüksek kontrastta tutulur. *(6 Eki 2026 öncesi: Irmak Gecesi ~#0C2B2E — arşivde, bkz. değişiklik kaydı.)* |
 | **Zemin ton varyantı — Irmak Mürekkebi** | Bir kademe açık petrol-mürekkep | ~#123A3C | E12'nin zemini "sakin mod" olarak sistemde yaşar (bilgi-yoğun sayfalar, uzun okuma yüzeyleri). |
 | **Aksan — Canlı Kor** | Doygun kızıl-bakır | ~#D4602B (toprak varyantı ~#C1502E) | Cesaret + enerji. **Doz kuralı: aksan oranı ≤%10** — uyarı-rengi okunmasın; metin rengi olarak KULLANILMAZ. |
 | **Nötr sıcak — Ten** | Kum-ten | ~#E9D9C4 | İnsan + samimiyet; fotoğrafla köprü. |
@@ -170,7 +170,7 @@ süreç · değerlendirme · ölçü alma · kişiye özel · uygulama · uyarla
 
 **Arşiv varyantı:** E13 "gece + kor" (#14181A + #E8752C) ana kimlikte kullanılmaz; ileride kampanya/spor-performans bağlamı için arşivde (kullanımı ayrı Ayhan onayı).
 
-- **§11.B "premium palet tuzağı" öz-denetimi:** Kimlik yükü Irmak Gecesi'ndedir (ayırt edici ana renk); kor tek ve gerekçeli aksandır (cesaret/enerji), ten ve kırık beyaz yalnız nötrdür. Üretim fazında Denetmen tekrar sorar.
+- **§11.B "premium palet tuzağı" öz-denetimi:** Kimlik yükü Irmak Mavisi'ndedir (ayırt edici ana renk); kor tek ve gerekçeli aksandır (cesaret/enerji), ten ve kırık beyaz yalnız nötrdür. Üretim fazında Denetmen tekrar sorar.
 - **Üretim testleri (seçim sonrası zorunlu):** ① WCAG kontrast matrisi (tüm çiftler, render ölçümü) ② Denetmen N1: "sağlık/wellness yeşili" ayrışma testi (kategori yeşilleri yan yana) ③ kor'un küçük boyut/baskı davranışı.
 
 ### 3.3 Tipografi — ✅ KİLİTLİ: A + B HİBRİT (Ayhan kararı, 7 Tem 2026)
@@ -229,7 +229,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 
 ### 4.3 Yanlış kullanım örnekleri (brand book'ta görselleştirilecek — Luxmed dersi: bu bölüm eksik kalmıştı, bu kez baştan planlı)
 - Logo: oranları bozma · gölge/kontur/gradyan ekleme · düşük kontrastlı zemine koyma · fotoğraf üstünde temiz alansız kullanma · wordmark'ı çevirme (AR dahil) · eski logo ile birlikte kullanma.
-- Renk: paleti mavi-klinik yönüne kaydırma · iki aksan birden kullanma · doygunluğu yükseltme (neon petrol/turuncu).
+- Renk: Ottobock'un "Life long blue" (#004595) tonuna yaklaşma/karıştırılabilir soğuk-klinik mavi kullanma *(6 Eki 2026: genel "mavi yasağı" kaldırıldı — marka artık Irmak Mavisi #0A06BA'yı ana zemin olarak kullanıyor, bkz. §3.2)* · iki aksan birden kullanma · doygunluğu yükseltme (neon petrol/turuncu).
 - Dil: kırmızı kuşak kelimeleri (§2.4) · ünlem/aciliyet · geçmiş-atıflı anlatı ("yenilendik") · seçicilik iması.
 - Tipografi: Lora'yı kapalı liste dışına taşırma (web gövdesi, sosyal post) · Plex yerine keyfi font · AR metni Latin fontla dizme (kutu karakter/yanlış bağlanma).
 - Görsel: stok fotoğraf · AI yüz · acıma kadrajı · steril katalog ışığı.
@@ -253,7 +253,7 @@ Kimlik **tek marka sistemi**dir; mimari kararı hangi yönde çıkarsa çıksın
 ### 5.1 Yön kararları — durum (2. tur, 6 Tem 2026)
 1. **Tagline: ✅ KARAR — Kombinasyon** (B ana + A uluslararası + C içerik kapanışı; koşullar §2.2 — B kıdem teyidine bağlı, fallback A).
 2. **Logo yönü: ⏸ ERTELENDİ** (Ayhan: "daha sonra bakacağız") — üretim fazı açılmadı; 3 yön masada duruyor, Denetmen U3 işlendi.
-3. **Renk: ✅ KARAR — EKSEN 15 "GÜÇLÜ SENTEZ" KİLİTLİ (Ayhan, 7 Tem).** 4 turluk keşif (15 eksen; tur 3-4 Ayhan'ın 11 kelimelik değer setinden) → 3 finalist 4 yüzeyde karşılaştırıldı → E15 seçildi. Detay + kurallar §3.2 (E12 zemini "sakin mod" varyantı olarak sistemde; E13 arşiv "gece modu"). Üretim testleri bekliyor: WCAG matrisi + N1 sağlık-yeşili ayrışması + kor doz/baskı davranışı.
+3. **Renk: ✅ KARAR — EKSEN 15 "GÜÇLÜ SENTEZ" KİLİTLİ (Ayhan, 7 Tem) → ⚠️ ANA ZEMİN GÜNCELLENDİ (Ayhan, 6 Eki 2026).** 4 turluk keşif (15 eksen; tur 3-4 Ayhan'ın 11 kelimelik değer setinden) → 3 finalist 4 yüzeyde karşılaştırıldı → E15 seçildi. Detay + kurallar §3.2 (E12 zemini "sakin mod" varyantı olarak sistemde; E13 arşiv "gece modu"). **6 Eki 2026:** Ayhan, E15'in "mavi kaç" ayrışma stratejisini bilinçli olarak terk edip ana zemini **#0A06BA (Irmak Mavisi — isim geçici)** yaptı; eski ana zemin Irmak Gecesi (#0C2B2E) arşive düştü, aksan/nötr/boşluk renkleri (Canlı Kor, Ten, kırık beyaz) değişmedi. **Açık nokta:** zemin ton varyantı (Irmak Mürekkebi #123A3C, "sakin mod") yeni mavi zeminle uyum testinden geçmedi — Branding Ajanı/render testi bekliyor, bu rapor onu otomatik güncellemedi. Üretim testleri bekliyor: WCAG matrisi + yeni zeminle kor/ten/boşluk renklerinin kontrast+uyum testi + kor doz/baskı davranışı.
 4. Strateji'deki **Karar 1** (ceza geçmişi) ve **mimari kararı** açık — kuplaj durumu üst banner'da (görsel bağımsız, ses ekseni Karar 1'e kısmen kuplajlı).
 
 ### 5.2 [DOĞRULANACAK] listesi (kapanmadan kesin iddia yok — Anayasa §11.5)

@@ -57,12 +57,12 @@
 
 ---
 
-## 3 · RENK — EKSEN 15 "GÜÇLÜ SENTEZ" (kilitli)
+## 3 · RENK — EKSEN 15 "GÜÇLÜ SENTEZ" (kilitli — ana zemin 6 Eki 2026'da güncellendi)
 
 | Rol | Renk | Gösterge hex |
 |---|---|---|
-| Ana zemin | **Irmak Gecesi** (koyu petrol-mürekkep) | #0C2B2E |
-| Zemin varyantı ("sakin mod") | Irmak Mürekkebi | #123A3C |
+| Ana zemin | **Irmak Mavisi** (doygun indigo-mavi — isim geçici) | **#0A06BA** *(6 Eki 2026 öncesi: Irmak Gecesi #0C2B2E, arşivde)* |
+| Zemin varyantı ("sakin mod") | Irmak Mürekkebi — ⚠️ yeni mavi zeminle uyumu test edilmedi | #123A3C |
 | Aksan | **Canlı Kor** (doygun kızıl-bakır) | #D4602B *(toprak varyantı #C1502E)* |
 | Nötr sıcak | Ten | #E9D9C4 |
 | Boşluk zemini | Sıcak kırık beyaz | #F6F3EC |
@@ -72,7 +72,7 @@
 **Palet kuralları (pazarlıksız)**
 - Kor aksan oranı **≤%10**; kor **metin rengi olarak kullanılmaz**.
 - Saf beyaz ve saf siyah kullanılmaz (klinik-steril kaçınması; koyu metin zemin ailesinden türetilir).
-- Kategori mavisine (Ottobock #004595 bölgesi) yaklaşılmaz; palet mavi-klinik yöne kaydırılmaz.
+- Ottobock'un kendi "Life long blue" (#004595, soğuk-klinik ton) tonuna doğrudan yaklaşılmaz — *(6 Eki 2026: genel "mavi yasağı" kaldırıldı, marka artık mavi ana zemin kullanıyor; bu madde yalnız Ottobock'un spesifik tonuyla karışmayı önler.)*
 - Doygunluk yükseltilmez (neon petrol/turuncu yasak); iki aksan birden kullanılmaz.
 
 **Değer→sistem kuralları**
@@ -125,7 +125,7 @@
 5. Kompozisyon: cömert negatif alan, off-center yerleşim, tek odak, film-still hissi.
 6. Protez ne saklanır ne fetişleştirilir — doğal, güçlü, var.
 
-**Yanlış kullanım (kapalı liste):** logo oranı bozma / gölge-kontur-gradyan ekleme / düşük kontrast zemin / temiz alansız fotoğraf üstü / wordmark çevirme · paleti maviye kaydırma / doygunluk yükseltme / çift aksan · Lora'yı kapalı liste dışına taşıma / AR metni Latin fontla dizme · stok fotoğraf / AI yüz / acıma kadrajı / steril katalog ışığı.
+**Yanlış kullanım (kapalı liste):** logo oranı bozma / gölge-kontur-gradyan ekleme / düşük kontrast zemin / temiz alansız fotoğraf üstü / wordmark çevirme · Ottobock'un "Life long blue" (#004595) tonuna yaklaşma *(6 Eki 2026: genel mavi yasağı kaldırıldı, bkz. §3)* / doygunluk yükseltme / çift aksan · Lora'yı kapalı liste dışına taşıma / AR metni Latin fontla dizme · stok fotoğraf / AI yüz / acıma kadrajı / steril katalog ışığı.
 
 ---
 
@@ -139,3 +139,5 @@
 ---
 
 *Kaynak: `raporlar/ozgur-irmak-marka-kimligi-v01.md` (Denetmen denetimli tam belge). Bu özet yalnız kilitli kalemleri içerir; kilitli bir kalemi değiştirme ihtiyacı doğarsa önce ana belge güncellenir.*
+
+**Değişiklik kaydı:** 6 Eki 2026 — Ayhan kararıyla ana zemin #0C2B2E (Irmak Gecesi) → **#0A06BA (Irmak Mavisi, isim geçici)**; ana belgedeki "mavi kaç" rekabet-ayrışma stratejisi (§2.3 referans çalışması) bilinçli olarak terk edildi, "paleti maviye kaydırma" yasağı kaldırıldı. **Açık nokta:** zemin varyantı (#123A3C) ve brand book/sosyal şablon/web gibi zaten üretilmiş varlıkların yeni zeminle uyumu Branding Ajanı/Denetmen tarafından ayrıca gözden geçirilmeli — bu güncelleme yalnız kilitli kayıt metnini kapsar, üretilmiş görselleri geriye dönük değiştirmez.
