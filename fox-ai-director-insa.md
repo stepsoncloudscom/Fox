@@ -46,5 +46,8 @@ Model sürekliliği sorunu (Ayhan'ın kendi tespiti) → endüstri standardı ç
 ## SIRADAKİ ADIM (konuşma kaldığı yer)
 Kıyafet/stil + ifade detayı konuşulacak. Sonra ilk test üretimi (kredi harcar — Ayhan onayı net istendi, henüz verilmedi).
 
+## MÜFREDAT (6 Ekim 2026 — Ayhan talebiyle kuruldu)
+Günde 30 dk, 12 hafta (6 Ekim → 1 Ocak 2027), eğitmen çerçevesinde. Tam program, gerçek kaynaklar (Higgsfield Academy 9 kurs + sinematografi + prompt guide'lar): → `fox-ai-director-mufredati.md`.
+
 ---
 *v0.1 · 6 Ekim 2026 · Fox · Açık/devam eden çalışma notu — kapanmış bir karar belgesi değil.*

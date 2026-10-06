@@ -90,6 +90,8 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **raporlar/teslim-kutugu.md** — ⭐ §5 maliyet + yeniden-iş ölçümü. Dışarı çıkan her teslim kapandığında bir satır; red sebebi zorunlu. Aylık rollup + "Generalin Sınavı" kanıt tabanı.
 - **fox-kuzey-yildizi.md** — Ayhan'ın 3 hedefi (sistem satışı + ampüte misyonu + globalleşme); her kararın üst amacı.
 - **fox-ajans-konumlandirma.md** — 🚧 İskelet (6 Ekim 2026, Ayhan doldurur). Steps On Clouds'un KENDİ "ne yapıyoruz/kime/farkımız/pitch" konumlandırması — diğer ajanlar müşterinin markasına hizmet eder, bu SoC'nin kendisine ait. Pipeline Ajanı (taslak) KOL 2'de kullanır.
+- **fox-ai-director-insa.md** — Ayhan'ın fotoğrafçı/yönetmen kimliğini AI-destekli üretimle canlandırma süreci (6 Ekim 2026 başladı, açık/devam ediyor). Claudia karakter briefi + Soul ID mekaniği + CMM ilişkisi (açık karar).
+- **fox-ai-director-mufredati.md** — Günde 30 dk, 12 haftalık (6 Ekim → 1 Ocak 2027) eğitmen-çerçeveli müfredat. Higgsfield Academy'nin 9 gerçek kursu + sinematografi/prompt kaynakları, faz faz sıralı. Haftalık Fox özetiyle büyür.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
