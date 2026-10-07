@@ -28,16 +28,16 @@ Program bunlardan 9'unu kullanıyor, sırası aşağıda. Tamamı ücretsiz/plat
 ## FAZ 1 — TEMEL (Hafta 1-3): Prompt dili + marka görseline uygulama
 
 **Hafta 1 — Göz eğitimi + Higgsfield mekaniği**
-- Gün 1-2: Higgsfield Academy → *"How to Evaluate AI Filmmaking Demos"* (20 dk, Beginner, 11 modül) — kamera hareketi/performans/süreklilik nasıl değerlendirilir.
+- Gün 1-2: Higgsfield Academy → [*"How to Evaluate AI Filmmaking Demos"*](https://higgsfield.ai/academy/courses/seedance-25-ai-filmmaking) (20 dk, Beginner, 11 modül) — kamera hareketi/performans/süreklilik nasıl değerlendirilir.
 - Gün 3: Oku → Cinema Studio 3.0 Prompt Guide.
 - Gün 4-5: Pratik — guide'daki formülle (Subject+action+environment+composition+camera+lighting+style+mood) 5 kendi promptunu yaz, **henüz üretme** — sadece yazma pratiği.
 
 **Hafta 2 — Marka görseline ilk temas**
-- Gün 1-2: Higgsfield Academy → *"Build a Brand's Visuals with AI"* (26 dk, Intermediate, 9 modül) — marka görsel sistemi, Cloud One'a doğrudan uygulanabilir.
+- Gün 1-2: Higgsfield Academy → [*"Build a Brand's Visuals with AI"*](https://higgsfield.ai/academy/courses/brand-visuals-ai) (26 dk, Intermediate, 9 modül) — marka görsel sistemi, Cloud One'a doğrudan uygulanabilir.
 - Gün 3-5: Pratik — Cloud One için (Claudia değil, genel ürün) 3-5 prompt dene. **Kredi harcar — düşük miktar, onay yeterli.**
 
 **Hafta 3 — Sinematik temel**
-- Gün 1-2: Higgsfield Academy → *"Seedance 4K: Cinematic Realism"* (14 dk, Intermediate, 8 modül).
+- Gün 1-2: Higgsfield Academy → [*"Seedance 4K: Cinematic Realism"*](https://higgsfield.ai/academy/courses/cinematic-realism-4k) (14 dk, Intermediate, 8 modül).
 - Gün 3: Oku → Seedance 2.0 Prompting Guide (5 format: Transformations, Orbs, POVs, Fights, Animation).
 - Gün 4-5: Pratik devam + Hafta 1-3 özet: "ne öğrendim, en çok ne zorladı" notu (Fox'a).
 
@@ -50,12 +50,12 @@ Program bunlardan 9'unu kullanıyor, sırası aşağıda. Tamamı ücretsiz/plat
 - Gün 4-5: `fox-gorsel-parmak-izi.md`'yi yeniden oku — bu sefer "bu ilkeyi AI promptuna nasıl çeviririm" sorusuyla, her 7 örüntü için (sıcak palet, atmosferik ışık, editorial, kompozisyon, doku, amazon enerjisi, sinematik) bir cümlelik prompt-dili karşılığı yaz.
 
 **Hafta 5 — Kısa film pipeline'ı**
-- Gün 1-2: Higgsfield Academy → *"Build an Ultra-Realistic Short Film in 4K"* (33 dk, Intermediate, 19 modül) — yönetmen masterclass'ı, Claude+Seedance 2.0 ile.
+- Gün 1-2: Higgsfield Academy → [*"Build an Ultra-Realistic Short Film in 4K"*](https://higgsfield.ai/academy/courses/santiago-cinematic) (33 dk, Intermediate, 19 modül) — yönetmen masterclass'ı, Claude+Seedance 2.0 ile.
 - Gün 3-5: Pratik — Claudia'nın **ilk statik sahnesi** (henüz video değil, tek kare). Referans seti için ilk "icat" görseli burada denenebilir.
 
 **Hafta 6 — Reklam/ticari dil**
-- Gün 1-2: Higgsfield Academy → *"The 3-Step Realistic AI Ad Workflow"* (36 dk, Intermediate, 16 modül).
-- Gün 3-4: Higgsfield Academy → *"Blockbuster 4K: The AI Filmmaking Pipeline"* (40 dk, Intermediate, 10 modül) — scripting, asset creation, sahne-sahne prompt.
+- Gün 1-2: Higgsfield Academy → [*"The 3-Step Realistic AI Ad Workflow"*](https://higgsfield.ai/academy/courses/ai-ad-3-step) (36 dk, Intermediate, 16 modül).
+- Gün 3-4: Higgsfield Academy → [*"Blockbuster 4K: The AI Filmmaking Pipeline"*](https://higgsfield.ai/academy/courses/blockbuster-4k) (40 dk, Intermediate, 10 modül) — scripting, asset creation, sahne-sahne prompt.
 - Gün 5: Ara değerlendirme — Faz 1-2 çıktılarını gözden geçir, neyi tut neyi at.
 
 ---
@@ -68,12 +68,12 @@ Program bunlardan 9'unu kullanıyor, sırası aşağıda. Tamamı ücretsiz/plat
 - Gün 4-5: **Soul eğitimi** — `higgsfield soul-id create`. **Kredi harcar, Ayhan onayı net gerekli** (daha önce de işaretlendi).
 
 **Hafta 8 — Çoklu sahne/süreklilik testi**
-- Gün 1-2: Higgsfield Academy → *"Direct a Cinematic AI Car Commercial"* (35 dk, Intermediate, 11 modül) — reusable asset + continuity-aware editing, tam Claudia modeline uygun.
-- Gün 3: Higgsfield Academy → *"Direct AI Fight Scenes Through Controlled Iteration"* (16 dk, Intermediate, 5 modül) — geometri/fizik kaybetmeden yön verme disiplini.
+- Gün 1-2: Higgsfield Academy → [*"Direct a Cinematic AI Car Commercial"*](https://higgsfield.ai/academy/courses/cinematic-car-commercial) (35 dk, Intermediate, 11 modül) — reusable asset + continuity-aware editing, tam Claudia modeline uygun.
+- Gün 3: Higgsfield Academy → [*"Direct AI Fight Scenes Through Controlled Iteration"*](https://higgsfield.ai/academy/courses/direct-ai-fight-scenes) (16 dk, Intermediate, 5 modül) — geometri/fizik kaybetmeden yön verme disiplini.
 - Gün 4-5: Pratik — Claudia ile 3-4 farklı sahne (kort kenarı, farklı poz/açı), Soul ID ile süreklilik testi. **Kredi harcar.**
 
 **Hafta 9 — Tam kampanya denemesi**
-- Gün 1-2: Higgsfield Academy → *"Make a Cinematic Ad End-to-End"* (46 dk, Intermediate, 10 modül) — 12 sahnelik anlatı, reusable asset.
+- Gün 1-2: Higgsfield Academy → [*"Make a Cinematic Ad End-to-End"*](https://higgsfield.ai/academy/courses/cinematic-ad-e2e) (46 dk, Intermediate, 10 modül) — 12 sahnelik anlatı, reusable asset.
 - Gün 3-5: Pratik — Cloud One için küçük bir kampanya seti (3-5 görsel/kısa video, Claudia merkezli). **Kredi harcar.**
 
 ---
@@ -81,7 +81,7 @@ Program bunlardan 9'unu kullanıyor, sırası aşağıda. Tamamı ücretsiz/plat
 ## FAZ 4 — PORTFÖY + VAKA (Hafta 10-12): Bitirme
 
 **Hafta 10 — Gerçek çekimle harmanlama (opsiyonel)**
-- Gün 1-2: Higgsfield Academy → *"Add AI VFX to Real Footage"* (12 dk, Advanced) + *"Mix AI with Real Footage"* (5 dk, Intermediate) — eğer gerçek fotoğraf/telefonla çekilmiş görüntüyle harmanlamak istersen.
+- Gün 1-2: Higgsfield Academy → [*"Add AI VFX to Real Footage"*](https://higgsfield.ai/academy/courses/ai-vfx-real-footage) (12 dk, Advanced) + [*"Mix AI with Real Footage"*](https://higgsfield.ai/academy/courses/mix-ai-real-footage) (5 dk, Intermediate) — eğer gerçek fotoğraf/telefonla çekilmiş görüntüyle harmanlamak istersen.
 - Gün 3-5: Serbest pratik — Hafta 7-9'da üretilenden en güçlü 5-10 kareyi seç.
 
 **Hafta 11 — Vaka çalışmasına çevirme**
