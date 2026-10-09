@@ -97,6 +97,10 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-hareketli-goruntu-tarihi.md** — Modül 2: sinema-öncesi 70 yıl (persistence of vision, phenakistiscope, zoetrope, Muybridge, Marey) — hareketli görüntünün fizyolojik/teknik temeli.
 - **astrid-isik-bilgisi.md** — Modül 3: aydınlatma teorisi (yön/kalite/renk sıcaklığı/kontrast, üç nokta aydınlatma) + AI prompt diline çeviri.
 - **astrid-sanat-tarihi.md** — Modül 4: Gombrich'in "Sanatın Öyküsü" kronolojik iskeleti, kompozisyon/doku/portre geleneklerinin Astrid'in işine bağlanması.
+- **astrid-kamera-hareketi.md** — Modül 5: kamera hareketi sözlüğü (pan/dolly/tracking/crane/handheld) + doğrulanmış Higgsfield prompt terimleri.
+- **astrid-renk-teorisi.md** — Modül 6: renk çarkı, sıcak/soğuk, sinemanın renk tarihi (Technicolor→teal-orange), Ayhan'ın paletiyle ilişki.
+- **astrid-ses-goruntu-iliskisi.md** — Modül 7: diejetik/non-diejetik ses, senkron/asenkron, Higgsfield ses araçları.
+- **astrid-tur-sinemasi.md** — Modül 8: tür sineması konvansiyonları (western/noir/korku/sci-fi/editorial-moda), ışık+kamera+renk+ses dörtlüsüne bağlı.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
