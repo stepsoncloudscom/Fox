@@ -101,6 +101,8 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-renk-teorisi.md** — Modül 6: renk çarkı, sıcak/soğuk, sinemanın renk tarihi (Technicolor→teal-orange), Ayhan'ın paletiyle ilişki.
 - **astrid-ses-goruntu-iliskisi.md** — Modül 7: diejetik/non-diejetik ses, senkron/asenkron, Higgsfield ses araçları.
 - **astrid-tur-sinemasi.md** — Modül 8: tür sineması konvansiyonları (western/noir/korku/sci-fi/editorial-moda), ışık+kamera+renk+ses dörtlüsüne bağlı.
+- **astrid-reklam-filmleri.md** — Modül 9: reklam filmi disiplini (süre kısıtı, ilk 2-3 sn kuralı, klasik yapılar, marka zamanlaması) + tarihsel dönüm noktaları (Bulova 1941, Apple "1984"). Claudia/Cloud One'ın en doğrudan uygulama alanı.
+- **astrid-lens-ve-acilar.md** — Modül 10: lens optik bilgisi (odak uzaklığı, diyafram, anamorfik, bozulma) + açıların duygusu (alçak/yüksek/Dutch/POV) — optik + açı birlikte okunur.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular

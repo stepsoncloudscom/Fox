@@ -31,7 +31,9 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 6 — Renk Teorisi ✅:** `astrid-renk-teorisi.md`. Renk çarkı, sıcak/soğuk, sinemanın renk tarihi (Technicolor → teal-orange), Ayhan'ın paletiyle ilişki. Yönetmen-spesifik renk imzaları bu modülün DIŞINDA — Modül 9+ için ayrılmış.
 - **Modül 7 — Ses-Görüntü İlişkisi ✅:** `astrid-ses-goruntu-iliskisi.md`. Diejetik/non-diejetik, senkron/asenkron, foley, Higgsfield'ın ses araçları (`seed_audio`, Seedance audio_references).
 - **Modül 8 — Tür Sineması Konvansiyonları ✅:** `astrid-tur-sinemasi.md`. Western/noir/korku/sci-fi/melodram/müzikal/aksiyon + editorial-moda'nın kendi konvansiyonu — her tür ışık+kamera+renk+ses dörtlüsüne bağlı.
-- **Modül 9+ — Yönetmen Profilleri (AÇIK, Ayhan isim verecek):** Spesifik yönetmenlerin stil/yaklaşım/yöntemleri — Ayhan isimleri verince kurulur. Modül 1-8'in sözlüğü (ışık/kamera/renk/ses/tür) buraya referans tabanı olacak.
+- **Modül 9 — Reklam Filmleri ✅:** `astrid-reklam-filmleri.md`. Süre kısıtı, ilk 2-3 saniye kuralı, klasik yapılar (problem-çözüm/lifestyle/tanıklık/hero shot), marka/logo zamanlaması, sonic branding, format farkları (TVC/dijital/branded content), tarihsel dönüm noktaları (Bulova 1941, Apple "1984"/Ridley Scott). Claudia/Cloud One'ın en doğrudan uygulama alanı.
+- **Modül 10 — Lensler ve Açılar ✅:** `astrid-lens-ve-acilar.md`. Odak uzaklığı spektrumu, diyafram/alan derinliği, anamorfik lens, lens bozulması; açıların duygusu (alçak/yüksek/Dutch/POV); optik + açının birlikte okunması (çekim listesine ikisi birlikte girer).
+- **Modül 11+ — Yönetmen Profilleri (AÇIK, Ayhan isim verecek):** Spesifik yönetmenlerin stil/yaklaşım/yöntemleri — Ayhan isimleri verince kurulur. Modül 1-10'un sözlüğü (ışık/kamera/renk/ses/tür/reklam/lens) buraya referans tabanı olacak.
 
 ---
 
