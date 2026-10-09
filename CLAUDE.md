@@ -109,6 +109,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-mizansen-prodüksiyon-tasarimi.md** — Modül 14: set/prop/kostüm teorisi, Çehov'un Tüfeği — Astrid'in KOL 3 (Süreklilik) işlevinin tam teorik zemini.
 - **astrid-sosyal-medya-ve-hizli-tuketim.md** — Modül 15: UGC/Reels'in kasıtlı-kusur estetiği, 9:16 format gramerı, AI'ın varsayılan "kusursuzluk" eğilimine karşı uyarı. Çekim listesine ikinci bir register (editorial vs UGC) ekler.
 - **astrid-ai-gercekcilik.md** — ⭐ Modül 16, ÖNCELİKLİ (Ayhan emri: "en çok araştırma/eğitim yatırımı buraya"). "Plastik ten" paradoksu, reality-anchoring dil, Soul ID referans stratejisi, 11 katmanlı prompt formülü (KOL 2'nin standart yöntemi), pozitif kilitler (KOL 3'ün aracı), topluluk/forum dersleri. Salt bilgi değil, Astrid'in çalışma yöntemi.
+- **astrid-spor-marka-segmentasyonu.md** — Modül 17: spor markası segmentasyon spektrumu (Nike/Puma kitlesel → Lacoste/Helly Hansen miras-premium → Moncler/Stone Island/Prada Linea Rossa lüks). Cloud One'ın konumu: Miras/Premium, Lacoste'a en yakın.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular

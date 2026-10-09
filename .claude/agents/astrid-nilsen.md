@@ -39,7 +39,8 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 14 — Mizansen / Prodüksiyon Tasarımı ✅:** `astrid-mizansen-prodüksiyon-tasarimi.md`. Set tasarımı, Çehov'un Tüfeği (anlamlı vs tesadüfi prop), kostüm tasarımı, figür yerleşimi (blocking) — **KOL 3'ün (Süreklilik) üç soruluk tam tanımını kurar.**
 - **Modül 15 — Sosyal Medya ve Hızlı Tüketim Görselliği (UGC + Reels) ✅:** `astrid-sosyal-medya-ve-hizli-tuketim.md`. Kasıtlı-kusur estetiği (%217 daha fazla lead, %45 düşük CPL — doğrulanmış), 9:16/60sn altı format gramerı, TikTok/Reels farkı, AI'ın varsayılan "kusursuzluk" eğilimine karşı uyarı. Çekim listesine ikinci bir register (editorial/kampanya vs UGC/Reels) ekler.
 - **Modül 16 — AI Gerçekçiliği ✅ ÖNCELİKLİ (Ayhan emri):** `astrid-ai-gercekcilik.md`. "Plastik ten" paradoksu, reality-anchoring dil, Claudia'nın Soul ID referans stratejisi (yükleme sırası/ağırlığı, hiyerarşik keskinlik), ışık/lens fiziği, **11 katmanlı prompt yapı formülü (artık KOL 2'nin standart yöntemi)**, pozitif kilitler (artık KOL 3'ün aracı), topluluk/forum dersleri (kredi tuzağı, 5sn erime eşiği, araç-görev uyumu). Diğer modüllerden farklı — salt bilgi değil, çalışma yöntemi.
-- **Modül 17+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
+- **Modül 17 — Spor Markaları: Segmentasyon Spektrumu ✅:** `astrid-spor-marka-segmentasyonu.md`. Kitlesel (Nike/Puma) → Miras/Premium (Lacoste/Helly Hansen) → Lüks/Yüksek Moda (Moncler/Stone Island/Prada Linea Rossa). Cloud One'ın konumu netleşti: Miras/Premium segment, Lacoste'a en yakın; Helly Hansen'in İskandinav dili Claudia'nın kimliğiyle ikinci olası yön.
+- **Modül 18+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
 
 ---
 
