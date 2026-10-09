@@ -107,6 +107,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-moda-fotografciligi.md** — Modül 12: moda fotoğrafçılığı tarihi (Penn/Avedon/Newton/Lindbergh/Meisel/Walker) — Claudia/Cloud One'ın asıl çalıştığı tür.
 - **astrid-kompozisyon-teorisi.md** — Modül 13: pratik çerçeveleme araçları (üçte bir, yönlendirici çizgi, negatif alan, altın oran, headroom) + 5 soruluk kontrol listesi.
 - **astrid-mizansen-prodüksiyon-tasarimi.md** — Modül 14: set/prop/kostüm teorisi, Çehov'un Tüfeği — Astrid'in KOL 3 (Süreklilik) işlevinin tam teorik zemini.
+- **astrid-sosyal-medya-ve-hizli-tuketim.md** — Modül 15: UGC/Reels'in kasıtlı-kusur estetiği, 9:16 format gramerı, AI'ın varsayılan "kusursuzluk" eğilimine karşı uyarı. Çekim listesine ikinci bir register (editorial vs UGC) ekler.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular

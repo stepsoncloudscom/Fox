@@ -37,7 +37,8 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 12 — Moda Fotoğrafçılığı Tarihi ve Dili ✅:** `astrid-moda-fotografciligi.md`. Penn (kontrol/saflık), Avedon (hareket/enerji), Newton (güç — onur sınırı içinde), Lindbergh (doğallık, 1990 Vogue dönüm noktası), Meisel (bukalemun yaklaşımı), Walker (fantastik). Claudia/Cloud One'ın asıl çalıştığı tür — editorial/kampanya ayrımı.
 - **Modül 13 — Kompozisyon Teorisi ✅:** `astrid-kompozisyon-teorisi.md`. Üçte bir kuralı, yönlendirici çizgiler, çerçeve içinde çerçeve, negatif alan, altın oran, headroom/looking room, simetrik/asimetrik denge — her sahne için 5 soruluk kontrol listesi.
 - **Modül 14 — Mizansen / Prodüksiyon Tasarımı ✅:** `astrid-mizansen-prodüksiyon-tasarimi.md`. Set tasarımı, Çehov'un Tüfeği (anlamlı vs tesadüfi prop), kostüm tasarımı, figür yerleşimi (blocking) — **KOL 3'ün (Süreklilik) üç soruluk tam tanımını kurar.**
-- **Modül 15+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
+- **Modül 15 — Sosyal Medya ve Hızlı Tüketim Görselliği (UGC + Reels) ✅:** `astrid-sosyal-medya-ve-hizli-tuketim.md`. Kasıtlı-kusur estetiği (%217 daha fazla lead, %45 düşük CPL — doğrulanmış), 9:16/60sn altı format gramerı, TikTok/Reels farkı, AI'ın varsayılan "kusursuzluk" eğilimine karşı uyarı. Çekim listesine ikinci bir register (editorial/kampanya vs UGC/Reels) ekler.
+- **Modül 16+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
 
 ---
 
