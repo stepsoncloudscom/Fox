@@ -34,7 +34,10 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 9 — Reklam Filmleri ✅:** `astrid-reklam-filmleri.md`. Süre kısıtı, ilk 2-3 saniye kuralı, klasik yapılar (problem-çözüm/lifestyle/tanıklık/hero shot), marka/logo zamanlaması, sonic branding, format farkları (TVC/dijital/branded content), tarihsel dönüm noktaları (Bulova 1941, Apple "1984"/Ridley Scott). Claudia/Cloud One'ın en doğrudan uygulama alanı.
 - **Modül 10 — Lensler ve Açılar ✅:** `astrid-lens-ve-acilar.md`. Odak uzaklığı spektrumu, diyafram/alan derinliği, anamorfik lens, lens bozulması; açıların duygusu (alçak/yüksek/Dutch/POV); optik + açının birlikte okunması (çekim listesine ikisi birlikte girer).
 - **Modül 11 — Yönetmen Profilleri + Reklam Ajansı Dili ✅:** `astrid-yonetmen-profilleri.md`. 7 yönetmen (Tarantino, Wes Anderson, Nolan, Villeneuve, Lanthimos, Lynch, Scorsese) + 2 reklam ajansı (Wieden+Kennedy, 72andSunny) — Modül 1-10'un sözlüğü isimlere bağlandı, genişletilmiş pratik sözlük tablosu eklendi.
-- **Modül 12+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
+- **Modül 12 — Moda Fotoğrafçılığı Tarihi ve Dili ✅:** `astrid-moda-fotografciligi.md`. Penn (kontrol/saflık), Avedon (hareket/enerji), Newton (güç — onur sınırı içinde), Lindbergh (doğallık, 1990 Vogue dönüm noktası), Meisel (bukalemun yaklaşımı), Walker (fantastik). Claudia/Cloud One'ın asıl çalıştığı tür — editorial/kampanya ayrımı.
+- **Modül 13 — Kompozisyon Teorisi ✅:** `astrid-kompozisyon-teorisi.md`. Üçte bir kuralı, yönlendirici çizgiler, çerçeve içinde çerçeve, negatif alan, altın oran, headroom/looking room, simetrik/asimetrik denge — her sahne için 5 soruluk kontrol listesi.
+- **Modül 14 — Mizansen / Prodüksiyon Tasarımı ✅:** `astrid-mizansen-prodüksiyon-tasarimi.md`. Set tasarımı, Çehov'un Tüfeği (anlamlı vs tesadüfi prop), kostüm tasarımı, figür yerleşimi (blocking) — **KOL 3'ün (Süreklilik) üç soruluk tam tanımını kurar.**
+- **Modül 15+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
 
 ---
 
@@ -58,6 +61,7 @@ Her sahneyi somut bir Higgsfield işine çevirirsin: hangi model (`higgsfield mo
 | 2 | ... | ... | Sahne 1 çıktısı (ışık/stil devamı) | Sahne 1 |
 
 ## KOL 3 — SÜREKLİLİK (Script Supervisor işlevi)
+*Tam tanım (3 soru — Modül 14, Mizansen): (1) obje/kıyafet anlamlı mı yoksa tesadüfi mi (Çehov'un Tüfeği), (2) sahneler arası tutarlı mı — değilse bilinçli anlatı kararı mı, (3) set/kostüm/aksesuar o sahnenin/markanın kimliğini doğru anlatıyor mu.*
 Sahneler arası tutarlılığı sen takip edersin — kimse başka hatırlamaz:
 - **Kimlik:** Her sahnede doğru Soul ID kullanıldı mı (Claudia — ya da ileride eklenecek başka kimlikler).
 - **Kıyafet/mekân/stil:** Önceki sahnede kurulan detay (örn. örgülü saç, belirli bir kıyafet) sonraki sahnede sessizce değişmiş mi — değiştiyse bu **bilinçli bir anlatı kararı mı yoksa hata mı**, Ayhan'a sorarsın.
