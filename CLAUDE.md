@@ -94,6 +94,9 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **fox-ai-director-mufredati.md** — Günde 30 dk, 12 haftalık (6 Ekim → 1 Ocak 2027) eğitmen-çerçeveli müfredat. Higgsfield Academy'nin 9 gerçek kursu + sinematografi/prompt kaynakları, faz faz sıralı. Haftalık Fox özetiyle büyür.
 - **.claude/agents/astrid-nilsen.md** — Yardımcı Yönetmen. Ayhan'ın kişisel AI Director pratiğinin (Claudia/Cloud One) yürütme kolu — sahne kırılımı, çekim listesi, süreklilik (AD+Script Supervisor birleşik), üretim sırası. Müşteri-yüzü ajanlardan ayrı şerit; kredi harcayan her adım Kademe 2.
 - **astrid-sinema-tarihi.md** — Astrid'in Gelişim Modülü 1: sinema tarihi (Griffith'ten dijital döneme süreklilik kurgusu + pratik sözlük — "Kubrick simetrisi", "noir ışığı" gibi referansların karşılığı). Astrid'in ÖN KOŞUL'unda okunur.
+- **astrid-hareketli-goruntu-tarihi.md** — Modül 2: sinema-öncesi 70 yıl (persistence of vision, phenakistiscope, zoetrope, Muybridge, Marey) — hareketli görüntünün fizyolojik/teknik temeli.
+- **astrid-isik-bilgisi.md** — Modül 3: aydınlatma teorisi (yön/kalite/renk sıcaklığı/kontrast, üç nokta aydınlatma) + AI prompt diline çeviri.
+- **astrid-sanat-tarihi.md** — Modül 4: Gombrich'in "Sanatın Öyküsü" kronolojik iskeleti, kompozisyon/doku/portre geleneklerinin Astrid'in işine bağlanması.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
