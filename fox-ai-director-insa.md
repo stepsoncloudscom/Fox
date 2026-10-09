@@ -49,5 +49,8 @@ Kıyafet/stil + ifade detayı konuşulacak. Sonra ilk test üretimi (kredi harca
 ## MÜFREDAT (6 Ekim 2026 — Ayhan talebiyle kuruldu)
 Günde 30 dk, 12 hafta (6 Ekim → 1 Ocak 2027), eğitmen çerçevesinde. Tam program, gerçek kaynaklar (Higgsfield Academy 9 kurs + sinematografi + prompt guide'lar): → `fox-ai-director-mufredati.md`.
 
+## YARDIMCI YÖNETMEN — ASTRID NİLSEN (10 Ekim 2026 kuruldu)
+Ayhan'ın (Yönetmen) yürütme kolu — vizyonu sahne kırılımına/çekim listesine çevirir, sürekliliği (Soul ID, kıyafet/mekân/stil) takip eder, prodüksiyon sırasını yönetir. Geleneksel sette ayrı olan AD + Script Supervisor işlevleri Ayhan'ın kararıyla tek ajanda birleşti. Tanım: `.claude/agents/astrid-nilsen.md`.
+
 ---
 *v0.1 · 6 Ekim 2026 · Fox · Açık/devam eden çalışma notu — kapanmış bir karar belgesi değil.*
