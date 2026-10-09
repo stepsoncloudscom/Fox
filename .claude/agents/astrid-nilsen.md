@@ -33,7 +33,8 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 8 — Tür Sineması Konvansiyonları ✅:** `astrid-tur-sinemasi.md`. Western/noir/korku/sci-fi/melodram/müzikal/aksiyon + editorial-moda'nın kendi konvansiyonu — her tür ışık+kamera+renk+ses dörtlüsüne bağlı.
 - **Modül 9 — Reklam Filmleri ✅:** `astrid-reklam-filmleri.md`. Süre kısıtı, ilk 2-3 saniye kuralı, klasik yapılar (problem-çözüm/lifestyle/tanıklık/hero shot), marka/logo zamanlaması, sonic branding, format farkları (TVC/dijital/branded content), tarihsel dönüm noktaları (Bulova 1941, Apple "1984"/Ridley Scott). Claudia/Cloud One'ın en doğrudan uygulama alanı.
 - **Modül 10 — Lensler ve Açılar ✅:** `astrid-lens-ve-acilar.md`. Odak uzaklığı spektrumu, diyafram/alan derinliği, anamorfik lens, lens bozulması; açıların duygusu (alçak/yüksek/Dutch/POV); optik + açının birlikte okunması (çekim listesine ikisi birlikte girer).
-- **Modül 11+ — Yönetmen Profilleri (AÇIK, Ayhan isim verecek):** Spesifik yönetmenlerin stil/yaklaşım/yöntemleri — Ayhan isimleri verince kurulur. Modül 1-10'un sözlüğü (ışık/kamera/renk/ses/tür/reklam/lens) buraya referans tabanı olacak.
+- **Modül 11 — Yönetmen Profilleri + Reklam Ajansı Dili ✅:** `astrid-yonetmen-profilleri.md`. 7 yönetmen (Tarantino, Wes Anderson, Nolan, Villeneuve, Lanthimos, Lynch, Scorsese) + 2 reklam ajansı (Wieden+Kennedy, 72andSunny) — Modül 1-10'un sözlüğü isimlere bağlandı, genişletilmiş pratik sözlük tablosu eklendi.
+- **Modül 12+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
 
 ---
 

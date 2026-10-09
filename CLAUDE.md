@@ -103,6 +103,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-tur-sinemasi.md** — Modül 8: tür sineması konvansiyonları (western/noir/korku/sci-fi/editorial-moda), ışık+kamera+renk+ses dörtlüsüne bağlı.
 - **astrid-reklam-filmleri.md** — Modül 9: reklam filmi disiplini (süre kısıtı, ilk 2-3 sn kuralı, klasik yapılar, marka zamanlaması) + tarihsel dönüm noktaları (Bulova 1941, Apple "1984"). Claudia/Cloud One'ın en doğrudan uygulama alanı.
 - **astrid-lens-ve-acilar.md** — Modül 10: lens optik bilgisi (odak uzaklığı, diyafram, anamorfik, bozulma) + açıların duygusu (alçak/yüksek/Dutch/POV) — optik + açı birlikte okunur.
+- **astrid-yonetmen-profilleri.md** — Modül 11: 7 yönetmen (Tarantino/Wes Anderson/Nolan/Villeneuve/Lanthimos/Lynch/Scorsese) + 2 reklam ajansı (Wieden+Kennedy/72andSunny) — Modül 1-10'un sözlüğü isimlere bağlı, genişletilmiş pratik sözlük.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
