@@ -4,7 +4,7 @@
 ---
 
 ## TEMEL PARADOKS: KUSURSUZLUK BİR DEZAVANTAJ
-Sinemada/moda fotoğrafçılığında (Modül 3, 10, 12) kontrol ve üretim değeri aranır. UGC/Reels dünyasında **tam tersi** — ham, telefonla çekilmiş içerik, profesyonel üretimden **daha iyi performans gösteriyor.** Doğrulanmış veri: UGC-tarzı videolar geleneksel influencer içeriğine göre **%217 daha fazla lead** üretiyor, **lead başına maliyeti %45** düşürüyor.
+Sinemada/moda fotoğrafçılığında (Modül 3, 10, 12) kontrol ve üretim değeri aranır. UGC/Reels dünyasında **tam tersi** — ham, telefonla çekilmiş içerik, profesyonel üretimden **daha iyi performans gösteriyor.** Örnek veri (Denetmen düzeltmesi, 10 Ekim 2026): bir ajansın (Superside) kendi vaka çalışmasında UGC-tarzı videolar geleneksel influencer içeriğine göre **%217 daha fazla lead** üretti, **lead başına maliyeti %45** düşürdü — bu **tek bir vaka çalışmasının sonucu**, pazarlama bloglarında tekrarlanarak genel endüstri istatistiği gibi dolaşıyor olsa da **evrensel bir ortalama değil.** Yön (ham>kusursuz) tutarlı bir örüntü olarak başka kaynaklarda da tekrarlanıyor, ama bu spesifik rakamları "sektör ortalaması" diye bir müşteriye sunma — "örnek vaka" diye çerçevele.
 
 **Ama bu "kusursuzluk yok" demek değil** — Modül 12'deki Lindbergh dersiyle aynı mantık: **doğallık kendisi bir zanaat.** Sahte/zorlama "amatör" his, gerçek amatör içerikten daha kötü performans gösterir. Hedef, **inandırıcı doğallık** — kusursuz kusur.
 
@@ -40,4 +40,4 @@ Higgsfield gibi araçlar **varsayılan olarak kusursuza/parlak üretime** eğili
 - Cloud One/Claudia projesinde bu, **ikinci bir kayıt** olarak düşünülebilir: tenis kort fotoğrafı (editorial/kampanya) yanında, aynı ürünün UGC-tarzı, Claudia'nın "günlük" bir anını yakalayan bir Reels versiyonu — iki farklı disiplin, aynı marka.
 
 ---
-*Modül 15 v1 · 10 Ekim 2026 · Fox · Astrid Nilsen'in agent dosyasında ÖN KOŞUL olarak referans verilir. Veriler (%217 lead, %45 CPL) WebSearch ile doğrulandı, 2026 kaynaklı.*
+*Modül 15 v1 (10 Ekim 2026) → v1.1 (10 Ekim 2026, Denetmen düzeltmesi: %217/%45 verisi tek vaka çalışması olarak yeniden çerçevelendi, evrensel istatistik gibi sunulmaktan çıkarıldı) · Fox · Astrid Nilsen'in agent dosyasında ÖN KOŞUL olarak referans verilir.*

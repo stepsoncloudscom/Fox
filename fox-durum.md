@@ -27,6 +27,7 @@
 - 🔴 Hasta görseli/sosyal medya kategori-kapalı (S11 cevapsız) — yeni bulgu, 29 Eyl.
 - ⚠️ Nakit Motoru sessizce durdu (12 Eyl ölçüldü) — hâlâ çözülmedi.
 - ⚠️ Üretici marka/IP: metin katmanı kapandı (14 Eyl), görsel dosya adı/slug/SKU katmanı açık.
+- ⚠️ **Astrid Nilsen Denetmen incelemesi (10 Eki, gece):** 2 faktüel hata düzeltildi (Helly Hansen yaşı, UGC istatistiği çerçevesi). **Eskalasyon:** Astrid kendi dosyasında Denetmen döngüsünden muaf tutulmuş (§7'ye aykırı, kim onayladı belirsiz) + Kademe sınıflandırması/tool scope Ayhan onayı bekliyor — 09:03 brifinginde detay.
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
