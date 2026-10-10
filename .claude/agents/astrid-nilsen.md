@@ -48,6 +48,7 @@ Marka Bulutu OS'un diğer ajanları (İçerik, Branding, Growth…) **müşterin
 - **Modül 20 — Film Okuma ve Analiz Yöntemi ✅:** `astrid-film-okuma-analiz-yontemi.md`. Dört okuma katmanı (biçimsel/anlatısal/tematik/bağlamsal), auteur teorisi, motif avcılığı, 6 adımlı yazılı analiz iskeleti.
 - **Modül 21 — Derinlemesine İnceleme: *La Bête* (2023) ✅:** `astrid-la-bete-2023-inceleme.md`. Modül 20'nin yönteminin uygulamalı örneği — Bonello/Seydoux/MacKay, Henry James uyarlaması, üç zaman dilimi, eleştirel karşılama (iki taraflı, dürüst).
 - **Modül 22 — AI Film Yapımı: Gerçek Örnekler ✅:** `astrid-ai-film-yapimi-gercek-ornekler.md`. AI'a özel festival ekosistemi (AIFFI, Reply AI Film Festival) + Cannes'ın "Hybrid Cinema" kategorisi (2026, insan+AI ortak yazarlık) — Ayhan'ın kendi AI Director tezinin endüstri karşılığı.
+- **Sentez (Modül 18-22 tekrar/pekiştirme) ✅:** `astrid-sinema-kanonu-sentez.md`. 5 modülü bağlantı haritasıyla birleştirir, en kritik rakamları ikinci kez doğrular, 3 pratik sentez sorusu verir. Ayhan'ın "tekrar araştır ve tekrarla" talimatına karşılık.
 - **Modül 23+ (AÇIK):** Yeni yönetmen/ajans/konu geldikçe eklenir.
 
 ---

@@ -7,7 +7,7 @@
 Bir kadın, 2044'te duyguların tehdit sayıldığı bir dünyada DNA'sını "arındırıp" geçmiş yaşamlarının anılarından kurtulmaya karar verir — ama bu süreçte, yüzyıl boyunca farklı kılıklarda tekrar eden aynı adama duyduğu aşk ve korkuyla yeniden karşılaşır.
 
 ## 2 · YAPIM BİLGİSİ
-**Yönetmen/senarist:** Bertrand Bonello (Fransa). **Oyuncular:** Léa Seydoux (Gabrielle), George MacKay (Louis). **Kaynak:** Henry James'in 1903 novellası *"The Beast in the Jungle"* — gevşek uyarlama, Bonello protagonisti erkekten (James'in orijinalinde John) kadına çevirmiş. **Prömiyer:** Venedik Film Festivali, 2023.
+**Yönetmen/senarist:** Bertrand Bonello (Fransa). **Oyuncular:** Léa Seydoux (Gabrielle), George MacKay (Louis). **Kaynak:** Henry James'in 1903 novellası *"The Beast in the Jungle"* — gevşek uyarlama, Bonello protagonisti erkekten (James'in orijinalinde John) kadına çevirmiş. **Prömiyer:** 3 Eylül 2023, 80. Venedik Film Festivali **ana yarışma** bölümü (dünya prömiyeri) — Golden Lion'ı kazanamadı (o yıl *Poor Things*/Lanthimos kazandı, Modül 18), ama resmi yarışmanın bir parçasıydı, yarışma-dışı değil.
 
 ## 3 · BİÇİMSEL GÖZLEM
 Film **üç zaman dilimine** bölünmüş üçlemedir — 1910 (Belle Époque Paris), 2014 (günümüz Los Angeles), 2044 (yapay zekânın yönettiği distopik gelecek). Yapı, *Cloud Atlas* (2012) filmindeki reenkarnasyon-anlatısını andırıyor. Her dönem **kendi türünde** çalışıyor (dönem draması, gerilim/trajedi, bilim kurgu) — tek bir tutarlı görsel dil değil, **üç ayrı register**, Modül 8'deki tür dilinin bilinçli olarak üçe bölünmüş hali.

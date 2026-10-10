@@ -115,6 +115,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-film-okuma-analiz-yontemi.md** — Modül 20: dört okuma katmanı, auteur teorisi, 6 adımlı analiz iskeleti.
 - **astrid-la-bete-2023-inceleme.md** — Modül 21: *La Bête* (2023, Bonello) derin inceleme — Modül 20 yönteminin uygulamalı örneği.
 - **astrid-ai-film-yapimi-gercek-ornekler.md** — Modül 22: AI'a özel festival ekosistemi + Cannes'ın "Hybrid Cinema" kategorisi (2026) — Ayhan'ın AI Director tezinin endüstri karşılığı.
+- **astrid-sinema-kanonu-sentez.md** — Modül 18-22 tekrar/pekiştirme sentezi: bağlantı haritası, rakamların ikinci doğrulaması, 3 pratik sentez sorusu.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
