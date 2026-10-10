@@ -1,6 +1,6 @@
 # Fox — DURUM / Kaldığımız Yer
 
-**Son güncelleme: 10 Ekim 2026**
+**Son güncelleme: 11 Ekim 2026**
 **Kural: 40 satır tavanı.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
@@ -12,7 +12,7 @@
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) artık fiilen kamuya açık olabilir. **Ayhan talimatı: o sormadan gündeme getirilmez** — bu satır yalnız süreklilik kaydı. | (bekletiliyor) | Ayhan |
 | · Ürün hatları (Levitate 13 + Össur 109) · Protezler anlatı sayfaları (9) · Yürüme Analizi | Değişmedi — detay: `raporlar/oturum-gunlugu.md` + 14 Eyl kayıtları | Teknik teyitler Özgür Bey'de, ayıklama/metin Ayhan'da | Ayhan |
 | **Steps On Clouds** | 🔴 ölçüldü 25 Ağu — canlı yanlış bilgi, blog 10 ay ölü | 4 karar Ayhan'da (plan: `soc-durum-ve-aksiyon-plani`) | Ayhan |
-| **AI Director / Claudia** 🟢 10 Eki | Astrid Nilsen (Yardımcı Yönetmen) kuruldu, 17 gelişim modülü tamam (`.claude/agents/astrid-nilsen.md`) — sinema/sanat tarihi, AI gerçekçiliği (öncelikli), moda fotoğrafçılığı, spor marka segmentasyonu | **Ekim sonu ilk test üretimi** (Ayhan termin verdi, 10 Eki) — önce kıyafet/stil + ilk sahne kırılımı | Ayhan+Fox |
+| **AI Director / Claudia** 🟢 11 Eki | Astrid Nilsen kuruldu + Denetmen'den geçti (2 faktüel düzeltme, tool scope daraltıldı, kendi muafiyeti kaldırıldı — hepsi kapandı) | **Ekim sonu ilk test üretimi** — önce kıyafet/stil + ilk sahne kırılımı | Ayhan+Fox |
 | · Moda Edisyonu Satış Paketi v2 | Fiyat/portföy/termin/içerik hacmi geldi, EK B kapandı (`raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`) | **Denetmen re-check** — rakamlı sürüm hiç onaylanmadı | Fox |
 | **Park halinde** | Orhan kart oyunu · Marka Bulutu OS iskeleti | — | Ayhan |
 
@@ -27,7 +27,6 @@
 - 🔴 Hasta görseli/sosyal medya kategori-kapalı (S11 cevapsız) — yeni bulgu, 29 Eyl.
 - ⚠️ Nakit Motoru sessizce durdu (12 Eyl ölçüldü) — hâlâ çözülmedi.
 - ⚠️ Üretici marka/IP: metin katmanı kapandı (14 Eyl), görsel dosya adı/slug/SKU katmanı açık.
-- ⚠️ **Astrid Nilsen Denetmen incelemesi (10 Eki, gece):** 2 faktüel hata düzeltildi (Helly Hansen yaşı, UGC istatistiği çerçevesi). **Eskalasyon:** Astrid kendi dosyasında Denetmen döngüsünden muaf tutulmuş (§7'ye aykırı, kim onayladı belirsiz) + Kademe sınıflandırması/tool scope Ayhan onayı bekliyor — 09:03 brifinginde detay.
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
