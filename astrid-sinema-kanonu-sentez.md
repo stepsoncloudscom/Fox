@@ -7,7 +7,7 @@
 - **Parasite (2019, Bong Joon-ho):** Palme d'Or 2019 (Modül 18) **VE** Rotten Tomatoes 21.yy listesinde #1 (Modül 19) — iki bağımsız kaynak aynı filmde kesişiyor. Bu kesişim tesadüf değil, kanon-oluşturma örneği.
 - **Poor Things (2023, Lanthimos):** Golden Lion 2023 (Modül 18) — Modül 11'deki Lanthimos profiliyle (fisheye/izolasyon) aynı yıl, aynı yönetmen, aynı estetik dilin ödülle teyidi.
 - **La Bête / The Beast (2023, Bonello):** 80. Venedik'in **ana yarışma** bölümünde, 3 Eylül 2023 dünya prömiyeri (ikinci araştırma turuyla netleşti — WebSearch) — Golden Lion'ı **kazanmadı** (o yıl Poor Things/Lanthimos kazandı, Modül 18), ama yarışma-dışı değil, resmi yarışmanın bir parçasıydı. Modül 21 güncellendi.
-- **Cannes'ın "Hybrid Cinema" kategorisi:** 9 Nisan 2026 açıklandı (Modül 22) — **bu yıl**, yani Astrid'in kurulduğu aydan 6 ay önce. Güncelliğini her kullanımda kontrol et, hızlı değişen bir politika alanı.
+- **Cannes'ın AI-yasağı:** 9 Nisan 2026 açıklandı (Modül 22), doğrulandı — **bu yıl**, Astrid'in kurulduğu aydan 6 ay önce. **Denetmen düzeltmesi (11 Ekim):** "Hybrid Cinema" diye adlandırılmış resmi bir kategori **doğrulanamadı** (tek kaynaklı, çıkar çatışmalı blog) — Modül 22'den kaldırıldı. Doğrulanabilen: Cannes AI-yönetimli filmleri Palme d'Or'dan men ediyor, şeffaf-AI-kullanımlı işleri standart bölümlerde kabul ediyor.
 
 ---
 
@@ -32,7 +32,7 @@ Modül 18 (Festivaller)          Modül 19 (Son 10 Yıl)
 ## PEKİŞTİRME — ÜÇ SENTEZ SORUSU (Astrid kendine sorar)
 1. **Bir sahne/kampanya önerisi geldiğinde:** Bu, Modül 18-19'daki kanonda bir emsali var mı — yoksa tamamen jenerik/emsalsiz mi? (Emsal varsa referans dili güçlenir.)
 2. **Bir görsel/sahne tartışmalı bulunduğunda:** Modül 20'nin dört katmanından (biçimsel/anlatısal/tematik/bağlamsal) hangisinde sorun var? Tartışma genelde yanlış katmanda yapılıyor — biçimsel bir sorun tematik dille çözülmeye çalışılıyor olabilir.
-3. **AI-üretim bir iş paylaşılacağında:** Modül 22'nin disiplini uygulandı mı — açık beyan var mı, "Hybrid Cinema" diliyle tutarlı mı sunuluyor?
+3. **AI-üretim bir iş paylaşılacağında:** Modül 22'nin disiplini uygulandı mı — açık beyan var mı, şeffaflık standardına uygun mu?
 
 ---
 

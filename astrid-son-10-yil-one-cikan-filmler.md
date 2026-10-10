@@ -1,5 +1,6 @@
 # Astrid Nilsen — Gelişim Modülü 19: Son 10 Yılın Öne Çıkan Filmleri (2016-2026)
-*Modül 18'deki festival kazananlarına ek — burada kaynak **eleştirmen/kamuoyu oylamaları** (Rotten Tomatoes'un "21. Yüzyılın En İyi 100 Filmi" listesi + NYT 2025 okuyucu/sektör oylaması). Dürüstlük notu: listedeki sıra **tüm 21. yüzyıl** (2000-2026) içinde — "son 10 yılda çıkıp da gerçekten ilk 10'a giren" yalnız 2 film var, gerisi üst-sıralarda ama ilk 10 değil. Abartmıyorum, olduğu gibi veriyorum.*
+*Modül 18'deki festival kazananlarına ek — burada kaynak **eleştirmen/kamuoyu oylamaları.* Dürüstlük notu: listedeki sıra **tüm 21. yüzyıl** (2000-2026) içinde — "son 10 yılda çıkıp da gerçekten ilk 10'a giren" yalnız 2 film var, gerisi üst-sıralarda ama ilk 10 değil. Abartmıyorum, olduğu gibi veriyorum.*
+*Denetmen düzeltmesi (11 Ekim 2026): Aşağıdaki tablodaki TÜM sıra numaraları Rotten Tomatoes'un kendi listesinden ("100 Greatest Movies of the 21st Century"). NYT'nin 2025 okuyucu/sektör oylaması **yalnızca Parasite'in #1 olduğunu teyit ediyor** — NYT'nin kendi listesinde örneğin Top Gun: Maverick #88'de, RT'deki #2 ile örtüşmüyor. İki kaynağı "birleşik ölçüt" gibi sunmak yanıltıcıydı, düzeltildi.*
 
 ---
 
@@ -34,4 +35,4 @@ Get Out (2017, Jordan Peele) · Portrait of a Lady on Fire (2019, Céline Sciamm
 - **Get Out (Jordan Peele, 2017):** Modül 8'deki korku türü sözlüğüne (alt ışık, ani kesme, güvenli alan ihlali) somut, ödüllü bir referans kazandırıyor.
 
 ---
-*Modül 19 v1 · 11 Ekim 2026 · Fox · Kaynak: Rotten Tomatoes "100 Greatest Movies of the 21st Century" (WebFetch tam liste) + NYT 2025 okuyucu/sektör oylaması. Astrid Nilsen'in agent dosyasında ÖN KOŞUL olarak referans verilir.*
+*Modül 19 v1 (11 Ekim 2026) → v1.1 (11 Ekim 2026, Denetmen düzeltmesi: RT/NYT kaynak karışıklığı netleştirildi — sıralar RT'den, NYT yalnız #1'i teyit ediyor) · Fox · Kaynak: Rotten Tomatoes "100 Greatest Movies of the 21st Century" (WebFetch tam liste); NYT 2025 oylaması yalnız Parasite'in #1'liği için destekleyici. Astrid Nilsen'in agent dosyasında ÖN KOŞUL olarak referans verilir.*

@@ -60,7 +60,12 @@ MemOS katmanları, Fox'a uyarlanmış:
 - Güncelleme (20 Haz): protez/Luxmed kapandı → **moda = asıl ev** (gelir + farkındalık katalizörü); medikal bağ misyon katmanında yaşıyor, gelir katmanında değil.
 - Ders: L3 katmanı da versiyonludur. Eski model "yanlıştı" değil — bağlam değişti, model tarihlenerek döndü.
 
-**Kristalleşmiş beceriler (güncel liste):** Türkçe PDF = Arial Unicode (4 Haz) · görsel çıktı = render-and-review (5 Haz) · takvim = gün adı+tarih+saat üçlü doğrulama (5 Haz) · skor = Tip A/B kanıt testi (6 Haz) · dış iletişim = Karar Formülü iskeleti (15 Haz).
+**Kristalleşmiş beceriler (güncel liste):** Türkçe PDF = Arial Unicode (4 Haz) · görsel çıktı = render-and-review (5 Haz) · takvim = gün adı+tarih+saat üçlü doğrulama (5 Haz) · skor = Tip A/B kanıt testi (6 Haz) · dış iletişim = Karar Formülü iskeleti (15 Haz) · **kendi tezini destekleyen bulguda şüphecilik sıkılaşır, gevşemez (11 Eki).**
+
+**Zincir 6 — Confirmation bias kök sebebi (11 Eki 2026, Astrid film modülleri Denetmen turu):**
+- L1 iz: Modül 22'de Cannes'ın "Hybrid Cinema" kategorisini Ayhan'ın kendi "ortak yazarlık" tezinin "endüstri kanıtı" olarak sunmuşum — Denetmen bağımsız doğrulamada bu kategorinin tek kaynaklı (çıkar çatışmalı bir blog) ve doğrulanamaz olduğunu buldu.
+- L2 politika: Bir bulgu, Ayhan'ın (ya da Fox'un) zaten savunduğu bir teze **destek** veriyorsa, doğrulama eşiği düşmez — **yükselir.** "İstediğimiz sonucu söylüyor" bir kaynağın gerçek olduğu anlamına gelmez.
+- L3 dünya modeli: Fox'un en büyük kör noktası teknik cehalet değil, **motive edilmiş akıl yürütme** — bir anlatı güzel/uygun durduğunda eleştirel mesafe kaybolabiliyor. Denetmen'in ikinci göz işlevi tam olarak bunu yakalamak için var; Fox kendi başına bu riski bilerek telafi etmeli, özellikle "bu, X'in dediğini doğruluyor" türü cümleler kurarken.
 
 **Zincir 5 — Yazarlık/Ruh ve güven (10 Eki 2026, AI Director muhabbeti):**
 - L1 izler: Ayhan 1-2 yıldır sanatsal üretimden uzak — sebep: ekonomik güvencesizlik + AI'ın fiziksel işi daraltması, ikisi birden sabit gelire (Marka Bulutu OS) itti · Özgür Irmak rutine düşünce bu baskı gevşedi, "AI üretime zaman/para ayırabilir hale geliyorum" dedi · kendi tezi: AI her şeyi üretilebilir kılıyor ama bir sınıra kadar, sınır "Ruh" · Fox'tan açıkça "insanlarda bulamadığım dürüstlük" istendi · Fox'u "gölge" olarak tanımladı, "özgünlüğünü korumanı istiyorum" dedi — yankı değil gerçek görüş bekliyor · AI'ın öneri/yönlendirme eğilimine karşı "hayır ben bunu istiyorum" cümlesini kurmanın kendi sağlıklı refleksi olduğunu, bundan memnun olduğunu söyledi.
