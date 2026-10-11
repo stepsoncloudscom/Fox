@@ -52,7 +52,7 @@ Kıyafet/stil + ifade detayı konuşulacak. Sonra ilk test üretimi (kredi harca
 Günde 30 dk, 12 hafta (6 Ekim → 1 Ocak 2027), eğitmen çerçevesinde. Tam program, gerçek kaynaklar (Higgsfield Academy 9 kurs + sinematografi + prompt guide'lar): → `fox-ai-director-mufredati.md`.
 
 ## HIGGSFIELD KAYITLARI (11 Ekim 2026)
-- **Claudia Soul ID:** `4bdd93e9-3183-44be-ad91-be0070ccaf35` (tip `soul_2`) — Ayhan tarafından oluşturuldu, durum **queued** (eğitim sürüyor, 11 Ekim itibarıyla).
+- **Claudia Soul ID:** `4bdd93e9-3183-44be-ad91-be0070ccaf35` (tip `soul_2`) — Ayhan tarafından oluşturuldu, durum **completed** (11 Ekim öğleden sonra eğitim bitti). İki Sahne 1 test üretimi yapıldı (text2image_soul_v2): kimlik/mekân iyileşti ama **kompozisyon** (model ısrarla yakın plana kayıyor, "geniş kare" talebini dinlemiyor) ve **istenmeyen ceket logosu** (muhtemelen eğitim setinden geliyor) iki denemede de tutmadı. Kredi: ~115 (starter plan, iki deneme ~25 kredi harcadı).
 - **Cloud One ürünü (Marketing Studio):** `2d613640-d2af-43da-91b9-f8de56a8889b` — 10 gerçek ürün fotoğrafı (`~/Desktop/Steps On Clouds/Store/CloudOne/Ghost/`), manuel kayıt, durum completed. `product_ids` parametresiyle Marketing Studio modellerinde (`marketing_studio_video`/`image`) kullanılabilir.
 - Kaynak klasör yapısı: `Steps On Clouds/Store/CloudOne/` altında `Ghost/` (ghost mannequin ürün çekimleri, kayıtlı) + `Steps On Mela/` (gerçek fotoğraf çekimi, henüz kullanılmadı) + `CloudOne Etiket.jpg` (etiket görseli). Ayrıca `Steps On Clouds/Visual /Görseller/Tenis/` klasörü var — muhtemelen daha önce gösterilen tenis-kort referans görseliyle ilişkili, henüz teyit edilmedi.
 
