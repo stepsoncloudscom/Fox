@@ -1,6 +1,19 @@
 # Claudia × Cloud One — 7 Sahne, Final Prompt Seti
 *11 Ekim 2026 · Ayhan talimatı: "tüm öğrendiklerinle her kare için ayrı prompt çıkart. her kare için karakter, mekan ve kıyafetler aynı olsun." Bu dosya o çıktı — henüz ÜRETİLMEDİ, hepsi taslak. Ateşleme tek tek Kademe 2 (Ayhan onayı).*
 
+## TÜM SERİ ÜRETİLDİ (11 Ekim, Sahne 2-7, job'lar: f6971eff/cdb1c10d/9f010366/ba5a318a/ee27d468/1428710e) — 14.4 kredi, kalan 92.4
+
+**Genel değerlendirme:** Sahne 2/3/6/7 temiz, brief'i karşılıyor. Sahne 5'in servis pozu bu kez gerçekten düzeldi (kol baş üstünde, önceki forehand-gibi hatası çözüldü).
+
+**İki yeni bulgu (dürüst, önceki Babolat-metin dersiyle aynı disiplin):**
+1. **Sahne 4'te kort çizgisi zikzak/dalgalı render edilmiş** — düz olması gereken beyaz çizgi eli titrek çizilmiş gibi duruyor, gerçekçi değil. Düzeltme gerekiyorsa yeniden üretim gerekir.
+2. **Ayakkabı logosu sahneler arası tutarsız:** Sahne 2-3'te küçük/sade bir işaret, Sahne 4-7'de çok daha büyük/belirgin bir "alev" grafiği — aynı ayakkabı değilmiş gibi duruyor, süreklilik sorunu.
+3. **İstenmeyen üçüncü taraf marka sızıntısı:** Raket Sahne 3/4/5/6/7'de tutarlı şekilde eski/ahşap görünümlü, ve en az bir karede (Sahne 5) boğazında "...ilson" okunan bir yazı seçiliyor — büyük ihtimalle gerçek "Wilson" markası, hiç istenmedi/onaylanmadı, modelin kendi eğilimi. Babolat ayakkabı kararına paralel bir durum — şu an bilgin olsun, blok değil.
+
+Bunlar şimdilik **bilgilendirme**, hiçbiri yeniden üretimi otomatik tetiklemiyor — karar Ayhan'da.
+
+---
+
 ## SAHNE 1 — üretildi, onaylı (11 Ekim, job `ebed3000`)
 Kompozisyon sorunu **çözüldü** — Claudia artık yakın plana çökmüyor, geniş kort/tribün hakim, tam boy görünür (hedeflenen %15-20 kadar küçük değil ama net bir iyileşme). Elbise/çorap doğru. **Bulunan gerçek sorun:** ayakkabıdaki "Babolat" yazısı bozuk render edilmiş ("Babolit" gibi okunuyor, metin garbling — AI'ın bilinen zayıflığı), yalnızca dijital yakınlaştırmada görülüyor, normal boyutta fark edilmiyor. Aşağıdaki tüm promptlardan **okunur marka yazısı talebi çıkarıldı** (yalnız logo şekli/rengi isteniyor artık) — bu riski 2-7 sahnelerde tekrarlamamak için. Sahne 1'in kendisi bu haliyle kabul edilebilir (yazı normal görünümde seçilmiyor) ya da düzeltilmiş promptla tekrar üretilebilir — Ayhan'ın kararı.
 
