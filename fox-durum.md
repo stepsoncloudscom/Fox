@@ -12,7 +12,8 @@
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) artık fiilen kamuya açık olabilir. **Ayhan talimatı: o sormadan gündeme getirilmez** — bu satır yalnız süreklilik kaydı. | (bekletiliyor) | Ayhan |
 | · Ürün hatları (Levitate 13 + Össur 109) · Protezler anlatı sayfaları (9) · Yürüme Analizi | Değişmedi — detay: `raporlar/oturum-gunlugu.md` + 14 Eyl kayıtları | Teknik teyitler Özgür Bey'de, ayıklama/metin Ayhan'da | Ayhan |
 | **Steps On Clouds** | 🔴 ölçüldü 25 Ağu — canlı yanlış bilgi, blog 10 ay ölü | 4 karar Ayhan'da (plan: `soc-durum-ve-aksiyon-plani`) | Ayhan |
-| **AI Director / Claudia** 🟢 11 Eki | 7 sahnelik tenis serisi **tamamlandı** — hepsi üretildi, `fox-claudia-cloudone-7-sahne-prompt-seti.md`'de kayıtlı. Sahne 5'in servis pozu düzeldi. 2 açık bulgu: Sahne 4'te kort çizgisi zikzak render edilmiş, ayakkabı logosu sahneler arası tutarsız (2-3 küçük, 4-7 büyük) + istenmeyen "Wilson" marka sızıntısı rakette (Sahne 5). ~106→92.4 kredi (14.4 harcandı). | **Ayhan kararı:** seriyi bu haliyle kabul mü, yoksa Sahne 4 + ayakkabı tutarlılığı düzeltilsin mi | Ayhan |
+| **AI Director / Claudia** 🟢 11 Eki | 7 sahnelik tenis serisi **tamamlandı ve tutarlı** — ayakkabı için tek referans görsel üretilip (yüz+ürün gibi) 3. sabit referans olarak kilitlendi, Sahne 4'ün zikzak çizgisi + raket marka sızıntısı (Wilson) düzeltildi. `fox-claudia-cloudone-7-sahne-prompt-seti.md`'de kayıtlı. | — (seri kapandı) | — |
+| **🔴 Higgsfield kredi** | 3. referans eklemek üretim maliyetini ~3-4 kat artırdı (2-2.7→~9.2 kredi/üretim). **18.9 kredi kaldı**, starter plan sonuna yakın. | Yeni üretim öncesi plan/kredi kararı | Ayhan |
 | · Moda Edisyonu Satış Paketi v2 | Fiyat/portföy/termin/içerik hacmi geldi, EK B kapandı (`raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`) | **Denetmen re-check** — rakamlı sürüm hiç onaylanmadı | Fox |
 | **Park halinde** | Orhan kart oyunu · Marka Bulutu OS iskeleti | — | Ayhan |
 
