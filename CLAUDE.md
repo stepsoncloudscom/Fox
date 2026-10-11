@@ -114,8 +114,9 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-son-10-yil-one-cikan-filmler.md** — Modül 19: 2016-2026 kritik-sıralı filmler (Rotten Tomatoes 21.yy listesi + NYT 2025), gerçek ilk 10 dürüstçe ayrıştırıldı.
 - **astrid-film-okuma-analiz-yontemi.md** — Modül 20: dört okuma katmanı, auteur teorisi, 6 adımlı analiz iskeleti.
 - **astrid-la-bete-2023-inceleme.md** — Modül 21: *La Bête* (2023, Bonello) derin inceleme — Modül 20 yönteminin uygulamalı örneği.
-- **astrid-ai-film-yapimi-gercek-ornekler.md** — Modül 22: AI'a özel festival ekosistemi + Cannes'ın "Hybrid Cinema" kategorisi (2026) — Ayhan'ın AI Director tezinin endüstri karşılığı.
+- **astrid-ai-film-yapimi-gercek-ornekler.md** — Modül 22: AI'a özel festival ekosistemi + Cannes'ın AI-yönetimli filmleri Palme d'Or'dan men etme kararı (9 Nisan 2026) — Ayhan'ın AI Director tezinin endüstri karşılığı. ("Hybrid Cinema" kategorisi iddiası Denetmen'de doğrulanamadı, kaldırıldı — 11 Eki.)
 - **astrid-sinema-kanonu-sentez.md** — Modül 18-22 tekrar/pekiştirme sentezi: bağlantı haritası, rakamların ikinci doğrulaması, 3 pratik sentez sorusu.
+- **fox-claudia-cloudone-7-sahne-prompt-seti.md** — Claudia×Cloud One 7 sahnelik serinin final prompt seti (nano_banana_pro, kilitli karakter/kıyafet/mekân blokları, Babolat ayakkabı dahil). Hepsi taslak, ateşleme Kademe 2.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular

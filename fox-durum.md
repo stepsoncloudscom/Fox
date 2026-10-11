@@ -12,7 +12,7 @@
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) artık fiilen kamuya açık olabilir. **Ayhan talimatı: o sormadan gündeme getirilmez** — bu satır yalnız süreklilik kaydı. | (bekletiliyor) | Ayhan |
 | · Ürün hatları (Levitate 13 + Össur 109) · Protezler anlatı sayfaları (9) · Yürüme Analizi | Değişmedi — detay: `raporlar/oturum-gunlugu.md` + 14 Eyl kayıtları | Teknik teyitler Özgür Bey'de, ayıklama/metin Ayhan'da | Ayhan |
 | **Steps On Clouds** | 🔴 ölçüldü 25 Ağu — canlı yanlış bilgi, blog 10 ay ölü | 4 karar Ayhan'da (plan: `soc-durum-ve-aksiyon-plani`) | Ayhan |
-| **AI Director / Claudia** 🟢 11 Eki | Astrid Nilsen kuruldu + Denetmen'den geçti (2 faktüel düzeltme, tool scope daraltıldı, kendi muafiyeti kaldırıldı — hepsi kapandı) | **Ekim sonu ilk test üretimi** — önce kıyafet/stil + ilk sahne kırılımı | Ayhan+Fox |
+| **AI Director / Claudia** 🟡 11 Eki | Claudia Soul ID + Cloud One ürünü Higgsfield'a kayıtlı. 7 sahnelik tenis hikayesi üretimde: Sahne 1/2/4 onaylı, Sahne 3 3 sorunla bayraklı (seri sonunda düzeltilecek), Sahne 5 kıyafet temiz ama servis pozu brief'i karşılamıyor. Ayhan: "her sahne aynı karakter/mekân/kıyafet + Babolat ayakkabı" → 7 sahnenin hepsi `nano_banana_pro` ile yeniden yazıldı, kilitli bloklarla: `fox-claudia-cloudone-7-sahne-prompt-seti.md`. | **Ayhan onayı: hangi sahne(ler) ateşlensin** (öneri: önce Sahne 1 tek başına, kompozisyon riski) | Ayhan |
 | · Moda Edisyonu Satış Paketi v2 | Fiyat/portföy/termin/içerik hacmi geldi, EK B kapandı (`raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`) | **Denetmen re-check** — rakamlı sürüm hiç onaylanmadı | Fox |
 | **Park halinde** | Orhan kart oyunu · Marka Bulutu OS iskeleti | — | Ayhan |
 
