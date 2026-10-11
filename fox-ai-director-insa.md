@@ -51,6 +51,11 @@ Kıyafet/stil + ifade detayı konuşulacak. Sonra ilk test üretimi (kredi harca
 ## MÜFREDAT (6 Ekim 2026 — Ayhan talebiyle kuruldu)
 Günde 30 dk, 12 hafta (6 Ekim → 1 Ocak 2027), eğitmen çerçevesinde. Tam program, gerçek kaynaklar (Higgsfield Academy 9 kurs + sinematografi + prompt guide'lar): → `fox-ai-director-mufredati.md`.
 
+## HIGGSFIELD KAYITLARI (11 Ekim 2026)
+- **Claudia Soul ID:** `4bdd93e9-3183-44be-ad91-be0070ccaf35` (tip `soul_2`) — Ayhan tarafından oluşturuldu, durum **queued** (eğitim sürüyor, 11 Ekim itibarıyla).
+- **Cloud One ürünü (Marketing Studio):** `2d613640-d2af-43da-91b9-f8de56a8889b` — 10 gerçek ürün fotoğrafı (`~/Desktop/Steps On Clouds/Store/CloudOne/Ghost/`), manuel kayıt, durum completed. `product_ids` parametresiyle Marketing Studio modellerinde (`marketing_studio_video`/`image`) kullanılabilir.
+- Kaynak klasör yapısı: `Steps On Clouds/Store/CloudOne/` altında `Ghost/` (ghost mannequin ürün çekimleri, kayıtlı) + `Steps On Mela/` (gerçek fotoğraf çekimi, henüz kullanılmadı) + `CloudOne Etiket.jpg` (etiket görseli). Ayrıca `Steps On Clouds/Visual /Görseller/Tenis/` klasörü var — muhtemelen daha önce gösterilen tenis-kort referans görseliyle ilişkili, henüz teyit edilmedi.
+
 ## YARDIMCI YÖNETMEN — ASTRID NİLSEN (10 Ekim 2026 kuruldu)
 Ayhan'ın (Yönetmen) yürütme kolu — vizyonu sahne kırılımına/çekim listesine çevirir, sürekliliği (Soul ID, kıyafet/mekân/stil) takip eder, prodüksiyon sırasını yönetir. Geleneksel sette ayrı olan AD + Script Supervisor işlevleri Ayhan'ın kararıyla tek ajanda birleşti. Tanım: `.claude/agents/astrid-nilsen.md`.
 
