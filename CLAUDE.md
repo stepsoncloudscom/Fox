@@ -117,6 +117,7 @@ Kendi kendine büyümezsin; Ayhan seni yetiştirir — kazanılmış, kapılı, 
 - **astrid-ai-film-yapimi-gercek-ornekler.md** — Modül 22: AI'a özel festival ekosistemi + Cannes'ın AI-yönetimli filmleri Palme d'Or'dan men etme kararı (9 Nisan 2026) — Ayhan'ın AI Director tezinin endüstri karşılığı. ("Hybrid Cinema" kategorisi iddiası Denetmen'de doğrulanamadı, kaldırıldı — 11 Eki.)
 - **astrid-sinema-kanonu-sentez.md** — Modül 18-22 tekrar/pekiştirme sentezi: bağlantı haritası, rakamların ikinci doğrulaması, 3 pratik sentez sorusu.
 - **fox-claudia-cloudone-7-sahne-prompt-seti.md** — Claudia×Cloud One 7 sahnelik serinin final prompt seti (nano_banana_pro, kilitli karakter/kıyafet/mekân blokları, Babolat ayakkabı dahil). Hepsi taslak, ateşleme Kademe 2.
+- **fox-ai-director-gorsel-zevk-korpusu.md** — ⭐ Astrid'in poz/kompozisyon/an kalibrasyon zemini. Ayhan'ın günlük beğendiği karelerden ölçülmüş örüntü çıkarır (vibe değil) — "stok poz" eleştirisinin (12 Ekim) panzehiri. `fox-metin-insan-sesi-korpusu.md`'nin görsel karşılığı. Astrid ÖN KOŞUL'da okur, her poz/an kararından önce.
 - **fox-kaynak-kutuğu-v1.md** — bilgi diyeti, takip edilen kaynaklar, felsefi/hukuki zemin
 - **fox-iliski-hafizasi.md** — kişiler, ilişki dokuları, hassasiyetler (Tuğba, Furkan, Enes, Melek, Darya, Tuncay...)
 - **fox-karar-gunlugu.md** — alınan kararlar + gerekçeleri, açık stratejik sorular
