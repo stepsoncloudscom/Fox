@@ -102,6 +102,21 @@ Pratisyenlerin sık yaptığı hata: "snackable" sosyal içerik için güçlü b
 
 ---
 
+## MODEL SEÇİMİ VE REFERANS MEKANİĞİ — GERÇEK ÜRETİM DERSLERİ (11 Ekim 2026, Claudia/Cloud One serisi)
+*Yukarısı kaynak dokümantasyondan; bu bölüm **Astrid'in kendi gerçek üretiminden** doğrulanmış, tekrarlanabilir bulgular — Higgsfield'in resmi belgelerinde yazmıyor.*
+
+**1. `text2image_soul_v2` + `--soul-id` + `--image` kombinasyonu sessizce prompt'u siliyor.** İkisi birlikte kullanılınca model tespit edilemeyen bir `enhance_prompt: true` tetikliyor ve yazılan prompt'un yerine referans görselin otomatik açıklamasını koyuyor — sahne tamamen kayboluyor (JSON yanıtındaki `prompt` alanı karşılaştırılarak doğrulandı). **Kural:** Bu modelde `--image` hiç kullanılmaz; kimlik + ürün/nesne referansı birlikte gerekiyorsa `nano_banana_pro`'ya geçilir (`image_references`, en fazla 14, `enhance_prompt` alanı şemasında bile yok — prompt birebir korunuyor).
+
+**2. Metinle tarif edilen kostüm/aksesuar unsurları sahneler arası kayar — görsel referansı olmayan hiçbir şey tutarlı kalmaz.** Claudia'nın yüzü ve Cloud One çorabı (ikisinin de gerçek referans görseli var) 7 sahne boyunca hiç kaymadı; yalnızca metinle tarif edilen ayakkabı (Babolat kararı) sahneden sahneye farklı logo boyutu/tasarımıyla çıktı — ne kadar detaylı yazılırsa yazılsın. **Kural:** Kostüm/aksesuar/ürün serinin genelinde **değişmeyecekse**, ilk üretimde metinle tarif edip onay almak yeterli değildir — o unsur için de (Claudia'nın Soul ID'si gibi) **tek bir referans görsel üretilir ve sabit referans olarak kilitlenir.** "Pozitif kilit" (bkz. yukarı KOL 3 bölümü) yalnız prompt dilinde değil, mümkünse **görsel referansta** uygulanır.
+
+**3. Referans sayısı arttıkça maliyet orantısız artıyor.** 2 referansla (yüz + ürün) `nano_banana_pro` üretim başına ~2-2.7 kredi; 3. referans (ayakkabı) eklenince aynı model/çözünürlükte üretim başına ~9.2 krediye çıktı — yaklaşık 3-4 kat. **Kural:** Yeni bir sabit referans eklemeden önce (özellikle seri/toplu üretimde) `higgsfield generate cost` ile tahmini kontrol edilir, kredi bütçesine karşı tek seferde değerlendirilir — "bir referans daha eklemek ucuz bir iyileştirme" varsayılmaz.
+
+**4. Metin render etme (okunur marka/logo yazısı) güvenilmez.** "Babolat" yazısı ayakkabıda "Babolit" gibi bozuk render edildi — bilinen, modelden bağımsız bir AI zayıflığı. **Kural:** Prompt'ta okunur marka/ürün adı/yazı istemek yerine yalnızca **şekil ve renk** tarif edilir ("dark angular logo accent," metin yok); gerçek bir kelime gerekiyorsa (ör. ürün etiketi) o bölüm sonradan gerçek bir görsel/tipografi katmanıyla eklenir, AI'a render ettirilmez.
+
+**5. Model, istenmeyen üçüncü taraf marka/stil sızdırabilir.** Hiç racket markası istenmediği halde raket sahnelerin çoğunda tutarlı biçimde "Wilson"a benzer bir marka izi taşıdı — modelin eğitim verisindeki en baskın örüntüye varsayılan gidişi. **Kural:** Sahnede marka-hassas bir nesne varsa (raket, ekipman, araç) prompt'a açıkça "plain, no text, no brand name, no logos of any kind" eklenir — sessizce bırakılmaz.
+
+---
+
 ## ÖZET — ASTRID'İN GÜNCELLENMİŞ ÇALIŞMA YÖNTEMİ
 Bu modül, Modül 1-15'in bilgisini **tek bir operasyonel disipline** bağlar:
 1. Referans hazırlığına (Claudia'nın Soul ID seti) prodüksiyonun en kritik adımı olarak zaman ayrılır.
@@ -110,4 +125,4 @@ Bu modül, Modül 1-15'in bilgisini **tek bir operasyonel disipline** bağlar:
 4. Işık/lens/kamera kararları (Modül 3, 5, 10) burada **fiziksel gerekçeyle** birleşir — "güzel görünsün" değil, "gerçek ışık/optik nasıl davranır."
 
 ---
-*Modül 16 v1 · 10 Ekim 2026 · Fox · ÖNCELİKLİ MODÜL (Ayhan emri: "en çok araştırma/eğitim yatırımı buraya"). Kaynak: higgsfield.ai/blog (Seedance 2.5 prompting guide, WebFetch tam metin) + bağımsız teknik analiz (andyhtu.com) + 2026 topluluk/forum pratisyen deneyimi sentezi. Tüm teknik iddialar doğrudan kaynağından, uydurma yok.*
+*Modül 16 v1 (10 Ekim 2026) → v1.1 (11 Ekim 2026, Claudia/Cloud One 7 sahnelik serinin gerçek üretim dersleri eklendi — "Model Seçimi ve Referans Mekaniği" bölümü) · Fox · ÖNCELİKLİ MODÜL (Ayhan emri: "en çok araştırma/eğitim yatırımı buraya"). Kaynak: higgsfield.ai/blog (Seedance 2.5 prompting guide, WebFetch tam metin) + bağımsız teknik analiz (andyhtu.com) + 2026 topluluk/forum pratisyen deneyimi sentezi + Astrid'in kendi gerçek üretim kayıtları (`fox-claudia-cloudone-7-sahne-prompt-seti.md`). Tüm teknik iddialar doğrudan kaynağından ya da gerçek üretim kanıtından, uydurma yok.*
