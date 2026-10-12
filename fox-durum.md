@@ -1,6 +1,6 @@
 # Fox — DURUM / Kaldığımız Yer
 
-**Son güncelleme: 11 Ekim 2026**
+**Son güncelleme: 13 Ekim 2026**
 **Kural: 40 satır tavanı.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
@@ -12,7 +12,8 @@
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) artık fiilen kamuya açık olabilir. **Ayhan talimatı: o sormadan gündeme getirilmez** — bu satır yalnız süreklilik kaydı. | (bekletiliyor) | Ayhan |
 | · Ürün hatları (Levitate 13 + Össur 109) · Protezler anlatı sayfaları (9) · Yürüme Analizi | Değişmedi — detay: `raporlar/oturum-gunlugu.md` + 14 Eyl kayıtları | Teknik teyitler Özgür Bey'de, ayıklama/metin Ayhan'da | Ayhan |
 | **Steps On Clouds** | 🔴 ölçüldü 25 Ağu — canlı yanlış bilgi, blog 10 ay ölü | 4 karar Ayhan'da (plan: `soc-durum-ve-aksiyon-plani`) | Ayhan |
-| **AI Director / Claudia** 🟡 12 Eki, **duraklatıldı** | 7 sahnelik seri teknik olarak tutarlı (ayakkabı 3. referansla kilitli, çizgi/marka sızıntısı düzeltildi) ama Ayhan genel sonuçtan memnun değil: **poz dili "stok" duruyor** — kök sebep teşhis edildi: prompt'lar hareketi değil "hareketi ima eden duruş"u istiyor (ör. Sahne 5'in servisi dengeli/kontrollü, gerçek vuruş anının fiziği yok). Ayhan: "hareketin kendisini vermemiz gerekiyor, öncesi/sonrasını değil." Düzeltme yönü konuşuldu (gerçek hareket bulanıklığı/dengesizlik/efor) ama **"şu an için böyle kalalım, bişey denemeyelim"** — bilinçli duraklatma. | Ayhan yeniden başlatmak isteyince: tek sahnede (Sahne 5) hareket-fiziği testi | Ayhan |
+| **AI Director / Claudia** 🟡 12 Eki, **duraklatıldı** | 7 sahnelik seri teknik olarak tutarlı ama Ayhan memnun değil: **poz dili "stok"** — kök sebep: prompt'lar hareketi değil "hareketi ima eden duruş"u istiyor (ör. Sahne 5 servisi). Ayhan bilinçli durdurdu, bir şey denemedik. | Ayhan yeniden başlatmak isteyince: Sahne 5 hareket-fiziği testi (artık somut referans var, aşağı bak) | Ayhan |
+| · Görsel zevk korpusu — 13 Eki ilk yük | `fox-ai-director-gorsel-zevk-korpusu.md` canlandı: Ayhan 10-12 kare attı, Astrid 4 örüntü çıkardı (bakış kameradan kopuk · hareketin fiziksel sebebi belirli · efor görünür · çözümsüz kadraj) + Sahne 5'in bunlardan hangisini eksik bıraktığı somutlaştı. Ayhan kapsamı genişletti: yalnız poz değil **ışık+kadraj+hareket+fotoğraf+moda**, varsayılan sessiz biriktirme (onay/aksiyon beklenmez, bkz. memory `gorsel-zevk-korpusu-pasif-mod`). Açık nokta: ışık/moda eksenleri ilk yükte hiç işlenmedi (yalnız Fox görsel görebiliyor). | Gelecek kare paylaşımlarında ışık+moda eksenini de kodla | Fox |
 | **🔴 Higgsfield kredi** | 3. referans eklemek üretim maliyetini ~3-4 kat artırdı (2-2.7→~9.2 kredi/üretim). **18.9 kredi kaldı**, starter plan sonuna yakın. | Yeni üretim öncesi plan/kredi kararı | Ayhan |
 | · Moda Edisyonu Satış Paketi v2 | Fiyat/portföy/termin/içerik hacmi geldi, EK B kapandı (`raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`) | **Denetmen re-check** — rakamlı sürüm hiç onaylanmadı | Fox |
 | **Park halinde** | Orhan kart oyunu · Marka Bulutu OS iskeleti | — | Ayhan |
