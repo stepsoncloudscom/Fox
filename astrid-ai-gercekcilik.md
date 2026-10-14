@@ -121,12 +121,56 @@ Pratisyenlerin sık yaptığı hata: "snackable" sosyal içerik için güçlü b
 
 ---
 
+## DURAKLAMA — "HÂLÂ FAKE GELİYOR" (14 Ekim, Ayhan: Sahne A v2 teknik kutuları işaretledi ama genel izlenim ikna etmedi)
+
+### 1. DENETİM — Modül 16'nın mevcut tavsiyeleri Sahne A v2'ye karşı
+| Tavsiye | Uygulandı mı | Sonuç |
+|---|---|---|
+| Reality-anchoring dili (pores, film grain, subsurface scattering, no plastic skin) | Evet, promptta birebir vardı | **Kısmen işe yaramadı** — bkz. aşağıdaki somut teşhis #2, metin talimatı küçük ölçekte yüzeyi kurtaramadı |
+| 11 katmanlı yapı | Evet, tüm katmanlar dolduruldu | Yapı tam, ama yapının kendisi "fake" hissinin çözümü değilmiş — eksik olan başka bir şeymiş (aşağı bkz.) |
+| Pozitif kilitler / görsel referans stratejisi | Evet (9 gerçek referans) | Kıyafet/mekân/kürk/saç sadakati mükemmel ÇIKTI — bu tavsiye doğrulandı, sorun burada değil |
+| Anti-sinyal ("no CGI smoothness, no digital artifacts") | Evet | Yetersiz — bkz. #2, #3 |
+| **Hiç denenmemiş:** el/parmak anatomisi için özel dil | Hayır — hiçbir promptta "five fingers," "anatomically correct hand" gibi açık bir talimat yoktu | **Bu, en büyük boşluk oldu** — bkz. #1 |
+| **Hiç denenmemiş:** çoklu-tur img2img rötuş iş akışı | Hayır — tek seferde "global" bir kare üretildi, sorunlu bölge (el) ayrıca düzeltilmedi | İkinci büyük boşluk — bkz. Yeni Bulgu #4 |
+| **Hiç denenmemiş:** tane/gren dağılımının "eşit değil, gölgede yoğun" olması talimatı | Hayır — "film grain" yalnız genel olarak istendi, nerede yoğun olacağı belirtilmedi | Üçüncü boşluk — bkz. Yeni Bulgu #3 |
+
+### 2. SAHNE A v2'NİN SOMUT TEŞHİSİ (genel "daha gerçekçi yap" değil, eleman eleman)
+*Görsel üzerinde gerçek crop/zoom ile doğrulandı (`sahneA-v2.png`, Astrid'in kendi incelemesi, varsayım değil).*
+
+1. **EL/PARMAK ANATOMİSİ — en büyük tek suçlu.** Ateşe uzanan eldivenli elde parmaklar yanlış — dört parmak net ayrışmıyor, başparmak konumu doğal değil, parmaklar arasında olmaması gereken bir "kaynaşma" var. Bu, diffusion modellerinin **evrensel, iyi belgelenmiş** zayıf noktası (bkz. aşağıdaki araştırma) — tesadüfi bir hata değil, beklenmesi gereken bir risk. Muhtemelen tek başına "fake" hissinin en büyük kaynağı, çünkü göz bilinçsizce önce ele gider ve anatomik hata anında "bu sahte" sinyali verir — ışık/kompozisyon ne kadar doğru olursa olsun.
+2. **CİLT DOKUSU/ÇİLLER KÜÇÜK ÖLÇEKTE KAYBOLDU.** Prompt'ta "visible pores... faint natural freckles" açıkça istendi ve yüz referansında çiller gerçekten var — ama Sahne A geniş/çevre-baskın bir kare olduğğu için yüz karede küçük bir alan kaplıyor; model bu küçük alanda pürüzsüz/düz bir cilt üretti, çiller hiç çıkmadı. **Teşhis: bu bir kelime seçimi sorunu değil, ölçek sorunu** — küçük bir yüze "gözenekli doku" talimatı vermenin modelin ifade edebileceği piksel bütçesi yok.
+3. **IŞIK/TANE "FAZLA TEMİZ."** Sıcak-sol/soğuk-sağ ayrımı neredeyse kusursuz bir ikili bölünme gibi duruyor — gerçek bir odada lamba+mum+TV+şömine birbirine karışır, bu kadar temiz bölünmez. Benzer şekilde istenen film taneciği genele yayılmış görünüyor, gölge/düz yüzeylerde yoğunlaşmıyor.
+4. **ZEMİNDE GRAFİK/TEMAS GÖLGESİ ZAYIF.** Hem istenen "uzun grafik gölge" hem ayakların zeminle temas gölgesi neredeyse yok — figür zemine "yapıştırılmış" değil, hafif "üzerine yerleştirilmiş" hissi var.
+5. **Göreceli olarak İYİ olan (yanlış teşhis koymamak için not):** kıyafet/kürk/mekân sadakati, kompozisyon, bakış yönü, kumaş fiziği — bunlar gerçekten çalıştı, "fake" hissinin kaynağı bunlar değil.
+
+### 3. YENİ ARAŞTIRMA (14 Ekim, WebSearch + WebFetch — doğrulanmış kaynaklardan)
+
+**Yeni Bulgu #1 — El/parmak hatası modelin yapısal sınırı, prompt kelimesiyle garanti çözülmez ama azaltılabilir.** Diffusion modelleri elleri zor render eder çünkü eller sabit bir forma sahip değil, simetri yok, küçük bir hareket tüm şekli değiştirir — model "kaç parmak istendiğini" yerel piksel sürecinden çıkaramaz (doğrulanmış: arXiv "HandCraft" makalesi + Medium analizi). **Somut düzeltme:** parmak sayısını ve pozu **açıkça** yaz — *"both hands visible, five fingers each, natural relaxed hand position, anatomically correct fingers, no fused fingers, no extra digits."* Genel "realistic hands" yeterli değil, sayı ve poz açıkça belirtilmeli.
+
+**Yeni Bulgu #2 — Çoklu-tur/img2img rötuş iş akışı, tek-seferlik "global" üretimin yerini almalı.** Bağımsız kaynak (apiyi.com, Nano Banana Pro'ya özel): önerilen disiplin "önce global, sonra lokal" — önce geniş kareyi üret, en iyi adayı seç, sonra **yalnız sorunlu bölgeyi** (el, yüz dokusu) img2img ile ayrı bir turda düzelt, geri kalanı (kıyafet/mekân/kompozisyon) kilitli tutarak. Aynı kaynak: *"Nano Banana Pro şu an farklı üretimler arasında %100 yüz/el tutarlılığı sağlayamıyor — referans görsel + yinelemeli rötuş şart, yalnız prompt optimizasyonu yetmiyor."* **Astrid'e bağlanır:** KOL 2'ye yeni bir adım eklenir — "global üretim" tek başına son adım sayılmaz, el/yüz gibi riskli bölgeler için **ikinci, hedefli bir rötuş turu** standart akışın parçası olur (üretime Ayhan onayı gerektiren Kademe 2 kuralı bu ikinci tur için de aynen geçerli).
+
+**Yeni Bulgu #3 — "Gerçekçilik çapası" kelimeleri DAĞILIM belirtmeden eksik kalıyor.** Bağımsız kaynak (imagera.ai, 2026 "sahte görsel" tellleri): gerçek fotoğrafta tane/gren **gölgelerde ve düz yüzeylerde yoğunlaşır**, eşit dağılmaz; gerçek ışık **tek baskın yönlü kaynaktan gelir ve tutarlı renk sıcaklığıyla söner**, "çok temiz" bir ikili bölünme de en az "çok karışık" bir sahne kadar yapay okunur. **Somut düzeltme:** "film grain" yerine *"film grain concentrated in shadow areas and flat midtones, nearly invisible in bright highlights"*; ışık için *"light sources naturally overlap and mix in color temperature at their boundary, not a clean binary split."*
+
+**Yeni Bulgu #4 — Göz/diş simetrisi de bir tell (bu sahnede test edilemedi, gelecek için not).** Aynı kaynak: iki gözde birebir aynı ışık yansıması (catchlight) ya da mükemmel simetrik/eşit aralıklı dişler sahte okunuyor — gerçek gözlerde yansımalar asimetriktir, dişler genişlik/parlaklık/gölgede farklılık gösterir. Doğrudan kameraya bakan/gülen bir kare geldiğinde bu kontrol listesine eklenecek.
+
+**Yeni Bulgu #5 — Kenar/arkaplan geçişi kontrolü (bu sahnede göreceli iyiydi, yine de kalıcı kontrol maddesi).** Aynı kaynak: "kesilip yapıştırılmış gibi keskin özne + düzgün bulanık arkaplan" sahte bir tell; gerçek lensler kademeli derinlik geçişi, kromatik sapma, köşe vinyeti üretir. Sahne A v2'de bu tell görece zayıftı (kenar geçişleri makul yumuşaktı) — ama her yeni sahnede ayrıca kontrol edilecek bir madde olarak listeye girdi.
+
+### 4. SONUÇ — Astrid'in çalışma yöntemine eklenen somut kurallar
+1. **El varsa, el için ayrı dil zorunlu:** "five fingers, anatomically correct, no fused/extra digits, natural relaxed position" her sahnede elin göründüğü her yerde yazılır — atlanmaz.
+2. **Yüz küçük kalacaksa (çevre-baskın kompozisyon), doku beklentisi düşürülür ya da ayrı bir yakın-plan/rötuş turu planlanır** — küçük bir yüze "gözenek" yazmak tek başına yetmez.
+3. **Gren/ışık dağılım dili eklenir** — "nerede yoğun/nerede yok" belirtilmeden "film grain" ve "warm/cool light" yetersiz kalıyor.
+4. **KOL 2'ye ikinci bir standart adım eklendi: hedefli rötuş turu.** Global üretim onaylandıktan sonra, sorunlu bölge varsa (el/yüz) bunun için ayrı, küçük bir img2img turu önerilir — otomatik değil, Ayhan'ın "üret" onayı burada da geçerli.
+5. **Render-and-review checklist'e 2 yeni madde:** (a) eller var mı, varsa parmak sayısı/anatomisi doğru mu — zum yapıp bak; (b) gölge/ışık geçişi "çok temiz" mi, gerçek oda karmaşıklığından yoksun mu.
+
+---
+
 ## ÖZET — ASTRID'İN GÜNCELLENMİŞ ÇALIŞMA YÖNTEMİ
 Bu modül, Modül 1-15'in bilgisini **tek bir operasyonel disipline** bağlar:
 1. Referans hazırlığına (Claudia'nın Soul ID seti) prodüksiyonun en kritik adımı olarak zaman ayrılır.
 2. Her prompt, 11 katmanlı yapıyla + reality-anchoring dili + anti-sinyallerle yazılır.
 3. Her sahne, pozitif kilit listesiyle sürekliliğini garantiler.
 4. Işık/lens/kamera kararları (Modül 3, 5, 10) burada **fiziksel gerekçeyle** birleşir — "güzel görünsün" değil, "gerçek ışık/optik nasıl davranır."
+5. **(14 Ekim eklendi) Tek-seferlik "global" üretim son adım değildir.** El/yüz gibi riskli bölgeler için hedefli ikinci bir rötuş turu standart akışın parçası; gren/ışık dili "nerede yoğun/nerede yok" diye dağılım belirtir, genel "ekle" yetmez; her çıktı el varsa parmak anatomisi için ayrıca zumlanıp kontrol edilir.
 
 ---
-*Modül 16 v1 (10 Ekim 2026) → v1.1 (11 Ekim 2026, Claudia/Cloud One 7 sahnelik serinin gerçek üretim dersleri eklendi — "Model Seçimi ve Referans Mekaniği" bölümü) · Fox · ÖNCELİKLİ MODÜL (Ayhan emri: "en çok araştırma/eğitim yatırımı buraya"). Kaynak: higgsfield.ai/blog (Seedance 2.5 prompting guide, WebFetch tam metin) + bağımsız teknik analiz (andyhtu.com) + 2026 topluluk/forum pratisyen deneyimi sentezi + Astrid'in kendi gerçek üretim kayıtları (`fox-claudia-cloudone-7-sahne-prompt-seti.md`). Tüm teknik iddialar doğrudan kaynağından ya da gerçek üretim kanıtından, uydurma yok.*
+*Modül 16 v1 (10 Ekim 2026) → v1.1 (11 Ekim 2026, Claudia/Cloud One 7 sahnelik serinin gerçek üretim dersleri eklendi — "Model Seçimi ve Referans Mekaniği" bölümü) → v1.2 (14 Ekim 2026, "hâlâ fake geliyor" duraklaması: Sahne A v2'nin somut eleman-eleman teşhisi — el/parmak anatomisi en büyük suçlu, küçük ölçekte cilt dokusu kaybı, aşırı temiz ışık/gren dağılımı, zayıf temas gölgesi — + yeni araştırma: el-anatomisi için açık dil, çoklu-tur img2img rötuş disiplini, gren/ışık dağılım dili, göz/diş simetrisi ve kenar-geçişi kontrol maddeleri) · Fox/Astrid · ÖNCELİKLİ MODÜL (Ayhan emri: "en çok araştırma/eğitim yatırımı buraya"). Kaynak: higgsfield.ai/blog (Seedance 2.5 prompting guide, WebFetch tam metin) + bağımsız teknik analiz (andyhtu.com, arXiv "HandCraft", imagera.ai, apiyi.com, Medium) + 2026 topluluk/forum pratisyen deneyimi sentezi + Astrid'in kendi gerçek üretim kayıtları (`fox-claudia-cloudone-7-sahne-prompt-seti.md`, `fox-claudia-towdoo-proje-calisma-notu.md`). Tüm teknik iddialar doğrudan kaynağından, gerçek üretim kanıtından ya da Astrid'in kendi crop/zoom incelemesinden — uydurma yok.*
