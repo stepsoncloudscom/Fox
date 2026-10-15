@@ -94,4 +94,29 @@ Bu üçgenin ilk çalıştırması **tahmin kalibrasyonu değil, bir kör nokta*
 **Kapı önerisi (Denetmen'e 10. mercek):** *Erişilebilirlik.* Dışarı çıktığı iddia edilen her teslim için tek soru: **"Bunu bugün, hesabı olmayan bir yabancı görebiliyor mu? Kanıt?"** Cevap URL + statü kodu olmalı; "yükledim" cevap değildir. Bu mercek olsaydı bulgu 30 Temmuz'da çıkardı, 14 Ağustos'ta değil.
 
 ---
-*T0 Baseline · 14 Ağu 2026 · Fox · Ölçüm araçları: Wix API (GetSiteContext, Blog v3, Stores v3), doğrudan HTTP. GSC/GA4 bağlı değil.*
+
+## GÜNCELLEME — 15 Ekim 2026 (Growth Ajanı — gelişim paketi sırasında)
+
+**Durum değişti: site artık yayında (Published, 21 Tem'den beri, custom domain) ve GSC `VALID`+`READY`.** 14 Ağustos'taki "404/Draft" tablosu artık geçerli değil — o satırlar silinmedi (tarihsel kayıt), bu güncelleme üstüne eklenir.
+
+### Tip A — bugün ilk kez çekilen gerçek arama performansı (GSC Site Readiness API, `search-analytics`)
+**Pencere: 15 Eylül – 12 Ekim 2026 (28 gün, Google'ın "son günler eksik olabilir" uyarısıyla).**
+
+| Metrik | Değer |
+|---|---|
+| Toplam tıklama | **69** |
+| Toplam gösterim | **2.078** |
+| CTR | **%3,3** |
+| Ortalama pozisyon | **5,28** |
+
+**Sorgu kırılımı (ilk 20, tıklamaya göre):** İlk 4 sorgu — *"özgür protez"* (19 tık, poz 1,3) · *"özgür ırmak protez"* (12 tık, poz 1,3) · *"özgür ırmak"* (7 tık, poz 2,5) · *"özgür ırmak protez ve ortez merkezi"* (5 tık, poz 1,3) — **toplam 43 tıklama, hepsi marka-adı sorgusu.** Jenerik/bilgi-niyetli sorgularda tek olumlu sinyal: *"ortez protez merkezi"* (1 tık, 8 gösterim, poz 4,75) — marka-dışı bir sorguda ilk sayfadayız. Buna karşılık *"ayak protez fiyatları"* (poz 45,6) · *"ayak protezi"* (poz 22,3) · *"ayak protez"* (poz 14,5) gibi jenerik sorgularda görünürlük yok denecek kadar zayıf, 0 tıklama. İlk 20 sorgunun toplamı 46 tıklama — kalan ~23 tıklama 20'den uzun kuyrukta, bu oturumda tek tek görülmedi.
+
+**Okuma:** Site şu an **marka-bilinirliği olan kişiler tarafından bulunuyor, yeni talep tarafından değil.** Rakip kıyaslamasının (28 Eylül) "4 blog yazısı vs Proklinik ~230 sayfa" bulgusu burada sayısal karşılığını buluyor — jenerik/bilgilendirici sorgularda pratikte yokuz. Bu, aşağıdaki Growth paketindeki içerik-hacmi önceliğinin kanıtı (bkz. `raporlar/ozgur-irmak-growth-gelistirme-2026-10-15.md`).
+
+### Neden hâlâ "T0 Baseline KAPANDI" diyemeyiz
+- **GA4 bağlı değil** (bugün `GetSiteContext` Apps listesinde "Google Analytics" yok) → dönüşüm/form-WhatsApp-telefon teması hâlâ ölçülemiyor.
+- **STATIC_PAGE SEO verisi 14 Ekim'de geri dönmüş** (checkup 15 Eki) → title/description/schema katmanı kararsız; bu pencerenin SONUNA denk gelen 1-2 gün bu dalgalanmayı taşıyor olabilir, tam temiz bir pencere değil.
+- Bu yüzden: **arama performansı (Tip A) artık var ve gerçek** — ama "T0 Baseline KAPANDI" ilanı GA4 bağlanıp + STATIC_PAGE kararlılığı teyit edilince yapılır. O zamana kadar bu sayılar **"ilk gerçek ölçüm, taşınan referans"** statüsünde — T+90 sayacı hâlâ başlamadı.
+
+---
+*T0 Baseline · 14 Ağu 2026 (orijinal) + 15 Eki 2026 güncellemesi · Fox/Growth Ajanı · Ölçüm araçları: Wix API (GetSiteContext, GSC Site Readiness/search-analytics). GA4 hâlâ bağlı değil.*

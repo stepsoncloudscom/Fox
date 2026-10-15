@@ -6,8 +6,8 @@
 ## AKTİF CEPHELER
 | Cephe | Durum | Sıradaki adım | Kimde |
 |---|---|---|---|
-| **Özgür Irmak — SEO/GEO** | 🟢 **28-29 Eyl büyük tur:** site **Draft'tan Published'e geçmiş bulundu** (kim/ne zaman bilinmiyor); noindex kaldırıldı, GSC tam kuruldu, sitewide title/description (kategori+sayfa+blog+115 ürün), MedicalBusiness şeması 19 sayfada, GBP zaten var (5.0/42 yorum, ~2 yıldır yönetilmiyor). Raporlar: `ozgur-irmak-seo-denetimi-`, `-rakip-gorunurluk-kiyaslama-`, `-yerel-seo-stratejisi-2026-09-28/29.md` | H1 düzeltme (Editor, manuel) · Teknik Ortopedi'nin Fulya girişi → Strateji girdisi · blog yazar kimliği (atlanmıştı, açık seçenek) | Fox |
-| · Blog — 4 yeni taslak | Diz Altı/Aktif Vakum/Pasif Vakum/Dirsek Altı Biyonik Kol — Denetmen TEMİZ, Wix'e taslak eklendi (yayınlanmadı) | Avukat + Özgür Bey yazılı onayı | Ayhan |
+| **Özgür Irmak — SEO/GEO** | 🟢 **15 Ekim:** 28 Eylül'ün tüm SEO verisi (59 sayfa: title/description/MedicalBusiness şeması/FAQ-Blog Türkçe başlık) 14 Ekim'de sessizce geri dönmüş bulundu, aynı gün yeniden yazılıp yayınlandı + haftalık oto-kontrol kuruldu (`ozgur-protez-seo-recheck`, Pzt 09:00). Growth paketi Denetmen'den geçti (`-growth-gelistirme-2026-10-15.md`) — ilk gerçek GSC verisi çekildi: jenerik sorgularda pratikte görünmüyoruz, yalnız marka adıyla bulunuyoruz. **Kök neden (Editör yayın alışkanlığı) hâlâ teyitsiz — veri 3. kez kaybolabilir.** | GA4 bağlantısı (Ayhan) · duplicate/eski blog taslağı temizliği · H1 düzeltme (Editor, manuel) | Ayhan |
+| · Blog — 7/7 yazı sonuçlandı | Diz Altı + Aktif Vakum/Pasif Vakum/Dirsek Altı Biyonik Kol + Mikroişlemcili Diz — hepsi canlı. Son 3'ü **Ayhan kendi onayıyla** yayınlandı (avukat/Özgür Bey dış onayı yerine — bilinçli karar, 15 Ekim). 2 duplicate taslak (Miyoelektrik El, Silikon Liner) + 2 eski unutulmuş taslak dokunulmadı. | Duplicate/eski taslak temizliği | Fox |
 | · IG kaydırmalı gönderi (süreç/kalıp alma) | Caption hazır ama **hasta görseli kategori-kapalı** (Sarı Kuşak, S11 cevaplanmadan hiçbir hasta-içerik çıkmaz) | S11'i avukata sor ya da hastasız alternatif düşün | Ayhan |
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) artık fiilen kamuya açık olabilir. **Ayhan talimatı: o sormadan gündeme getirilmez** — bu satır yalnız süreklilik kaydı. | (bekletiliyor) | Ayhan |
 | · Ürün hatları (Levitate 13 + Össur 109) · Protezler anlatı sayfaları (9) · Yürüme Analizi | Değişmedi — detay: `raporlar/oturum-gunlugu.md` + 14 Eyl kayıtları | Teknik teyitler Özgür Bey'de, ayıklama/metin Ayhan'da | Ayhan |
@@ -23,13 +23,15 @@
 1. **S11** (sosyal medya TİTCK 15/2'ye girer mi) — avukata sorulmalı; IG serisi + gelecek hasta-içerikli her şey buna bağlı.
 2. GBP erişimi kimde — beklemede (Ayhan kararı: "C", öncelik değil).
 3. Özgür Bey teknik teyitleri: Yürüme Analizi 11 kalem + Levitate 4 kalem+ÜTS + Protezler 4 sistem tipi.
-4. Blog: 4 yeni taslak + eski 3 taslağın avukat/yazılı onayı.
+4. GA4 bağlantısı — Ayhan kendi Google hesabıyla Wix panelinden yapacak.
 
 ## RİSK BAYRAKLARI
 - 🔴 Site artık **Published** (Draft değil) — 12 Eyl'in 4 DUR maddesi muhtemelen fiilen açık. Ayhan bilgilendirildi; gündeme getirme talimatı: o sormadan açma.
 - 🔴 Hasta görseli/sosyal medya kategori-kapalı (S11 cevapsız) — yeni bulgu, 29 Eyl.
 - ⚠️ Nakit Motoru sessizce durdu (12 Eyl ölçüldü) — hâlâ çözülmedi.
 - ⚠️ Üretici marka/IP: metin katmanı kapandı (14 Eyl), görsel dosya adı/slug/SKU katmanı açık.
+- ⚠️ 3 blog yazısı avukat/Özgür Bey dış onayı olmadan, Ayhan'ın kendi onayıyla yayınlandı (15 Ekim, bilinçli karar — içerik Denetmen'den TEMİZ geçmişti, eksik olan yalnız dış imzaydı).
+- ⚠️ STATIC_PAGE SEO verisi 2. kez geri döndü, kök neden teyitsiz — haftalık oto-kontrol bunu yakalar ama önlemez.
 
 ## DETAY HARİTASI (lazım oldukça oku)
 - Geçmiş: `raporlar/oturum-gunlugu.md` · Maliyet: `raporlar/teslim-kutugu.md` · Vizyon: `fox-kuzey-yildizi.md` · Kişiler: `fox-iliski-hafizasi.md` · Kararlar: `fox-karar-gunlugu.md`
