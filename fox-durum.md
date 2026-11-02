@@ -1,13 +1,13 @@
 # Fox — DURUM / Kaldığımız Yer
 
-**Son güncelleme: 28 Ekim 2026**
+**Son güncelleme: 2 Kasım 2026**
 **Kural: 40 satır tavanı.** Biriken geçmiş → [`raporlar/oturum-gunlugu.md`](raporlar/oturum-gunlugu.md). Bu dosya "şu an neredeyiz"i söyler, "ne yapmıştık"ı değil.
 
 ## AKTİF CEPHELER
 | Cephe | Durum | Sıradaki adım | Kimde |
 |---|---|---|---|
 | **Özgür Irmak — SEO/GEO** | 🟢 **15 Ekim:** 28 Eylül'ün tüm SEO verisi (59 sayfa: title/description/MedicalBusiness şeması/FAQ-Blog Türkçe başlık) 14 Ekim'de sessizce geri dönmüş bulundu, aynı gün yeniden yazılıp yayınlandı + haftalık oto-kontrol kuruldu (`ozgur-protez-seo-recheck`, Pzt 09:00). Growth paketi Denetmen'den geçti (`-growth-gelistirme-2026-10-15.md`) — ilk gerçek GSC verisi çekildi: jenerik sorgularda pratikte görünmüyoruz, yalnız marka adıyla bulunuyoruz. **Kök neden (Editör yayın alışkanlığı) hâlâ teyitsiz — veri 3. kez kaybolabilir.** | GA4 bağlantısı (Ayhan) · duplicate/eski blog taslağı temizliği · H1 düzeltme (Editor, manuel) | Ayhan |
-| · 🔴 Blog — **33 yazı canlı, kayıt 7'de donmuştu** (28 Eki) | 16 Ekim P1 Batch 1-3 (19 yazı) kazayla PUBLISHED olmuş (TZP kaydı, kök neden adayı: Wix bulk-create `publish:true`) — Kozmetik Kol'un TİTCK-riskli ifadesi düzeltilmiş haliyle canlı, sorun değil. 2 duplicate çift (Miyoelektrik/**Myoelektrik**, Protez Çeşitleri/Türleri) çöp kutusuna taşındı (geri alınabilir) → 31→29. Takvimin 4 eksik yazısı (Süre/İlk Protez/Günlük Yaşam/Spor) üretildi, taslak yüklendi, **Ayhan onayıyla yayına alındı** (29→33) — avukat/Özgür Bey dış onayı yok, 15 Ekim presedanı. W8 (Ortez/DAFO) zaten canlı olduğu için atlandı. **Açık bulgu: takvimin W1 ankor sayfası "Protez Süreci" (/protez-sureci) hiç yayınlanmamış** — 404, muhtemelen Özgür Bey'de bekleyen 9 anlatı sayfasından biri; yeni yazılardaki iç linkler ona göre düz-metne çevrildi. | Avukat/Özgür Bey onayı hiç alınmamış 23 yazı için geriye-dönük karar | Ayhan |
+| · 🔴 Blog — **53 yazı canlı, kayıt 7'de donmuştu** (2 Kas) | 28 Eki: 2 duplicate çöp kutusuna (31→29) + takvimin tüm eksikleri (12 yazı, W1-26 dahil yüksek-YMYL'ler) Ayhan onayıyla üretilip yayına alındı (29→45). 2 Kas: rakip taraması (Proklinik/Össur/Ottobock, `-icerik-takvimi-v2-rakip-taramasi.md`) 8 yeni başlık çıkardı (3'ü zaten canlıydı, elendi), hepsi Denetmen'den geçip yayına alındı (45→53). **Hâlâ açık: "Protez Süreci" (W1 ankor, /protez-sureci) hiç yayınlanmamış** — 404, Özgür Bey'de bekleyen 9 anlatı sayfasından biri olabilir. Takvim artık tükendi; kalan tek madde #26 Lookalike-kapanışı (GA4 bekliyor). | Avukat/Özgür Bey onayı hiç alınmamış ~46 yazı için geriye-dönük karar | Ayhan |
 | · IG kaydırmalı gönderi (süreç/kalıp alma) | Caption hazır ama **hasta görseli kategori-kapalı** (Sarı Kuşak, S11 cevaplanmadan hiçbir hasta-içerik çıkmaz) | S11'i avukata sor ya da hastasız alternatif düşün | Ayhan |
 | **🔴 12 Eyl yasal risk — site artık Published** | 4 DUR madde (mağaza formatı/rakip isim/üretici slug/KVKK) fiilen açık olabilir; Ayhan talimatı: sormadan gündeme getirilmez. Ürün hatları/Protezler/Yürüme Analizi teknik teyitleri de değişmedi (detay: `oturum-gunlugu.md`). | (bekletiliyor) | Ayhan |
 | **Steps On Clouds** | 🔴 ölçüldü 25 Ağu — canlı yanlış bilgi, blog 10 ay ölü | 4 karar Ayhan'da (plan: `soc-durum-ve-aksiyon-plani`) | Ayhan |
@@ -28,7 +28,7 @@
 - 🔴 Hasta görseli/sosyal medya kategori-kapalı (S11 cevapsız) — yeni bulgu, 29 Eyl.
 - ⚠️ Nakit Motoru sessizce durdu (12 Eyl ölçüldü) — hâlâ çözülmedi.
 - ⚠️ Üretici marka/IP: metin katmanı kapandı (14 Eyl), görsel dosya adı/slug/SKU katmanı açık.
-- 🔴 **26 yazı (3+19+4) hiçbir avukat/Özgür Bey dış onayı olmadan canlıda** — 3+4'ü bilinçli Ayhan-onayı (15+28 Ekim), 19'u (P1 Batch 1-3) kaza + sonradan biri tarafından toplu yayınlanmış, kim/ne zaman netleşmedi.
+- 🔴 **~46 yazı hiçbir avukat/Özgür Bey dış onayı olmadan canlıda** — 27'si bilinçli Ayhan-onayı (15+28 Eki+2 Kas, bu oturumda art arda), 19'u (P1 Batch 1-3) kaza + sonradan biri tarafından toplu yayınlanmış, kim/ne zaman netleşmedi. Yüksek-YMYL (fantom/diyabet/psikolojik uyum/ampütasyon-hazırlık) dahil — hepsi EN SIKI tıbbi ihtiyat çerçevesiyle (tanı/tedavi/rakam yok) yazıldı, Denetmen TEMİZ verdi, ama dış imza yok.
 - ⚠️ STATIC_PAGE SEO verisi 2. kez geri döndü, kök neden teyitsiz — haftalık oto-kontrol bunu yakalar ama önlemez.
 
 ## DETAY HARİTASI (lazım oldukça oku)
