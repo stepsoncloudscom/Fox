@@ -52,7 +52,7 @@
 | Sayfa | İçerik | Referans |
 |---|---|---|
 | **Ana sayfa** | Hero: tamamen engelli kadro konumu (tek cümle) → son yarış sonucu → takım şeridi → 2027 takvimi → sponsorlar (kademeli) | SailGP + Malizia |
-| **Takım** | 10 sporcu kartı: foto + isim + görev (+ şehir). Hüseyin'e genişletilmiş kart | SailGP |
+| **Takım** | 10 sporcu kartı: foto + isim + görev + şehir + **engel durumu** (Ayhan kararı, 2 Kas). Hüseyin'e genişletilmiş kart | SailGP + Red Lions farkı |
 | **Yarışlar** | Takvim + sonuçlar (2026 TYF kategori birinciliği) | ETNZ Race Centre (sade hali) |
 | **Akademi** | Hüseyin'in eğitimleri, yeni sporcuya kapı (Kitle 1: yeni engelli olmuş birey) | Luna Rossa Foil Academy |
 | **Partner olun** | Sponsorluk zonları (tekne + giyim), Misafir Sporcu Kontenjanı, dosya indirme, iletişim formu. **Fiyat yok** (26 Eki kararı) | Malizia kademeleri + 11th Hour elçi programı |
@@ -65,7 +65,7 @@
 
 ## 5 · Ayhan'ın kararı gereken sorular
 
-1. **Sitede sporcu kartında engel durumu görünecek mi?** Sponsorluk dosyasında var (iç/sponsor bağlamı). Herkese açık sitede SailGP standardı "yalnız görev". Önerim: sitede yalnız görev + şehir; engel durumu yok. Takımın kimliği "tamamen engelli kadro" cümlesiyle zaten söylenmiş oluyor, tek tek etiketlemeye gerek kalmıyor.
+1. ~~Sitede sporcu kartında engel durumu görünecek mi?~~ **KARAR (2 Kas 2026, Ayhan): Evet, engel durumu da kartta.** Sınıflandırma bilgisi olarak (ör. "sağ bacak diz üstü ampute"); "nasıl oldu" anlatısı yok, altın kural (S16) geçerli. Yayından önce: her sporcunun yazılı açık rızası (KVKK — sağlık verisi özel nitelikli kişisel veri) + Muhammed Sıraç Gündür (11 yaş) için veli rızası.
 2. **Alan adı kimin üzerine alınacak?** (Hüseyin / dernek / Ayhan)
 3. **Akademi sayfası şimdi mi, sonra mı?** Kitle 1'e (yeni engelli olmuş birey) ulaşmanın kapısı bu, ama başvuru akışını Hüseyin'in yönetmesi gerekir (S17: insan kaynağı kısıtı).
 
