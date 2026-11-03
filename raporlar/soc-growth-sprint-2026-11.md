@@ -196,13 +196,13 @@ Doğrulanması gerekenler: (1) Yoğurtçu tarih çelişkisi ham HTML'de, (2) AR 
 |---|---|---|---|
 | Fiyat | ₺700,00, indirim yok | Tip A | Teyitli (Ayhan) |
 | **Ürün SEO açıklaması** | `"… sosyal etki için tasarlandı. 550 TL."` TR **ve** EN sayfada | Tip A | 🔴 Google/AI sonucunda eski fiyat görünür. Sitede 700, aramada 550 |
-| **Ala hang tag** | Tasarımda **600 TL** (`ala-materyaller/_review/1_hang_tag_p1.png`) | Tip A (dosya) · basılıp basılmadığı ÖLÇÜLMEDİ | 🔴 Dolaşımda üç fiyat olabilir: 550 / 600 / 700 |
+| **Ala hang tag** | Tasarımda **600 TL** (`ala-materyaller/_review/1_hang_tag_p1.png`) | Tip A (dosya, Denetmen PNG'ye baktı) · basılıp basılmadığı ÖLÇÜLMEDİ · 600, 6 Haz brief'inde konmuş (`ala-skateboards-fiziksel-materyal-brief.md:14`; site o gün 550) — kimin kararı olduğu kayıtsız | 🔴 Dolaşımda üç fiyat olabilir: 550 / 600 / 700 |
 | Ürün açıklaması | 3 cümle. Misyon bağı: "Steps On Clouds misyonunun somut parçası: hareket kültürü, görünürlük, sosyal etki." Mekanizma yok | Tip A | Karar #4'ü bekliyor |
 | Ürün detayı | One size 38-44 · Pamuk %80, Poliamid %18, Elastan %2 | Tip A | ✅ var |
 | Kargo | "2-3 iş günü içinde kargoya" + takip e-postası. **Kargo ücreti ürün sayfasında yok.** Yurt dışı gönderim bilgisi yok | Tip A · ödeme adımı test edilmedi, ücret ÖLÇÜLMEDİ | 🟡 Sepette sürpriz maliyet riski |
-| İade | Ürün sayfası: **15 gün**, kullanılmamış/ambalajı açılmamış. Şartlar sayfası: **"yedi gün içerisinde … cayma hakkı"** ve "genel iade süresi 7 gündür" | Tip A | 🔴 İki sayfa birbirini tutmuyor. Yasal süreye uygunluğu Fox değerlendirmez, avukata/Ayhan'a gider |
+| İade | Ürün sayfası: **15 gün**, kullanılmamış/ambalajı açılmamış. Şartlar sayfası: **"yedi gün içerisinde … cayma hakkı"** ve "genel iade süresi 7 gündür" | Tip A | 🔴 İki sayfa birbirini tutmuyor. Yasal süreye uygunluğu Fox değerlendirmez, avukata/Ayhan'a gider. `[Denetmen, 3 Kas ham HTML]` Şartlar sayfası doldurulmamış şablon: "Kargo Ücreti : … -TL", "Toplam Satış Bedeli : …. -TL", sipariş tarihi "../../….", satıcı adı "……………" boş |
 | Stok | `isTrackingInventory: false`, `quantity: 0`, durum "in_stock" | Tip A | 🟡 Stok takip kapalı: site eldeki adedi bilmiyor, yılbaşında fazla satış riski |
-| Görseller | 4 görsel, hepsinde `altText: null`. Ürün dosyasında 10 çekim var (`soc-urun-cloudone.md`) | Tip A | 🟡 6 kare kullanılmıyor, görsel arama için alt metin yok |
+| Görseller | **2** görsel (ürün `media` dizisi, TR+EN), ikisinde de `altText: null`; sayfa yedek olarak ürün adını ("CloudOne Çorap") alt diye basıyor. Ürün dosyasında 10 çekim var (`soc-urun-cloudone.md`) | Tip A | 🟡 8 kare kullanılmıyor, görsel arama için tanımlayıcı alt metin yok |
 | Sosyal kanıt | Sayfada yorum/puan bölümü görünmüyor | Tip A (görünür metin) | 🟡 Tek güven sinyali iade/kargo metni |
 | EN sayfa | Title ve meta Türkçe, açıklama farklı ve eski copy ("summer and winter"), fiyat yalnız ₺ | Tip A | 🟡 Global kapı açık ama yarım |
 | Breadcrumb | TR sayfada "All Products" | Tip A | ⚪ küçük |
@@ -229,7 +229,7 @@ Sıra mantığı: önce ölç, sonra fiyatı tekleştir, sonra dışarı çık. 
 | SEO açıklaması "… 550 TL." (TR+EN) | Fiyatsız açıklama (fiyat değişince yine eskimesin). Metni Metin Yazarı yazar | — |
 | İade 15 gün (ürün) / 7 gün (şartlar) | Tek süre, iki sayfada aynı. Hangisi olacağı Ayhan + avukat | Soru 5 |
 | Kargo ücreti sayfada yok | Ücret (ya da "ücretsiz") ve yurt dışı gönderim var/yok tek satır | Soru 5 |
-| 4 görsel, alt metin yok | 10 çekimden ürün dosyasının önerdiği #1, #2, #3, #5 + alt metin | — |
+| 2 görsel, alt metin alanı boş | 10 çekimden ürün dosyasının önerdiği #1, #2, #3, #5 + alt metin | — |
 | Misyon cümlesi mekanizmasız | Karar #4'e göre tek cümle. "Finanse eder" seçilirse oran/tutar beyanı şart (§11.5) | Soru 2 |
 | EN title/meta Türkçe, eski açıklama | EN açıklama TR'nin çevirisi, EN title/meta | — |
 | "All Products" | "Tüm Ürünler" | — |
@@ -240,7 +240,7 @@ Sıra mantığı: önce ölç, sonra fiyatı tekleştir, sonra dışarı çık. 
 - **Ayhan dakikası (tahmin):** ~30 dk (Editör gününün içinde).
 
 **S5 · Hediye sezonu: indirimsiz, gerçek tarihli** — *AARRR: Edinim + Gelir · 16 Kas'tan itibaren, S2 bittikten sonra*
-- **Değer tartısı:** Kasım sonu indirim dönemi (Efsane Cuma vb.) **önerilmiyor.** Fiyat iki hafta önce 550'den 700'e çıktı, indirim bunu geri alır ve "asıl fiyat bu değil" der; moda paketi de indirim kültürünü kalıcı hasar sayıyor. Kıtlık dili de yok: stok takibi bugün kapalı, "son X çift" iddiası doğrulanamaz.
+- **Değer tartısı:** Kasım sonu indirim dönemi (Efsane Cuma vb.) **önerilmiyor.** Fiyat 25 Ağu ile 3 Kas arasında 550'den 700'e çıktı (değişiklik tarihi kayıtsız), indirim bunu geri alır ve "asıl fiyat bu değil" der; moda paketi de indirim kültürünü kalıcı hasar sayıyor. Kıtlık dili de yok: stok takibi bugün kapalı, "son X çift" iddiası doğrulanamaz.
 - **Ne (önerilen):** Tek gerçek bilgi: "Yılbaşına yetişmesi için son sipariş: [tarih]". Tarihi Ayhan kargo süresine göre koyar (sitedeki "2-3 iş günü" + bölge farkı). Ürün sayfasında tek satır + Instagram'da (@stepsoncloudscom) 2-3 paylaşım, ürün linki UTM'li. Redlions sponsorluk yazısı (eski A3) yayımlanırsa ürüne düz link verir, mekanizma iddiası kurmaz.
 - **Onur kapısı:** Hediye anlatısı ürün ve hareket üzerinden. "Bir ampute için al", "anlamlı hediye ver, hayat değiştir" tipi acıma/kurtarıcı dili yok.
 - **Sahip:** Metin Yazarı paylaşım metinleri · İçerik görsel (mevcut 10 çekimden) · Denetmen · Ayhan yayınlar.
@@ -290,34 +290,36 @@ Sıra mantığı: önce ölç, sonra fiyatı tekleştir, sonra dışarı çık. 
 ### 6.4 · TASLAK mesajlar — Ayhan gönderir
 
 **TASLAK — Ayhan gönderir · Wunder (info@wunder.com.tr), mevcut thread'e yanıt olarak**
-> Konu: CloudOne çorap — Haziran'daki mesajım
+> Konu: (thread'in mevcut konusu, "Re:" ile)
 >
 > Merhaba,
 >
-> 24 Haziran'da Steps On Clouds'un CloudOne çorabı için yazmıştım. Ulaşmadıysa ya da o dönem uygun değildiyse, kısaca tekrar hatırlatmak istedim.
+> 24 Haziran'da Steps On Clouds'un CloudOne çorabı için yazmıştım. Ulaşmadıysa ya da o dönem gündeminizde değildiyse, kısaca tekrar hatırlatmak istedim.
 >
 > CloudOne beyaz, uzun konçlu bir atletik çorap. Pamuk %80, poliamid %18, elastan %2. Tek beden, 38-44. Sitede ₺700'den satılıyor.
 >
-> Uygunsa bir örnek çifti mağazaya bırakabilirim, ekibiniz elde görsün. Uygun değilse de bir satırlık cevap yeterli, tekrar yazmam.
+> Uygunsa mağazaya örnek bir çift bırakabilirim, ekibiniz elde görsün. Uygun değilse de bir satırlık cevap yeterli, tekrar yazmam.
 >
 > Ayhan Erden
 > Steps On Clouds
 > stepsonclouds.com
 
-*Not: "örnek çift bırakırım" bir taahhüt. Ayhan istemezse o cümle çıkar. Fiyat yalnız perakende (canlıdaki) fiyat; toptan rakam yok.*
+*Not: "örnek çift bırakırım" bir taahhüt. Ayhan istemezse o cümle çıkar. Fiyat yalnız perakende (canlıdaki) fiyat; toptan rakam yok. `[Denetmen]` Göndermeden önce 24 Haz mailinde fiyat yazıp yazmadığına bakılır: yazdıysa (550) takipteki 700 açıklamasız bir zam gibi okunur.* `[Fox, 3 Kas — Gmail'den okundu]` 24 Haz mailinde fiyat YOK (ürün tanımı + numune teklifi var). Koşul kapandı; takipteki ₺700 zam gibi okunmaz.
 
 **TASLAK — Ayhan gönderir · Tuncay Kocal (WhatsApp/mesaj)**
 > Tuncay merhaba, nasılsın?
 >
 > Haziran'da çorap için hang tag, raf kartı, poster ve QR kart tasarlamıştık. Alanda şu an durum ne? Çorap rafa çıktı mı, soran ya da alan oldu mu?
 >
-> Bir de fiyat: etikette 600 TL yazıyor, sitede şimdi 700 TL. Etiketler basılıp rafa konduysa bunu birlikte düzeltelim.
+> Bir de etiketler basılıp rafa kondu mu? Fiyatı güncellemem gerekebilir, ona göre ben bakarım.
 >
-> Kaykay videosu için de bir gün konuşalım, takvimine bakarsın.
+> Kaykay videosunu da konuşalım, müsait olduğun bir gün söylersin.
 >
 > Ayhan
 
 *Sözdizimi taraması (`sozdizim_tarama.py`, 3 Kas):* iki taslak da aracın ölçüm alt sınırının (60 kelime / 5 cümle, 8+ kelimelik paragraf) altında kaldı, araç **ölçmedi** (çıkış 0, bulgu yok). "Temiz" sayılmaz; kulak kontrolü Denetmen'de.
+
+*`[Denetmen, 3 Kas]` Kulak kontrolü yapıldı: karşıtlık kalıbı, aforizma, övgü, uydurma rakam yok. Değişenler: Wunder'de "uygun" üç kez tekrarlanıyordu (biri "gündeminizde" oldu), "bir örnek çifti" düzeltildi, thread içi yanıtta yeni konu satırı çıkarıldı. Tuncay'da fiyat cümlesi Soru 3 kapanmadan 700'ü ilan ediyor ve düzeltmeyi bedelsiz alan veren Tuncay'la paylaştırıyordu ("birlikte düzeltelim"); yalnız soruya indirildi, iş Ayhan'da kaldı. "takvimine bakarsın" emir kipi gibi okunuyordu.*
 
 ### 6.5 · AYHAN'A SORULAR (Karar Formülü, tek liste, satışı en çok açan en üstte)
 
@@ -351,7 +353,7 @@ Sıra mantığı: önce ölç, sonra fiyatı tekleştir, sonra dışarı çık. 
 
 **5 · İade süresi ve kargo**
 - **Talep:** İade süresi (ürün sayfası 15 gün, şartlar 7 gün) ve kargo ücreti / yurt dışı gönderim.
-- **Bağlam:** İki sayfa çelişiyor. Yasal sürelere uygunluk avukat konusu, Fox değerlendirmez.
+- **Bağlam:** İki sayfa çelişiyor. Yasal sürelere uygunluk avukat konusu, Fox değerlendirmez. `[Denetmen]` Avukata gidecek olgu: Şartlar'daki "yedi gün" ve "385 sayılı VUK genel tebliği" atfı eski (2014 öncesi) şablon diline benziyor; güncel Mesafeli Sözleşmeler Yönetmeliği cayma süresini 14 gün sayıyor (teyit avukatta). Şartlar'da kargo ücreti, satıcı adı ve tarih alanları boş.
 - **Seçenekler:** (a) Avukata tek soru, sonra iki sayfa birlikte düzelir. (b) Ayhan şimdilik daha uzun olan süreyi iki sayfaya yazar, avukat sonra bakar. (c) Bekler.
 - **Öneri:** (b) + (a). Uzun süre müşteri lehine, çelişki 9 Kas'ta kapanır.
 - **Termin:** 9 Kas.
