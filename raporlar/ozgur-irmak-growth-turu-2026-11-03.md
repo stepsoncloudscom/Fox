@@ -9,7 +9,7 @@
 
 ## 0 · VERİ ÇEKİLDİ Mİ? — Evet (Tip A, kaynak: Wix GSC Site Readiness API + Item SEO Tags API + canlı sayfa SSR, 3 Kas)
 
-Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, doğrulama, property ekleme, sitemap gönderimi ve indeksleme talebi hepsi 28 Eylül'de yapılmış, sonra tekrarlanmamış. Apps listesinde **Google Analytics hâlâ yok** (GA4 bağlı değil, bugün tekrar doğrulandı).
+Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, doğrulama, property ekleme, sitemap gönderimi ve indeksleme talebi hepsi 28 Eylül'de yapılmış, sonra tekrarlanmamış. Apps listesinde **Google Analytics hâlâ yok**; GA4 bağlanmamış, bugün tekrar doğrulandı.
 
 ### 0.1 Toplam arama performansı
 
@@ -19,11 +19,11 @@ Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, do�
 | **6 Eki–2 Kas (28 gün)** | **109** | **3.872** | %2,8 | 8,03 |
 | 13 Eki–2 Kas (21 gün, yalnız 15 Eki sonrası) | 94 | 3.322 | %2,8 | 8,37 |
 
-**Yöntem notu:** İki 28 günlük pencere 6–12 Ekim'de 7 gün çakışıyor; Google'ın son 1-2 günü eksik (günlük veri 31 Ekim'de bitiyor). Fark büyük olduğu için okuma değişmiyor, ama bu bir "+%86" iddiası değil, iki pencerenin ham karşılaştırması.
+**Yöntem notu:** İki 28 günlük pencere 6–12 Ekim'de 7 gün çakışıyor; Google'ın son 1-2 günü eksik (günlük veri 31 Ekim'de bitiyor). Fark büyük olduğu için okuma değişmiyor. Tablo iki pencerenin ham karşılaştırmasıdır, bir "+%86" iddiası taşımaz.
 
 **Günlük kırılma (Tip A):** 15 Eyl–18 Eki arası günlük gösterim 32–118 bandında. **19 Ekim'den itibaren 116–299 bandına çıkıyor** ve orada kalıyor. Bu, 15-16 Ekim'de canlıya giren blog partisinin Google'da görünmeye başladığı tarihle örtüşüyor. Nedensellik kanıtı değil, zaman örtüşmesi (Tip B yorum).
 
-**Ortalama pozisyon neden kötüleşti (5,28 → 8,03):** Marka-dışı sorgularda yeni gösterimler alt sıralardan geliyor; bu ortalamayı aşağı çekiyor. Sıralama kaybı işareti değil, kapsam genişlemesi. (Tip B yorum — sorgu kırılımı aşağıda bunu destekliyor.)
+**Ortalama pozisyon neden kötüleşti (5,28 → 8,03):** Marka-dışı sorgularda yeni gösterimler alt sıralardan geliyor ve ortalamayı aşağı çekiyor; bu kapsam genişlemesine işaret ediyor. (Tip B yorum — sorgu kırılımı aşağıda bunu destekliyor.)
 
 ### 0.2 Marka vs marka-dışı (sorgu düzeyi — Google'ın anonimleştirdiği sorgular hariç)
 
@@ -32,7 +32,7 @@ Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, do�
 | Marka sorguları (özgür/ırmak içeren) | 44 tık · 313 gösterim · 17 sorgu | 32 tık · 275 gösterim · 15 sorgu |
 | Marka-dışı sorgular | **2 tık** · 618 gösterim · 101 sorgu | **2 tık** · 1.201 gösterim · 190 sorgu |
 
-**Okuma:** Marka-dışı görünürlük (gösterim + sorgu çeşitliliği) yaklaşık iki katına çıktı; **marka-dışı tıklama yerinde saydı.** 15 Ekim'deki "yalnız marka adıyla bulunuyoruz" teşhisi yarı yarıya değişti: artık bulunuyoruz, ama tıklanmıyoruz. Bir sonraki darboğaz hacim değil, **tıklanma (snippet) ve sıralama derinliği.**
+**Okuma:** Marka-dışı görünürlük (gösterim + sorgu çeşitliliği) yaklaşık iki katına çıktı; **marka-dışı tıklama yerinde saydı.** 15 Ekim'deki "yalnız marka adıyla bulunuyoruz" teşhisi yarı yarıya değişti: artık bulunuyoruz, tıklanmıyoruz. Bir sonraki darboğaz **tıklanma (snippet) ve sıralama derinliği.**
 Marka tıklamasındaki düşüş (44 → 32) küçük örneklem ve anonimleştirme payı içinde; yorumlanmadı.
 
 ### 0.3 Sayfa düzeyi — 60 yazının durumu
@@ -63,17 +63,18 @@ Marka tıklamasındaki düşüş (44 → 32) küçük örneklem ve anonimleştir
 
 **İlk sayfaya yakın marka-dışı sorgular:** "kafo" (63 gösterim, poz 13) · "kafo ortez" (39, poz 10,9) · "dezartikülasyon nedir" (51, poz 7,8) · "diz dezartikülasyonu" (25, poz 8,1) · "protez bacak" (120, poz 9,2) · "silikon liner diz altı protez" (20, poz 4,3). Baş terimler hâlâ uzakta: "diz altı protez" poz 52, "silikon liner" poz 30,9, "protez el" poz 38,5.
 
-**Ülke:** 3.872 gösterimin 3.783'ü Türkiye. Uluslararası görünürlük pratikte yok (site tek dil — beklenen sonuç, sürpriz değil).
+**Ülke:** 3.872 gösterimin 3.783'ü Türkiye. Uluslararası görünürlük pratikte yok (site tek dil).
 
 ### 0.4 Bu turda yeni bulunan teknik gerçekler (Tip A)
 
 1. **60 canlı yazının yalnız 6'sında `<meta name="description">` var.** 54'ünde yalnız og/twitter açıklaması var. Google arama snippet'i için standart açıklama etiketini okur; olmadığında metni kendisi seçer. Yukarıdaki "gösterim var, tık yok" tablosunun olası nedenlerinden biri (neden-sonuç teyitsiz — Tip B).
 2. **İç linkleme fiilen sıfır.** Hizmet sayfaları (/diz-altı-protezler, /ortezler, /bacak-protezleri) bloga **0** link veriyor. Örneklenen yazıda bloga-dışı linklerin tamamı menü/footer linki; metin içinde hizmet sayfasına bağlam linki yok. Takvimdeki pillar–hub mimarisi (`-blog-icerik-takvimi.md` §1) kâğıtta duruyor, canlıda kurulmamış.
-3. **54 yazı "Özgür Irmak" yazar adıyla yayında** (BlogPosting `author: Person "Özgür Irmak"` + `article:author`). Physician şeması 0 yazıda. → E-E-A-T sinyali kısmen zaten var, ama aynı zamanda **dış onayı alınmamış ~53 yazı Özgür Bey'in adıyla imzalı duruyor.** Bu, fox-durum'daki açık "geriye-dönük onay" maddesinin ağırlığını artırıyor (bkz. Risk).
-4. **30 yazıda Wix'in otomatik ürettiği FAQPage şeması var** (`isAiGenerated: true`). Örneklenen iki yazıda cevaplar ihtiyatlı ("teknik sorumlunuz belirler"). Ama bu metinler ne Denetmen'den ne avukattan geçti; şema yazının görünür metnine sadık değilse Google politikası açısından da sorun olur. Dikkat seviyesi, DUR değil.
-5. **Şablon artığı sayfalar Google'da gösterim alıyor:** `/group/traveling-to-india/discussion`, `/group/traveling-in-australia/discussion`, `/portfolio/landscape-magazine`, `/portfolio`, `/members` — hepsi 200 dönüyor, 6 Eki–2 Kas'ta toplam 73 gösterim. Bir protez-ortez merkezinin sitesinde "Traveling to India" tartışma sayfası, YMYL güven sinyali açısından kötü bir iz.
+3. **54 yazı "Özgür Irmak" yazar adıyla yayında** (BlogPosting `author: Person "Özgür Irmak"` + `article:author`). **Kalan 6 yazı kamuya "stepsonclouds" yazarlı:** aktif-vakum, diz-üstü-protezler, diz-altı-protezi-nedir, protez-bacak-ve-kol-bakımı, dirsek-altı-biyonik-kol, pasif-vakum. Meta description taşıyan 6 yazı tam olarak bunlar — farklı bir yayın yolundan geçmişler; bu, H1'deki API yönteminin (açıklama alanını yazmanın) çalıştığına kanıt. Physician şeması 0 yazıda. → E-E-A-T sinyali kısmen var; aynı zamanda dış onayı alınmamış ~53 yazının bir kısmı Özgür Bey'in adıyla imzalı olabilir (örtüşme kontrol edilmedi — bkz. Risk).
+4. **FAQPage şeması — iki kaynak, iki sayı:** canlı SSR'da 32 yazıda görünüyor; API'de 30 yazı `isAiGenerated: true` (Wix otomatik üretimi) olarak işaretli. Örneklenen iki yazıda cevaplar ihtiyatlı ("teknik sorumlunuz belirler"). Ama bu metinler ne Denetmen'den ne avukattan geçti; şema yazının görünür metnine sadık değilse Google politikası açısından da sorun olur. Dikkat seviyesi, DUR değil.
+5. **Şablon artığı sayfalar Google'da gösterim alıyor:** `/group/traveling-in-australia/discussion` (2), `/group/traveling-to-india/discussion` (6), `/members` (11), `/portfolio` (28), `/portfolio/landscape-magazine` (8) — hepsi 200 dönüyor, 6 Eki–2 Kas'ta toplam **55 gösterim**. `/portfolio`, `/members` ve `/group/*` pages-sitemap'te de listeli; iki `/group/` sayfası `robots: index` taşıyor. Bir protez-ortez merkezinin sitesinde "Traveling to India" tartışma sayfası YMYL güven sinyali açısından kötü bir iz.
+   **Ayrı kalem — slug hijyeni:** `/product-page/i-m-a-product-*` (12 adet) şablon artıklarından ayrı tutuldu: bunlar gerçek ürün başlıklı sayfalar (örn. "Pasif Fonksiyonel Parmak Protezi"), yalnız slug demo adı taşıyor. Slug değişirse eski URL'den 301 yönlendirme şart; bu sayfalar gösterim alıyor.
 6. **Ana sayfa SEO verisi bugün yerinde:** title, description ve MedicalBusiness şeması SSR'da görünüyor. 3. bir reversiyon ana sayfada yok. (59 sayfanın tamamını kontrol etmedim; o işi haftalık `ozgur-protez-seo-recheck` yapıyor.)
-7. **Kök neden için yeni bir ipucu (Tip B, Wix dokümantasyonu):** Item SEO Tags API'nin `STATIC_PAGE` okuması **kaydedilmiş revizyonu döndürür, yayındakini değil.** Haftalık oto-kontrol bu API'den okuyorsa, ölçtüğü şey canlı site değil taslak olabilir. Canlı SSR kontrolü (curl ile title/description/şema) eklenmeden kontrol kör kalabilir. Bu bilgi aynı zamanda "API ile yazdık ama Editör yayını üstüne bastı" hipotezini de destekliyor; teyit Özgür Bey'in cevabına bağlı.
+7. **STATIC_PAGE okuma notu (Tip B, Wix dokümantasyonu):** Item SEO Tags API'nin `STATIC_PAGE` okuması kaydedilmiş revizyonu döndürür, yayındakini değil. `ozgur-protez-seo-recheck` API'de eksik bulduğunda zaten canlı HTML'e bakıyor; kalan kör nokta ters yönde: **API "var" derken canlıda olmaması.** Bu bilgi "API ile yazdık, Editör yayını üstüne bastı" hipoteziyle uyumlu, kanıtı değil; teyit Özgür Bey'in cevabına bağlı.
 
 ---
 
@@ -93,13 +94,18 @@ Kanıt kaynağı: git geçmişi (15 Eki–3 Kas), fox-durum, bugünkü API okuma
 | 8 | GBP erişimi | ⏸ Bekliyor (Ayhan kararı, yeniden açılmadı) | — |
 | 9 | IG lansman serisi | ⏸ Bekliyor (S11) | — |
 
-**Geçersizleşen öncül:** 15 Ekim'in "içerik hacmi tek çözüm" tespiti **artık geçerli değil.** Hacim adımı atıldı ve gösterimde karşılığını verdi (§0.2-0.3). Bundan sonra eklenecek her yeni yazının getirisi, mevcut 60 yazının tıklanma ve iç bağlantı sorunu çözülmeden düşük kalır. Öncelik hacimden **verime** kaydı.
+**Geçersizleşen öncül:** 15 Ekim'in "içerik hacmi tek çözüm" tespiti **geçerliliğini yitirdi.** Hacim adımı atıldı ve gösterimde karşılığını verdi (§0.2-0.3). Bundan sonra eklenecek her yeni yazının getirisi, mevcut 60 yazının tıklanma ve iç bağlantı sorunu çözülmeden düşük kalır. Öncelik hacimden **verime** kaydı.
 
 ---
 
 ## 2 · ÖNÜMÜZDEKİ 30 GÜN — 5 HAMLE (öncelik sırasıyla)
 
 Kanıt tipi: **Tip A** = bu turda ölçüldü · **Tip B** = gözlem/genel SEO bilgisi, bu sitede ölçülmedi. Sayısal etki tahmini verilmedi (§0.1); her hamlenin ölçüsü GSC'de sayfa/sorgu bazında T+28 okunur.
+
+### H0 — Ön koşul: GA4 bağlantısı
+- **AARRR:** Ölçüm · **Kanıt:** Tip A (Apps listesinde Google Analytics yok, 3 Kas).
+- **Neden önce:** GSC yalnız arama tarafını ölçer. GA4 olmadan H1–H5'in hiçbirinin danışma talebine (form/WhatsApp/telefon) etkisi okunamaz; Kanıt Üçgeni T0 kapanışı ve T+90 sayacı başlamaz.
+- **Efor:** Düşük · **Kimde:** Ayhan (Wix paneli, kendi Google hesabı) · **Blokaj:** Yalnız Ayhan'ın zamanı.
 
 ### H1 — Yüksek-gösterimli yazılarda snippet onarımı (meta description + title)
 - **AARRR:** Edinim · **Kanıt:** Sorun Tip A (54/60 yazıda meta description yok; 9 yazı toplam ~1.000 gösterim, çoğu 0 tık). Çözümün CTR etkisi Tip B (Google snippet'i yine kendi yazabilir).
@@ -116,32 +122,37 @@ Kanıt tipi: **Tip A** = bu turda ölçüldü · **Tip B** = gözlem/genel SEO b
 - **Blokaj:** Editör'den her yayın, bilinen STATIC_PAGE reversiyon riskini tetikleyebilir. **Bu yüzden H2'nin Editör kısmı Özgür Bey sorusuyla (15 Eki Madde 1) aynı pencerede yapılmalı** ve yayından hemen sonra canlı SSR kontrolü koşulmalı (§0.4 madde 7).
 
 ### H3 — v4 ortez adaylarından 4'lü alt küme
-- **AARRR:** Edinim · **Kanıt:** Kapsam eşleşmesi Tip A (canlı `/soft-ortezler` sayfası el bileği, ayak bileği, diz, bel, boyun, dirsek ve omuz soft ortezlerini merkezin hizmeti olarak listeliyor). Talep sinyali **yok:** bu 8 konunun hiçbirinde GSC'de henüz gösterim yok (içerik olmadığı için beklenen sonuç). Arama hacmi beklentisi Tip B.
-- **Seçim (v4'teki (a) önerisinden ayrılıyorum, (b) tarafındayım):**
-  - **AL:** #1 Ayak bileği burkulmasında ortez · #4 Diz bağı yaralanmasında ortez · #7 Bel korsesi sert/yumuşak · #8 Bilek ateli (karpal tünel). Dördü de canlı hizmet sayfasına bağlanabiliyor; H2'nin iç link ağına hemen girer.
-  - **BEKLET:** #2 Gece ateli, #3 Yürüteç botu, #5 Unloader diz ortezi. Merkezin bu ürün gruplarını uyguladığı sitede görünmüyor. v4 kendi notunda pediatrik/nörolojik konuları "kapsam teyitsiz" gerekçesiyle dışlamıştı; aynı ölçü bunlara da uygulanmalı.
+- **AARRR:** Edinim · **Kanıt:** Kapsam eşleşmesi Tip A (canlı `/soft-ortezler` sayfası el bileği, ayak bileği, diz, bel, boyun, dirsek ve omuz **soft** ortezlerini merkezin hizmeti olarak listeliyor). Talep sinyali **yok:** bu 8 konunun hiçbirinde GSC'de henüz gösterim yok, çünkü içerik yok. Arama hacmi beklentisi Tip B.
+- **Seçim — v4'ün (b) seçeneğinin farklı bir alt kümesi.** Ölçüt: başlığın kapsamı canlı sitede merkezin hizmeti olarak görünüyor mu? Bu ölçüt AL listesine de uygulandı:
+  - **AL (temiz):** #1 Ayak bileği burkulmasında ortez — sitedeki ayak bileği soft ortezleriyle birebir.
+  - **AL, ama kapsam daraltılarak ya da teyitle:**
+    - #4 Diz bağı (ACL/MCL): sitede yalnız soft dizlik var. Başlık "Diz bağı zorlanmasında soft dizlik ne işe yarar?" çerçevesine çekilir **ya da** Özgür Bey'den rijit/ligament diz ortezi uyguladıkları teyidi alınır.
+    - #7 Bel korsesi "sert mi yumuşak mı": sitede sert bel ortezi yok. Başlık soft bel desteğine çekilir ya da sert ortez teyidi ön koşul olur.
+    - #8 Bilek ateli (karpal tünel): "karpal" sitede geçmiyor. Başlık "El bileği soft ortezi ne zaman kullanılır?" çerçevesine çekilir ya da teyit alınır.
+  - **BEKLET:** #2 Gece ateli, #3 Yürüteç botu, #5 Unloader diz ortezi. Bu ürün grupları sitede görünmüyor. v4 kendi notunda pediatrik/nörolojik konuları "kapsam teyitsiz" gerekçesiyle dışlamıştı; aynı ölçü bunlara da uygulanıyor.
   - **BEKLET:** #6 Boyunluk. Soft boyun ortezi sitede var, ama v4 başlığı travma/acil boyunluk çerçevesinde kurulmuş. Yüksek-YMYL; çerçeve soft ortez kullanımına çekilmeden üretilmemeli.
-- **Neden 8 değil 4:** (1) H1+H2 kapanmadan eklenen yazı aynı tıklanmama sorununa girer; (2) **dış onayı olmayan, Özgür Bey'in adıyla imzalı yazı sayısını** büyütmek, açık geriye-dönük onay riskini büyütür. 4'lü parti test görevi de görür: 28 gün sonra GSC'de gösterim alıyorlarsa kalan adaylar açılır.
+- **Neden 8 değil 4:** Ana gerekçe: H1+H2 kapanmadan eklenen yazı aynı tıklanmama sorununa girer. İkincil gerekçe: dış onayı olmayan yazı sayısını büyütmek, açık geriye-dönük onay riskini büyütür. 4'lü parti test görevi de görür: 28 gün sonra GSC'de gösterim alıyorlarsa kalan adaylar açılır.
 - **Efor:** Orta (Metin Yazarı + Denetmen, EN SIKI tıbbi ihtiyat çerçevesi, marka/üretici adı yok).
 - **Kimde:** Fox/Metin Yazarı üretir → Denetmen → **Ayhan onayı (Kademe 2).**
-- **Blokaj:** Ayhan'ın v4 kararı. İsteğe bağlı ama önerilen: Özgür Bey'den "soft ortez uyguluyoruz, bu dört grup bizde var" tek satır teyidi.
+- **Blokaj:** Ayhan'ın v4 kararı. #4/#7/#8 dar (soft) çerçevede yazılmayacaksa Özgür Bey teyidi ön koşul.
 
 ### H4 — Güven katmanı (E-E-A-T / GEO): şablon artıklarını temizle, yazar ve şema katmanını sahiplen
-- **AARRR:** Edinim (YMYL güven + AI cevap motorlarında kaynak olma) · **Kanıt:** Şablon artıkları Tip A (5 sayfa gösterim alıyor). AI görünürlüğü **ölçülmedi.** Elimde ChatGPT/Perplexity/AI Overview atıf ölçüm aracı yok; "AI'da görünüyoruz/görünmüyoruz" iddiası kurmuyorum. Genel GEO mekaniği (yapısal veri + uzman imzası + tutarlılık) Tip B.
+- **AARRR:** Edinim (YMYL güven + AI cevap motorlarında kaynak olma) · **Kanıt:** Şablon artıkları Tip A (5 sayfa, 55 gösterim). AI görünürlüğü **ölçülmedi.** Elimde ChatGPT/Perplexity/AI Overview atıf ölçüm aracı yok; "AI'da görünüyoruz/görünmüyoruz" iddiası kurmuyorum. Genel GEO mekaniği (yapısal veri + uzman imzası + tutarlılık) Tip B.
 - **Kapsam (30 gün içinde yapılabilir olan):**
-  1. `/group/traveling-*`, `/portfolio`, `/portfolio/landscape-magazine`, `/members` → indeksten çıkar ya da kaldır. Wix Groups ve Portfolio uygulamaları kullanılmıyorsa uygulamayı kaldırmak da seçenek. Ayhan, Editör/panel.
-  2. Wix'in ürettiği 30 FAQPage şemasını Denetmen'den geçir: görünür metne sadık mı, TİTCK diline uygun mu. Uymayan kapatılır.
-  3. Physician şeması ve künye spec'i hazır (15 Eki §2.3). **Yayını blokajlı** (aşağıda).
-- **Efor:** Düşük (1, 2) / Düşük ama blokajlı (3).
-- **Kimde:** 1 → Ayhan (Editör) · 2 → Fox + Denetmen · 3 → Özgür Bey teyidi, sonra Fox.
-- **Blokaj:** Künye ve Physician şeması **iki şeye** bağlı: ders verilen üniversite belgesi, ve Özgür Bey'in adıyla duran yazıların geriye-dönük onayı. Onaysız yazılara uzman şeması eklemek, imzası olmayan içeriği güçlendirilmiş biçimde ona atfetmek olur. Bu adım bilerek ileri atılmadı.
+  1. `/group/traveling-*`, `/portfolio`, `/portfolio/landscape-magazine`, `/members` → indeksten çıkar ya da kaldır, **ve pages-sitemap'ten de çıkar** (iki `/group/` sayfası şu an `robots: index`). Wix Groups ve Portfolio uygulamaları kullanılmıyorsa uygulamayı kaldırmak da seçenek. Ayhan, Editör/panel.
+  2. Slug hijyeni: 12 `/product-page/i-m-a-product-*` sayfasına gerçek başlığa uygun slug, **eski URL'den 301 yönlendirmeyle**. Ayrı kalem, düşük öncelik.
+  3. FAQPage şemasını Denetmen'den geçir (canlı SSR'da 32 yazı; API'de 30'u Wix otomatik üretimi): görünür metne sadık mı, TİTCK diline uygun mu. Uymayan kapatılır.
+  4. Physician şeması ve künye spec'i hazır (15 Eki §2.3). **Yayını blokajlı** (aşağıda).
+- **Efor:** Düşük (1, 3) / Düşük-orta (2) / Düşük ama blokajlı (4).
+- **Kimde:** 1 → Ayhan (Editör) · 2 → Fox hazırlar (slug+yönlendirme listesi), Ayhan onaylar (Kademe 2) · 3 → Fox + Denetmen · 4 → Özgür Bey teyidi, sonra Fox.
+- **Blokaj:** Künye ve Physician şeması **iki şeye** bağlı: ders verilen üniversite belgesi, ve Özgür Bey'in adıyla duran yazıların geriye-dönük onayı. Onaysız yazılara uzman şeması eklemek, imzası olmayan içeriği ona daha güçlü biçimde atfetmek olur. Bu adım bilerek ileri atılmadı.
 
 ### H5 — B2B hekim yönlendirme hedef listesi
 - **AARRR:** Tavsiye · **Kanıt:** Kanal etkinliği bu müşteride Tip B (Luxmed'de yöntem çalıştı, burada ölçülmedi). Medikal-bağ'a göre meslek mensubuna tanıtım tüketici reklam yasağının dışında (avukat teyidiyle kesinleşir).
 - **Kapsam:** Ataşehir/Kadıköy/Ümraniye çevresinde ortopedi, fizik tedavi ve nöroloji uzmanlarının kamuya açık kaynaklardan hedef listesi. Yanında outreach sırası ve takip ritmi taslağı. Bu tur Gelişim Yol Haritası #2'nin (tekrarlanabilir referral şablonu) ilk somut uygulaması olur.
 - **Efor:** Orta (tek odaklı araştırma turu).
 - **Kimde:** Fox (liste + yaklaşım, Kademe 1) → temas **Ayhan/Özgür Bey (Kademe 2)** — Fox kimseye yazmaz.
-- **Blokaj:** Liste için yok. Temas için Özgür Bey'in bu kanala istekli olması ve kendi mevcut hekim ilişkilerini paylaşması gerekiyor (dışarıdan liste çıkarıp zaten tanıdığı hekime "soğuk" yazmamak için).
+- **Blokaj:** Liste için yok. Temas için Özgür Bey'in bu kanala istekli olması ve kendi mevcut hekim ilişkilerini paylaşması gerekiyor, ki zaten tanıdığı bir hekime dışarıdan çıkarılmış listeyle soğuk yazılmasın.
 
 **Bu 5'in dışında kalan ve bilerek öne alınmayanlar:** yeni yazı hacmi (v4'ün kalanı, #26 Lookalike), uluslararası dil sürümleri (önce TR verimi), GBP, IG serisi.
 
@@ -162,9 +173,17 @@ Kanıt tipi: **Tip A** = bu turda ölçüldü · **Tip B** = gözlem/genel SEO b
 
 ## 4 · RİSK / BAYRAK
 
-- 🔴 **Dikkat (yüksek güven):** Yazar alanı 54 canlı yazıda "Özgür Irmak". Dış onay alınmamış tıbbi bilgilendirme içeriği, ilişkinin en hassas kişisinin adını taşıyor. Önerilen hamle: geriye-dönük onay kararını H3'ten önce Ayhan'ın gündemine almak. Seçenekler: (a) Özgür Bey'e toplu okuma listesi, (b) geçici olarak kurum adına yazar ("Özgür Irmak Protez ve Ortez Merkezi") geçmek, (c) mevcut hâliyle bırakıp yalnız yeni yazıları onaylatmak. Karar Ayhan'ın.
-- ⚠️ **Dikkat (orta güven):** 30 yazıdaki otomatik FAQPage şeması denetimsiz (§0.4 madde 4).
-- ⚠️ **Dikkat (orta güven):** Haftalık SEO oto-kontrolü API'den okuyorsa canlıyı değil kaydedilmiş revizyonu ölçüyor olabilir (§0.4 madde 7). Önerilen hamle: kontrole canlı SSR karşılaştırması eklemek (Kademe 1, Fox yapabilir; zamanlanmış görevi değiştirmek kalıcı ayar olduğu için Ayhan'a sorulur).
+- ⚠️ **Dikkat (orta güven):** Yazar alanı
+  - **Talep:** Geriye-dönük onay kararı H3'ten önce Ayhan'ın gündemine alınsın.
+  - **Bağlam:** 54 canlı yazı "Özgür Irmak", 6 yazı "stepsonclouds" yazarlı. Dış onayı alınmamış ~53 yazı var; **bu 53 ile 54 Özgür-yazarlı yazının ne kadar örtüştüğü kontrol edilmedi.** Örtüşme yüksekse, onaysız tıbbi bilgilendirme içeriği ilişkinin en hassas kişisinin adını taşıyor demektir.
+  - **Seçenekler ve bedelleri:**
+    - (a) Özgür Bey'e toplu okuma listesi. Bedel: onun zamanı (60 yazı); cevap gecikirse risk o süre boyunca açık kalır.
+    - (b) Geçici olarak tüm 60 yazıda yazarı kurum adına ("Özgür Irmak Protez ve Ortez Merkezi") çekmek — 6 "stepsonclouds" yazısı da dahil, çünkü ajans adı tıbbi içerikte yazar olarak durmamalı. Bedel: uzman-imza E-E-A-T sinyali düşer; 60 yazıda canlı değişiklik (Kademe 2).
+    - (c) Mevcut hâliyle bırakıp yalnız yeni yazıları onaylatmak. Bedel: mevcut riski olduğu gibi bırakır.
+  - **Önerim:** (a). Örtüşme önce kontrol edilir (Fox, Kademe 1), ve liste yalnız onaysız olanlarla gönderilir. Cevap 2 haftada gelmezse (b) devreye girer.
+  - **Termin:** H3 üretiminden önce; H4-4 (künye/Physician) buna bağlı.
+- ⚠️ **Dikkat (orta güven):** FAQPage şeması denetimsiz (canlı SSR 32 / API 30 otomatik — §0.4 madde 4).
+- ⚠️ **Dikkat (orta güven):** Haftalık SEO oto-kontrolü, API "var" dediğinde canlı HTML'e bakmıyorsa, API'de var olup canlıda olmayan veriyi kaçırır (§0.4 madde 7). Önerilen hamle: kontrolü her durumda canlı SSR ile karşılaştıracak hâle getirmek (zamanlanmış görevi değiştirmek kalıcı ayar olduğu için Ayhan'a sorulur).
 
 ---
 

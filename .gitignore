@@ -3,3 +3,4 @@ raporlar/_chk/
 raporlar/_kesif/
 *.pyc
 __pycache__/
+.superpowers/
