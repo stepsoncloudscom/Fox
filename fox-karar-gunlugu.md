@@ -23,6 +23,11 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### SOC Form Başlığı + CloudOne Fiyatı — Ayhan Teyidi (3 Kas)
+- **Karar:** (1) TR form başlığı "Bize Ulaş, Yalnız Değilsin" (14 Haz kilidi) → **"İlk Adımı Birlikte Atalım"**; değişikliği Ayhan yaptı, yeni kilit budur. (2) CloudOne fiyatı ₺550 → **₺700**; değişikliği Ayhan yaptı.
+- **Tetik:** Growth Sprint ölçümü (`raporlar/soc-growth-sprint-2026-11.md`) iki kayıtsız değişiklik buldu, Denetmen bayrakladı, Ayhan teyit etti.
+- **Sonuç:** Branding Faz 3 "yalnız değilsin" kara listesiyle çelişki kapandı. EN/AR başlıkları yeni cümleye çekilecek (Editör günü). Ayhan'ın Editör'den yaptığı değişiklikler kayda düşmüyor — bir sonraki ölçümde "kim yaptı" sorusu doğmasın diye Ayhan değişiklik yaptığında Fox'a tek satır bildirmesi yeterli.
+
 ### SOC'ye Dönüş — Durum Ölçüldü, Aksiyon Planı Kuruldu (25 Ağu)
 - **Tetikleyici:** Ayhan — *"şimdi biraz kendimize dönelim diyorum. Yani Steps On Clouds'a."* Yön sorulduğunda: *"şu anki güncel durumu inceleyip aksiyon planı oluşturmalıyız."*
 - **Yöntem kararı:** Haziran kayıtlarına güvenilmedi; **canlı site bugün tek tek ölçüldü** (ana sayfa · etkinlikler · blog · projeler · hakkımızda · mağaza). Gerekçe: SOC cephesi `fox-durum.md`'de "tazeliği teyitsiz" işaretliydi ve 14 Ağu'nun 15-günlük bayatlama vakası aynı hatayı tekrarlatabilirdi.

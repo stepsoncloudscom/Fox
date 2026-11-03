@@ -25,6 +25,7 @@
 
 | 7 | 15 Ağu 2026 | Ürün tanımı iskeleti (K0-K3) + Pipeline Ajanı taslağı | Fox içi | Fox | v01 | — | ⏳ 5 açık karar Ayhan'da | Fiyat/kapsam Fox'un kararı değil — slotlar `[AYHAN]` bırakıldı (§11.5) | — |
 | 8 | 16 Ağu 2026 | Sosyal biyografiler (IG/FB/LinkedIn ×2/YouTube — 12 blok) | Özgür Protez | Metin Yazarı → Denetmen → Fox doğrulama | v01→v02 | **GERİ** (4 🔴 · 11 🟡) | ⏳ Ayhan'da (slot verisi + 2 karar) | ① **Kanal kuşağı yanlış okundu** — sosyal medya §2 SARI kuşak, v01 §1'e atıfla "yeşil" demişti (tek yanlış bölüm atfı 4 bulgu doğurdu) ② **"Ataşehir" hiçbir belgede yok**, 5 yüzeyde olgu gibi kullanılmış ③ miyoelektrik/mikroişlemcili **kapasite iddiası belgesiz** ④ bio yazımı migrasyonun son adımı sayılmadı (canlı arşiv denetlenmemiş) ⑤ öz-puan 88/100 ölçümsüz (Doğruluk 20/20 — teyitsiz olgu barındıran metinde) | — |
+| 9 | 3 Kas 2026 | Ecem Yaşar — YouTube taraması (Fox) + dijital kurumsal duruş denetimi (Keşif) | Ecem Yaşar (Lead) | Fox + Keşif → Denetmen (Verification) | v01→v02 | **DİKKAT** (DUR yok) | ⏳ temas noktası/kapsam/fiyat Ayhan'da | ① **Gözlem yereli kaydedilmedi** — Fox, İngilizce arayüzde görülen Shorts başlıklarını "dil karmaşası" 🔴 saydı; hl=tr'de başlıklar Türkçe → madde geri çekildi. **Kapı:** Keşif çıktısına + Verification yöntemine `hl/gl + giriş` alanı (3 Kas) ② "büyük kısmı" iddiası ölçümsüz (gerçek ~%25) ③ kişisel veri kalıntısı (telefon ilk hanesi, e-posta öneki) ④ unvan sorularında sorgu/ima tonu | Keşif ~202k + Denetmen ~172k + Fox |
 
 ## Aylık rollup
 

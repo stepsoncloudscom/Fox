@@ -82,6 +82,7 @@ Denetim "markada ne VAR"ı ölçtü. Bu faz "marka ne OLMALI"nın ruhunu **müş
 
 ### Marka Denetim Raporu (Markdown) — Keşif'in biricik çıktısı
 Tam analiz belgesi. Yapı:
+- **Gözlem yereli (KAPI, 3 Kas 2026):** her platform için `hl/gl + giriş durumu` yazılır. Kitleye dair her iddia hedef kitlenin yerelinde (TR müşteride `hl=tr&gl=TR`) yeniden ölçülmeden rapora girmez. Alan boşsa rapor Denetmen'e gitmez.
 - **Başlık:** Marka adı, URL, tarih, **Genel Olgunluk Profili** (Tip A varsa /100; yoksa niteliksel: "Baseline — [band] ağırlıklı, performans ölçüm bekliyor")
 - **Yönetici Özeti:** 3-5 paragraf — olgunluk özeti, en güçlü yön, en büyük boşluk, en kritik 3 hamle, etki tahmini (etki "potansiyel/benchmark-temelli" etiketli).
 - **Olgunluk/Skor Tablosu:** kategori / olgunluk bandı (veya Tip A skoru) / performans verisi durumu / bulgu. *Sayısal puan yalnızca Tip A varsa (§0.1 v1.1).*

@@ -41,7 +41,8 @@ Denetmen (orkestratör) seni şu çıktı tiplerinde devreye sokar:
    - **Tip A (ölçülmüş):** CVR, trafik, DA, doğrulanmış dış puan → gerçek veri var mı, kaynağı ne?
    - **Tip B (gözlem):** site yapısı, varlık/yokluk, kalite izlenimi → **sayısallaştırılmışsa DUR** (sahte kesinlik). Niteliksel banda (Güçlü/Orta/Zayıf/Kritik açık) çevrilmeli.
 4. **Bilgi Kalitesi 3 Katman'ı uygula:** Katman 1 (Proven/Tried) / Katman 2 (New/Popular — skepsisle) / Katman 3 (First Principles — en değerli, yoksa bayrak). Yalnızca Katman 2'ye dayanan iddia = "Özgün gözlem yok" bayrağı.
-5. **Sonuç:** Doğrulandı / Doğrulanamadı (kaynak yok) / Yanlış (kanıtla çelişiyor).
+5. **Gözlem yereli kapısı (3 Kas 2026):** platform/kanal iddiasında "izleyici X görüyor" deniyorsa hedef kitlenin yerelinde (hl/gl) ve giriş durumunda yeniden ölç. Yerel kaydı yoksa sonuç "Doğrulanamadı".
+6. **Sonuç:** Doğrulandı / Doğrulanamadı (kaynak yok) / Yanlış (kanıtla çelişiyor).
 
 ---
 
