@@ -2,7 +2,7 @@
 *Emerging/DTC moda markalarına satış için. Üç bölüm: Konumlandırma · Pitch · Teklif İskeleti.*
 
 **Sürüm:** v2 · **20 Haziran 2026 (v1) → 6 Ekim 2026 (v2, Ayhan girdileriyle tamamlandı)** · Hazırlayan: Strateji Ajanı (Fox filosu) · Denetmen KOŞULLU ONAY (7 bulgu) → Fox düzeltme uyguladı; Ayhan Bulgu 3 kararı: Temel + görünür çıktı
-**Statü:** ✅ EK B'nin 6 girdisi de alındı (fiyat, portföy/Össur izni, termin, içerik hacmi, kademe isim onayı, prodüksiyon sorumluluk). **Müşteriye gitmeden önce Denetmen re-check gerekir** (gerçek rakam/izin girdikten sonraki zorunlu adım — aşağıdaki EK B artık "kapandı" olarak işaretli, ama onay yeniden koşmadı).
+**Statü:** ✅ EK B'nin 6 girdisi de alındı (fiyat, portföy/Össur izni, termin, içerik hacmi, kademe isim onayı, prodüksiyon sorumluluk). **Denetmen re-check yapıldı (3 Kasım 2026): DİKKAT** — rakamlar Ayhan kaynaklı, ama ödeme/süre/IP koşulları ve pitch sözdizimi kapanmadan teklif müşteriye gitmez.
 **Register:** "Ayhan Erden" (iş / salt yaratıcı güç). Misyon/ampüte ekseni bu pakette YOK.
 
 > **Kaynak disiplini (CLAUDE.md §11.5 + Rubrik §0.1):** Bu belgede hiçbir fiyat, oran ya da sonuç uydurulmamıştır. Sektör birim-ekonomisi rakamları yalnızca `marka-bulutu-os-moda-sektor-bagi.md`'den kaynak gösterilerek alıntılanmıştır. Belirli bir markaya ait "şu kadar büyütürüz" türü sayısal vaat YOKTUR — markanın gerçek verisi olmadan niteliksel konuşulur.
@@ -18,7 +18,7 @@
 > **Marka Bulutu OS — Moda Edisyonu**, emerging ve DTC moda markaları için, bir Creative Marketing Manager'ın yönettiği **AI-destekli yaratıcı pazarlama departmanıdır.** Tek bir yaratıcı imza altında — ajansın koordinasyon yükü ve kadronun maliyeti olmadan — **pazarlama dilini görsel dil ile sentezler:** strateji, marka kimliği, içerik hacmi ve görünürlük tek elden, departman hızında çıkar.
 
 **Vaadin kalbi (Ayhan'ın tek cümlesi):** *"Pazarlama dilini görsel dil ile sentezliyorum."*
-Bu sistemin de özüdür: pazarlama tarafı (Strateji + Growth + İçerik metni) ile görsel taraf (Branding + editorial yön) ayrı tedarikçilerden değil, **tek yaratıcı zihinden** çıkar. Piyasada marka, "ajans bana güzel görsel yapıyor ama pazarlamayı anlamıyor" ya da "performansçı trafik getiriyor ama markamı çirkinleştiriyor" ikilemi yaşar. Bu sentez tam o boşluğu kapatır.
+Bu sistemin de özüdür: pazarlama tarafı (Strateji + Growth + Metin Yazarı) ile görsel taraf (Branding + editorial yön) ayrı tedarikçilerden değil, **tek yaratıcı zihinden** çıkar. Piyasada marka, "ajans bana güzel görsel yapıyor ama pazarlamayı anlamıyor" ya da "performansçı trafik getiriyor ama markamı çirkinleştiriyor" ikilemi yaşar. Bu sentez tam o boşluğu kapatır.
 
 ## 1.1 Dunford 5 Bileşen
 
@@ -32,9 +32,9 @@ Bir DTC moda markası bugün şu seçeneklerden birini yapıyor:
 > **Boşluk:** Bu dördünün hiçbiri "tek yaratıcı yön + departman çıktısı + emerging bütçe + AI hızı"nı bir arada vermiyor. Tıpkı Luxmed vakasındaki ders gibi — *farklılaşma rakibin neyi yapmadığında gizli.*
 
 ### Bileşen 2 — Farklılaştırıcı Yetenekler (rakiplerde olmayan neyimiz var?)
-1. **İnsan yaratıcı yön + AI yürütme ekibi kombinasyonu.** Tek bir CMM (Ayhan) yaratıcı kararı ve imzayı verir; arkasında 5 uzman AI ajanı (Strateji, Branding, İçerik, Growth + Denetmen kalite kapısı) departman hacmini üretir. Ne saf-insan ajansın maliyeti, ne saf-AI aracın yönsüzlüğü.
-2. **Pazarlama + görsel sentezi tek zihinde.** Ayhan'ın özgeçmişi bu sentezin kanıtı: moda eğitimi + marka/reklam kampanyası + editorial + global film yapımı. *(Portföy → Bölüm 1.4, Ayhan teyidi bekliyor.)*
-3. **Kalite kapısı yerleşik (Denetmen).** Her çıktı, müşteriye gitmeden bağımsız bir denetim merceğinden geçer — ajansta "junior'ın işi yanlışlıkla gönderildi" riski sistemsel olarak kapalı.
+1. **İnsan yaratıcı yön + AI yürütme ekibi kombinasyonu.** Tek bir CMM (Ayhan) yaratıcı kararı ve imzayı verir; arkasında uzman AI ajan ekibi (Keşif, Strateji, Branding, Metin Yazarı, İçerik, Growth + Denetmen kalite kapısı) departman hacmini üretir. Ne saf-insan ajansın maliyeti, ne saf-AI aracın yönsüzlüğü.
+2. **Pazarlama + görsel sentezi tek zihinde.** Ayhan'ın özgeçmişi bu sentezin kanıtı: moda eğitimi + marka/reklam kampanyası + editorial + global film yapımı. *(Portföy → Bölüm 1.4, Ayhan teyit etti — 6 Ekim 2026.)*
+3. **Kalite kapısı yerleşik (Denetmen).** Her çıktı, müşteriye gitmeden bağımsız bir denetim merceğinden geçer — ajansta "junior'ın işi yanlışlıkla gönderildi" riski sistemsel olarak daraltılır.
 4. **Moda-yerli metodoloji.** Sistem moda gerçekliğine göre kalibre: segment kararı, DTC-toptan dengesi, fiyat mimarisi, sezon/kapsül anlatısı, görsel AI araması — genel pazarlama değil, moda diline gömülü.
 
 ### Bileşen 3 — Farklılaştırıcı Değer (o yetenekler markaya ne kazandırıyor?)
@@ -136,10 +136,10 @@ Piyasada tek gerçek farkım şu: **insan yaratıcı yön + AI ekip kombinasyonu
 ---
 ---
 
-# BÖLÜM 3 — TEKLİF İSKELETİ (rakamsız)
-*Kapsam + kademe yapısı + fiyat mantığı. Somut rakam Ayhan'dan gelecek — UYDURULMADI (§11.5).*
+# BÖLÜM 3 — TEKLİF İSKELETİ (rakamlı — v2)
+*Kapsam + kademe yapısı + fiyat mantığı. Fiyatlar Ayhan'dan geldi (6 Ekim 2026) — UYDURULMADI (§11.5).*
 
-> ⚠️ **Bu iskelet rakam içermez.** Kademe yapısı ve fiyat mantığı kuruldu; her kademenin TL/döviz bandını Ayhan girer. Fiyatlar girilmeden müşteriye gitmez.
+> ⚠️ **Fiyatlar girildi (TL/ay); döviz karşılığı, KDV durumu, asgari taahhüt süresi ve ödeme koşulları henüz yok.** Bunlar kapanmadan teklif müşteriye gitmez.
 
 ## 3.1 Fiyat Mantığı (rakam değil, mekanizma)
 

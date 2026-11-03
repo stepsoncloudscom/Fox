@@ -23,6 +23,19 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 
 ## VERİLEN KARARLAR
 
+### Moda Edisyonu Satış Paketi — Ayhan'ın 6 Girdisi (6 Eki, günlüğe 3 Kas'ta işlendi)
+- **Karar (Ayhan, 6 Eki):** fiyat Temel 200K / Büyüme 300K / Departman 500K TL/ay · portföy teyidi + Össur showcase izni · termin İlkbahar-Yaz 2027 · içerik hacmi 20 parça/ay (iki kademede aynı) · kademe isimleri onaylı · prodüksiyon: Ayhan yönetir + markup, sözleşmesel sorumluluk Ayhan'da.
+- **Kaynak:** commit 85e9950 + `raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`. 20 Haz satırındaki "6 girdi bekleniyor" bununla kapandı.
+- **Denetmen re-check (3 Kas): DİKKAT** — fiyatsız soğuk temas bugün çıkabilir; fiyat/teklif çıkamaz. Açık: Temel'in retainer süresi, ödeme/KDV/döviz, içerik parçası tanımı + revizyon, IP/kullanım hakkı + sorumluluk tavanı (avukat), somut termin, pitch sözdizimi (Metin Yazarı'na geri).
+
+### SoC Satış Odağı — CloudOne + Marka Geneli (3 Kas, aynı gün revize)
+- **Karar (Ayhan):** "Vazgeçtim şimdilik, CloudOne ve markanın geneline odaklanalım." Moda Edisyonu (MBOS) outreach'i **park** — paketin Denetmen bulguları ve 5 açık karar kayıtlı kalır, ilerletilmez. Satış odağı = CloudOne çorap (B2C mağaza + B2B satış noktaları) + Steps On Clouds markasının geneli.
+
+### SoC Satış Önceliği — İki Hat Paralel (3 Kas) — ⚠️ aynı gün yukarıdaki kararla revize edildi
+- **Karar (Ayhan):** "Marka olarak artık satışı önceliklendirip aksiyon almalıyız." Hat seçimi: **ikisi paralel** — Marka Bulutu OS Moda Edisyonu (ana hat) + CloudOne çorap (düşük eforlu B2B takip). Editör günü: **Pazartesi 9 Kasım** (saat açık).
+- **Durum tespiti (3 Kas):** Moda Edisyonu Satış Paketi v2 rakamlı sürümü Denetmen re-check'te. CloudOne B2B: Wunder'e 24 Haz soğuk mail tek mesaj, cevap yok (Gmail, ~4 ay); Ala Skateboards/House of Superstep'te baskı ve satış durumu kayıtsız (mailde iz yok).
+- **Sonuç:** Growth Sprint (`raporlar/soc-growth-sprint-2026-11.md`) satış hamleleriyle yeniden sıralanacak; görünürlük hamleleri satışa hizmet ettiği ölçüde kalır.
+
 ### SOC Form Başlığı + CloudOne Fiyatı — Ayhan Teyidi (3 Kas)
 - **Karar:** (1) TR form başlığı "Bize Ulaş, Yalnız Değilsin" (14 Haz kilidi) → **"İlk Adımı Birlikte Atalım"**; değişikliği Ayhan yaptı, yeni kilit budur. (2) CloudOne fiyatı ₺550 → **₺700**; değişikliği Ayhan yaptı.
 - **Tetik:** Growth Sprint ölçümü (`raporlar/soc-growth-sprint-2026-11.md`) iki kayıtsız değişiklik buldu, Denetmen bayrakladı, Ayhan teyit etti.
