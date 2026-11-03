@@ -9,7 +9,7 @@
 
 ## 0 · VERİ ÇEKİLDİ Mİ? — Evet (Tip A, kaynak: Wix GSC Site Readiness API + Item SEO Tags API + canlı sayfa SSR, 3 Kas)
 
-Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, doğrulama, property ekleme, sitemap gönderimi ve indeksleme talebi hepsi 28 Eylül'de yapılmış, sonra tekrarlanmamış. Apps listesinde **Google Analytics hâlâ yok**; GA4 bağlanmamış, bugün tekrar doğrulandı.
+Bağlantı `VALID`, site hazırlığı `READY`. Olay kaydı: hesap bağlama, doğrulama, property ekleme, sitemap gönderimi ve indeksleme talebi hepsi 28 Eylül'de yapılmış, sonra tekrarlanmamış. Apps listesinde **Google Analytics hâlâ yok**. GA4 bağlanmamış, bugün tekrar doğrulandı.
 
 ### 0.1 Toplam arama performansı
 
@@ -80,7 +80,7 @@ Marka tıklamasındaki düşüş (44 → 32) küçük örneklem ve anonimleştir
 
 ## 1 · 15 EKİM PAKETİNİN DURUMU
 
-Kanıt kaynağı: git geçmişi (15 Eki–3 Kas), fox-durum, bugünkü API okuması. "Kayıt yok", "yapılmadı" anlamına gelmez; yapıldıysa repo'ya işlenmemiş demektir.
+Kanıt kaynağı: git geçmişi (15 Eki–3 Kas), fox-durum, bugünkü API okuması. "Kayıt yok" ile kastedilen: yapıldıysa bile repo'ya işlenmemiş.
 
 | # | 15 Eki hamlesi | Durum (3 Kas) | Dayanak |
 |---|---|---|---|
