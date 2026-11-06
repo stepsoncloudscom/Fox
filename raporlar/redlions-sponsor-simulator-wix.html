@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sponsorluk Simülatörü</title>
+<style>
+:root{--navy:#0d1b3a;--red:#d7262e;--sand:#f4f1ec;--line:#dfe3ea}
+*{box-sizing:border-box}
+body{margin:0;font-family:Helvetica,Arial,sans-serif;color:var(--navy);background:#fff}
+.spike{background:#fff3c4;color:#6b5300;font-size:12px;padding:6px 16px;text-align:center}
+header{padding:28px 32px 8px}
+.lbl{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);font-weight:700}
+h1{margin:6px 0 4px;font-size:30px;text-transform:uppercase;font-weight:900;letter-spacing:-.01em}
+.sub{color:#556;font-size:14px;max-width:620px;line-height:1.5}
+.wrap{display:grid;grid-template-columns:330px 1fr;gap:24px;padding:16px 32px 32px}
+@media(max-width:860px){.wrap{grid-template-columns:1fr;padding:16px}}
+.panel{display:flex;flex-direction:column;gap:14px}
+.up{border:2px dashed #b8c0cf;border-radius:8px;padding:16px;text-align:center;cursor:pointer;background:var(--sand)}
+.up:hover{border-color:var(--red)}
+.up input{display:none}
+.up b{display:block;font-size:14px}
+.up small{color:#667;font-size:11px}
+.pk{border:1px solid var(--line);border-radius:8px;padding:12px 14px;cursor:pointer;transition:.15s}
+.pk:hover{border-color:#9aa6bf}
+.pk.on{border-color:var(--red);box-shadow:0 0 0 1px var(--red);background:#fff7f7}
+.pk h3{margin:0;font-size:14px;text-transform:uppercase;letter-spacing:.04em}
+.pk p{margin:4px 0 0;font-size:12px;color:#556;line-height:1.4}
+.opts{margin-top:8px;display:none;gap:6px;flex-wrap:wrap}
+.pk.on .opts{display:flex}
+.chip{font-size:11px;padding:5px 9px;border:1px solid #b8c0cf;border-radius:20px;background:#fff;cursor:pointer}
+.chip.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.stage{background:linear-gradient(#dfe9f5,#eef3f9 60%);border-radius:10px;position:relative;overflow:hidden}
+.stage svg{width:100%;height:auto;display:block}
+.toolbar{position:absolute;top:12px;left:12px;display:flex;gap:6px}
+.legend{padding:12px 16px;border-top:1px solid var(--line);background:#fff;font-size:13px;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.legend ul{margin:0;padding-left:18px;color:#334}
+.cta{background:var(--red);color:#fff;border:0;padding:12px 18px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:12px;cursor:pointer}
+.badge{display:inline-block;background:var(--navy);color:#fff;font-size:11px;padding:4px 8px;margin-top:6px}
+.form{display:none;margin:0 32px 32px;padding:20px;border:1px solid var(--line);border-radius:8px;background:var(--sand)}
+.form.show{display:block}
+.form .g{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:10px}
+.form input,.form textarea{width:100%;padding:9px;border:1px solid #c8cfdb;font:inherit;font-size:13px;background:#fff}
+.form textarea{grid-column:span 2;height:70px}
+.pre{grid-column:span 2;font-size:13px;background:#fff;border-left:3px solid var(--red);padding:8px 10px}
+image.sail{mix-blend-mode:multiply}
+</style>
+</head>
+<body>
+
+<header>
+<div class="lbl">Destek ol · Markalar</div>
+<h1>Logonuz tekneye nasıl oturur?</h1>
+<div class="sub">Logonuzu yükleyin, bir paket seçin. Teknede ve takım kıyafetinde nerede görüneceğini hemen görün.</div>
+</header>
+
+<div class="wrap">
+<div class="panel">
+<label class="up"><input type="file" id="file" accept="image/png,image/jpeg,image/svg+xml,image/webp"><b>Logonu yükle</b><small>PNG (şeffaf arka plan en iyisi), SVG veya JPG</small></label>
+
+<div class="pk on" data-p="ana"><h3>Ana Sponsor</h3><p>Yıllık giderin tamamı. Yelken, gövde ve kıyafette en görünür alan.</p><span class="badge">+ Misafir Sporcu Kontenjanı</span></div>
+<div class="pk" data-p="yelken"><h3>Yelken / Gövde Sponsoru</h3><p>Bir yıl boyunca yelkenlerde ya da gövdenin geniş alanında.</p>
+<div class="opts"><span class="chip on" data-o="yelken">Yelkenler</span><span class="chip" data-o="govde">Gövde</span></div></div>
+<div class="pk" data-p="kalem"><h3>Kalem Sponsoru</h3><p>Ulaşım veya konaklama gibi tek kalem. Gövdede bütçeyle orantılı alan.</p>
+<div class="opts"><span class="chip on" data-o="s">Küçük</span><span class="chip" data-o="m">Orta</span><span class="chip" data-o="l">Büyük</span></div></div>
+<div class="pk" data-p="giyim"><h3>Giyim Sponsoru</h3><p>Su üzeri ve seremoni kıyafetlerinde.</p></div>
+<div class="pk" data-p="teknik"><h3>Teknik Partner</h3><p>Ekipman/ürün desteği. Gövde kıçında ve kolda küçük logo.</p></div>
+</div>
+
+<div>
+<div class="stage">
+<div class="toolbar"><span class="chip on" id="tUp">Orsa (cenova)</span><span class="chip" id="tDown">Pupa (balon açık)</span></div>
+<svg viewBox="0 0 800 560" id="svg">
+<defs>
+<clipPath id="cMain"><path d="M388,70 L388,418 L612,418 Z"/></clipPath>
+<clipPath id="cGen"><path d="M374,88 L374,424 L178,424 Z"/></clipPath>
+<clipPath id="cSpin"><path d="M382,74 C230,90 96,215 128,400 L330,398 C318,300 340,180 382,74 Z"/></clipPath>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b5c8f"/><stop offset="1" stop-color="#173a63"/></linearGradient>
+<linearGradient id="sailg" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#e9e9e4"/></linearGradient>
+</defs>
+<rect x="0" y="470" width="800" height="90" fill="url(#sea)"/>
+<path d="M0,478 Q100,470 200,478 T400,478 T600,478 T800,478" stroke="#5f8bb8" stroke-width="2" fill="none" opacity=".6"/>
+<!-- mast & boom -->
+<rect x="381" y="60" width="6" height="372" fill="#2a2f3a"/>
+<rect x="386" y="416" width="230" height="5" rx="2" fill="#2a2f3a"/>
+<!-- main sail -->
+<path d="M388,70 L388,418 L612,418 Z" fill="url(#sailg)" stroke="#c9c9c2"/>
+<g id="battens" stroke="#d6d6cf"><line x1="388" y1="150" x2="440" y2="150"/><line x1="388" y1="230" x2="480" y2="230"/><line x1="388" y1="310" x2="530" y2="310"/></g>
+<!-- genoa -->
+<path id="genoa" d="M374,88 L374,424 L178,424 Z" fill="url(#sailg)" stroke="#c9c9c2"/>
+<!-- spinnaker -->
+<path id="spin" d="M382,74 C230,90 96,215 128,400 L330,398 C318,300 340,180 382,74 Z" fill="#d7262e" opacity=".92" style="display:none"/>
+<!-- hull -->
+<path d="M150,428 L660,428 Q650,462 610,474 L235,474 Q175,462 150,428 Z" fill="#fff" stroke="#b9bec8"/>
+<path d="M156,437 L654,437" stroke="#d7262e" stroke-width="5"/>
+<path d="M210,466 L620,466" stroke="#0d1b3a" stroke-width="3"/>
+<text x="560" y="462" font-size="10" fill="#0d1b3a" font-weight="700">TUR 1948</text>
+<!-- logo layers -->
+<g id="logos"></g>
+<!-- shirt inset -->
+<g id="shirt" transform="translate(640,60)">
+<rect x="-10" y="-12" width="150" height="170" rx="8" fill="#fff" stroke="#dfe3ea"/>
+<path d="M25,10 L50,0 Q65,12 80,0 L105,10 L125,40 L105,50 L100,40 L100,140 L30,140 L30,40 L25,50 L5,40 Z" fill="#0d1b3a"/>
+<text x="65" y="155" text-anchor="middle" font-size="10" fill="#556">Takım kıyafeti</text>
+<g id="shirtLogos"></g>
+</g>
+</svg>
+<div class="legend"><div><b id="pkName">Ana Sponsor</b><ul id="zones"></ul></div><button class="cta" id="cta">Bu paketle iletişime geç</button></div>
+</div>
+</div>
+</div>
+
+<div class="form" id="form">
+<div class="lbl">Sıradaki adım</div>
+<p id="pre" style="font-size:14px;line-height:1.5"></p>
+<p style="font-size:12px;color:#556">Logonuz yalnız bu tarayıcıda gösterilir; hiçbir yere yüklenmez.</p>
+</div>
+
+<script>
+const ph='data:image/svg+xml;utf8,'+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="300" height="120"><rect width="300" height="120" fill="none"/><text x="150" y="78" text-anchor="middle" font-family="Helvetica,Arial" font-weight="900" font-size="54" fill="#0d1b3a">LOGONUZ</text></svg>');
+let logo=ph, pkg='ana', opt={yelken:'yelken',kalem:'s'}, spin=false;
+const Z={
+ main:{x:400,y:250,w:165,h:110,clip:'cMain',label:'Ana yelken'},
+ gen:{x:250,y:300,w:115,h:95,clip:'cGen',label:'Cenova'},
+ spin:{x:150,y:190,w:170,h:140,clip:'cSpin',label:'Balon (spinnaker)'},
+ hullL:{x:250,y:449,w:290,h:16,label:'Gövde — geniş alan (iki yön)'},
+ hullS:{x:470,y:449,w:70,h:15,label:'Gövde — küçük alan'},
+ hullM:{x:420,y:449,w:120,h:15,label:'Gövde — orta alan'},
+ hullX:{x:330,y:449,w:210,h:16,label:'Gövde — büyük alan'},
+ stern:{x:575,y:430,w:55,h:14,label:'Kıç — küçük logo'},
+ chest:{x:45,y:35,w:40,h:22,label:'Kıyafet — göğüs'},
+ sleeve:{x:104,y:36,w:16,h:10,label:'Kıyafet — kol'},
+ back:{x:35,y:70,w:60,h:35,label:'Kıyafet — sırt (büyük)'}
+};
+const names={ana:'Ana Sponsor',yelken:'Yelken / Gövde Sponsoru',kalem:'Kalem Sponsoru',giyim:'Giyim Sponsoru',teknik:'Teknik Partner'};
+function zonesFor(){
+ const sail=spin?'spin':'gen';
+ if(pkg==='ana')return ['main',sail,'hullL','chest','back'];
+ if(pkg==='yelken')return opt.yelken==='yelken'?['main',sail]:['hullL'];
+ if(pkg==='kalem')return [{s:'hullS',m:'hullM',l:'hullX'}[opt.kalem]];
+ if(pkg==='giyim')return ['chest','back'];
+ if(pkg==='teknik')return ['stern','sleeve'];
+}
+function img(z,cls){
+ const e=document.createElementNS('http://www.w3.org/2000/svg','image');
+ e.setAttribute('href',logo);e.setAttribute('x',z.x);e.setAttribute('y',z.y);e.setAttribute('width',z.w);e.setAttribute('height',z.h);
+ e.setAttribute('preserveAspectRatio','xMidYMid meet');if(z.clip)e.setAttribute('clip-path',`url(#${z.clip})`);if(cls)e.setAttribute('class',cls);return e;
+}
+function render(){
+ document.getElementById('genoa').style.display=spin?'none':'';
+ document.getElementById('spin').style.display=spin?'':'none';
+ const g=document.getElementById('logos'),s=document.getElementById('shirtLogos');g.innerHTML='';s.innerHTML='';
+ const zs=zonesFor();const ul=document.getElementById('zones');ul.innerHTML='';
+ zs.forEach(k=>{const z=Z[k];const onShirt=['chest','sleeve','back'].includes(k);
+  if(onShirt){const r=document.createElementNS('http://www.w3.org/2000/svg','rect');r.setAttribute('x',z.x-3);r.setAttribute('y',z.y-2);r.setAttribute('width',z.w+6);r.setAttribute('height',z.h+4);r.setAttribute('rx',2);r.setAttribute('fill','#fff');s.appendChild(r);s.appendChild(img(z));}
+  else g.appendChild(img(z,['main','gen'].includes(k)?'sail':''));
+  const li=document.createElement('li');li.textContent=z.label;ul.appendChild(li);});
+ document.getElementById('shirt').style.opacity=zs.some(k=>['chest','sleeve','back'].includes(k))?1:.35;
+ document.getElementById('pkName').textContent=names[pkg]+(pkg==='ana'?' · + Misafir Sporcu Kontenjanı':'');
+}
+document.querySelectorAll('.pk').forEach(p=>p.addEventListener('click',e=>{
+ if(e.target.classList.contains('chip'))return;
+ document.querySelectorAll('.pk').forEach(x=>x.classList.remove('on'));p.classList.add('on');pkg=p.dataset.p;render();}));
+document.querySelectorAll('.pk .chip').forEach(c=>c.addEventListener('click',e=>{
+ const p=c.closest('.pk');p.querySelectorAll('.chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');opt[p.dataset.p]=c.dataset.o;
+ document.querySelectorAll('.pk').forEach(x=>x.classList.remove('on'));p.classList.add('on');pkg=p.dataset.p;render();}));
+document.getElementById('tUp').onclick=()=>{spin=false;tUp.classList.add('on');tDown.classList.remove('on');render();};
+document.getElementById('tDown').onclick=()=>{spin=true;tDown.classList.add('on');tUp.classList.remove('on');render();};
+document.getElementById('file').addEventListener('change',e=>{const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{logo=r.result;render();};r.readAsDataURL(f);});
+document.getElementById('cta').onclick=()=>{const f=document.getElementById('form');f.classList.add('show');
+ document.getElementById('pre').innerHTML='<b>Seçtiğiniz paket: '+names[pkg]+'</b> — '+[...document.querySelectorAll('#zones li')].map(l=>l.textContent).join(', ')+'.<br>Aşağıdaki iletişim formunda bu paketi seçip bize yazın; size dönüş yapalım.';f.scrollIntoView({behavior:'smooth'});};
+render();
+</script>
+</body>
+</html>
