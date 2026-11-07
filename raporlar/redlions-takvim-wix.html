@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Red Lions 2027 Takvimi</title>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0d1b3a;--red:#d7262e;--sand:#f4f1ec;--line:#dfe3ea;--muted:#5a6478}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,Helvetica,Arial,sans-serif;color:var(--navy);background:#fff}
+.wrap{max-width:980px;margin:0 auto;padding:40px 20px}
+.lbl{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--red);font-weight:700;text-align:center}
+h2{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:48px;margin:6px 0 24px;text-align:center;letter-spacing:.01em}
+.tabs{display:flex;justify-content:center;gap:0;margin:0 auto 28px;border:2px solid var(--navy);width:max-content}
+.tab{background:#fff;border:0;padding:12px 26px;font:700 13px Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--navy);cursor:pointer}
+.tab[aria-selected=true]{background:var(--navy);color:#fff}
+.panel{display:none}
+.panel.on{display:block}
+.list{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.ev{display:grid;grid-template-columns:120px 1fr auto;align-items:stretch;background:var(--sand);border-left:0;min-height:72px}
+.ev.past{opacity:.45}
+.date{background:var(--navy);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:8px 6px;text-align:center}
+.date b{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:26px;line-height:1}
+.date span{font-size:11px;letter-spacing:.14em;text-transform:uppercase;margin-top:4px}
+.ev.key .date{background:var(--red)}
+.info{padding:14px 18px;display:flex;flex-direction:column;justify-content:center}
+.info strong{font-size:16px}
+.info small{color:var(--muted);font-size:13px;margin-top:3px}
+.tag{align-self:center;margin-right:16px;font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);border:1px solid var(--red);padding:4px 8px;white-space:nowrap}
+.empty{background:var(--sand);padding:36px 20px;text-align:center;color:var(--muted);font-size:15px}
+.note{margin-top:18px;text-align:center;color:var(--muted);font-size:12px}
+@media(max-width:600px){
+ h2{font-size:36px}
+ .ev{grid-template-columns:86px 1fr}
+ .tag{display:none}
+ .date b{font-size:20px}
+ .tab{padding:10px 14px;font-size:12px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="lbl" lang="en">Red Lions Sailing Team</div>
+ <h2>2027 TAKVİMİ</h2>
+ <div class="tabs" role="tablist">
+  <button class="tab" role="tab" aria-selected="true" data-p="yaris">Yarış takvimi</button>
+  <button class="tab" role="tab" aria-selected="false" data-p="egitim">Eğitim takvimi</button>
+ </div>
+
+ <section class="panel on" id="yaris" role="tabpanel">
+  <ul class="list">
+   <li class="ev"><div class="date"><b>16–17</b><span>Ocak</span></div><div class="info"><strong>MIYC Kış Trofesi · 1. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev"><div class="date"><b>6–7</b><span>Şubat</span></div><div class="info"><strong>MIYC Kış Trofesi · 2. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev"><div class="date"><b>27–28</b><span>Şubat</span></div><div class="info"><strong>MIYC Kış Trofesi · 3. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev"><div class="date"><b>13–14</b><span>Mart</span></div><div class="info"><strong>MIYC Kış Trofesi · 4. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev"><div class="date"><b>3–4</b><span>Nisan</span></div><div class="info"><strong>MIYC Kış Trofesi · 5. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev"><div class="date"><b>24–25</b><span>Nisan</span></div><div class="info"><strong>MIYC Kış Trofesi · 6. Ayak</strong><small>Yat yarışları</small></div><span class="tag">Seri</span></li>
+   <li class="ev key"><div class="date"><b>1–7</b><span>Mayıs</span></div><div class="info"><strong>Uluslararası Loryma Cup</strong><small>Uluslararası yarış</small></div><span class="tag">Uluslararası</span></li>
+   <li class="ev key"><div class="date"><b>23–29</b><span>Ekim</span></div><div class="info"><strong>38. Marmaris Uluslararası Yarış Haftası</strong><small>Uluslararası yarış</small></div><span class="tag">Uluslararası</span></li>
+   <li class="ev"><div class="date"><b>4–5</b><span>Aralık</span></div><div class="info"><strong>Burhanettin Tekdağ Yıl Sonu Kupası</strong><small>Sezon finali</small></div><span class="tag">Final</span></li>
+  </ul>
+ </section>
+
+ <section class="panel" id="egitim" role="tabpanel">
+  <div class="empty">2027 eğitim takvimi yakında burada.</div>
+ </section>
+
+ <p class="note">Tarihler organizatörlerin açıkladığı programa göre değişebilir.</p>
+</div>
+<script>
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{
+ document.querySelectorAll('.tab').forEach(x=>x.setAttribute('aria-selected',x===t));
+ document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('on',p.id===t.dataset.p));
+}));
+</script>
+</body>
+</html>
