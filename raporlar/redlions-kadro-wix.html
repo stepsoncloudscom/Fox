@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Red Lions Kadro</title>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#0d1b3a;--red:#d7262e;--sand:#f4f1ec;--muted:#5a6478}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,Helvetica,Arial,sans-serif;color:var(--navy);background:transparent}
+.wrap{max-width:980px;margin:0 auto;padding:16px 20px 32px}
+.sec{display:flex;align-items:center;justify-content:center;gap:22px;margin:0 0 28px}
+.sec i{display:block;width:34px;height:2px;background:var(--red)}
+.sec h2{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:40px;margin:0;letter-spacing:.01em}
+.cap{max-width:620px;margin:0 auto 52px;text-align:center}
+.cap img{display:block;width:170px;height:auto;margin:0 auto 18px}
+.cap .role{color:var(--red);font-size:15px}
+.cap h3{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:44px;margin:6px 0 16px;letter-spacing:.01em}
+.cap p{margin:0;font-size:16px;line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.card{background:var(--sand)}
+.ph{aspect-ratio:1/1;background:var(--navy);display:flex;align-items:center;justify-content:center;border-bottom:4px solid var(--red)}
+.ph b{font-family:Anton,Impact,sans-serif;font-weight:400;font-size:52px;color:#fff;letter-spacing:.04em}
+.ph img{width:100%;height:100%;object-fit:cover;display:block}
+.txt{padding:14px 16px 18px}
+.txt strong{display:block;font-size:16px;line-height:1.3}
+.txt small{display:block;color:var(--muted);font-size:13px;margin-top:5px;line-height:1.4}
+@media(max-width:760px){.grid{grid-template-columns:repeat(2,1fr);gap:12px}.sec h2{font-size:32px}.cap h3{font-size:36px}.ph b{font-size:40px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+ <div class="sec"><i></i><h2>KAPTAN</h2><i></i></div>
+ <div class="cap">
+  <img src="https://static.wixstatic.com/media/07465d_90497c377ef74cf48fdd483cb6ac7bf0~mv2.png/v1/crop/x_39,y_0,w_329,h_409/fill/w_461,h_572,al_c,lg_1,q_85,enc_auto/RedLions-logo-aslan.png" alt="Red Lions aslan logosu">
+  <div class="role">Kaptan · Takım Lideri</div>
+  <h3>HÜSEYİN AKBULUT</h3>
+  <p>Türkiye'nin ilk engelli yelken yarışçısı ve ilk engelli yelken eğitmeni. Bugün Red Lions'ın kaptanı ve takım lideri. 20'nin üzerinde milli forma giydi, ABD Dünya Şampiyonası'nda grup birincisi oldu, 2015'te Türkiye IRC2 şampiyonu oldu. 2017'den bu yana Türkiye Engelli Yelken Yarışları'nda kesintisiz şampiyon.</p>
+ </div>
+
+ <div class="sec"><i></i><h2>SPORCULAR</h2><i></i></div>
+ <div class="grid" id="g"></div>
+</div>
+<script>
+// Sıra: Takım sayfasındaki kadro listesiyle aynı (soldan sağa). Fotoğraf gelince 3. alana Wix medya adresi yazılır.
+var K=[
+ ["Ömer Kalay","Ana yelken, Dümen",""],
+ ["Cenk Sulayan","Başüstü, Direk dibi",""],
+ ["Hüseyin Karadağ","Taktisyen",""],
+ ["Büşra Çelik","Cenova trim",""],
+ ["Osman Akbaş","Dümen, Başüstü, Balon",""],
+ ["Emir Turnacıgil","Ana yelken",""],
+ ["Furkan Erçin","Balon",""],
+ ["Ayhan Erden","Balon trim",""]
+];
+function ini(n){var p=n.split(" ");return (p[0][0]+p[p.length-1][0]).toLocaleUpperCase("tr");}
+var g=document.getElementById("g");
+K.forEach(function(k){
+ var c=document.createElement("div");c.className="card";
+ var ph=k[2]?'<img src="'+k[2]+'" alt="'+k[0]+'">':'<b>'+ini(k[0])+'</b>';
+ c.innerHTML='<div class="ph">'+ph+'</div><div class="txt"><strong>'+k[0]+'</strong><small>'+k[1]+'</small></div>';
+ g.appendChild(c);
+});
+</script>
+</body>
+</html>
