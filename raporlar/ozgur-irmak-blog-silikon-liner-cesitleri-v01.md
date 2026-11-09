@@ -127,3 +127,7 @@ Size uygun liner'ı Özgür Irmak'ta birlikte seçelim. 1998'den beri bu kararı
 - **Yamyamlık:** "aktif vakum" H2'si canlı "Aktif Vakum Sistemli Protez" yazısıyla aynı kümeye giriyor; mekanizma tekrarlanmadığı ve o yazıya link verildiği için kabul edilebilir. Ayhan'ın istediği "aktif vakum protez seçenekleri" ifadesi doğru yerde.
 - İç linkler 5/5 canlı + 200. Yeniden tarama: 0 SERT / 1 UYARI (paragraf CV 0,414), slop temiz.
 - Karar: **DİKKAT** — 12 TEYİT (malzeme karşılaştırması ve SUT adlandırması kritik).
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/silikon-liner-cesitleri.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 1 cümle — SUT/reçete adlandırması ("silikon liner kilit sistemli modüler diz altı protezi"). Malzeme ve diz üstü cümleleri "genellikle / olabilir" ile yumuşatıldı.

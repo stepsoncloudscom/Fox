@@ -119,3 +119,7 @@ Gündelik hareketlerinize uygun parçaları Özgür Irmak'ta birlikte değerlend
 - İç linkler: 5/5 canlı listede birebir + HTTP 200 (9 Kas). Meta/başlık sınır içinde. Terim "güdük" (TZP standardı) uyumlu.
 - Yeniden tarama: sozdizim 0 SERT / 1 UYARI (paragraf CV 0,326), slop temiz.
 - Karar: **DİKKAT** — metin temiz, ama 14 TEYİT bayrağı kapanmadan yayına gidemez; teyit gelmeyen cümleler çıkarılınca gövde 600 kelime altına düşebilir (yeniden ölçülmeli).
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/rotasyon-adaptoru-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 3 ifade — "soketi zorlamadan" (bağdaş), SSS ağırlıkta "değerlendirmede bu dengeyi birlikte tartarız", "karşı bacağın diz hizasıyla eşitlik korunmak istendiğinde" yan cümlesi. "Montaj ve ayar merkezde yapılır" genel dile çevrildi. Diğer etiketli cümleler "genellikle / modele göre" ile genel bilgi olarak kaldı.

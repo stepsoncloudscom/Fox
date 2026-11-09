@@ -103,3 +103,7 @@ Soketinizin nasıl üretileceğini Özgür Irmak'ta birlikte konuşabiliriz.
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - Düzeltme yok. Teknik kontrol: ayırıcı kılıf + elyaf katmanları + dış kılıf + vakumla reçine dağıtımı anlatımı standart laminasyon tekniğiyle uyumlu.
 - Seri içi not: "İç Soket ve Dış Çerçeve" bölümü karbon yazısındaki "Tam Karbon Soket ve Karbon Dış Çerçeve" bölümüyle içerik olarak çakışıyor. Yamyamlık riski düşük (farklı birincil kelime), ama ikisinden biri kısaltılabilir — Metin Yazarı v0.2 kararı.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/laminasyon-soket-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — vakumla reçine dağıtımı "genellikle". Sözdizim SERT'i için 4 cümle çifti birleştirildi.

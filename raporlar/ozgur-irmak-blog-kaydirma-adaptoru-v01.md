@@ -123,3 +123,7 @@ Yürüyüşünüzde bir şey değiştiyse Özgür Irmak'ta birlikte bakalım. 19
 - Teknik içerik genel protetik bilgiyle uyumlu (kaydırma = öteleme, piramit = açı; diz konumu ↔ ağırlık hattı ↔ diz güvenliği ilişkisi doğru yönde). İç linkler 5/5 canlı + 200.
 - Yeniden tarama: 0 SERT / 1 UYARI (somut çapa 4,9), slop temiz.
 - Karar: **DİKKAT** — 7 TEYİT + 2 KLİNİSYEN LAFZI (kontrol listesi + his kaybı cümlesi).
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/kaydirma-adaptoru-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 2 cümle — "Test soketinden kalıcı sokete geçişte de rol alabilir." + "Deneme aşamasında bulunan ayarın yeni sokete taşınmasında kullanılır." (emin değil; yerine Test Soketi seri linki). "Çoğu protezde birlikte" → "birlikte kullanılabilir". İki KLİNİSYEN bloğu ihtiyatlı dile indirildi: "her gün gözle kontrol edin" emri kaldırıldı, liste ve his-kaybı paragrafı "teknik sorumlunuza ya da hekiminize danışın" ile bitiyor.

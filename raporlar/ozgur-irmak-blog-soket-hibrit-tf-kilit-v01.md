@@ -107,3 +107,7 @@ Diz üstü soketinizi Özgür Irmak'ta birlikte değerlendirelim.
 - "Literatürde TF ... kısaltmasıyla da anılıyor" → "Adının yanında sık geçen TF kısaltması ise transfemoral, yani diz üstü seviyeyi gösteriyor." Gerekçe: teknik yanlış — TF sistemin adı değil, ampütasyon seviyesinin kısaltması.
 - Kaynak kontrolü (WebSearch): piyasada "hybrid" adlı kilitler, pin-kilit (shuttle lock) ile sızdırmazlık halkalı (seal-in) liner üzerinden vakumu birleştiriyor; kullanıcı yalnız kilit, yalnız vakum ya da ikisi birden kullanabiliyor; hem diz üstü hem diz altı için listeleniyor (bir üreticinin "Hybrid" adlı kilit ürün sayfası; Güney Afrika COID protez tarifesi tanımı). Yazıdaki kurgu (mekanik kilit + vakum/emme, halkalı liner, valf) bununla örtüşüyor; diz altı SSS'si de doğru yönde. "Hibrit" adı bir üreticinin ürün adında da geçiyor → marka-nötr kural için sorun değil, jenerik kullanım yaygın. Ayhan notundaki "hibrit TF locking" büyük olasılıkla bu ürün ailesi — yine de Özgür Bey teyidi şart.
 - sozdizim: 0 SERT, 1 UYARI (somut çapa 5.0) — gerekçe kabul edildi.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/hibrit-kilit-sistemli-diz-ustu-protez-soketi.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — kurgu Denetmen kaynak kontrolünden geçmişti; günlük kontrol cümlesi "yararlı + teknik sorumlunuzla konuşun" diline indirildi.

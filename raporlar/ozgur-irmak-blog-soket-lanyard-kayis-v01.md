@@ -114,3 +114,7 @@ Hangi bağlantı sisteminin size uygun olduğunu Özgür Irmak'ta birlikte konu�
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - "soketin altındaki bir delikten" → "soketin alt kısmındaki bir yuvadan". Gerekçe: aynı yazının parça listesiyle ("tabanında kayışın geçtiği bir yuva") terim birliği.
 - Teknik kontrol: kayış/lanyard tanımı ve pin-kilit farkı genel protetik bilgisiyle uyumlu. Pin-kilitin "tek hamle/klik" anlatımı canlı soket yazısıyla tutarlı.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/kiss-lanyard-sistemi-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — sabitleme "sistemine göre toka ya da cırt bant" diye genelleştirildi; "kontrol etmek yeterli bir alışkanlık" → "bakmak iyi bir alışkanlık".

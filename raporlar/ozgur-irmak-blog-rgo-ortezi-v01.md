@@ -133,3 +133,7 @@ RGO'nun sizin hedeflerinize uyup uymadığını Özgür Irmak'ta, 1998'den beri 
 - Endikasyon (omurilik yaralanması, spina bifida) genel literatürle uyumlu; klinisyen lafzı bayrağı doğru yerde. Onur filtresi temiz. Yamyamlık riski yok (`/yürüme-cihazları` RGO içermiyor).
 - İç linkler 5/5 canlı + 200. Yeniden tarama: 0 SERT / 2 UYARI (somut çapa 3,8 · paragraf CV 0,407), slop temiz.
 - Karar: **DİKKAT** — 5 TEYİT + 2 KLİNİSYEN LAFZI; en çok olgu açığı olan yazı.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/rgo-ortezi-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 2 ifade — "Cilt kontrolü her gün yapılmalı." emri ve "ortezi kullanmaya ara verip" talimatı (KLİNİSYEN). Endikasyon cümlesi (KLİNİSYEN) "değerlendirilebilen / sıkça anılır / hekiminize danışın" diline indirildi. Oturma kilidi ve ön koşul listesi "genellikle" ile genel bilgi.

@@ -105,3 +105,7 @@ Güdüğünüzdeki hacim değişimini Özgür Irmak'ta birlikte değerlendirelim
 
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - Düzeltme yok. Teknik kontrol: panel/kablo-düğme/kayış mekanizmaları ve "ani hacim değişimi → önce hekim" güvenlik kapısı uygun. SEO başlıktaki "Uygun" kelimesi bilgilendirme bağlamında kalıyor (canlı "Protez Ayak Çeşitleri" yazısı da aynı kalıbı kullanıyor); değiştirilmedi.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/ayarlanabilir-protez-soket.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 1 ifade — gövdenin "laminasyonla, karbonla ya da 3D baskıyla" üretilebildiği sayımı (emin değil; "farklı yöntemlerle" kaldı). Aşırı sıkma riski "yaratabilir"; "her gün gözle kontrol ... temel alışkanlık" → "düzenli olarak gözle bakmak iyi bir alışkanlık".

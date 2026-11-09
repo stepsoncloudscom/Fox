@@ -133,3 +133,7 @@ Hidrolik dizin sizin yürüyüşünüze uyup uymadığını 1998'den beri sürd�
 - **🟡 Yamyamlık (Ayhan/Growth kararı, düzeltilmedi):** statik `/hidrolik-diz-eklemli-protezler` (HTTP 200, 9 Kas) H2'leri "Nasıl Çalışır? / Mekanik Dizlerden Farkı" — blogun ilk ve üçüncü H2'siyle aynı niyet. Öneri: (a) blogdan statik sayfaya "hidrolik diz eklemli protezler" çapa metniyle tek link (brif yalnız blog listesine izin verdiği için eklenmedi), (b) statik sayfadan bloga "günlük kullanım ve SSS" linki, (c) blog SEO başlığı "nedir/nasıl çalışır"da kalıyor; çakışma büyürse başlığı "Hidrolik Diz Üstü Protez: Günlük Kullanım ve Ayar"a kaydırmak.
 - İç linkler 5/5 canlı + 200. Yeniden tarama: 0 SERT / 1 UYARI (somut çapa 4,7), slop temiz.
 - Karar: **DİKKAT** — teknik hata düzeltildi; yamyamlık kararı + 3 TEYİT açık.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/hidrolik-diz-eklemi-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — 3 etiketli cümle (hız-direnç fiziği, "bazı hidrolik dizler" duruş kontrolü, soğukta kıvam) genel ve ihtiyatlı. Sözdizim SERT'i (cümle CV 0,392) için 5 cümle çifti birleştirildi, içerik eklenmedi.

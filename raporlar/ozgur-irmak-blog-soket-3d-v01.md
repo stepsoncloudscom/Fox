@@ -108,3 +108,7 @@ Hangi ölçü ve üretim yönteminin size uygun olduğunu Özgür Irmak'ta birli
 - "dijital yolda aynı mantık yazılımda katman katman işleniyor" → "yazılımda işleniyor". Gerekçe: teknik karışıklık — "katman katman" baskı (eklemeli üretim) için doğru, CAD düzeltmesi için değil.
 - "Canlı 3D tarama yazımızda" → "3D tarama yazımızda". Gerekçe: "canlı" iç iş jargonu, okuyucuya görünen metne sızmıştı.
 - Doğrulandı: 4 iç link birebir, seri etiketleri birebir, 0 SERT.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/3d-soket-3d-baski-protez-soket.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — merkezde baskı yapıldığı iddiası metinde yoktu; "zemin sağlıyor" → "sağlayabilir", tarama "genellikle temassız".

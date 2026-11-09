@@ -112,3 +112,7 @@ Doğrudan soketin sizin için uygun olup olmadığını Özgür Irmak'ta birlikt
 - "Özgür Irmak atölyesinde soketlerin büyük kısmı bu yoldan geçiyor" → "bu akışın ölçü adımında alçı ve 3D tarama birlikte kullanılıyor". Gerekçe: "büyük kısmı" teyitsiz nicel iddiaydı; yerine teyitli olgu ⑤ kondu.
 - Üretim adımları düzeltildi. Gerekçe (WebSearch, üretici kullanım talimatı PDF'leri): bu yöntemde elyaf örgü kılıflar önce güdüğe kat kat geçiriliyor, reçine sonra katmanların arasına veriliyor; basınç, güdüğü saran şişirilebilir bir kılıf ve pompayla uygulanıyor. Taslaktaki "reçine emdirilmiş kılıf geçiriliyor" sırası yanlıştı; "teknik sorumlu elle yönlendiriyor" ifadesi kaynakta yok → yumuşatıldı + TEYİT bayrağı.
 - Doğrulandı: 5 iç link birebir; "uzuv üzerinde" ifadesi on-limb'in jenerik karşılığı olarak H1'de kalıyor (terim standardı "güdük" gövdede korunuyor).
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/direct-socket-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 2 ifade — "ama atölyede yan yana duruyor" (merkezde uygulandığını ima ediyordu) ve SSS "kısa süreli sıkılık ve ılık bir his tarif ediliyor" (ısı tarifi; yerine basınç kılıfı kaynaklı sıkılık). "Aynı randevu" → "genellikle aynı randevu".

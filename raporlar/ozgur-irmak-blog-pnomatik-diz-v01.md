@@ -134,3 +134,7 @@ Pnömatik dizin sizin yürüyüşünüze uyup uymadığını Özgür Irmak'ta, 1
 - **🟡 Yamyamlık (Ayhan/Growth kararı):** statik `/pnomatik-diz-eklemli-protezler` (200) H2'leri "Nasıl Çalışır? / Hidrolik Diz Sistemlerinden Farkı" — blogun ilk iki H2'siyle aynı niyet. Hidrolik yazısındaki (a)(b)(c) önerisi burada da geçerli. Ek: statik sayfanın URL ve title'ı "Pnomatik" (ö'süz) — "pnömatik" aramasında başlık eşleşmesini zayıflatır; title'ın "Pnömatik" yapılması önerilir (Wix, Ayhan).
 - İç linkler 5/5 canlı + 200. Yeniden tarama: 0 SERT / 2 UYARI (somut çapa 5,0 · paragraf CV 0,373), slop temiz.
 - Karar: **DİKKAT**.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/pnomatik-diz-eklemi-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — 3 etiketli cümle genel ve ihtiyatlı. Sözdizim SERT'i (cümle CV 0,38) için 8 cümle çifti birleştirildi, SSS'e "Hayır." cevabı eklendi; içerik eklenmedi.

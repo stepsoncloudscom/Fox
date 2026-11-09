@@ -119,3 +119,7 @@ Protezinizin nasıl görüneceğine siz karar verirsiniz. Özgür Irmak'ta 1998'
 - **Meta:** "bilgilendirici bir dille anlatıyoruz" dolgusu çıkarıldı, yerine "diz altı ve diz üstü protezde seçim" (ikincil kelime) → 132 krkt.
 - İç linkler 5/5 canlı + 200. Yeniden tarama: 0 SERT / 2 UYARI (somut çapa 4,3 · paragraf CV 0,431), slop temiz.
 - Karar: **DİKKAT** — 11 TEYİT; somutluk açığı brif açığıdır (merkez 3D cover üretiyor mu?). Bu cevap "hayır/tedarik ediyoruz" gelirse yazının çerçevesi değişir — Özgür Bey cevabından önce yayına hazırlanmamalı.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/3d-cover-protez-bacak-kaplamasi.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 1 ifade — "diz üstü protezlerde kullanıma göre diz çevresini de kapsayabilir" (emin değil). SSS "Çoğu durumda" → "Genellikle".

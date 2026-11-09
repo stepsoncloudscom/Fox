@@ -104,3 +104,7 @@ Hangi soket kurgusunun size uygun olduğunu Özgür Irmak'ta birlikte değerlend
 - "Karbon fiber, çok ince liflerin dokunmasıyla elde edilen bir kumaş" → "Karbon fiber kumaş, çok ince karbon liflerin dokunmasıyla elde ediliyor." Gerekçe: karbon fiber lifin kendisi; kumaş ondan dokunuyor.
 - "Özgür Irmak'ın malzeme yazısında da anlattığımız gibi" → "Malzeme yazımızda da anlattığımız gibi". Gerekçe: özne kayması (üçüncü şahıs + birinci çoğul).
 - Fiyat SSS'si: "SGK kapsamını [HUB] sayfamızdaki fiyat bölümünde topladık" → doğrudan canlı SGK yazısına link. Gerekçe: iddia yanlıştı (SGK kapsamı hub'da değil, SGK yazısında); hub linki zaten bir alt satırda var, aynı paragrafta iki kez tekrar ediyordu. İç link sayısı 5 → 6, seri link HUB tek.
+
+### Yayın sürümü (9 Kas 2026)
+- **Yayın sürümü: Ayhan kararı 9 Kas — teyitsiz yayın** ("özgür beye bişey sormayacağız yayınla geç onaylıyorum"). Dosya: `raporlar/yayin-d-paketi/karbon-soket-nedir.md`. Bu v01 taslak arşiv olarak korunuyor; TEYİT/KLİNİSYEN etiketleri burada kaldı, yayın sürümünde yok.
+- **Çıkarılan cümleler:** 0 cümle — "ince duvar" ve iki kurgu merkezin canlı malzeme yazısına dayalı genel bilgi; etiketler silindi.
