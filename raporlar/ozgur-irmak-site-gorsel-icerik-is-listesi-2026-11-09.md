@@ -1,96 +1,63 @@
-# Özgür Protez — Site Görsel + İçerik İş Listesi
-*9 Kasım 2026 · Ayhan'ın notlarından toparlandı · Durum: sıralama/onay bekliyor*
+# Özgür Protez — Temiz İş Listesi (9 Kas 2026)
+Görseller: `Desktop/Steps On Clouds/Clients/Özgür Irmak/Görseller /İşçilik Görselleri` — 42 görselin tamamı klasörde var. Klasörde 12 video da var.
+Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 
-Görsel adları dosya adıdır (telefon galerisi/Drive). Fox'ta henüz hiçbiri yok — dosyaların konumu gerekli.
+## A · Protez sayfalarına görsel
+1. Mikroişlemcili diz — Selim Bey (1. görsel, dosya adı?) + 20190806_132607 + 20260211_130047
+2. Biyonik kol — 20191020_111006
+3. Su protezleri — 20191115_235310
+4. Koşu protezleri — 20200210_204546
+5. Aktif vakum — 20201130_112001
+6. Kozmetik silikon — 20201207_133128
+7. Miyoelektrik dirsek altı — 20210310_180628
+8. Dizüstü — 20210429_131449 (logo eklenecek) + 20210429_104827
+9. Dizüstü › Hidrolik — 20210501_094139 + 20210628_083255 + açıklama yazısı
+10. Özel protezler › Biyonik ayak — 20210506_101549 + 20210506_112615
+11. Özel protezler › Topuk yüksekliği ayarlanabilir ayak — 20251002_145250 + 20251002_152035
+12. Dizaltı › Aktif — 20210607_152511
+13. Dizaltı › Pasif — 20210607_223014
+14. Dizaltı › Silikon liner — ayrı bölüm metni
+15. Değerlendirme ve ölçü — 20210617_115232
+16. Chopart — 20260515_124019
+17. Pnömatik — IMG_0978 (renk aç) + IMG_1012 (ışık aç) + yazı
+18. Silikon parmak — IMG_6255 (logo ekle)
+19. Silikon ayak — IMG_20180714_093938_259
+20. "1999'dan beri" — IMG_6840 (yeri?)
+21. Protez kategorilerine video (klasördeki 12 videodan seçim)
 
----
+## B · Ortez sayfalarına görsel
+22. Ortezler — 20250819_154533 + 20250819_154625 (kız çocuğunun yüzü YZ ile değişecek)
+23. AFO/KAFO/DAFO ana görsel — IMG_20181217_214639_943
+24. Uzun yürüme ortezleri — IMG_20180628_212538_652 + IMG_20210221_104144 (yüz YZ ile değişecek)
+25. Kısa yürüme cihazı — 20210627_104420 + IMG_20180817_110052_191
+26. RGO — 20210707_174447
+27. Skolyoz korseleri — IMG_20180517_192711_511 + IMG_20181021_114748_339
+28. Dinamik atel + humerus Sarmiento — IMG_20210304_204811
+29. Sporcular için ortez (karbon maske) — IMG_20210709_225354
 
-## 0 · Tamamlandı
-- ✅ "Koşu Bıçağı" → "Koşu Ayağı" (3 canlı yazı + slug + 301, 9 Kas)
+## C · Yeni menü / sayfa
+30. Ayarlanabilir aktif vakum sistemli — 20200612_141437
+31. Dizüstü › Opsiyonel protez aparatları — rotasyon adaptörü (20260211_130047), 3D cover, kaydırma adaptörü (IMG_5482, ok ile işaretli)
+32. Kişiye özel soket çözümleri — 3D soket, hibrit TF locking, direct socket, Ottobock KISS, laminasyon, karbon, çift aşamalı (IMG_0994), ayarlanabilir
+33. Silikon linerlar — Screenshot_20210508-124245_Gallery + liner çeşitleri ve kullanım tercihleri
+34. Tabanlık
 
----
+## D · Blog yazısı
+35. Rotasyon adaptörü
+36. 3D cover
+37. Kaydırma adaptörü
+38. Hidrolik diz
+39. Pnömatik diz
+40. RGO
+41. Soket çözümleri (tek yazı mı, seri mi?)
+42. Silikon liner kullanım tercihleri
+43. Mevcut "Aktif Vakum" yazısına görsel — 20201130_125110
 
-## 1 · Protezler — sayfa/kategori görselleri
+## E · Görsel düzenleme
+44. YZ ile yüz değişimi — 20250819_154533, 20250819_154625, IMG_20210221_104144
+45. Logo ekleme — 20210429_131449, IMG_6255
+46. Renk/ışık — IMG_0978 (renk), IMG_1012 (ışık)
+47. Ok ile işaret — IMG_5482
 
-| Sayfa / kategori | Görsel | Not |
-|---|---|---|
-| Tüm protez kategorileri | — | **Video eklenecek** (hangi videolar? → soru) |
-| Mikroişlemcili diz | 1. görsel: **Selim Bey** · 20190806_132607 · 20260211_130047 | 20260211_130047 = rotasyon adaptörü (bkz. §3) |
-| Biyonik kol | 20191020_111006 | |
-| Su protezleri | 20191115_235310 | |
-| Koşu protezleri | 20200210_204546 | |
-| Aktif vakum | 20201130_112001 | |
-| Kozmetik silikonlar | 20201207_133128 | |
-| Miyoelektrik dirsek altı | 20210310_180628 | |
-| Dizüstü protezler | 20210429_131449 (**Özgür Irmak logosu eklenecek**) · 20210429_104827 | |
-| Dizüstü → Hidrolik | 20210501_094139 · 20210628_083255 | + açıklama yazısı |
-| Özel protezler → Biyonik ayak | 20210506_101549 · 20210506_112615 | |
-| Özel protezler → Topuk yüksekliği ayarlanabilir ayak | 20251002_145250 · 20251002_152035 | |
-| Dizaltı → Aktif | 20210607_152511 | |
-| Dizaltı → Pasif | 20210607_223014 | |
-| Dizaltı → Silikon liner | — | **Ayrı başlık olarak yazılacak** |
-| Değerlendirme ve ölçü | 20210617_115232 | |
-| Chopart | 20260515_124019 | |
-| Pnömatik | IMG_0978 (**renkleri aç**) · IMG_1012 (**ışığı aç**) | + yazı |
-| Silikon parmak protezleri | IMG_6255 (**logo ekle**) | |
-| Silikon ayak | IMG_20180714_093938_259 | |
-| "1999'dan beri" | IMG_6840 | Yerleşim? (ana sayfa / Hakkımızda → soru) |
-
-## 2 · Ortezler — sayfa/kategori görselleri
-
-| Sayfa / kategori | Görsel | Not |
-|---|---|---|
-| Ortezler (genel) | 20250819_154533 · 20250819_154625 | **Kız çocuğunun yüzü YZ ile değiştirilecek** |
-| AFO / KAFO / DAFO ana görsel | IMG_20181217_214639_943 | |
-| Uzun yürüme ortezleri | IMG_20180628_212538_652 · IMG_20210221_104144 (**yüz YZ ile değiştirilecek**) | |
-| Kısa yürüme cihazı | 20210627_104420 · IMG_20180817_110052_191 | |
-| RGO | 20210707_174447 | + blog yazısı |
-| Skolyoz korseleri | IMG_20180517_192711_511 · IMG_20181021_114748_339 | |
-| Dinamik atel + humerus Sarmiento ortezi | IMG_20210304_204811 | |
-| Sporcular için ortezler (karbon maske) | IMG_20210709_225354 | |
-
-## 3 · Yeni menü / sayfalar
-
-1. **Ayarlanabilir aktif vakum sistemli** — yeni menü · görsel 20200612_141437
-2. **Dizüstü → Opsiyonel protez aparatları** — rotasyon adaptörü (20260211_130047), 3D cover, kaydırma adaptörü (IMG_5482, **okla işaretle**)
-3. **Kişiye özel soket çözümleri** — 3D soket · hibrit TF locking sistem · direct socket · Ottobock KISS sistem · laminasyon soket · karbon soket · çift aşamalı soket (IMG_0994) · ayarlanabilir soket
-4. **Silikon linerlar** — menü · görsel Screenshot_20210508-124245_Gallery · liner çeşitleri + kullanım tercihleri
-5. **Tabanlık** — menü (görsel/içerik yok)
-
-## 4 · Blog yazıları
-
-| # | Konu | Durum / çakışma |
-|---|---|---|
-| B1 | Rotasyon adaptörü (20260211_130047) | Yeni |
-| B2 | 3D cover | Yeni |
-| B3 | Kaydırma adaptörü (IMG_5482) | Yeni |
-| B4 | Dizüstü hidrolik diz | Yeni — "Mikroişlemcili vs Mekanik Diz" yazısıyla örtüşür, ayrıştırılmalı |
-| B5 | Pnömatik diz | Yeni |
-| B6 | RGO (20210707_174447) | Yeni |
-| B7 | Soket çözümleri (8 tip — tek yazı mı, her biri ayrı mı?) | "Soket Türleri: Vakum mu, Pin-Kilit mi?" canlı — genişletme mi, yeni seri mi? |
-| B8 | Silikon liner kullanım tercihleri | "Silikon Liner Nedir?" canlı — genişletme olabilir |
-| — | Aktif vakum sistemli dizaltı protez çeşitleri | Mevcut yazıya **görsel** eklenecek (20201130_125110) — "Aktif Vakum Sistemli Protez Nedir?" mi? |
-
-## 5 · Görsel düzenleme işleri
-- YZ ile yüz değiştirme: 20250819_154533/154625 (kız çocuğu), IMG_20210221_104144
-- Logo ekleme: 20210429_131449, IMG_6255
-- Renk/ışık: IMG_0978 (renk aç), IMG_1012 (ışık aç)
-- Ok ile işaretleme: IMG_5482
-
----
-
-## AÇIK SORULAR (Ayhan)
-1. **Görsellerin konumu** — Drive klasörü mü, telefondan mı yüklenecek?
-2. **Videolar** — hangi videolar, nerede?
-3. **"Selim Bey" görseli** — dosya adı?
-4. **IMG_6840 "1999'dan beri"** — ana sayfa mı, Hakkımızda mı?
-5. **"Dizaltında silikon liner ayrı yazılacak"** — sayfada ayrı bölüm mü, ayrı blog mu?
-6. **Soket çözümleri** — tek yazı mı, 8 ayrı yazı mı?
-7. **Tabanlık menüsü** — içerik/görsel kaynağı?
-
-## RİSK BAYRAKLARI
-- 🔴 **Hasta görselleri kategori-kapalı (S11 cevapsız).** Görsellerin çoğu gerçek hasta/kullanıcı fotoğrafı. Hastanın açık rızası ve sitede yayın izni olmadan yayına çıkmaz; S11 avukata sorulmalı.
-- 🔴 **Çocuk + YZ yüz değişimi:** Yüz değiştirmek gizliliği korur ama fotoğrafı "gerçek vaka" diye sunmayı yanıltıcı yapar. Öneri: görselin altına "temsilîdir" notu düşülsün; velinin rızası yine de alınmalı.
-- ⚠️ **Üretici marka adları** (Ottobock KISS vb.): metin katmanında marka-nötr ilke var (14 Eyl). Marka adı kullanılacaksa tescil/kullanım izni Özgür Bey'le teyit edilmeli.
-- ⚠️ **Yeni blog yazıları** Denetmen'den geçer. Teknik içerik (soket tipleri, hidrolik/pnömatik) için Özgür Bey'in teknik teyidi gerekir; 3. bekleyen madde zaten açık.
-- ⚠️ **Sayfa/menü değişikliği Wix Editör'de yapılır** (API yok). Editörden SEO verisi daha önce geri dönmüştü: işi Ayhan'ın Editör oturumuyla birlikte yapmak gerekiyor.
+## ✅ Yapıldı
+- Koşu Bıçağı → Koşu Ayağı (yazı + adres + 301)
