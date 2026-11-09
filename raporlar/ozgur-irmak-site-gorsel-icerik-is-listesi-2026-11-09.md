@@ -42,7 +42,7 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 33. Silikon linerlar — Screenshot_20210508-124245_Gallery + liner çeşitleri ve kullanım tercihleri
 34. Tabanlık
 
-## D · Blog yazısı
+## D · Blog yazısı — ✅ TAMAM (9 Kas, 16 yazı yayında; 41 seri = hub+8; çift aşamalı → Test Soketi)
 35. Rotasyon adaptörü
 36. 3D cover
 37. Kaydırma adaptörü
@@ -51,7 +51,7 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 40. RGO
 41. Soket çözümleri (tek yazı mı, seri mi?)
 42. Silikon liner kullanım tercihleri
-43. Mevcut "Aktif Vakum" yazısına görsel — 20201130_125110
+43. ✅ Mevcut "Aktif Vakum" yazısına görsel — 20201130_125110 (canlı)
 
 ## E · Görsel düzenleme
 44. YZ ile yüz değişimi — 20250819_154533, 20250819_154625, IMG_20210221_104144
@@ -61,3 +61,5 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 
 ## ✅ Yapıldı
 - Koşu Bıçağı → Koşu Ayağı (yazı + adres + 301)
+- Ottobock/Össur 4 canlı yazıdan çıkarıldı · Pnömatik sayfa başlığı düzeltildi · Soket Türleri → hub linki
+- Blog kapak görselleri: PARK (Ayhan, 10 Kas)
