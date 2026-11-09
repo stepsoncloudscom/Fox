@@ -299,3 +299,8 @@ Açık kalan: hangi görsel hangi sayfaya · üretici görseli kullanım izni (I
 görev koşuyor — kendi "0 iş çıksa bile heartbeat yaz" kuralı tutmuyor. Gmail'de 39 taslak birikti:
 8'i dış temas (FONEM/DOLCEZZA/SeraBella/EXQUISE/BASARIN/NUR KALAY/NAQİSHE/Fri Agency, 13–16 Tem),
 31'i Fox'un kendine yazdığı iç rapor. Üretim var, gönderim ve tüketim yok.
+
+## 9 Kas 2026 — Özgür Protez blog: "Koşu Bıçağı" → "Koşu Ayağı" (Ayhan talimatı)
+- 60 canlı + 6 taslak yazı tarandı; ifade 3 canlı yazıda vardı: "Koşu Bıçağı ile Günlük Protez Ayağı Arasındaki Fark" (başlık+özet+gövde 6+FAQ şeması), "Protez Ayakta Taban/Zemin Uyumu" (gövde 3+özet), "Protez Ayaklar Suya Dayanıklı mı?" (gövde 1). UPDATE_PUBLISH ile yayına alındı, canlıda 0 "bıçak" kaldı.
+- Slug bilinçli DEĞİŞTİRİLMEDİ (/koşu-bıçağı-ile-günlük-protez-ayağı-arasındaki-fark) — iç linkler ve indeks kırılmasın; değişecekse 301 gerekir, Ayhan kararı.
+- Yerel kaynak md'ler (su-direnci, kosu-bicagi-gunluk-ayak, taban-zemin) eşitlendi; planlama/link haritası arşiv dosyalarına dokunulmadı.

@@ -1,16 +1,16 @@
-# Özgür Irmak — Blog: Koşu Bıçağı ile Günlük Protez Ayağı Arasındaki Fark (v0.1)
+# Özgür Irmak — Blog: Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark (v0.1)
 
 > **TASLAK — yayın onay zincirinden (Denetmen medikal kontrol → avukat → yazılı müşteri onayı → Ayhan) geçmeden yayınlanamaz.**
 >
 > *Metin Yazarı v1.2 · 2 Kasım 2026 · Diataxis: Referans · Register: Özgür Irmak klinik/bilgilendirme sesi · **KÜNYESİZ** (hub/sibling precedent)*
 >
-> **Teyitli olgu: 6** — ① kanonik kıdem "1998'den beri" (KKK §1, kilitli) ② kapanış varlığı "Adım adım, birlikte." (KKK §2, kilitli) ③ "teknik sorumlu" rol ayrımı (KKK §7) ④ KKK §2 ses kuralı 4 — özne hasta değil birey ⑤ mined teknik gerçek: koşu bıçağı sayfasında üç ayırt edici özellik — yalnız spor amaçlı kullanım, enerjinin adım boyunca kademeli/aşamalı geri verilmesi (günlük ayaktaki ani itişten farklı), kısaltılmış parmak uzunluğu dengeyi desteklemesi (`raporlar/ozgur-irmak-levitate-urun-metinleri.md`, 22 Ağu 2026, ürün 6/7) ⑥ görev talimatı (bu paket, madde 5): "marka-nötr/genel, spor/performans odaklı derinleşme olarak çerçevele, genel tip listesini tekrar etme".
+> **Teyitli olgu: 6** — ① kanonik kıdem "1998'den beri" (KKK §1, kilitli) ② kapanış varlığı "Adım adım, birlikte." (KKK §2, kilitli) ③ "teknik sorumlu" rol ayrımı (KKK §7) ④ KKK §2 ses kuralı 4 — özne hasta değil birey ⑤ mined teknik gerçek: koşu ayağı sayfasında üç ayırt edici özellik — yalnız spor amaçlı kullanım, enerjinin adım boyunca kademeli/aşamalı geri verilmesi (günlük ayaktaki ani itişten farklı), kısaltılmış parmak uzunluğu dengeyi desteklemesi (`raporlar/ozgur-irmak-levitate-urun-metinleri.md`, 22 Ağu 2026, ürün 6/7) ⑥ görev talimatı (bu paket, madde 5): "marka-nötr/genel, spor/performans odaklı derinleşme olarak çerçevele, genel tip listesini tekrar etme".
 >
-> **Tür notu (Olgu Kotası Kapısı):** Referans eşiği (3+) aşıldı. **Farklılaştırma notu (zorunlu):** mevcut "Protez Ayak Çeşitleri" yazısının genel tip listesi tekrarlanmadı; bu yazı tek bir karşılaştırmaya (koşu bıçağı vs günlük ayak) derinlemesine odaklandı, "Protez ile Spor ve Fiziksel Aktivite" yazısındaki genel spor tavsiyesi de tekrar edilmedi.
+> **Tür notu (Olgu Kotası Kapısı):** Referans eşiği (3+) aşıldı. **Farklılaştırma notu (zorunlu):** mevcut "Protez Ayak Çeşitleri" yazısının genel tip listesi tekrarlanmadı; bu yazı tek bir karşılaştırmaya (koşu ayağı vs günlük ayak) derinlemesine odaklandı, "Protez ile Spor ve Fiziksel Aktivite" yazısındaki genel spor tavsiyesi de tekrar edilmedi.
 
 ---
 
-## H1 — Koşu Bıçağı ile Günlük Protez Ayağı Arasındaki Fark
+## H1 — Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark
 
 İkisi de ayak. İkisi de yürümeyi, hareketi destekler. Ama yan yana konduğunda hemen görülür: biri eğri, biri düz.
 
@@ -20,7 +20,7 @@ Bu eğrilik bilinçli bir tasarım kararıdır.
 
 Günlük kullanım ayağında enerji geri dönüşü daha ani hissedilir, basma ve itiş arasında kısa bir döngü vardır. Fark buradan gelir. Koşu bıçağında ise bu geri dönüş adım boyunca daha kademeli ve daha aşamalı biçimde yayılır, çünkü koşarken tekrarlanan darbeyi karşılamak üzere böyle tasarlanmıştır.
 
-Günlük ayak yürümeyi öngörülebilir kılar, koşu bıçağı da koşmayı taşınabilir kılar.
+Günlük ayak yürümeyi öngörülebilir kılar, koşu ayağı da koşmayı taşınabilir kılar.
 
 ## Kullanım Alanı Farklı
 
@@ -62,7 +62,7 @@ Hangi cihazın size uygun olduğunu birlikte belirleyelim.
 ---
 
 ## YAYIN META
-- **SEO başlık (≤60):** Koşu Bıçağı ile Günlük Protez Ayağı Arasındaki Fark *(49 krkt)*
+- **SEO başlık (≤60):** Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark *(49 krkt)*
 - **Meta açıklama (≤155):** Koşu bıçağı günlük protez ayağından nasıl farklı? Enerji geri dönüşü, kullanım alanı ve yapısal farklara kısa bir bakış. *(118 krkt)*
 - **Slug:** kosu-bicagi-ile-gunluk-protez-ayagi-arasindaki-fark
 - **İç link:** HUB (`protez-bacak-ve-kol-bakimi`, hyperlink) + "Protez Ayak Çeşitleri" ve "Protez ile Spor ve Fiziksel Aktivite" (düz metin, link YOK — slug bu görevde teyit edilmedi). Satış/sepet linki YOK.
@@ -72,7 +72,7 @@ Hangi cihazın size uygun olduğunu birlikte belirleyelim.
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka/ürün adı sıfır** — koşu bıçağı tasarım mantığı (enerji dönüşü, parmak uzunluğu, spor-amaçlı kullanım sınırı) genel mühendislik ilkesi düzeyinde anlatıldı; "karbon fiber" marka-spesifik malzeme iddiası bilerek bu yazıya konmadı (o ayrı bir yazının, #6'nın, konusu).
+1. **Marka/ürün adı sıfır** — koşu ayağı tasarım mantığı (enerji dönüşü, parmak uzunluğu, spor-amaçlı kullanım sınırı) genel mühendislik ilkesi düzeyinde anlatıldı; "karbon fiber" marka-spesifik malzeme iddiası bilerek bu yazıya konmadı (o ayrı bir yazının, #6'nın, konusu).
 2. **Çakışma kontrolü:** "Protez Ayak Çeşitleri" genel tip listesi tekrarlanmadı; bu yazı tek karşılaştırmaya derinlemesine odaklandı. "Protez ile Spor" yazısındaki genel spor tavsiyesi de tekrar edilmedi, yalnız düz metin atıfla bağlandı.
 3. **Üstünlük iddiası yok** — "iki cihaz birbirinin yerine geçmez, tamamlar" diliyle hiyerarşi kurulmadı.
 4. Onur filtresi: spor özne için "başarı/ilham" çerçevesi değil, teknik eşleştirme çerçevesiyle anlatıldı — KKK §2 KAÇIN-onur listesine sadık.

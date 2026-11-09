@@ -14,7 +14,7 @@
 
 Deniz kıyısında ayakkabı çıkar, protez kalır. Sonra akla ilk soru gelir: şimdi suya girilir mi?
 
-Kısa cevap: bazı protez ayak ve koşu bıçağı sistemleri suya dayanıklı tasarlanır. Uzun cevabı birlikte açalım.
+Kısa cevap: bazı protez ayak ve koşu ayağı sistemleri suya dayanıklı tasarlanır. Uzun cevabı birlikte açalım.
 
 ## "Suya Dayanıklı" Ne Anlama Gelir
 
