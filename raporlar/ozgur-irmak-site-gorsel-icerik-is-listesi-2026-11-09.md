@@ -53,11 +53,11 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 42. Silikon liner kullanım tercihleri
 43. ✅ Mevcut "Aktif Vakum" yazısına görsel — 20201130_125110 (canlı)
 
-## E · Görsel düzenleme
+## E · Görsel düzenleme — 45-47 ✅ (10 Kas, çıktılar `İşçilik Görselleri/Düzenlenmiş/`; şeffaf logo Fox scratchpad'den üretildi) · 44 karar bekliyor
 44. YZ ile yüz değişimi — 20250819_154533, 20250819_154625, IMG_20210221_104144
-45. Logo ekleme — 20210429_131449, IMG_6255
-46. Renk/ışık — IMG_0978 (renk), IMG_1012 (ışık)
-47. Ok ile işaret — IMG_5482
+45. ✅ Logo ekleme — 20210429_131449, IMG_6255
+46. ✅ Renk/ışık — IMG_0978 (renk), IMG_1012 (ışık)
+47. ✅ Ok ile işaret — IMG_5482
 
 ## ✅ Yapıldı
 - Koşu Bıçağı → Koşu Ayağı (yazı + adres + 301)
