@@ -1,4 +1,5 @@
 # D Paketi — kapak görseli eşleştirme (TASLAK, 9 Kas — yarım kaldı)
+**PARK (10 Kas, Ayhan: "görselleri şimdilik koyma")** — kapak ataması yapılmayacak, yeniden açılana kadar bekler.
 Kaynak: `Desktop/.../Özgür Irmak/Görseller /İşçilik Görselleri`. 3/6 temas sayfası incelendi (2018–2025 kareleri); IMG_* ve 2026 kareleri incelenmedi.
 Kural: tanınır yüz/çocuk olan kare kapak olmaz (S11). Yükleme: generate-upload-url + curl PUT (aktif vakum görselinde çalışan yöntem), atama: draft PATCH `media.wixMedia.image.id` + UPDATE_PUBLISH.
 
