@@ -69,7 +69,7 @@ Hissettiğiniz her baskıyı ya da ağrıyı deneme sırasında söyleyin. Test 
 **Kalıcı soket de zamanla değişir mi?**
 Güdük hacmi zamanla değişebiliyor. Kalıcı soket gevşek ya da sıkı hissettirmeye başladığında yeniden değerlendirme gerekiyor.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -94,7 +94,7 @@ Soket sürecinizi Özgür Irmak'ta adım adım birlikte planlayalım.
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** malzeme ya da üretici adı yok ("ısıyla şekillendirilen şeffaf plastik" jenerik).
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Malzeme ya da üretici adı yok ("ısıyla şekillendirilen şeffaf plastik" jenerik).
 2. **TEYİT bayrakları (4):** test soketi malzemesi/şeffaflığı · geçici kullanım · test soketinin her protezde standart olup olmadığı · (künyede) merkez pratiği.
 3. **Sayı yok:** kaç deneme, kaç gün, kaç randevu — hiçbiri yazılmadı, süre yazısına yönlendirildi.
 4. **Medikal güvenlik:** ağrı SSS'si "söyleyin" + yara yazısına yönlendirme ile kapandı; ağrıyı normalleştiren dil yok.

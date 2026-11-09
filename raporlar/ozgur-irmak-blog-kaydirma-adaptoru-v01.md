@@ -40,7 +40,7 @@ Kaydırma adaptörü başka bir eksende çalışır. Parçayı eğmez, yerinden 
 
 Soketin biçimi ve güdüğün duruşu her bireyde farklıdır. Bazı durumlarda ayağın doğru noktaya gelmesi için parçaların soketin merkez hattından biraz kaydırılması gerekir. Kaydırma adaptörü bu farkı karşılar. [ÖZGÜR BEY TEYİT]
 
-Test soketinden kalıcı sokete geçişte de rol alabilir. Deneme aşamasında bulunan ayarın yeni sokete taşınmasında kullanılır. [ÖZGÜR BEY TEYİT] Bu süreci [SERİ-LİNK: Çift Aşamalı Soket] yazımızda ayrıca ele alacağız.
+Test soketinden kalıcı sokete geçişte de rol alabilir. Deneme aşamasında bulunan ayarın yeni sokete taşınmasında kullanılır. [ÖZGÜR BEY TEYİT] Bu süreci [SERİ-LİNK: Çift Aşamalı Soket: Test Soketinden Kalıcı Sokete] yazımızda ayrıca ele alacağız.
 
 Diz altı ve diz üstü protezlerin ikisinde de kullanılabilir. Diz altı protezin genel yapısını [Diz Altı Protezi Nedir?](https://www.ozgurprotez.com/post/diz-alti-protezi-nedir) yazımızda bulabilirsiniz.
 
@@ -85,7 +85,7 @@ Hayır. Vida ayarları yürüyüşü ve güvenliği doğrudan etkiler. Ayarı me
 
 ## İlgili Yazılar
 
-Protezin alt bölümünü döndürmeye yarayan parçayı [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir?] yazımızda bulabilirsiniz.
+Protezin alt bölümünü döndürmeye yarayan parçayı [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?] yazımızda bulabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -102,7 +102,7 @@ Yürüyüşünüzde bir şey değiştiyse Özgür Irmak'ta birlikte bakalım. 19
 - **Birincil anahtar kelime:** kaydırma adaptörü (H1 + SEO başlık + H2)
 - **İkincil / uzun kuyruk (H2'lere dağıtıldı):** protez bacak hizalaması · protez bacak ayarı · protez bacak parçaları · piramit adaptör · diz altı protez parçaları · diz üstü protez parçaları · protez yürüyüş ayarı · ayakkabı değişince protez ayarı (SSS)
 - **İç link (5, canlı listeden birebir):** Protez Bacağın Bileşenleri · Diz Altı Protezi Nedir? · Kalan Uzuv Bölgesi Bakımı · Protez Kılavuzu, Servis ve Garanti · Protezle Merdiven, Rampa ve Denge
-- **Seri içi (düz metin):** [SERİ-LİNK: Çift Aşamalı Soket] (Grup 3) · [SERİ-LİNK: Rotasyon Adaptörü…]
+- **Seri içi (düz metin):** [SERİ-LİNK: Çift Aşamalı Soket: Test Soketinden Kalıcı Sokete] (Grup 3) · [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?]
 - **FAQ şeması:** 4 soru FAQPage için hazır.
 - **Künye:** YOK · **Görsel:** sonra (İçerik Ajanı) — öneri: atölyede hizalama sırasında gerçek adaptör/el yakın planı · **Disclaimer:** avukat onaylı lafız, birebir korundu.
 
@@ -110,7 +110,7 @@ Yürüyüşünüzde bir şey değiştiyse Özgür Irmak'ta birlikte bakalım. 19
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** üretici adı yok. Kaydırma (ofset) adaptörlerinin ticari model adları metne girmedi; eklenip eklenmeyeceği Ayhan/Özgür Bey kararı.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Üretici adı yok; kaydırma (ofset) adaptörlerinin ticari model adları metne girmedi.
 2. **ÖZGÜR BEY TEYİT bayrakları (7 etiket) + KLİNİSYEN LAFZI (2):** hizalama aşamaları · konum ve kaydırma yönleri · vida/sıkma değeri · piramit + kaydırma birlikte kullanımı · ayağın merkezden kaydırılma ihtiyacı · test soketinden kalıcı sokete ayar aktarımı · diz konumu ↔ diz güvenliği ilişkisi. Klinisyen: "ne zaman yeniden kontrol" listesi ve his kaybı cümlesi.
 3. **İç link:** 5 canlı link, hepsi 9 Kas listesinden birebir kopyalandı (Türkçe karakterli URL'ler dahil). Seri içi linkler henüz yayında olmadığı için düz metin.
 4. **Güvenlik:** "vidaya dokunmayın / gevşemede kullanmayı bırakın" açık talimat olarak yazıldı. Bu, bir ürün iddiası olmadan güvenlik bilgisidir.

@@ -14,7 +14,7 @@
 
 Bisiklet pompasının ucunu parmağınızla kapatıp pistonu ittiğinizi düşünün. Hava sıkışır, pistonu geri iter. Pnömatik diz eklemi aynı fiziği, protezinizin dizindeki küçük bir silindirde kullanır.
 
-Pnömatik diz, diz üstü (transfemoral) protezlerde kullanılan bir diz eklemi tipidir. Protezinizdeki dizin hareket hızını silindirdeki hava kontrol eder.
+Pnömatik diz, diz üstü (transfemoral) protezlerde kullanılan bir diz eklemi tipidir. Protezinizdeki dizin hareket hızını silindirdeki hava kontrol eder. Merkezimizde uygulanan sistemleri [pnömatik diz eklemli protezler](https://www.ozgurprotez.com/pnomatik-diz-eklemli-protezler) sayfamızda tanıttık.
 
 ## Pnömatik Diz Eklemi Nasıl Çalışır
 
@@ -32,7 +32,7 @@ Duruş evresinde, yani ayak yerdeyken diz güvenliği çoğu zaman başka bir ya
 
 ## Pnömatik ile Hidrolik Diz Arasındaki Fark
 
-İki sistem aynı soruya farklı maddeyle cevap verir: pnömatikte direnci hava, hidrolikte sıvı oluşturur. Hava sıkıştırılabildiği için pnömatik sistem daha hafif ve akıcı bir his verebilir. Sıvı sıkışmadığı için hidrolik sistem daha yüksek direnç ve daha hassas kontrol sunabilir, bazı modellerde duruş evresine de karışır. Hidrolik kontrolün ayrıntısını [SERİ-LİNK: Hidrolik Diz Eklemi Nedir?] yazısında anlattık.
+İki sistem aynı soruya farklı maddeyle cevap verir: pnömatikte direnci hava, hidrolikte sıvı oluşturur. Hava sıkıştırılabildiği için pnömatik sistem daha hafif ve akıcı bir his verebilir. Sıvı sıkışmadığı için hidrolik sistem daha yüksek direnç ve daha hassas kontrol sunabilir, bazı modellerde duruş evresine de karışır. Hidrolik kontrolün ayrıntısını [SERİ-LİNK: Hidrolik Diz Eklemi Nedir? Hidrolik Diz Üstü Protez Nasıl Çalışır?] yazısında anlattık.
 
 ## Pnömatik Diz Üstü Protez Kimler İçin Değerlendirilir
 
@@ -97,11 +97,11 @@ Pnömatik dizin sizin yürüyüşünüze uyup uymadığını Özgür Irmak'ta, 1
 ## YAYIN META
 - **SEO başlık (≤60):** Pnömatik Diz Eklemi Nedir? Pnömatik Diz Üstü Protez *(51 krkt)*
 - **Meta açıklama (≤155):** Pnömatik diz eklemi nasıl çalışır, hidrolik dizden farkı ne? Diz üstü protezde hava kontrollü dizin günlük kullanımı ve ayarı. *(126 krkt)*
-- **Slug:** pnomatik-diz-eklemi-nedir *(sitedeki statik sayfa da ASCII "pnomatik" kullanıyor; Türkçe karakterli isteniyorsa: pnömatik-diz-eklemi-nedir)*
+- **Slug:** pnömatik-diz-eklemi-nedir *(Ayhan kararı 9 Kas: "Pnömatik olacak". Statik sayfa URL'si ASCII "pnomatik" kalıyor; link ona birebir veriliyor.)*
 - **Birincil anahtar kelime:** pnömatik diz eklemi
 - **İkincil / uzun kuyruk (H2 dağılımı):** pnömatik diz üstü protez (H1, H2-4, H2-7) · pnömatik diz eklemi nasıl çalışır (H2-1) · pnömatik ile hidrolik diz farkı (H2-2, SSS) · mikroişlemcili diz farkı (H2-4) · diz üstü protez fiyatları (H2-7, rakamsız) · diz üstü protez çeşitleri / protez bacak parçaları (gövde + linkler) · transfemoral protez (giriş)
 - **SSS (FAQ şeması için):** 4 soru — tanım, ağırlık, pil, ayar.
-- **İç link (5, hepsi canlı listeden birebir):** K Aktivite Seviyesi · Protez Bacağın Bileşenleri · Mikroişlemcili vs Mekanik Diz · SGK Protez ve Ortez Bedeli · Diz Üstü Protezlere Detaylı Bakış. Seri içi: [SERİ-LİNK: Hidrolik Diz Eklemi Nedir?] düz metin.
+- **İç link (6):** 5 canlı blog (birebir) — K Aktivite Seviyesi · Protez Bacağın Bileşenleri · Mikroişlemcili vs Mekanik Diz · SGK Protez ve Ortez Bedeli · Diz Üstü Protezlere Detaylı Bakış — + 1 statik sayfa: `/pnomatik-diz-eklemli-protezler` (çapa "pnömatik diz eklemli protezler", giriş 2. paragraf; Ayhan kararı 9 Kas). Seri içi: [SERİ-LİNK: Hidrolik Diz Eklemi Nedir? Hidrolik Diz Üstü Protez Nasıl Çalışır?] düz metin.
 - **Künye:** YOK · **Görsel:** Ayhan iş listesi #17 (IMG_0978 renk aç + IMG_1012 ışık aç) — İçerik Ajanı · **Disclaimer:** avukat onaylı, birebir korundu.
 
 ---
@@ -109,10 +109,10 @@ Pnömatik dizin sizin yürüyüşünüze uyup uymadığını Özgür Irmak'ta, 1
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
 1. **Çakışma ve açı farkı:** "Mikroişlemcili Diz ile Mekanik Diz Arasındaki Fark" pnömatiği "mekanik" başlığı altında tek cümleyle geçiyor, seçim karşılaştırması yapıyor. "Mikroişlemcili Diz Nedir" pnömatiğe hiç değinmiyor. Bu yazı pnömatik kontrol mantığını (hava sıkışması, valf, salınım evresi, yay etkisi) ve günlük ayar/izlem karşılığını anlatıyor; MPK'ye yalnız tek kısa H2 ayırıp canlı karşılaştırma yazısına link veriyor. Hidrolik farkı brif gereği tek paragraf.
-2. **⚠️ Kanibalizasyon riski — statik sayfa:** `/pnomatik-diz-eklemli-protezler` statik sayfası var ve hidrolik farkını işliyor (P1 batch 4'te bu yüzden elenmişti). Ayrışma: blog = mekanizmanın sezgisel anlatımı (bisiklet pompası), günlük ayar, izlenecek işaretler, SSS. **Öneri:** blog ↔ statik sayfa karşılıklı link (statik sayfa canlı blog listesinde olmadığı için metne konmadı — Ayhan/Growth kararı).
+2. **⚠️ Kanibalizasyon riski — statik sayfa:** `/pnomatik-diz-eklemli-protezler` statik sayfası var ve hidrolik farkını işliyor (P1 batch 4'te bu yüzden elenmişti). Ayrışma: blog = mekanizmanın sezgisel anlatımı (bisiklet pompası), günlük ayar, izlenecek işaretler, SSS. **Uygulandı (Ayhan kararı 9 Kas: "birbirine linkle"):** blogdan statik sayfaya bağlam içi link eklendi (giriş). Ters yön (statik sayfadan bu bloga link) blog yayına girince Wix Editör'de yapılır — açık iş, Ayhan.
 3. **[ÖZGÜR BEY TEYİT] bayrakları (3):** ① sıkışan havanın açılmaya (ekstansiyon) katkısı ② duruş evresi güvenliğinin hangi yapıyla sağlandığı ③ hareket düzeyi aralığının "yüksek darbeli tempo dışında" genellemesi. Genel protetik bilgisi düzeyinde, merkezin uyguladığı modellere özgü doğrulanmadı.
 4. **Açılış benzetmesi (bisiklet pompası):** fiziksel olarak doğru basitleştirme; klinisyen "fazla basit" bulursa çıkarılabilir, ama somut açılış kuralı (insan sesi kural 1) için bilinçli tercih.
-5. **Marka-nötr:** üretici/model adı yok. **Ürün/marka adı eklenebilir mi: Ayhan/Özgür Bey kararı.**
+5. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Bu yazıda üretici/model adı yok, eklenecek ürün adı da yok.
 6. **YMYL how-to kapıları:** uyarı işaretleri görsel/işitsel/hareket temelli (his-bağımsız). Valf ayarı kullanıcıya bırakılmadı ("Bunu siz yapmayın."). Rakam yok. Disclaimer birebir. **E-E-A-T künye bayrağı:** künyesiz precedent; uzman künyesi eklenecekse belge teyidi bekliyor.
 7. KKK KAÇIN listeleri tarandı. ~~"Güdük" yerine "kalan uzuv bölgesi".~~ *(Denetmen: geçersiz, bkz. aşağı)* Fiyat H2 rakamsız.
 8. **Tarama sonucu:** aşağıda (§TARAMA).
@@ -124,6 +124,8 @@ Pnömatik dizin sizin yürüyüşünüze uyup uymadığını Özgür Irmak'ta, 1
 - **Kalan UYARI 1 — somut çapa 5.0 < 5.5:** rakam uydurulmadı. Kota açığı merkezde uygulanan pnömatik diz tipi bilgisiyle kapanır.
 - **Kalan UYARI 2 — paragraf uzunluğu değişkenliği 0.384 < 0.44:** SSS bloğunun kısa-cevap formatı ve 3 maddelik uyarı listesi (ölçüme girmiyor) doğal sıkışma yaratıyor. Precedent: soket türleri v01 ve günlük yaşam v01.
 - **Hukuki lafız muafiyeti:** tek karşıtlık bulgusu disclaimer'daki "yerine geçmez". Prosa katmanında karşıtlık 0.
+
+- **Yeniden tarama (9 Kas, statik sayfa linki sonrası):** `slop_tarama.py` ✅ temiz · `sozdizim_tarama.py` 657 kelime, 55 cümle, 23 paragraf → 0 SERT, 1 UYARI (paragraf CV 0,384 — gerekçe aynı; somut çapa UYARI'sı kalktı).
 
 ### Denetmen düzeltmesi (9 Kas 2026 · Denetmen orkestratör, Verification merceği)
 - **Teknik doğruluk:** "Pnömatik dizde elektronik yoktur" mutlak ifadesi → "Mekanik ayarlı pnömatik dizde…" (mikroişlemci kontrollü pnömatik salınım dizleri de var; genelleme yanlış olurdu). SSS cevabı aynı şekilde düzeltildi. "Direnç ayarı … yürürken sabit kalır" cümlesi, bir paragraf önceki "hıza göre değişir" anlatımıyla çelişiyordu → "valf ayarı değişmez, direnç temponuza göre sıkışan havayla değişir" olarak ayrıştırıldı.

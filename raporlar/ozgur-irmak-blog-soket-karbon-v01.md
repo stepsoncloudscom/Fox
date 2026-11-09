@@ -68,7 +68,7 @@ Karbon soket de düşme ya da darbe sonrası hasar görebiliyor. Soket duvarınd
 **Karbon soket fiyatı neye göre değişir?**
 Kullanılan katman miktarına, soket kurgusuna (tam karbon ya da çerçeve) ve protezin diğer bileşenlerine göre değişiyor. SGK'nın hangi şartlarla karşıladığını [SGK Protez ve Ortez Bedeli](https://www.ozgurprotez.com/post/sgk-protez-ve-ortez-bedelini-karşılıyor-mu-başvuru-şartları-ve-süreci) yazımızda topladık.
 
-Serideki diğer soket çözümleri için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza bakabilirsiniz.
+Serideki diğer soket çözümleri için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -93,7 +93,7 @@ Hangi soket kurgusunun size uygun olduğunu Özgür Irmak'ta birlikte değerlend
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** karbon kumaş, reçine ya da üretici adı yok. Canlı malzeme yazısında Össur/Ottobock adı geçiyor (14 Eyl marka-nötr kararından önce yayımlanmış olabilir) — bu yazıda yok. Canlı yazı için ayrı düzeltme Ayhan kararı.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Bu yazıda karbon kumaş, reçine ya da üretici adı yok. Canlı malzeme yazısında iki üretici adı geçiyor (14 Eyl marka-nötr kararından önce yayımlanmış olabilir); 9 Kas kararı gereği canlı yazıdan da çıkması gerekir — ayrı Wix işi, Ayhan.
 2. **TEYİT bayrakları (3):** "daha ince duvar" ifadesi · merkezde uygulanan kurgu(lar) · (künyede) merkezde karbon soket üretimi.
 3. **Hafiflik iddiası:** yalnız malzeme düzeyinde, merkezin kendi canlı yazısındaki ifadeye dayanarak yazıldı. Protezin toplam ağırlığına dair rakam ya da karşılaştırma yok.
 4. **Fiyat SSS'si:** rakamsız, HUB'daki fiyat bölümüne yönlendiriyor (SGK linki HUB'da).

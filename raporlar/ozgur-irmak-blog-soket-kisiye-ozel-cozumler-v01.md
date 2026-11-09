@@ -55,9 +55,9 @@ Soketin güdüğe nasıl tutunduğu ayrı bir karar. Vakum, pin-kilit ve kayış
 
 **Hibrit kilit sistemi.** Diz üstü (TF, transfemoral) protezde iki bağlantı ilkesini tek sokette birleştiren yaklaşım. Detaylar [SERİ-LİNK: Hibrit Kilit Sistemli Diz Üstü Protez Soketi Nedir?] yazısında.
 
-**Doğrudan soket.** Kalıp ve model aşaması olmadan, soketin doğrudan güdük üzerinde şekillendirildiği yöntem. [SERİ-LİNK: Uzuv Üzerinde Üretilen Protez Soketi: Doğrudan Soket Nedir?] yazısı süreci adım adım anlatıyor.
+**Direct Socket (doğrudan soket).** Kalıp ve model aşaması olmadan, soketin doğrudan güdük üzerinde şekillendirildiği yöntem. [SERİ-LİNK: Direct Socket Nedir? Uzuv Üzerinde Üretilen Protez Soketi] yazısı süreci adım adım anlatıyor.
 
-**Kayış (lanyard) bağlantılı soket.** Liner'ın ucundaki kayış soketin altından geçirilir ve dışarıdan sabitlenir. Pin hizalamakta zorlanan kullanıcılar için bilinen bir seçenek. Bkz. [SERİ-LİNK: Lanyard (Kayış) Bağlantılı Protez Soket Sistemi Nedir?]
+**KISS ve benzeri kayış (lanyard) bağlantılı soketler.** Liner'ın ucundaki kayış soketin altından geçirilir ve dışarıdan sabitlenir. Pin hizalamakta zorlanan kullanıcılar için bilinen bir seçenek. Bkz. [SERİ-LİNK: KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi]
 
 **Laminasyon soket.** Kumaş katmanlarının reçineyle birleştirildiği klasik soket yapım yöntemi. [SERİ-LİNK: Laminasyon Soket Nedir? Protez Soketi Nasıl Lamine Edilir?]
 
@@ -115,7 +115,7 @@ Soketinizle ilgili sorularınızı Özgür Irmak'ta birlikte konuşabiliriz.
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** üretici adı sıfır. Serideki ticari adlı iki sistem (doğrudan soket / kayış bağlantı) hub'da jenerik adıyla geçti. **Ayhan/Özgür Bey kararı:** "Direct Socket" ve "KISS" ticari adları eklenebilir mi? Arama verisinde ikisi de geçiyor ("direct socket tt/tf", "ottobock kiss lanyard"). Karar olumluysa yalnız ilgili kardeş yazıların başlık/SSS'sine eklenir.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Hub'da iki ürün adı seri etiketinde geçiyor ("Direct Socket (doğrudan soket)", "KISS ve benzeri kayış bağlantılı soketler"); SERİ-LİNK etiketleri kardeşlerin yeni H1'lerine eşlendi. Üretici adı sıfır.
 2. **TEYİT bayrakları (5):** test soketinin standart olup olmadığı · diz altı tasarım aileleri ve Türkçe adları · diz üstü tasarım aileleri ve merkezde uygulananlar · soft soket malzemesi/kullanım seviyesi · (künyede) 8 çözümün her birinin merkezde bugün uygulandığı.
 3. **Rakam yok:** fiyat H2'si rakamsız, yalnız fiyatı belirleyen kalemler + SGK yazısına yönlendirme. "%", süre, ağırlık yok. "8 yazı" ve "1998" dışında sayı yok (1998 KKK kilitli; hub metninde bu kez kullanılmadı, künyede çapa olarak duruyor).
 4. **Çakışma kontrolü:** vakum/pin-kilit karşılaştırması tekrarlanmadı, yalnız bir paragrafla o yazıya yönlendirildi. "Bileşenler" yazısındaki soket tanımı derinleştirildi, kopyalanmadı.
@@ -125,4 +125,4 @@ Soketinizle ilgili sorularınızı Özgür Irmak'ta birlikte konuşabiliriz.
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - SSS "Hazır bir soket bu farkları karşılayamıyor" → "Soket bu yüzden kişinin kendi ölçüsünden üretiliyor." Gerekçe: mutlak genelleme; sektörde modüler/ayarlanabilir hazır soket sistemleri var ve seri kendi içinde (ayarlanabilir soket yazısı) bununla çelişme riski taşıyordu. Merkezin kendi pratiği ("atölyede hazır üretilmiyor") gövdede korunuyor.
 - **Yamyamlık (DİKKAT, Kademe 2 — Ayhan):** canlı "Protez Soket Türleri: Vakum mu, Pin-Kilit mi?" Google'da "protez soket türleri" ile, bu hub "protez soket çeşitleri" ile hedefleniyor; ikisi eş anlamlı sorgu. Hub doğru farklılaştı (gövde/yapım vs bağlantı) ve canlı yazıya link veriyor. Öneri: (a) canlı yazının SEO başlığı "Protez Soket Bağlantı Sistemleri: Vakum mu, Pin-Kilit mi?" yönünde daraltılsın, (b) canlı yazının "İlgili Yazılar" bölümüne hub linki eklensin, (c) hub yayına girince seri yazılarının hepsi hub'a link verdiği için otorite hub'da toplanır. (a)+(b) canlı sayfa değişikliği → Ayhan onayı.
-- Doğrulandı: 5 iç link canlı listeyle birebir; 8 SERİ-LİNK etiketi kardeş yazıların H1'leriyle birebir; SEO başlık 52, meta 146 krkt. sozdizim: 0 SERT, 1 UYARI (paragraf CV 0.403 — gerekçe kabul edildi).
+- Doğrulandı: 5 iç link canlı listeyle birebir; 8 SERİ-LİNK etiketi kardeş yazıların H1'leriyle birebir (9 Kas Direct Socket/KISS başlık değişikliğinden sonra yeniden eşlendi); SEO başlık 52, meta 146 krkt. sozdizim: 0 SERT, 1 UYARI (paragraf CV 0.403 — gerekçe kabul edildi).

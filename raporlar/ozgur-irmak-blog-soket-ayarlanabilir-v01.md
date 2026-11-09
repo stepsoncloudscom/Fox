@@ -6,7 +6,7 @@
 >
 > **Teyitli olgu: 6** — ① "1998'den beri" (KKK §1) ② "Adım adım, birlikte." (KKK §2) ③ teknik sorumlu/hekim rol ayrımı (KKK §7) ④ "güdük" terim standardı (TZP) ⑤ liner gün içinde basıncı dağıtan ara katman, soket ile ayrı aşınıyor (canlı "Bileşenler" yazısı, 16 Eki) ⑥ "Ayarlanabilir soket" konusu Ayhan notunda (brif Grup 3). **Teyitsiz:** merkezde ayarlanabilir soket uygulanıyor mu, hangi ayar mekanizmalarıyla (kayış/panel/döner düğme) → `[ÖZGÜR BEY TEYİT]`.
 >
-> **Marka-nötr notu:** döner düğmeli kablo sistemleri sektörde bir ticari adla anılıyor. Metinde yalnız jenerik tarif ("döner düğme ve kablo") var.
+> **Marka notu (Ayhan kararı 9 Kas):** ürün adı olarak yalnız Direct Socket/KISS girer, üretici adları girmez. Döner düğmeli kablo sistemlerinin ticari adı metne girmedi; jenerik tarif ("döner düğme ve kablo") kalıyor.
 
 ---
 
@@ -71,7 +71,7 @@ Hacmin hızlı değiştiği ilk dönemde gündeme gelebiliyor. Uygunluk değerle
 **Protez çorabı ile ayarlanabilir soket arasındaki fark ne?**
 Çorap, güdük ile soket arasına katman ekleyerek boşluğu dolduruyor. Ayarlanabilir sokette ise soketin kendi duvarı hareket ediyor. İkisi bazı kullanıcılarda birlikte de kullanılabiliyor.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -97,7 +97,7 @@ Güdüğünüzdeki hacim değişimini Özgür Irmak'ta birlikte değerlendirelim
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Ticari ad bayrağı:** döner düğmeli kablo sistemleri sektörde ticari bir adla biliniyor. Metinde ad yok, jenerik tarif var.
+1. **Ticari ad bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Döner düğmeli kablo sistemlerinin ticari adı metne girmedi, jenerik tarif kalıyor.
 2. **TEYİT bayrakları (6):** çorapla hacim ayarı standardı · mekanizma bakımı · merkezde uygulanan mekanizma(lar) · aşırı sıkma riskinin klinik tarifi · gövdenin hangi yöntemlerle üretilebildiği · (künyede) merkezde uygulanıyor mu.
 3. **Medikal güvenlik (YMYL alt-kapı):** "ani şişlik/küçülme → önce hekim" cümlesi bilinçli. Hacim değişimi bir sağlık belirtisi olabileceği için soket ayarıyla geçiştirilmedi. His-bağımsız kontrol (günlük gözle cilt kontrolü) yazıldı, nöropatik kullanıcılar için ağrıya dayalı uyarı tek başına bırakılmadı. Kesin klinik lafız klinisyende.
 4. **Sayı yok:** hacim değişim oranı, süre, ay sayısı verilmedi.

@@ -72,7 +72,7 @@ Takma ve çıkarma alışkanlığı birkaç uygulamadan sonra yerleşiyor. Süre
 **Hibrit sistem tek bağlantılı sistemden daha mı güvenli?**
 Bu soru kişiden bağımsız cevaplanamıyor. Uygun sistem, kişinin bütün protez kurulumuna göre belirleniyor.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza, pinsiz, kayışla çalışan seçenek için [SERİ-LİNK: Lanyard (Kayış) Bağlantılı Protez Soket Sistemi Nedir?] yazımıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza, pinsiz, kayışla çalışan seçenek için [SERİ-LİNK: KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi] yazımıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -90,7 +90,7 @@ Diz üstü soketinizi Özgür Irmak'ta birlikte değerlendirelim.
 - **İkincil / uzun kuyruk:** diz üstü protez soket çeşitleri (H2) · kilitli soket (H2) · silikon liner kilit sistemli (H2) · transfemoral / TF soket (gövde) · diz üstü protez (gövde) · aktif vakum (gövde link)
 - **Google verisi notu:** "hibrit soket" sıfır öneri. Yazı "diz üstü protez soket çeşitleri" + "kilitli soket" + "silikon liner kilit sistemli" kümelerine bağlandı.
 - **İç link (canlı listeden birebir, 4):** Diz Üstü Protezlere Detaylı Bakış · Protez Soket Türleri: Vakum mu, Pin-Kilit mi? · Aktif Vakum Sistemli Protez · Silikon Liner Nedir?
-- **Seri link (2):** HUB · Lanyard (Kayış) Bağlantılı Soket
+- **Seri link (2):** HUB · KISS Lanyard Sistemi
 - **FAQ şeması:** 3 soru. **Künye:** YOK · **Görsel:** sonra · **Disclaimer:** birebir.
 
 ---
@@ -98,12 +98,12 @@ Diz üstü soketinizi Özgür Irmak'ta birlikte değerlendirelim.
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
 1. **En kritik teyit:** "Hibrit TF kilit sistemi" Ayhan notunda geçiyor ama tanımı yok. Sektörde "hibrit" adı birden fazla kurgu için kullanılıyor (pin + emme, kayış + emme, ikili kilit vb.). Yazı en yaygın kurgu (mekanik kilit + vakum/emme) üzerinden ve bayraklı yazıldı. **Özgür Bey farklı bir kurgu kastediyorsa "Nasıl Çalışır" bölümü yeniden yazılır.**
-2. **Marka-nötr:** üretici adı yok. Hibrit sistem belirli bir üreticinin ürün adıysa (Ayhan/Özgür Bey bilgisi) EDİTÖR kararı: marka adı eklenmez, jenerik kalır.
+2. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Bu yazıda üretici adı yok; "hibrit" jenerik kullanımda kalıyor, ürün adı eklenmedi.
 3. **TEYİT bayrakları (6):** hibrit kurgunun tanımı · liner tipi · giyme sırası/valf · günlük kontrol adımları · diz altı seviyede kullanım · (künyede) merkezde uygulanıyor mu.
 4. **Güvenlik/üstünlük:** "daha güvenli mi" sorusu kesin cevapsız bırakıldı (TİTCK üstünlük yasağı). "Pistonlama" kavramı genel protetik bilgisi olarak anlatıldı, rakam yok.
 5. **Tarama sonucu (9 Kas 2026):** Gövde 624 kelime (H1→kapanış, TEYİT etiketleri hariç) · satır içi TEYİT bayrağı: 5. `slop_tarama.py` → ✅ temiz. `sozdizim_tarama.py` → 597 prosa kelime, 46 cümle, 21 paragraf · ⚠️ 0 SERT, 1 UYARI — Somut çapa yoğunluğu (sayı/ad/ölçü) 5.0 < 5.5 (uyari eşiği). Ölçüler: karşıtlık 1.7/1000 (tek kaynak çoğunlukla disclaimer'ın hukuki lafzı "yerine geçmez" — D6 muafiyeti, lafız değiştirilmedi) · somut çapa 5.0/100 · kısa cümle 0.109 · insan işareti 28.5/1000 · noktalı virgül 0.2/100 (yalnız disclaimer) · aforizma 0.0 · cümle CV 0.71 · paragraf CV 0.696. Kalan UYARI gerekçesi: hibrit kurgu teyitsiz olduğu için yazı bilinçli olarak genel ilke düzeyinde tutuldu; özel ad, ürün adı ya da rakam eklemek ya marka-nötr kuralını ya da uydurma yasağını çiğnerdi. Somut çapa, Özgür Bey teyidiyle (kurgu tanımı) doğal olarak artar.
 
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - "Literatürde TF ... kısaltmasıyla da anılıyor" → "Adının yanında sık geçen TF kısaltması ise transfemoral, yani diz üstü seviyeyi gösteriyor." Gerekçe: teknik yanlış — TF sistemin adı değil, ampütasyon seviyesinin kısaltması.
-- Kaynak kontrolü (WebSearch): piyasada "hybrid" adlı kilitler, pin-kilit (shuttle lock) ile sızdırmazlık halkalı (seal-in) liner üzerinden vakumu birleştiriyor; kullanıcı yalnız kilit, yalnız vakum ya da ikisi birden kullanabiliyor; hem diz üstü hem diz altı için listeleniyor (Össur Icelock 850 Hybrid ürün sayfası; Güney Afrika COID protez tarifesi tanımı). Yazıdaki kurgu (mekanik kilit + vakum/emme, halkalı liner, valf) bununla örtüşüyor; diz altı SSS'si de doğru yönde. "Hibrit" adı bir üreticinin ürün adında da geçiyor → marka-nötr kural için sorun değil, jenerik kullanım yaygın. Ayhan notundaki "hibrit TF locking" büyük olasılıkla bu ürün ailesi — yine de Özgür Bey teyidi şart.
+- Kaynak kontrolü (WebSearch): piyasada "hybrid" adlı kilitler, pin-kilit (shuttle lock) ile sızdırmazlık halkalı (seal-in) liner üzerinden vakumu birleştiriyor; kullanıcı yalnız kilit, yalnız vakum ya da ikisi birden kullanabiliyor; hem diz üstü hem diz altı için listeleniyor (bir üreticinin "Hybrid" adlı kilit ürün sayfası; Güney Afrika COID protez tarifesi tanımı). Yazıdaki kurgu (mekanik kilit + vakum/emme, halkalı liner, valf) bununla örtüşüyor; diz altı SSS'si de doğru yönde. "Hibrit" adı bir üreticinin ürün adında da geçiyor → marka-nötr kural için sorun değil, jenerik kullanım yaygın. Ayhan notundaki "hibrit TF locking" büyük olasılıkla bu ürün ailesi — yine de Özgür Bey teyidi şart.
 - sozdizim: 0 SERT, 1 UYARI (somut çapa 5.0) — gerekçe kabul edildi.

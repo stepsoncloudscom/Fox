@@ -79,7 +79,7 @@ Doğru tasarlanmış bir kaplama diz hareketini ve parçalara erişimi kısıtla
 
 ## İlgili Yazılar
 
-Protezin alt bölümünü döndürmeye yarayan parçayı [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir?] yazımızda, soketin dijital üretimini [SERİ-LİNK: 3D Soket] yazımızda bulabilirsiniz.
+Protezin alt bölümünü döndürmeye yarayan parçayı [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?] yazımızda, soketin dijital üretimini [SERİ-LİNK: 3D Soket Nedir? 3D Baskı Protez Soket Nasıl Üretilir?] yazımızda bulabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -96,7 +96,7 @@ Protezinizin nasıl görüneceğine siz karar verirsiniz. Özgür Irmak'ta 1998'
 - **Birincil anahtar kelime:** protez bacak kaplaması (+ eş-birincil "3D cover"; H1 + SEO başlık + ilk paragraf)
 - **İkincil / uzun kuyruk (H2'lere dağıtıldı):** 3D cover nedir · protez cover · protez bacak kaplaması seçenekleri · kozmetik protez kaplama · diz altı protez kaplaması · diz üstü protez kaplaması · 3D cover fiyatı · protez ayak kılıfı farkı
 - **İç link (5, canlı listeden birebir):** 3D Tarama ve Dijital Teknoloji · Protez Ayak Kılıfı (Kozmetik Kapak) · Mikroişlemcili Diz Pil/Şarj · SGK Protez ve Ortez Bedeli · Protez Bacak ve Kol Bakımı
-- **Seri içi (düz metin):** [SERİ-LİNK: Rotasyon Adaptörü…] · [SERİ-LİNK: 3D Soket] (Grup 3)
+- **Seri içi (düz metin):** [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?] · [SERİ-LİNK: 3D Soket Nedir? 3D Baskı Protez Soket Nasıl Üretilir?] (Grup 3)
 - **FAQ şeması:** 3 soru FAQPage için hazır (TEYİT etiketleri yayın öncesi temizlenmeli).
 - **Künye:** YOK · **Görsel:** sonra (İçerik Ajanı) — gerçek kaplama + atölye, stok yasak (KKK §6) · **Disclaimer:** avukat onaylı lafız, birebir korundu.
 
@@ -104,7 +104,7 @@ Protezinizin nasıl görüneceğine siz karar verirsiniz. Özgür Irmak'ta 1998'
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** "3D cover" jenerik ürün kategorisi adı olarak kullanıldı. Bu alanda ticari markalı kaplama ürünleri var; isim eklenip eklenmeyeceği Ayhan/Özgür Bey kararı.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. "3D cover" jenerik ürün kategorisi adı olarak kalıyor; ticari markalı kaplama ürünlerinin adları ve üretici adları metne girmedi.
 2. **ÖZGÜR BEY TEYİT bayrakları (11 etiket, gövdede):** üretim yöntemi + merkezde üretim/tedarik · tarama ve aynalama süreci · renk/desen seçenekleri · diz üstünde dizi kapsayan model · köpük kaplama türü · takma-çıkarma biçimi · şarj/ayar erişimi ifadesi · kaplama ağırlığı · SGK/SUT kapsamı · suya dayanım (SSS) · mevcut proteze uyarlama (SSS).
 3. **SEO notu (kritik):** "protez kaplama" Google TR önerilerinin tamamı diş protezine ait. Bu yüzden birincil kelime "protez bacak kaplaması" seçildi, "protez kaplama" tek başına başlıkta kullanılmadı. SSS'teki "diş protezi kaplaması aynı şey mi?" sorusu niyet ayrıştırması için bilinçli eklendi; Denetmen gereksiz bulursa çıkarılabilir.
 4. **Onur / KKK §6:** kaplamasız kullanım meşru seçenek olarak yazıldı; "gizlemek / kusur örtmek" dili yok. Karar kişide, merkez yön göstermiyor.

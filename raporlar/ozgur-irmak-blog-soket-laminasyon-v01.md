@@ -69,7 +69,7 @@ Ağırlık, kullanılan kumaşa ve katman sayısına göre değişiyor. Teknik s
 **Lamine sokette çatlak görürsem ne yapmalıyım?**
 Soketi kullanmaya devam etmeden merkezinizle görüşün. Servis ve garanti süreçleri için [Protez Kılavuzu, Servis ve Garanti](https://www.ozgurprotez.com/post/protez-kılavuzu-okuma-servis-ve-garanti) yazımıza bakabilirsiniz.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -94,7 +94,7 @@ Soketinizin nasıl üretileceğini Özgür Irmak'ta birlikte konuşabiliriz.
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** reçine, kumaş ya da ekipman markası yok. Reçine türü (akrilik/epoksi vb.) bilinçli olarak adlandırılmadı — teyitsiz teknik detay.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Reçine, kumaş ya da ekipman markası yok. Reçine türü (akrilik/epoksi vb.) bilinçli olarak adlandırılmadı — teyitsiz teknik detay.
 2. **TEYİT bayrakları (5):** katman malzemeleri · vakum altında laminasyon ve reçine türü · esnek iç soket + lamine çerçeve · lamine sokette düzeltme sınırı · (künyede) yöntem merkezde standart mı.
 3. **Rakam yok:** katman sayısı, ağırlık, ömür süresi verilmedi. "Ne kadar dayanır" SSS'si rakamsız cevaplandı.
 4. **Güvenlik notu:** çatlak sorusunda "kullanmaya devam etmeden" yönlendirmesi var — kullanıcı güvenliği için bilinçli. Klinisyen lafzı tercih ederse değiştirir.

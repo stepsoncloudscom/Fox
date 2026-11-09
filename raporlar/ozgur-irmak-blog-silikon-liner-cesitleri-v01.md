@@ -46,7 +46,7 @@ Yastık liner'ın ucunda bağlantı parçası bulunmaz. Görevi cilt ile soket a
 
 ## İp ya da Kayış Bağlantılı Liner
 
-Bir başka seçenekte liner'ın ucunda pin yerine bir ip ya da kayış bulunur. Kayış soketin tabanındaki bir delikten geçirilir ve güdük sokete bu kayışla çekilerek yerleştirilir, sonra dışarıdan sabitlenir. [ÖZGÜR BEY TEYİT: mekanizma ifadesi] Bu sistemi Kişiye Özel Soket Çözümleri serimizde [SERİ-LİNK: İp/Kayış Bağlantılı Soket Sistemi] yazısında ayrıca ele alacağız.
+Bir başka seçenekte liner'ın ucunda pin yerine bir ip ya da kayış bulunur. Kayış soketin tabanındaki bir delikten geçirilir ve güdük sokete bu kayışla çekilerek yerleştirilir, sonra dışarıdan sabitlenir. [ÖZGÜR BEY TEYİT: mekanizma ifadesi] Bu sistemi Kişiye Özel Soket Çözümleri serimizde [SERİ-LİNK: KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi] yazısında ayrıca ele alacağız.
 
 ## Malzeme: Silikon, Jel ve Diğerleri
 
@@ -88,7 +88,7 @@ Evet. Liner cilde doğrudan temas eder. Günlük temizlik tarifini Silikon Liner
 
 ## İlgili Yazılar
 
-Protezin diğer ara parçaları için [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir?] ve [SERİ-LİNK: Kaydırma Adaptörü Nedir?] yazılarımıza bakabilirsiniz.
+Protezin diğer ara parçaları için [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?] ve [SERİ-LİNK: Kaydırma Adaptörü Nedir? Protez Bacakta Hizalama Ayarı] yazılarımıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -105,7 +105,7 @@ Size uygun liner'ı Özgür Irmak'ta birlikte seçelim. 1998'den beri bu kararı
 - **Birincil anahtar kelime:** silikon liner çeşitleri (H1 + SEO başlık + ilk H2)
 - **İkincil / uzun kuyruk (H2'lere dağıtıldı):** silikon liner pin sistemli protez · silikon liner kilit sistemli modüler diz altı protezi · aktif vakum protez seçenekleri · aktif vakum diz altı protezi · silikon liner diz altı protez · protez silikon liner · yastık liner · silikon liner fiyatları · protez çorabı (SSS)
 - **İç link (5, canlı listeden birebir):** Silikon Liner Nedir? · Protez Soket Türleri: Vakum mu, Pin-Kilit mi? · Aktif Vakum Sistemli Protez · Pasif Vakum Sistemli Protez Bacak · SGK Protez ve Ortez Bedeli
-- **Seri içi (düz metin):** [SERİ-LİNK: İp/Kayış Bağlantılı Soket Sistemi] (Grup 3) · [SERİ-LİNK: Rotasyon Adaptörü…] · [SERİ-LİNK: Kaydırma Adaptörü…]
+- **Seri içi (düz metin):** [SERİ-LİNK: KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi] (Grup 3) · [SERİ-LİNK: Protez Bacakta Rotasyon Adaptörü Nedir, Ne İşe Yarar?] · [SERİ-LİNK: Kaydırma Adaptörü Nedir? Protez Bacakta Hizalama Ayarı]
 - **FAQ şeması:** 4 soru FAQPage için hazır.
 - **Künye:** YOK · **Görsel:** sonra (İçerik Ajanı) — öneri: dört liner tipinin gerçek ürün yan yana, marka etiketi görünmeden · **Disclaimer:** avukat onaylı lafız, birebir korundu.
 
@@ -113,7 +113,7 @@ Size uygun liner'ı Özgür Irmak'ta birlikte seçelim. 1998'den beri bu kararı
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** üretici adı yok. Ayhan'ın notundaki ip/kayış bağlantılı sistemin ticari adı ve bazı vakum sistemlerinin ticari adları metne girmedi; eklenip eklenmeyeceği Ayhan/Özgür Bey kararı.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Üretici adı yok. KISS adı kendi yazısında (SERİ-LİNK etiketi güncellendi); bu yazının gövdesinde jenerik "ip ya da kayış bağlantılı liner" kalıyor. Vakum sistemlerinin ticari adları metne girmedi.
 2. **ÖZGÜR BEY TEYİT bayrakları (12 etiket, gövdede):** pinli liner giyme tarifi/eksen · SUT/reçete adlandırması · conta halkası + valf yapısı · yastık liner tutunma yöntemleri · ip/kayış mekanizması · malzeme karşılaştırması (silikon/jel/poliüretan) · kumaş kaplama etkisi · diz altı liner arka bölge tasarımı · diz üstü liner hacim değişimi · merkezde kişiye özel liner üretimi · yenileme işaretleri (SSS) · çorap kullanımı (SSS).
 3. **İç link sayısı:** 5 canlı link (Silikon Liner Nedir? · Soket Türleri · Aktif Vakum · Pasif Vakum · SGK). Brif "3-5" diyor, sınırda. SSS'teki "Silikon Liner Nedir?" ikinci geçişi bilinçli olarak düz metin bırakıldı.
 4. **Çakışma kontrolü:** "Silikon Liner Nedir?" ile tanım tekrarı yok, soket yazısıyla mekanizma tekrarı yok — iki yazıya link verilip seçim tarafına geçildi.

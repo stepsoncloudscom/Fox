@@ -73,7 +73,7 @@ Tarama temassız ya da hafif temaslı bir ölçüm. Süreçle ilgili soruların�
 **Soket süreci ne kadar sürer?**
 Süre kişiye ve seçilen yönteme göre değişiyor. Etkenleri [Protez Süreci Ne Kadar Sürer?](https://www.ozgurprotez.com/post/protez-süreci-ne-kadar-sürer) yazımızda topladık.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza, deneme aşaması için [SERİ-LİNK: Çift Aşamalı Soket: Test Soketinden Kalıcı Sokete] yazımıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza, deneme aşaması için [SERİ-LİNK: Çift Aşamalı Soket: Test Soketinden Kalıcı Sokete] yazımıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -98,7 +98,7 @@ Hangi ölçü ve üretim yönteminin size uygun olduğunu Özgür Irmak'ta birli
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** tarayıcı, yazılım, yazıcı ya da malzeme markası yok. Baskı malzemesi (polimer türü) bilinçli olarak adlandırılmadı — teyitsiz teknik detay.
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Tarayıcı, yazılım, yazıcı ya da malzeme markası yok. Baskı malzemesi (polimer türü) bilinçli olarak adlandırılmadı — teyitsiz teknik detay.
 2. **TEYİT bayrakları (4):** merkezde soket baskısı yapılıyor mu · yedek soket için aynı dosyanın yeniden kullanımı · 3D baskı soket test mi kalıcı mı · tarayıcı temassız mı.
 3. **Üstünlük iddiası yok:** "3D baskı soket daha mı iyi oturur?" sorusu bilinçli olarak sınırlandı (canlı 3D tarama yazısındaki "her vakada aynı anlama gelmiyor" çizgisiyle tutarlı). Hız/süre vaadi yok, "azaltabiliyor" kipiyle yazıldı.
 4. **Çakışma:** canlı 3D tarama yazısı ölçü yöntemi odaklı, bu yazı soket üretimi odaklı. Tarama tek paragraf + link.

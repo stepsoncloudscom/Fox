@@ -54,7 +54,7 @@ Uygunluğa aktivite seviyesi, günlük oturma alışkanlıkları ve protezin top
 
 Bir de yer meselesi var. Güdük uzunluğu, soket ile diz eklemi arasında ne kadar boşluk kalacağını belirler. Uzun bir güdükte bu aralık kısalır ve araya eklenecek her parça için yer daralır. Karşı bacağın diz hizasıyla eşitlik korunmak istendiğinde, bazı durumlarda rotasyon adaptörüne yer açmak mümkün olmayabilir. [ÖZGÜR BEY TEYİT: uzun güdükte yapı yüksekliği kısıtı]
 
-Karar teknik sorumlu ve hekiminizle birlikte verilir. Adaptör eklemek protezin boyunu ve hizasını etkileyebildiği için montaj ve ayar merkezde yapılır. [ÖZGÜR BEY TEYİT: boy/hiza etkisi] Hizalamanın nasıl ayarlandığını [SERİ-LİNK: Kaydırma Adaptörü ve Protez Bacak Hizalaması] yazımızda konuşuyoruz.
+Karar teknik sorumlu ve hekiminizle birlikte verilir. Adaptör eklemek protezin boyunu ve hizasını etkileyebildiği için montaj ve ayar merkezde yapılır. [ÖZGÜR BEY TEYİT: boy/hiza etkisi] Hizalamanın nasıl ayarlandığını [SERİ-LİNK: Kaydırma Adaptörü Nedir? Protez Bacakta Hizalama Ayarı] yazımızda konuşuyoruz.
 
 ## Kullanırken Nelere Dikkat Edilir?
 
@@ -98,7 +98,7 @@ Gündelik hareketlerinize uygun parçaları Özgür Irmak'ta birlikte değerlend
 - **Birincil anahtar kelime:** rotasyon adaptörü (H1 + SEO başlık + ilk H2)
 - **İkincil / uzun kuyruk (H2'lere dağıtıldı):** diz üstü protez parçaları · protez bacak parçaları · protezle bağdaş kurma · protezle arabaya binme · torsiyon adaptörü farkı · diz üstü protez (iç link bağlamı) · mikroişlemcili diz uyumu (SSS) · rotasyon adaptörü SGK (SSS)
 - **İç link (5, canlı listeden birebir):** Protez Bacağın Bileşenleri · Diz Üstü Protezlere Detaylı Bakış · K Aktivite Seviyesi · Protez Kılavuzu, Servis ve Garanti · SGK Protez ve Ortez Bedeli (SSS)
-- **Seri içi (düz metin):** [SERİ-LİNK: Kaydırma Adaptörü…] · [SERİ-LİNK: 3D Cover…] · [SERİ-LİNK: Silikon Liner Çeşitleri…]
+- **Seri içi (düz metin):** [SERİ-LİNK: Kaydırma Adaptörü Nedir? Protez Bacakta Hizalama Ayarı] · [SERİ-LİNK: 3D Cover Nedir? Protez Bacak Kaplaması Seçenekleri] · [SERİ-LİNK: Silikon Liner Çeşitleri ve Kullanım Tercihleri]
 - **FAQ şeması:** SSS bölümündeki 4 soru FAQPage için hazır (TEYİT etiketleri yayın öncesi metinden temizlenmeli).
 - **Künye:** YOK · **Görsel:** sonra (İçerik Ajanı) — öneri: atölyede adaptörün kilitli/açık iki konumu, gerçek parça · **Disclaimer:** avukat onaylı lafız, birebir korundu.
 
@@ -106,7 +106,7 @@ Gündelik hareketlerinize uygun parçaları Özgür Irmak'ta birlikte değerlend
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Marka-nötr:** hiçbir üretici adı yok. Rotasyon adaptörlerinin ticari model adları var; metne eklenip eklenmeyeceği Ayhan/Özgür Bey kararı (14 Eyl marka-nötr kararı gereği şimdilik kapalı).
+1. **Marka bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. Hiçbir üretici adı yok; rotasyon adaptörlerinin ticari model adları metne girmedi.
 2. **ÖZGÜR BEY TEYİT bayrakları (14 etiket, gövdede):** kilit açma biçimi · protezdeki konum · kilit tasarımının amacı · bağdaşta soketin zorlanması ifadesi · torsiyon adaptörü ilkesi ve merkezde kullanımı · iki adaptörün birlikte kullanımı · diz altı protezde kullanım (gövde + SSS) · uzun güdükte yapı yüksekliği kısıtı · boy/hiza etkisi · kilitlenmenin nasıl kontrol edildiği · ağırlık (SSS) · mikroişlemcili diz uyumu (SSS) · SGK/SUT durumu (SSS). Teyit gelmeyen cümle çıkarılır.
 3. **Güvenlik (YMYL How-to alt-kapısı):** kullanım uyarıları his/ağrı temelli değil, gözle/kulakla fark edilen işaretler (boşluk, tıkırtı, kendiliğinden dönme) üzerine kuruldu. "Ayar vidalarına dokunmayın" eklendi.
 4. **SEO notu:** "rotasyon adaptörü" Google TR'de tek öneri dönüyor, hacim düşük. Yazı bu yüzden "diz üstü protez parçaları / protez bacak parçaları" kümesine ve gündelik hareket aramalarına (bağdaş, araba, ayakkabı) bağlandı. Öneri: "protezle namaz kılmak" güçlü bir TR arama niyeti olabilir — Özgür Bey rotasyon adaptörünün bu kullanımda rolünü teyit ederse ayrı paragraf ya da ayrı yazı değerlendirilebilir. Uydurmamak için metne eklenmedi.

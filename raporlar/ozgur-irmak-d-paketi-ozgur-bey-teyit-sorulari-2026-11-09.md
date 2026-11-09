@@ -49,8 +49,8 @@
 32. RGO'nun kimler için değerlendirildiği cümlesi: "bacak kaslarını yeterince kontrol edemeyen ama ayakta durmayı ve kısa mesafede yürümeyi hedefleyen çocuk ve yetişkinler; omurilik yaralanması ve spina bifida en sık konuşulan başlıklar." Uygun mu? (RGO)
 33. RGO cilt kontrolü: "His azalması olan bölgelerde ağrı uyarısı gelmeyebilir. Ortezi çıkardıktan sonra kalça çıkıntıları, diz çevresi, topuk ve ayak sırtını gözle kontrol edin. Geçmeyen kızarıklık, şişlik ya da yara fark ederseniz ortezi kullanmaya ara verip teknik sorumlunuza ve hekiminize haber verin." Lafız uygun mu? (RGO)
 
-### F · Marka adı (Ayhan + Özgür Bey birlikte)
-34. Yazılarda ürün/model adları geçebilir mi (rotasyon ve kaydırma adaptörleri, 3D cover, liner sistemleri, hidrolik/pnömatik dizler, RGO varyantları)? Şu an hepsi marka-nötr (14 Eyl kararı). Merkezin ürün listesindeki "Rotari Hidrolik Modüler Diz Eklemi" gibi adlar dahil. (Hepsi)
+### F · Marka adı — **Kapandı — Ayhan kararı 9 Kas** (ürün adları Direct Socket/KISS girer, üretici adları girmez; Özgür Bey'e sorulmaz)
+34. ~~Yazılarda ürün/model adları geçebilir mi (rotasyon ve kaydırma adaptörleri, 3D cover, liner sistemleri, hidrolik/pnömatik dizler, RGO varyantları)? Şu an hepsi marka-nötr (14 Eyl kararı). Merkezin ürün listesindeki "Rotari Hidrolik Modüler Diz Eklemi" gibi adlar dahil. (Hepsi)~~ → **Kapandı — Ayhan kararı 9 Kas.** Bu yazılarda ürün/model adı eklenmedi; üretici adı yok.
 
 
 ## Grup 3 — Soket serisi
@@ -65,9 +65,9 @@
 ### B · Merkezde nasıl yapıyorsunuz?
 4. Test soketi her hastada standart mı? Hangi malzemeden, her zaman şeffaf mı? Kalıcı soket hazırlanana kadar test soketi bir süre günlük kullanıma veriliyor mu? (HUB, ÇİF)
 5. Soketleri 3D yazıcıda merkezde mi basıyorsunuz, dışarıda mı? 3D baskı soketler test soketi mi, kalıcı soket mi, ikisi de mi? Yedek/ikinci soket aynı dijital dosyadan üretiliyor mu? Kullandığınız tarayıcı temassız mı? (3D)
-6. Doğrudan soketi (güdük üzerinde üretilen soket) uyguluyor musunuz? Uyguluyorsanız: tek randevuda mı bitiyor, diz altı ve diz üstünde mi, basınç kılıf+pompayla mı uygulanıyor, sertleşirken siz elle yönlendirme yapıyor musunuz, hasta ılık bir his ve sıkılık tarif ediyor mu, sonradan küçük düzeltme yapılabiliyor mu? "Gidip gelme sayısını azaltabiliyor" ifadesi doğru mu? (DOĞ)
+6. Direct Socket'i (doğrudan soket, güdük üzerinde üretilen soket) uyguluyor musunuz? Uyguluyorsanız: tek randevuda mı bitiyor, diz altı ve diz üstünde mi, basınç kılıf+pompayla mı uygulanıyor, sertleşirken siz elle yönlendirme yapıyor musunuz, hasta ılık bir his ve sıkılık tarif ediyor mu, sonradan küçük düzeltme yapılabiliyor mu? "Gidip gelme sayısını azaltabiliyor" ifadesi doğru mu? (DOĞ)
 7. Hibrit sistemde giyme sırası (önce liner, sonra sokete giriş, hava valften atılır) ve liner tipi (sızdırmazlık halkalı liner) sizin uygulamanızla örtüşüyor mu? Kullanıcıya önerdiğiniz günlük kontrol adımları neler? (HİB)
-8. Kayış sisteminde kayış soketin dışında tokayla mı, cırt bantla mı sabitleniyor? Diz altında da kullanıyor musunuz? Yazıdaki "kimler için" listesi (pini hizalamakta zorlanan, oturarak giymek isteyen, diz üstünde uzun sokete yönlendirme gereken, el becerisi/görme nedeniyle zorlanan) sizin pratiğinizle örtüşüyor mu? (KAY)
+8. Merkezde KISS ya da başka bir kayış (lanyard) sistemi uyguluyor musunuz? Kayış sisteminde kayış soketin dışında tokayla mı, cırt bantla mı sabitleniyor? Diz altında da kullanıyor musunuz? Yazıdaki "kimler için" listesi (pini hizalamakta zorlanan, oturarak giymek isteyen, diz üstünde uzun sokete yönlendirme gereken, el becerisi/görme nedeniyle zorlanan) sizin pratiğinizle örtüşüyor mu? (KAY)
 9. Kayış sisteminde güdük soket tabanına tam inmezse oluşan risk (soket içinde hareket, uçta baskı/kızarıklık) doğru tarif edildi mi? Kayış için kullanıcıya önerdiğiniz kontrol ve değişim alışkanlığı ne? (KAY)
 10. Laminasyonda hangi katman malzemelerini kullanıyorsunuz (örgü kılıf, cam elyafı, karbon)? Vakum altında laminasyon standart mı, reçine türü ne? Lamine sokette düzeltmenin sınırı ne (çorap/iç katmanla ayar, büyük değişimde yeni soket)? (LAM)
 11. Esnek iç soket + sert dış çerçeve (pencereli çerçeve dahil) uyguluyor musunuz, hangi seviyelerde? Karbon sokette tam karbon mu, karbon dış çerçeve mi, ikisi de mi? Karbonla "daha ince duvarla yük taşıma" ifadesi sizin pratiğinizle örtüşüyor mu? (LAM, KAR)
@@ -76,5 +76,5 @@
 14. Diz altında hangi soket tasarımlarını uyguluyorsunuz ve Türkçede nasıl adlandırıyorsunuz (tam temaslı / dizkapağı altı tendon yüklemeli)? Diz üstünde oturma kemiğini içine alan tasarım mı, dörtgen tasarım mı, ikisi de mi? "Oturma kemiği" mi, "iskiyum" mu yazalım? (HUB)
 15. "Soft soket" dediğiniz iç katman hangi malzemeden ve hangi seviyelerde kullanılıyor? (HUB, LAM)
 
-### C · Marka adı (Ayhan + Özgür Bey birlikte)
-16. "Direct Socket", "KISS" ve kilit sistemindeki "Hybrid" ticari adları başlığa ya da SSS'ye eklenebilir mi? Arama verisinde ticari adlar güçlü, şu an üçü de marka-nötr (14 Eyl kararı). Grup 1-2 soru 34 ile aynı karar. (DOĞ, KAY, HİB)
+### C · Marka adı — **Kapandı — Ayhan kararı 9 Kas** (ürün adları Direct Socket/KISS girer, üretici adları girmez; Özgür Bey'e sorulmaz)
+16. ~~"Direct Socket", "KISS" ve kilit sistemindeki "Hybrid" ticari adları başlığa ya da SSS'ye eklenebilir mi? Arama verisinde ticari adlar güçlü, şu an üçü de marka-nötr (14 Eyl kararı). Grup 1-2 soru 34 ile aynı karar. (DOĞ, KAY, HİB)~~ → **Kapandı — Ayhan kararı 9 Kas.** "Direct Socket" ve "KISS" başlığa/SSS'ye girdi; "Hybrid" karar kapsamında değil, jenerik "hibrit" kalıyor.

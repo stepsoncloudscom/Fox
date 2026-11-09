@@ -1,22 +1,22 @@
-# Özgür Irmak — Blog: Lanyard (Kayış) Bağlantılı Protez Soket Sistemi Nedir? (v0.1)
+# Özgür Irmak — Blog: KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi (v0.1)
 
 > **TASLAK — yayın onay zincirinden (Denetmen medikal kontrol → avukat → yazılı müşteri onayı → Ayhan) geçmeden yayınlanamaz.**
 >
 > *Metin Yazarı v1.2 · 9 Kasım 2026 · Diataxis: Referans · Register: Özgür Irmak klinik/bilgilendirme sesi · **KÜNYESİZ** · Seri: Kişiye Özel Soket Çözümleri, yazı 4/8 → HUB · Brif Grup 3, madde 4*
 >
-> **Teyitli olgu: 6** — ① "1998'den beri" (KKK §1) ② "Adım adım, birlikte." (KKK §2) ③ teknik sorumlu/hekim rol ayrımı (KKK §7) ④ "güdük" terim standardı (TZP) ⑤ pin-kilit sisteminin "liner ucunda pin + soket tabanında kilit + klik" mantığı merkezin canlı yazısında anlatılmış (canlı "Protez Soket Türleri: Vakum mu, Pin-Kilit mi?", 28 Eki) ⑥ konu Ayhan notunda, ticari ad ile birlikte (brif Grup 4 → "Ottobock KISS"). **Teyitsiz:** merkezde kayış sistemi hangi seviyelerde uygulanıyor, kayışın soket dışında nasıl sabitlendiği → `[ÖZGÜR BEY TEYİT]`.
+> **Teyitli olgu: 6** — ① "1998'den beri" (KKK §1) ② "Adım adım, birlikte." (KKK §2) ③ teknik sorumlu/hekim rol ayrımı (KKK §7) ④ "güdük" terim standardı (TZP) ⑤ pin-kilit sisteminin "liner ucunda pin + soket tabanında kilit + klik" mantığı merkezin canlı yazısında anlatılmış (canlı "Protez Soket Türleri: Vakum mu, Pin-Kilit mi?", 28 Eki) ⑥ konu Ayhan notunda, ürün adı ile birlikte (brif Grup 3 madde 4 → "KISS"). **Teyitsiz:** merkezde KISS ya da başka bir kayış sistemi uygulanıyor mu, hangi seviyelerde, kayışın soket dışında nasıl sabitlendiği → `[ÖZGÜR BEY TEYİT]`.
 >
-> **Marka-nötr notu:** Ayhan'ın notundaki sistem bir üreticinin ticari adıyla anılıyor. Metinde üretici ve ürün adı YOK, yalnız jenerik adı ("lanyard", "kayış bağlantılı soket") var. Karar EDİTÖR NOTU'nda.
+> **Ürün adı notu (Ayhan kararı 9 Kas):** "KISS" ürün adı metne girdi (H1, giriş, bir H2, bir SSS). Üretici adı girmez. Ürüne özgü teknik ayrıntı iddia edilmedi; mekanizma "KISS gibi kayış bağlantılı sistemler" çerçevesinde jenerik anlatıldı.
 
 ---
 
-## H1 — Lanyard (Kayış) Bağlantılı Protez Soket Sistemi Nedir?
+## H1 — KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi
 
-Pin-kilit sisteminde liner'ın ucundaki pin, soketin tabanındaki kilide tek hamlede oturmak zorunda. Kayış sisteminde bu iş bir kayışa bırakılıyor.
+Pin-kilit sisteminde liner'ın ucundaki pin, soketin tabanındaki kilide tek hamlede oturmak zorunda. KISS gibi lanyard (kayış) bağlantılı sistemlerde bu iş bir kayışa bırakılıyor.
 
-İngilizcede "lanyard" denen bu yöntemde liner'ın ucuna bir kayış bağlanıyor. Kayış soketin alt kısmındaki bir yuvadan geçiriliyor, kullanıcı onu çekerek güdüğünü sokete yerleştiriyor ve dışarıdan sabitliyor. Biz bu yazıda kayış bağlantılı soketin nasıl çalıştığını ve kimler için konuşulduğunu anlatıyoruz.
+İngilizcede "lanyard" denen bu yöntemde liner'ın ucuna bir kayış bağlanıyor. Kayış soketin alt kısmındaki bir yuvadan geçiriliyor, kullanıcı onu çekerek güdüğünü sokete yerleştiriyor ve dışarıdan sabitliyor. Biz bu yazıda KISS lanyard sisteminin ve benzeri kayış bağlantılı soketlerin nasıl çalıştığını ve kimler için konuşulduğunu anlatıyoruz. `[ÖZGÜR BEY TEYİT: merkezde KISS sistemi uygulanıyor mu?]`
 
-## Lanyard Sistemi Nasıl Çalışır?
+## KISS Lanyard Sistemi Nasıl Çalışır?
 
 Sistem üç parçadan oluşuyor:
 
@@ -69,7 +69,7 @@ Kayış, gözle görülen ve elle kontrol edilen bir parça. Gün içinde sabitl
 
 ## Sık Sorulan Sorular
 
-**Lanyard sistemi pin-kilitten daha mı kolay?**
+**KISS lanyard sistemi pin-kilitten daha mı kolay?**
 Bazı kullanıcılar için giymeyi kolaylaştırabiliyor. Kişiden kişiye değişen bir tercih. Değerlendirmede birlikte deneniyor.
 
 **Kayış sistemi diz altı protezde kullanılır mı?**
@@ -78,7 +78,7 @@ Kullanılabiliyor. Hangi seviyede uygun olduğuna teknik sorumlunuz karar verir.
 **Kayış koparsa ne olur?**
 Kayış düzenli kontrol edildiğinde yıpranma önceden fark ediliyor. Yıpranma görürseniz kayışı değiştirmek için merkezinizle görüşün.
 
-Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri] sayfamıza bakabilirsiniz.
+Serinin tamamı için [SERİ-LİNK: Kişiye Özel Protez Soket Çözümleri: Soket Çeşitleri ve Soket Yapımı] sayfamıza bakabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
@@ -89,12 +89,12 @@ Hangi bağlantı sisteminin size uygun olduğunu Özgür Irmak'ta birlikte konu�
 ---
 
 ## YAYIN META
-- **SEO başlık (≤60):** Lanyard (Kayış) Bağlantılı Protez Soket Sistemi Nedir? *(54 krkt)*
-- **Meta açıklama (≤155):** Lanyard (kayış) bağlantılı protez soket nasıl çalışır, pin-kilitten farkı ne? Kayışlı sistemin giyilişini ve kimler için konuşulduğunu anlatıyoruz. *(147 krkt)*
-- **Slug:** lanyard-kayış-bağlantılı-protez-soket
-- **Birincil anahtar kelime:** lanyard protez soket (kayış bağlantılı protez soket)
-- **İkincil / uzun kuyruk:** kilitli soket alternatifi / pin-kilit farkı (H2) · silikon liner kayış (H2) · diz üstü protez soket çeşitleri (gövde) · protez bacak soketi (gövde) · lanyard sistemi nasıl çalışır (H2)
-- **Google verisi notu:** "lanyard" önerileri yalnız ticari ad ile geliyor ("… kiss lanyard"). Jenerik "lanyard protez" ve "kayışlı protez soket" için doğrudan öneri yok. Yazı "kilitli soket", "silikon liner" ve "diz üstü protez" kümelerine bağlandı.
+- **SEO başlık (≤60):** KISS Lanyard Sistemi Nedir? Kayış Bağlantılı Protez Soketi *(58 krkt)*
+- **Meta açıklama (≤155):** KISS lanyard sistemi nedir, kayış bağlantılı protez soket nasıl çalışır? Pin-kilitten farkını, giyilişini ve kimler için konuşulduğunu anlatıyoruz. *(147 krkt)*
+- **Slug:** kiss-lanyard-sistemi-nedir
+- **Birincil anahtar kelime:** KISS lanyard sistemi (H1, giriş, 1 H2, 1 SSS, meta)
+- **İkincil / uzun kuyruk:** kayış bağlantılı protez soket (H1/gövde) · lanyard protez soket (giriş) · kilitli soket alternatifi / pin-kilit farkı (H2) · silikon liner kayış (H2) · diz üstü protez soket çeşitleri (gövde) · protez bacak soketi (gövde) · lanyard sistemi nasıl çalışır (H2)
+- **Google verisi notu:** "lanyard" önerileri yalnız ürün adı ile geliyor ("kiss lanyard"). Başlık bu yüzden "KISS lanyard sistemi" üzerine kuruldu (Ayhan kararı 9 Kas). Jenerik "lanyard protez" ve "kayışlı protez soket" için doğrudan öneri yok; yazı ayrıca "kilitli soket", "silikon liner" ve "diz üstü protez" kümelerine bağlı.
 - **İç link (canlı listeden birebir, 4):** Protez Soket Türleri: Vakum mu, Pin-Kilit mi? · Diz Üstü Protezlere Detaylı Bakış · Silikon Liner Nedir? · Protez ile Günlük Yaşam
 - **Seri link (2):** HUB · Hibrit Kilit Sistemli Diz Üstü Soket
 - **FAQ şeması:** 3 soru. **Künye:** YOK · **Görsel:** sonra · **Disclaimer:** birebir.
@@ -103,11 +103,13 @@ Hangi bağlantı sisteminin size uygun olduğunu Özgür Irmak'ta birlikte konu�
 
 ## EDİTÖR NOTU (Denetmen / klinisyen / avukat için)
 
-1. **Ticari ad bayrağı (zorunlu):** Ayhan'ın notunda bu sistem bir üreticinin ticari adıyla geçiyor ("KISS"). Metinde üretici de ürün adı da yok. **Ayhan/Özgür Bey kararı:** ad eklenebilir mi? Arama verisinde ticari adlı öneriler belirgin. Avukat sorusu #1 ile aynı kapı.
+1. **Ticari ad bayrağı — KAPANDI:** Ayhan kararı 9 Kas: ürün adları Direct Socket/KISS girer, üretici adları girmez. "KISS" H1, giriş, bir H2 ve bir SSS'de; üretici adı metinde yok. Ürüne özgü parça/sabitleme ayrıntısı iddia edilmedi (teyit gelirse eklenir). Avukat sorusu #1 (sitede cihaz/marka adı kullanımı) yayın zincirinde ayrıca açık kalır.
 2. **TEYİT bayrakları (6):** sabitleme biçimi (toka/cırt) · tabanda boşluk riski · "kimler için" listesinin merkez pratiğiyle örtüşmesi · kontrol/değişim alışkanlığı · diz altı kullanım · (künyede) merkezde uygulanan seviyeler.
 3. **Üstünlük yok:** "daha kolay mı" sorusu "bazı kullanıcılar için", "kişiden kişiye değişen" kipiyle sınırlandı.
 4. **Onur filtresi:** "el becerisi ya da görme nedeniyle" maddesi nötr betimleyici dilde; kişi özne, yardıma muhtaç çerçevesi yok.
 5. **Tarama sonucu (9 Kas 2026):** Gövde 611 kelime (H1→kapanış, TEYİT etiketleri hariç) · satır içi TEYİT bayrağı: 5. `slop_tarama.py` → ✅ temiz. `sozdizim_tarama.py` → 533 prosa kelime, 47 cümle, 21 paragraf · ✅ temiz (0 SERT, 0 UYARI). Ölçüler: karşıtlık 3.8/1000 (tek kaynak çoğunlukla disclaimer'ın hukuki lafzı "yerine geçmez" — D6 muafiyeti, lafız değiştirilmedi) · somut çapa 5.8/100 · kısa cümle 0.213 · insan işareti 26.3/1000 · noktalı virgül 0.2/100 (yalnız disclaimer) · aforizma 0.0 · cümle CV 0.67 · paragraf CV 0.501.
+
+6. **Yeniden tarama (9 Kas, Ayhan kararları sonrası — KISS adı eklendi):** gövde H1→kapanış ham, `slop_tarama.py` ✅ temiz · `sozdizim_tarama.py` 557 kelime, 46 cümle, 21 paragraf → ✅ temiz (0 SERT, 0 UYARI).
 
 **Denetmen düzeltmesi (9 Kas 2026 — Denetmen Grup 3):**
 - "soketin altındaki bir delikten" → "soketin alt kısmındaki bir yuvadan". Gerekçe: aynı yazının parça listesiyle ("tabanında kayışın geçtiği bir yuva") terim birliği.
