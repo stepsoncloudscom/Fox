@@ -18,19 +18,19 @@ Bu eğrilik bilinçli bir tasarım kararıdır.
 
 ## Enerji Nasıl Geri Veriliyor
 
-Günlük kullanım ayağında enerji geri dönüşü daha ani hissedilir, basma ve itiş arasında kısa bir döngü vardır. Fark buradan gelir. Koşu bıçağında ise bu geri dönüş adım boyunca daha kademeli ve daha aşamalı biçimde yayılır, çünkü koşarken tekrarlanan darbeyi karşılamak üzere böyle tasarlanmıştır.
+Günlük kullanım ayağında enerji geri dönüşü daha ani hissedilir, basma ve itiş arasında kısa bir döngü vardır. Fark buradan gelir. Koşu ayağında ise bu geri dönüş adım boyunca daha kademeli ve daha aşamalı biçimde yayılır, çünkü koşarken tekrarlanan darbeyi karşılamak üzere böyle tasarlanmıştır.
 
 Günlük ayak yürümeyi öngörülebilir kılar, koşu ayağı da koşmayı taşınabilir kılar.
 
 ## Kullanım Alanı Farklı
 
-Koşu bıçağı yalnız spor amaçlıdır — koşu, tempolu yürüyüş, sprint. Günlük ayakkabı içinde, market alışverişinde ya da ofise yürüyüşte kullanılan ise günlük ayaktır.
+Koşu ayağı yalnız spor amaçlıdır — koşu, tempolu yürüyüş, sprint. Günlük ayakkabı içinde, market alışverişinde ya da ofise yürüyüşte kullanılan ise günlük ayaktır.
 
 İki cihaz birlikte, tamamlayıcı olarak kullanılır.
 
 ## Küçük Bir Yapısal Fark: Parmak Uzunluğu
 
-Koşu bıçağında parmak kısmı kısaltılmıştır, bu da koşu sırasında dengeyi destekleyen küçük ama işlevsel bir ayrıntıdır.
+Koşu ayağında parmak kısmı kısaltılmıştır, bu da koşu sırasında dengeyi destekleyen küçük ama işlevsel bir ayrıntıdır.
 
 ## Hangisi Size Uygun
 
@@ -40,8 +40,8 @@ Bu bir tercih meselesi değil, bir eşleştirme meselesidir. Aktivite düzeyi, h
 
 ## Sık Sorulan Sorular
 
-**Koşu bıçağıyla günlük yürüyüş yapılır mı?**
-Koşu bıçağı yalnız spor amaçlı tasarlanmıştır, günlük yürüyüş ya da market alışverişi için önerilmez.
+**Koşu ayağıyla günlük yürüyüş yapılır mı?**
+Koşu ayağı yalnız spor amaçlı tasarlanmıştır, günlük yürüyüş ya da market alışverişi için önerilmez.
 
 **İkisine aynı anda sahip olabilir miyim?**
 Evet, kullanım amacınıza göre iki cihaza birlikte sahip olmak yaygın bir yaklaşımdır.
@@ -63,7 +63,7 @@ Hangi cihazın size uygun olduğunu birlikte belirleyelim.
 
 ## YAYIN META
 - **SEO başlık (≤60):** Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark *(49 krkt)*
-- **Meta açıklama (≤155):** Koşu bıçağı günlük protez ayağından nasıl farklı? Enerji geri dönüşü, kullanım alanı ve yapısal farklara kısa bir bakış. *(118 krkt)*
+- **Meta açıklama (≤155):** Koşu ayağı günlük protez ayağından nasıl farklı? Enerji geri dönüşü, kullanım alanı ve yapısal farklara kısa bir bakış. *(118 krkt)*
 - **Slug:** kosu-bicagi-ile-gunluk-protez-ayagi-arasindaki-fark
 - **İç link:** HUB (`protez-bacak-ve-kol-bakimi`, hyperlink) + "Protez Ayak Çeşitleri" ve "Protez ile Spor ve Fiziksel Aktivite" (düz metin, link YOK — slug bu görevde teyit edilmedi). Satış/sepet linki YOK.
 - **Künye:** YOK · **Görsel:** sonra (İçerik Ajanı) · **Disclaimer:** avukat onaylı, birebir korundu.

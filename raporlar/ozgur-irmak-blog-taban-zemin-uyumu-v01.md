@@ -47,7 +47,7 @@ Kullanım planınızı teknik sorumlunuzla paylaşın. Size uygun taban seçene�
 
 ## İlgili Yazılar
 
-Koşu bıçağı ile günlük ayak arasındaki genel farkı Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark yazımızda bulabilirsiniz. Genel bakım ilkelerini [Protez Bacak ve Kol Bakımı](https://www.ozgurprotez.com/post/protez-bacak-ve-kol-bakimi) yazımızda bulabilirsiniz.
+Koşu ayağı ile günlük ayak arasındaki genel farkı Koşu Ayağı ile Günlük Protez Ayağı Arasındaki Fark yazımızda bulabilirsiniz. Genel bakım ilkelerini [Protez Bacak ve Kol Bakımı](https://www.ozgurprotez.com/post/protez-bacak-ve-kol-bakimi) yazımızda bulabilirsiniz.
 
 *Bu içerik genel bilgilendirme amaçlıdır; kişiye özel tıbbi tavsiye ya da tanı yerine geçmez. Kendi durumunuz için merkezinize ya da hekiminize danışın.*
 
