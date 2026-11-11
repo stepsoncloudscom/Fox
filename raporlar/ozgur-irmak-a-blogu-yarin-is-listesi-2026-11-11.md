@@ -4,7 +4,7 @@ Görseller: `Desktop/Steps On Clouds/Clients/Özgür Irmak/Görseller /İşçili
 
 | # | Sayfa (canlı URL) | Görsel | Not |
 |---|---|---|---|
-| 1 | /mikroişlemcili-biyonik-protezler | **Selim Bey** (1. görsel — dosya adı?) + 20190806_132607 + 20260211_130047 | 20260211_130047 = rotasyon adaptörü |
+| 1 | ✅ (kısmen, 11 Kas: 20190806_132607 "Kişiye Özel" altına eklendi; Selim Bey + 20260211_130047 bekliyor) /mikroişlemcili-biyonik-protezler | **Selim Bey** (1. görsel — dosya adı?) + 20190806_132607 + 20260211_130047 | 20260211_130047 = rotasyon adaptörü |
 | 2 | /dirsek-altı-biyonik-el-protezleri | 20191020_111006 | dirsek altı biyonik el; istersen /biyonik-protezler |
 | 3 | /su-protezler | 20191115_235310 | |
 | 4 | /performans-için-koşu-protezleri | 20200210_204546 | 3 koşu sayfası var (Fiberglass / Performans / Günlük) — hangisi? |
