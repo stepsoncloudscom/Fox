@@ -3,7 +3,7 @@ Görseller: `Desktop/Steps On Clouds/Clients/Özgür Irmak/Görseller /İşçili
 Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 
 ## A · Protez sayfalarına görsel
-1. Mikroişlemcili diz — Selim Bey (1. görsel, dosya adı?) + 20190806_132607 + 20260211_130047
+1. 🟡 Mikroişlemcili diz (11 Kas: 20190806_132607 sayfaya eklendi; Selim Bey + 20260211_130047 kaldı) — Selim Bey (1. görsel, dosya adı?) + 20190806_132607 + 20260211_130047
 2. Biyonik kol — 20191020_111006
 3. Su protezleri — 20191115_235310
 4. Koşu protezleri — 20200210_204546
@@ -30,7 +30,7 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 23. AFO/KAFO/DAFO ana görsel — IMG_20181217_214639_943
 24. Uzun yürüme ortezleri — IMG_20180628_212538_652 + IMG_20210221_104144 (yüz YZ ile değişecek)
 25. Kısa yürüme cihazı — 20210627_104420 + IMG_20180817_110052_191
-26. RGO — 20210707_174447
+26. RGO — 20210707_174447 (blog yazısına ✅ 11 Kas; ortez sayfası bekliyor)
 27. Skolyoz korseleri — IMG_20180517_192711_511 + IMG_20181021_114748_339
 28. Dinamik atel + humerus Sarmiento — IMG_20210304_204811
 29. Sporcular için ortez (karbon maske) — IMG_20210709_225354
@@ -63,3 +63,4 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 - Koşu Bıçağı → Koşu Ayağı (yazı + adres + 301)
 - Ottobock/Össur 4 canlı yazıdan çıkarıldı · Pnömatik sayfa başlığı düzeltildi · Soket Türleri → hub linki
 - Blog kapak görselleri: PARK (Ayhan, 10 Kas)
+- 11 Kas: Güdük bandajlama yazısı yayında · RGO / Rotasyon / 3 mikroişlemcili yazısına görsel · 3 mikroişlemcili yazısına Yürüme Analizi videosu · Blog "All Posts" → "Tüm Yazılar" · Mikroişlemcili Biyonik sayfasına görsel bölümü
