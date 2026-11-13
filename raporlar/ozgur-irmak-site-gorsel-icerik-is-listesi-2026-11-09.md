@@ -8,8 +8,8 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 3. Su protezleri — 20191115_235310
 4. Koşu protezleri — 20200210_204546
 5. Aktif vakum — 20201130_112001
-6. Kozmetik silikon — 20201207_133128
-7. Miyoelektrik dirsek altı — 20210310_180628
+6. ✅ (13 Kas) Kozmetik silikon — 20201207_133128
+7. ✅ (13 Kas) Miyoelektrik dirsek altı — 20210310_180628
 8. Dizüstü — 20210429_131449 (logo eklenecek) + 20210429_104827
 9. Dizüstü › Hidrolik — 20210501_094139 + 20210628_083255 + açıklama yazısı
 10. Özel protezler › Biyonik ayak — 20210506_101549 + 20210506_112615
@@ -17,16 +17,16 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 12. Dizaltı › Aktif — 20210607_152511
 13. Dizaltı › Pasif — 20210607_223014
 14. Dizaltı › Silikon liner — ayrı bölüm metni
-15. Değerlendirme ve ölçü — 20210617_115232
+15. ✅ (13 Kas) Değerlendirme ve ölçü — 20210617_115232
 16. ✅ Chopart (13 Kas canlıda görüldü) — 20260515_124019
-17. Pnömatik — IMG_0978 (renk aç) + IMG_1012 (ışık aç) + yazı
+17. 🟡 (13 Kas: IMG_1012 sayfada, IMG_0978 blog yazısında) Pnömatik — IMG_0978 (renk aç) + IMG_1012 (ışık aç) + yazı
 18. Silikon parmak — IMG_6255 (logo ekle)
 19. Silikon ayak — IMG_20180714_093938_259
 20. "1999'dan beri" — IMG_6840 (yeri?)
 21. Protez kategorilerine video (klasördeki 12 videodan seçim)
 
 ## B · Ortez sayfalarına görsel
-22. Ortezler — 20250819_154533 + 20250819_154625 (kız çocuğunun yüzü YZ ile değişecek)
+22. ✅ (13 Kas: 2 YZ kare + 20250819_154625, galeri) Ortezler — 20250819_154533 + 20250819_154625 (kız çocuğunun yüzü YZ ile değişecek)
 23. ✅ AFO/KAFO/DAFO ana görsel (13 Kas canlıda görüldü) — IMG_20181217_214639_943
 24. Uzun yürüme ortezleri — IMG_20180628_212538_652 + IMG_20210221_104144 (yüz YZ ile değişecek)
 25. 🟡 Kısa yürüme cihazı (20210627_104420 canlıda; IMG_20180817 görülmedi) — 20210627_104420 + IMG_20180817_110052_191
