@@ -38,8 +38,8 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 ## C · Yeni menü / sayfa
 30. Ayarlanabilir aktif vakum sistemli — 20200612_141437
 31. Dizüstü › Opsiyonel protez aparatları — rotasyon adaptörü (20260211_130047), 3D cover, kaydırma adaptörü (IMG_5482, ok ile işaretli)
-32. Kişiye özel soket çözümleri — 3D soket, hibrit TF locking, direct socket, Ottobock KISS, laminasyon, karbon, çift aşamalı (IMG_0994), ayarlanabilir
-33. Silikon linerlar — Screenshot_20210508-124245_Gallery + liner çeşitleri ve kullanım tercihleri
+32. 🟡 (13 Kas: Editör'de, yayında değil, görsel Ayhan) Kişiye özel soket çözümleri — 3D soket, hibrit TF locking, direct socket, Ottobock KISS, laminasyon, karbon, çift aşamalı (IMG_0994), ayarlanabilir
+33. 🟡 (13 Kas: menü + 6 sayfa Editör'de, yayında değil; Screenshot_20210508 kullanılmadı) Silikon linerlar — Screenshot_20210508-124245_Gallery + liner çeşitleri ve kullanım tercihleri
 34. Tabanlık
 
 ## D · Blog yazısı — ✅ TAMAM (9 Kas, 16 yazı yayında; 41 seri = hub+8; çift aşamalı → Test Soketi)
