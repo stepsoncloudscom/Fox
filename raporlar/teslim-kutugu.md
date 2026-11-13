@@ -44,3 +44,6 @@ Redlerin **hiçbiri** biçim/format hatası değil — üçü de **kaynak yoklu�
 | 2026-11-09 | Özgür Protez D Paketi — 16 SEO blog yazısı | 2 (v01→Denetmen→yayın sürümü) | DİKKAT ×7, TEMİZ/DİKKAT ×8, DUR ×1 (çift aşamalı → Test Soketi) | Onay — teyitsiz yayın | — | ölçülmedi |
 | 2026-11-11 | Özgür Protez — Güdük bandajlama blog yazısı | 1 | DİKKAT (düzeltildi) | Onay — yayın | — | ölçülmedi |
 | 2026-11-11 | Özgür Protez — Aktif vakum protez çeşitleri yazısı | 1 | DİKKAT (düzeltildi) | Onay — yayın | — | ölçülmedi |
+| 2026-11-13 | Özgür Protez — site fontu IBM Plex Sans (tüm site) | 1 | Denetmen: çağrılmadı (tasarım ayarı, geri alınabilir) | Onay — "Fontu yayınla" | — | ölçülmedi |
+| 2026-11-13 | Özgür Protez — Kişiye Özel Soket Çözümleri statik sayfa | 1 | DİKKAT (düzeltildi) | Onay — "hepsini olduğu gibi yayınla"; görsel alanlarında AFO fotoğrafları duruyor | — | ölçülmedi |
+| 2026-11-13 | Özgür Protez — Silikon Linerlar menüsü + 6 statik sayfa | 1 | DİKKAT ×4, TEMİZ ×1, DUR ×1 (Özel Linerlar: hizmet teyitsiz) | Onay — "hepsini olduğu gibi yayınla" (DUR ve diyabet klinisyen okuması açık iken, Ayhan kararı) | — | ölçülmedi |
