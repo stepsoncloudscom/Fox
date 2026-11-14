@@ -1,7 +1,7 @@
 # Steps On Clouds — Instagram Paylaşım Planı (19 Kasım – 31 Aralık 2026)
 *14 Kasım 2026 · Fox · v5 (Denetmen bulguları + Ayhan'ın 14 Kas revizeleri: Red Lions kısıtı, Higgsfield, spor çizgisi, geniş açı lifestyle, grafik dil) · Durum: TASLAK, Ayhan'ın madde madde onayını bekliyor · Hesap: @stepsoncloudscom*
 
-> Bu belge yalnız plandır. Hiçbir içerik üretilmedi, hiçbir şey yayınlanmadı. Her madde ayrı onaylanır ya da revize edilir. Üretim onaydan sonra başlar.
+> Hiçbir şey yayınlanmadı. 14 Kasım'da aday üretimi başladı (durağan kareler, videolar, dört özel gün taslağı); hepsi aday, her madde ayrı onaylanır ya da revize edilir.
 > Zemin: `soc-instagram-arastirma-2026-11-14.md` (Growth) · `soc-instagram-gorsel-envanter-2026-11-14.md` (İçerik) · `soc-instagram-cekim-kirilimi-2026-11-14.md` (Astrid) · `denetmen-soc-instagram-plani-2026-11-14.md` (Denetmen, karar: DİKKAT, 18 bulgu). Rakam ve tarihlerin kaynağı o dosyalarda.
 
 ---
@@ -36,9 +36,9 @@
 - **Yüz yok.** Üretilen karelerde yalnız diz altı, el, eşya. Bu hem senin kilitli örüntün (anti-portre) hem de YZ'nin en çok ele verdiği yer.
 - **Engellilik ve sosyal etki temalı içerikte YZ insan yok.** 07, 08 ve 11 bu kapsamda. Protez YZ ile üretilmez.
 - **Kanıt gerektiren sahne üretilmez.** Üretim atölyesi, gerçek sipariş, gerçek kullanıcı YZ ile "gösterilmez".
-- **Önce üç karelik deneme.** "Hâlâ çok fake" eleştirin (14 Eki) kapanmadı. Toplu üretimden önce üç kare üretip önüne koyarım. Geçmezse yöntem değişir, kredi yanmaz.
+- **Deneme turları yapıldı (14 Kas).** "Hâlâ çok fake" eleştirin (14 Eki) kapanmadı. Toplu üretimden önce üç kare üretip önüne koyarım. Geçmezse yöntem değişir, kredi yanmaz.
 - **Etiket.** Önerim üretilen gönderilerde Instagram'ın "YZ bilgisi" etiketini açmak. Video için Meta zorunlu tutuyor, durağan görselde zorunluluk teyitsiz. Karar senin (K8).
-- **Kredi.** Hesapta 1.000 kredi var (bugün okundu). Görsel başına 2 kredi. Video maliyetini üretimden önce aracın kendi hesaplayıcısından okuyup sana yazarım.
+- **Kredi.** 14 Kasım sonunda 759 kredi kaldı (1.000'den). Görsel 2 kredi, 720p video klip başına 35, 1080p 80 kredi. Kapılar: üretimden önce beş satırlık yön kartına onay, yön onaylanana kadar tur başına en çok üç kare, logo gerçek ürünle yan yana bakılmadan video yok, video yalnız onaylı kareden.
 
 **Her maddede sabit:** acıma, ilham, süper-insan ve kurban çerçevesi yok · "protez uyumlu" iddiası yok, görselle de kurulmaz · fiyat 700 TL · Red Lions'ta bireysel hikâye yok, özne ekip · Red Lions arşivinden yalnız içinde Steps On Clouds görünen kare · SoC medikal tavsiye vermez.
 
@@ -101,7 +101,7 @@ Bu haftada ürün gönderisi yok. Fiyat, link ve çorap 2–3 Aralık içerikler
 | # | Tarih | Format | Kaynak / dil | Hat | İçerik | Kapı |
 |---|---|---|---|---|---|---|
 | **07 · Ç** | Çar 2 Ara | Kaydırmalı, 6 kare | Tasarım | Özel gün (hazırlık) | **Yarın kurmayacağımız cümleler.** 3 Aralık'ta her yıl tekrarlanan dört kalıp: "kutlu olsun", "hepimiz engelli adayıyız", "sevgi her engeli aşar", "buna rağmen çok iyisin". Dört kalıp kaynaklı. Karşılarına ne konacağı kaynaklı değil, o cümleler senin onayından geçer. Kimseyi adıyla hedef almaz, biz dilinde yazılır. Son kare: 2026 teması, Sözleşme'nin 20. yılı. | K12 · tema BM sayfasında gözle teyit |
-| **08 · Ç** | Per 3 Ara | Reels, 45–60 sn | **Gerçek çekim** · Lo-fi | Özel gün · **Dünya Engelliler Günü** | **Ayhan'ın sesi.** Göz hizası, sabit kadraj, pencere ışığı. Dört soru Fox'tan, cevaplar senden. Cümleni kimse yazmaz. Soru listesinde sağlık geçmişi yok. Videoda çorap, fiyat, link yok. O gün akış kurumsal kutlama görseliyle dolar. Markanın o gün söyleyebileceği en dürüst şey kurucusunun kendi cümlesi. | K2, K9 · konuşmayı sen onaylarsın |
+| **08 · Ç** | Per 3 Ara | Reels, 45–60 sn | **Gerçek çekim** · telefon çekimi | Özel gün · **Dünya Engelliler Günü** | **Ayhan'ın sesi.** Göz hizası, sabit kadraj, pencere ışığı. Dört soru Fox'tan, cevaplar senden. Cümleni kimse yazmaz. Soru listesinde sağlık geçmişi yok. Videoda çorap, fiyat, link yok. O gün akış kurumsal kutlama görseliyle dolar. Markanın o gün söyleyebileceği en dürüst şey kurucusunun kendi cümlesi. | K2, K9 · konuşmayı sen onaylarsın |
 | **09 · İ** | Paz 6 Ara | Tek fotoğraf | Arşiv (Red Lions, telefon) | Marka (ürün değil) | **Tekneden.** Güverteden suya sarkan ayaklar ve deniz (IMG_0219). Red Lions arşivinde Steps On Clouds'un göründüğü tek set. Kimse poz vermemiş. Karede protez ve çorap birlikte görünür, bu yüzden gönderi satış yapmaz: metinde ürün adı, fiyat ve link yok. Ayakkabı markası kadrajda, kırpılabiliyorsa kırpılır. **Denetmen bu maddenin çıkarılmasını öneriyor** (§8). | K11 |
 
 *Story:* 07'nin tek karesi 3 Aralık sabahı · 08'in çekim arkası.
@@ -112,7 +112,7 @@ Bu haftada ürün gönderisi yok. Fiyat, link ve çorap 2–3 Aralık içerikler
 |---|---|---|---|---|---|---|
 | **10 · Ç** | Sal 8 Ara | Reels, 12–18 sn (2–3 plan) | Higgsfield · geniş açı lifestyle (UGC dili) | Ürün | **Kortta bir sabah.** Servis hazırlığı (geniş, aday video hazır), bağcık bağlama (yakın, aday video hazır), tenis topunu alma. Geniş plan atmosferi, yakın plan ürünü taşır. Metnin sonunda fiyat ve bio linki. | K4, K8 |
 | **11 · Ç** | Per 10 Ara | Kaydırmalı, 6 kare | **Orijinal** (Belgesel Stills) + tipografi | Özel gün · **Dünya İnsan Hakları Günü** | **20 yıl.** Sözleşme'nin kabul ve yürürlük tarihi, 194 taraf, Türkiye'nin imza ve onay tarihi, sporu düzenleyen 30. madde, 2026 teması "Making Humanity Together". Tam kadraj gerçek kareler, yazı görselin içinde, altın oran ızgarası. Taslak hazır (`Design /Instagram 2026-11_12`). Madde özetleri resmî çeviri değil, son karede yazılı. | metin Denetmen'de · sporcu ayakkabısındaki marka işareti |
-| **12 · Ç** | Cmt 12 Ara | Reels, 20–30 sn | **Gerçek çekim** · Lo-fi (ekip çekimi) | Satış | **Paket.** Bir paket hazırlanırken, üstten, yalnız eller: çorap, bant etiket, kargo poşeti. Gerçek sipariş yoksa "sipariş" diye sunulmaz. Etiketteki yazı ve QR kodu YZ bozar, bu yüzden gerçek çekim. Son karede yılbaşı için son sipariş tarihi, fiyat, bio linki. | K2, K7 |
+| **12 · Ç** | Cmt 12 Ara | Reels, 20–30 sn | **Gerçek çekim** · telefon çekimi | Satış | **Paket.** Bir paket hazırlanırken, üstten, yalnız eller: çorap, bant etiket, kargo poşeti. Gerçek sipariş yoksa "sipariş" diye sunulmaz. Etiketteki yazı ve QR kodu YZ bozar, bu yüzden gerçek çekim. Son karede yılbaşı için son sipariş tarihi, fiyat, bio linki. | K2, K7 |
 
 *13 Aralık Pazar:* Sözleşme'nin 20. yılı. Yeni gönderi yok, madde 11 Story'de yeniden paylaşılır.
 *Story:* son sipariş tarihi (bağlantı etiketiyle).
@@ -145,7 +145,7 @@ Bu haftada ürün gönderisi yok. Fiyat, link ve çorap 2–3 Aralık içerikler
 |---|---|---|---|
 | Öğretmenler Günü, 24 Kas | 04 | Tek fotoğraf (Higgsfield) | Deneme karelerine bağlı |
 | Dünya Engelliler Günü, 3 Ara | 07 + 08 | Kaydırmalı + Reels | 08 senin konuşmana bağlı |
-| Dünya İnsan Hakları Günü, 10 Ara | 11 | Kaydırmalı | Tipografik hali yalnız tema teyidine bağlı |
+| Dünya İnsan Hakları Günü, 10 Ara | 11 | Kaydırmalı, 6 kare (orijinal kareler) | Taslak hazır; sporcu rızası Ayhan'ın beyanıyla onaylı (14 Kas) |
 | Yerli Malı Haftası, 12–18 Ara | 13 | Tek kare (atölye çekilirse Reels) | Şartlı (üretim yeri) |
 | Christmas, 25 Ara | 18 | Tek fotoğraf (Higgsfield), İngilizce | Ton yurt dışı gönderim cevabına göre |
 | Yılbaşı, 31 Ara | 16 (+ 20) | Reels (+ tek fotoğraf) | Son sipariş tarihi senden |
@@ -174,7 +174,7 @@ Plana bilerek almadıklarım: 27 Kasım indirim günü ve 5 Aralık Gönüllüle
 
 ## 8 · Açık görüş ayrılıkları
 
-0. **YZ üretimi.** Astrid marka hesabında YZ karesine karşıydı: `Steps On Mela` gerçeği zaten veriyor, YZ kare ürüne de şüphe düşürebilir. Sen Higgsfield'a izin verdin, plan öyle kuruldu. Bu sürüm (v3) Denetmen'den henüz geçmedi. Deneme kareleriyle birlikte geçecek.
+0. **YZ üretimi.** Astrid marka hesabında YZ karesine karşıydı: `Steps On Mela` gerçeği zaten veriyor, YZ kare ürüne de şüphe düşürebilir. Sen Higgsfield'a izin verdin, plan öyle kuruldu. v5 ve adaylar Denetmen'in ikinci turundan DİKKAT ile geçti (`denetmen-soc-instagram-v5-ve-adaylar-2026-11-14.md`).
 
 1. **Kapsam.** Denetmen 12 madde ve haftada iki gönderi öneriyor. Çıkarılmasını istediği maddeler: 03 ya da 06, 09, 15, 17, 19, 20 ve 07'nin 08'e katılması. Benim önerim 14 çekirdek + 6 isteğe bağlı. Farkımız iki maddede: 06'yı ve 07'yi ayrı tutuyorum. 06 kişisiz tek kare, üretimi ucuz. 07 o haftanın paylaşılabilir tek karesi, 08 ise kişisel.
 2. **Madde 09 (tekneden).** Denetmen çıkarılsın diyor: protez ile çorap tek karede, Red Lions teknesinde, 3 Aralık'tan üç gün sonra. Ben satışsız haliyle isteğe bağlı bıraktım, çünkü arşivdeki en doğal kare. Karar senin. Tereddüt edersen çıkar.
