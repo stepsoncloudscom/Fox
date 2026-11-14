@@ -28,6 +28,16 @@ Bu belge "ne karar verildi" değil, "neden verildi"yi tutar. Gelecekteki kararla
 - **Kaynak:** commit 85e9950 + `raporlar/mbos-moda-edisyonu-satis-paketi-v0.md`. 20 Haz satırındaki "6 girdi bekleniyor" bununla kapandı.
 - **Denetmen re-check (3 Kas): DİKKAT** — fiyatsız soğuk temas bugün çıkabilir; fiyat/teklif çıkamaz. Açık: Temel'in retainer süresi, ödeme/KDV/döviz, içerik parçası tanımı + revizyon, IP/kullanım hakkı + sorumluluk tavanı (avukat), somut termin, pitch sözdizimi (Metin Yazarı'na geri).
 
+### Instagram Haftalık Döngü — Sistem Geliştirmenin İlk Parçası (14 Kas)
+- **Tetik (Ayhan):** genel check-up sonrası "tüm sistemi geliştireceğiz, buna sen de dahil". Sıra seçimi: **"B: Satış önce"** → satış hattı **"CloudOne"** → başarı ölçütü **"instagramın düzenli çalışması"**.
+- **Kararlar (Ayhan, sözcükleri aynen):** pay "Haftalık oturum" · makine "1: Otomatik hazırlık" · "haftada 3 ideal" · "macte kalsın" · "evet maksimum 3 deneme karesi uygun" · "1080p uygun" · "haftada 1 video paylaşımı yetecektir" · tasarım "Onaylıyorum" · yürütme "Native, başla".
+- **Ne kuruldu:** kuyruk (`raporlar/instagram-kuyruk.md`) + kuyruk aracı + onay kartı üretici (`sablonlar/araclar/instagram_*.py`) + perşembe 10:00 görevi `instagram-haftalik-hazirlik` + pazartesi protokolü (`sablonlar/instagram-pazartesi-oturumu.md`) + sabah brifingi satırı. Tasarım `raporlar/tasarim-instagram-haftalik-dongu-2026-11-14.md`, plan `raporlar/plan-instagram-haftalik-dongu-2026-11-14.md`.
+- **Neden bu biçim:** Nakit Motoru dersi — üretim vardı, onay ve gönderim Ayhan'da birikti (39 taslak). Düzen Ayhan'ın hafızasına bağlı olmasın diye hazırlık otomatik; boşa koşmasın diye üç sigorta (kredi bakiyesi okuması, iki hafta kararsız kartta kendini durdurma, tampon göstergesi).
+- **Kredi istisnası:** görev Higgsfield maddesi başına en çok 3 deneme karesini onaysız üretebilir; tam üretim yalnız kartta maliyeti yazılı yön onayından sonra. 14 Kas kapısı (a) ve Astrid'in Kademe 2 kuralının **yalnız bu akış için** istisnası.
+- **v5 uyarlaması:** haftada 1 video kuralıyla 10 (Kortta bir sabah) 8 Ara'dan 19 Ara'ya taşındı, 15 (Pistte akşam) çıktı, 13 yalnız tek kare. Kesin liste 16 Kas havuz onayında.
+- **Nakit Motoru duraklatıldı** (`enabled: false`): MBOS/moda outreach'i 3 Kas'ta park edilmişti, görev hâlâ hafta içi her gün koşuyordu, defteri 19 Tem'den beri boştu. Görev dosyası duruyor; yeniden açma Ayhan kararı.
+- **Fox düzeltmesi:** `fox-durum.md` 12,9 KB'a şişmiş, oturum başında kesiliyordu → 6 KB tavanı + SessionStart boyut kapısı (red → kapı).
+
 ### SoC Satış Odağı — CloudOne + Marka Geneli (3 Kas, aynı gün revize)
 - **Karar (Ayhan):** "Vazgeçtim şimdilik, CloudOne ve markanın geneline odaklanalım." Moda Edisyonu (MBOS) outreach'i **park** — paketin Denetmen bulguları ve 5 açık karar kayıtlı kalır, ilerletilmez. Satış odağı = CloudOne çorap (B2C mağaza + B2B satış noktaları) + Steps On Clouds markasının geneli.
 
