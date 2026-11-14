@@ -4,7 +4,7 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 
 ## A · Protez sayfalarına görsel
 1. 🟡 Mikroişlemcili diz (11 Kas: 20190806_132607 sayfaya eklendi; Selim Bey + 20260211_130047 kaldı) — Selim Bey (1. görsel, dosya adı?) + 20190806_132607 + 20260211_130047
-2. ✅ Biyonik kol (13 Kas canlıda görüldü) — 20191020_111006
+2. ✅ Biyonik kol (Ayhan, 11 Kas — Biyonik Protezler + Dirsek Altı Biyonik El) — 20191020_111006
 3. Su protezleri — 20191115_235310
 4. Koşu protezleri — 20200210_204546
 5. Aktif vakum — 20201130_112001
@@ -18,18 +18,18 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 13. Dizaltı › Pasif — 20210607_223014
 14. Dizaltı › Silikon liner — ayrı bölüm metni
 15. ✅ (13 Kas) Değerlendirme ve ölçü — 20210617_115232
-16. ✅ Chopart (13 Kas canlıda görüldü) — 20260515_124019
+16. ✅ Chopart (Ayhan, 11 Kas) — 20260515_124019
 17. 🟡 (13 Kas: IMG_1012 sayfada, IMG_0978 blog yazısında) Pnömatik — IMG_0978 (renk aç) + IMG_1012 (ışık aç) + yazı
 18. Silikon parmak — IMG_6255 (logo ekle)
-19. Silikon ayak — IMG_20180714_093938_259
+19. ✅ (Ayhan, 13 Kas — Kişiye Özel Üretim Silikon Ayak sayfası) Silikon ayak — IMG_20180714_093938_259
 20. "1999'dan beri" — IMG_6840 (yeri?)
 21. Protez kategorilerine video (klasördeki 12 videodan seçim)
 
 ## B · Ortez sayfalarına görsel
 22. ✅ (13 Kas: 2 YZ kare + 20250819_154625, galeri) Ortezler — 20250819_154533 + 20250819_154625 (kız çocuğunun yüzü YZ ile değişecek)
-23. ✅ AFO/KAFO/DAFO ana görsel (13 Kas canlıda görüldü) — IMG_20181217_214639_943
-24. Uzun yürüme ortezleri — IMG_20180628_212538_652 + IMG_20210221_104144 (yüz YZ ile değişecek)
-25. 🟡 Kısa yürüme cihazı (20210627_104420 canlıda; IMG_20180817 görülmedi) — 20210627_104420 + IMG_20180817_110052_191
+23. ✅ AFO/KAFO/DAFO ana görsel (Ayhan, 11 Kas — görsel Ortezler sayfasında, AFO sayfasında değil) — IMG_20181217_214639_943
+24. 🟡 (Ayhan, 11 Kas: 212538_652 Ortezler sayfasında; 104144 yüzü değişmiş hali kullanılmadı) Uzun yürüme ortezleri — IMG_20180628_212538_652 + IMG_20210221_104144 (yüz YZ ile değişecek)
+25. ✅ (Ayhan, 11 Kas: 104420 Yürüme Cihazları'nda, 110052 AFO sayfasında — aynı kare soket hub'ında da var) Kısa yürüme cihazı — 20210627_104420 + IMG_20180817_110052_191
 26. RGO — 20210707_174447 (blog yazısına ✅ 11 Kas; ortez sayfası bekliyor)
 27. Skolyoz korseleri — IMG_20180517_192711_511 + IMG_20181021_114748_339
 28. Dinamik atel + humerus Sarmiento — IMG_20210304_204811
@@ -65,4 +65,5 @@ Bölüşüm: Ayhan her maddenin yanına **F** (Fox) / **A** (Ayhan) yazacak.
 - Blog kapak görselleri: PARK (Ayhan, 10 Kas)
 - 11 Kas: Güdük bandajlama yazısı yayında · RGO / Rotasyon / 3 mikroişlemcili yazısına görsel · 3 mikroişlemcili yazısına Yürüme Analizi videosu · Blog "All Posts" → "Tüm Yazılar" · Mikroişlemcili Biyonik sayfasına görsel bölümü
 - 11 Kas (devam): Aktif Vakum Sistemli Protez Çeşitleri yazısı yayında (20201130_125110) + aktif vakum iç linkleri
+- 14 Kas doğrulama: 156 canlı sayfa medya kimliğiyle tarandı (dosya adıyla değil — Wix adreste adı her zaman yazmıyor). Ayhan'ın kendi yaptıkları: 2, 16, 19, 23, 24 (kısmi), 25. Diğer açık maddelerin görselleri hiçbir canlı sayfada yok; 12 işçilik videosundan hiçbiri sitede değil (21).
 - 13 Kas tarama notu: canlı sayfalar dosya adına göre tarandı; ✅ = dosya adı sayfada bulundu. Görülmeyenler eklenmemiş YA DA farklı adla yüklenmiş olabilir.
