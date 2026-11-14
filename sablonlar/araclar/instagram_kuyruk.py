@@ -28,6 +28,9 @@ HAZIR = {"onaylandı", "zamanlandı", "yayında"}
 KARTTA = {"onay bekliyor", "deneme karelerinde"}
 PASIF = {"park", "çıkarıldı", "yedek"}
 
+GOREV_DURUMLARI = {"AKTİF", "KURU", "DURAKLADI"}
+BOLUMLER = {"sayaçlar", "slotlar", "kararlar", "heartbeat"}
+
 SUTUN_SAYISI = 12
 TIRE = {"—", "-", ""}
 VARSAYILAN_KUYRUK = Path(__file__).resolve().parents[2] / "raporlar" / "instagram-kuyruk.md"
@@ -88,13 +91,20 @@ def _tablo_satiri_mi(satir: str) -> bool:
 
 
 def oku(yol: Path) -> Kuyruk:
-    satirlar = Path(yol).read_text(encoding="utf-8").splitlines()
+    try:
+        satirlar = Path(yol).read_text(encoding="utf-8").splitlines()
+    except UnicodeDecodeError as e:
+        raise KuyrukHatasi(f"dosya UTF-8 değil ({e.reason}, bayt {e.start})")
     k = Kuyruk(gorev="?", sebep="", bakiye=None, donem_harcama=0)
     bolum = None
     baslik_gecti = False
+    gorulen = set()
     for no, satir in enumerate(satirlar, start=1):
         if satir.startswith("## "):
             bolum = satir[3:].strip().lower()
+            if bolum not in BOLUMLER:
+                raise KuyrukHatasi(f"satır {no}: bilinmeyen bölüm '{satir[3:].strip()}' (beklenen: Sayaçlar, Slotlar, Kararlar, Heartbeat)")
+            gorulen.add(bolum)
             baslik_gecti = False
             continue
         if bolum == "sayaçlar" and satir.startswith("- "):
@@ -107,6 +117,8 @@ def oku(yol: Path) -> Kuyruk:
                 ilk = deger.split()[0] if deger else "?"
                 k.bakiye = None if ilk == "?" else _int(ilk, no, "bakiye")
             elif anahtar == "dönem harcaması":
+                if not deger:
+                    raise KuyrukHatasi(f"satır {no}: dönem harcaması boş")
                 k.donem_harcama = _int(deger.split()[0], no, "dönem harcaması")
             continue
         if not _tablo_satiri_mi(satir):
@@ -142,6 +154,11 @@ def oku(yol: Path) -> Kuyruk:
             if len(h) < 3:
                 raise KuyrukHatasi(f"satır {no}: heartbeat satırı 3 sütun bekliyor")
             k.heartbeat.append((_tarih(h[0], no), h[1], h[2]))
+    eksik = BOLUMLER - gorulen
+    if eksik:
+        raise KuyrukHatasi(f"eksik bölüm: {', '.join(sorted(eksik))}")
+    if k.gorev not in GOREV_DURUMLARI:
+        raise KuyrukHatasi(f"görev satırı eksik ya da geçersiz: '{k.gorev}' (AKTİF, KURU ya da DURAKLADI olmalı)")
     return k
 
 
@@ -206,10 +223,17 @@ def ozet_satiri(k: Kuyruk, bugun: date) -> str:
     t = tampon_gun(k, bugun)
     bakiye = "bakiye bilinmiyor" if k.bakiye is None else f"bakiye {k.bakiye}"
     gorev = k.gorev + (f" ({k.sebep})" if k.gorev == "DURAKLADI" and k.sebep else "")
-    return (
+    satir = (
         f"Instagram: kartta {kartta} paket · tampon {t} gün ({tampon_bayrak(t)}) · "
         f"kredi {bakiye}, dönem harcaması {k.donem_harcama} · görev {gorev}"
     )
+    if k.heartbeat:
+        tarih, mod, ozet = k.heartbeat[-1]
+        if mod == "HATA":
+            satir += f" · son koşu HATA ({tarih.isoformat()})"
+        if "push başarısız" in ozet:
+            satir += f" · push başarısız ({tarih.isoformat()})"
+    return satir
 
 
 def main(argv=None) -> int:
@@ -220,7 +244,7 @@ def main(argv=None) -> int:
     a = p.parse_args(argv)
     try:
         k = oku(a.kuyruk)
-    except (KuyrukHatasi, OSError) as e:
+    except (KuyrukHatasi, OSError, ValueError, IndexError) as e:
         print(f"Instagram: kuyruk okunamadı — {e}")
         return 2
     if a.komut == "ozet":

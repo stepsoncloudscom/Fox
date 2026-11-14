@@ -83,13 +83,32 @@ def _video_hazirla(kaynak: Path, hedef_dizin: Path, esik: int):
     if not ffmpeg:
         return None
     hedef = hedef_dizin / (kaynak.stem + ".mp4")
-    r = subprocess.run(
-        [ffmpeg, "-y", "-loglevel", "error", "-i", str(kaynak), "-vf", "scale=-2:720",
-         "-c:v", "libx264", "-crf", "28", "-preset", "veryfast", "-pix_fmt", "yuv420p",
-         "-movflags", "+faststart", "-an", str(hedef)],
-        capture_output=True,
-    )
-    return hedef if r.returncode == 0 and hedef.exists() else None
+    temel = [ffmpeg, "-y", "-loglevel", "error", "-i", str(kaynak), "-vf", "scale=-2:720",
+             "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p", "-movflags", "+faststart", "-an"]
+    r = subprocess.run(temel + ["-crf", "28", str(hedef)], capture_output=True)
+    if r.returncode != 0 or not hedef.exists():
+        return None
+    if hedef.stat().st_size > esik:
+        # CRF çıktısı eşiği aştı: süreye göre bit hızıyla bir kez daha kodla (Artifact dosya sınırı).
+        sure = _sure_sn(kaynak)
+        if sure:
+            kbps = max(int(esik * 8 * 0.85 / sure / 1000), 50)
+            subprocess.run(temel + ["-b:v", f"{kbps}k", "-maxrate", f"{kbps}k", "-bufsize", f"{2 * kbps}k", str(hedef)],
+                           capture_output=True)
+    if hedef.exists() and hedef.stat().st_size <= esik:
+        return hedef
+    hedef.unlink(missing_ok=True)  # eşiği aşan önizleme asla bağlanmaz
+    return None
+
+
+def _sure_sn(video: Path):
+    ffprobe = shutil.which("ffprobe") or str(FFMPEG_YEDEK.with_name("ffprobe"))
+    try:
+        cikti = subprocess.run([ffprobe, "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(video)],
+                               capture_output=True, text=True, check=True).stdout.strip()
+        return float(cikti) if cikti else None
+    except (OSError, subprocess.CalledProcessError, ValueError):
+        return None
 
 
 def _metin_blogu(baslik: str, yol: Path) -> str:

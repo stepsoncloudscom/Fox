@@ -16,7 +16,7 @@ Fox bu oturumda **yayınlamaz ve zamanlamaz** — yayın tuşu Ayhan'da (Kademe 
    | Ayhan der | Kararlar satırı | Durum |
    |---|---|---|
    | Onay (yayın kartı) | `onay` | `onaylandı` |
-   | Onay (deneme kartı, Yön onayı) | `yön onayı` — not: kartta yazan tam üretim maliyeti | `üretimde` |
+   | Onay (deneme kartı, Yön onayı) | `yön onayı` — not **mutlaka** `tavan N` ile başlar (kartta yazan tam üretim maliyeti; 1080p yeniden üretim onaylandıysa "1080p üretim, tavan N"). Tavansız satırla perşembe görevi üretmez. | `üretimde` |
    | Revize + not | `revize` — not: Ayhan'ın sözü | `revize`, tur +1; tur 3 olursa `park` ve slot yedekten dolar |
    | Çıkar | `çıkar` | `çıkarıldı` |
 5. **Zamanlama.** Ayhan onaylananları Meta Business Suite'te (bu Mac'in tarayıcısı) zamanlar. Paket klasörü: `~/Desktop/Steps On Clouds/Design /Instagram/Paketler/<slot>_<madde>/`. Her zamanlanan için `zamanlandı` kararı + durum `zamanlandı`.

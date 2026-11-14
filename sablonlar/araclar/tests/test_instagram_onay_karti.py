@@ -98,10 +98,11 @@ class OnayKartiTestleri(unittest.TestCase):
              "-t", "3", "-pix_fmt", "yuv420p", str(p / "klip.mp4")],
             check=True,
         )
-        html = self.uret([satir("2026-11-26", "05", "onay bekliyor", "a_05", video="evet")], video_esik_bayt=1)
+        esik = (p / "klip.mp4").stat().st_size - 1  # kaynak eşiğin üstünde → dönüştürme yolu
+        html = self.uret([satir("2026-11-26", "05", "onay bekliyor", "a_05", video="evet")], video_esik_bayt=esik)
         onizleme = self.cikti / "medya" / "05" / "klip.mp4"
         self.assertTrue(onizleme.exists())
-        self.assertLess(onizleme.stat().st_size, 15 * 1024 * 1024)
+        self.assertLessEqual(onizleme.stat().st_size, esik)
         self.assertIn('src="medya/05/klip.mp4"', html)
         yukseklik = subprocess.run(
             ["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=height",
@@ -109,6 +110,23 @@ class OnayKartiTestleri(unittest.TestCase):
             capture_output=True, text=True,
         ).stdout.strip() if shutil.which("ffprobe") else "720"
         self.assertEqual(yukseklik, "720")
+
+    @unittest.skipUnless(shutil.which("ffmpeg"), "ffmpeg yok")
+    def test_onizleme_esigi_asmaz(self):
+        # Son denetim: dönüştürülmüş önizleme de eşiği aşabiliyordu. Eşiği aşan dosya asla bağlanmaz.
+        p = self.paket("a_08", gorsel=False)
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", "testsrc2=size=1080x1920:rate=30",
+             "-f", "lavfi", "-i", "anoisesrc=d=4", "-t", "4", "-pix_fmt", "yuv420p", "-shortest", str(p / "konusma.mp4")],
+            check=True,
+        )
+        esik = 60_000
+        html = self.uret([satir("2026-12-03", "08", "onay bekliyor", "a_08", video="evet")], video_esik_bayt=esik)
+        onizleme = self.cikti / "medya" / "08" / "konusma.mp4"
+        if 'src="medya/08/konusma.mp4"' in html:
+            self.assertLessEqual(onizleme.stat().st_size, esik)
+        else:
+            self.assertIn("video önizlemesi üretilemedi", html)
 
     def test_html_tema_ve_baslik(self):
         self.paket("a_04")

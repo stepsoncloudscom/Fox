@@ -157,6 +157,40 @@ class KuyrukTestleri(unittest.TestCase):
         with self.assertRaisesRegex(KuyrukHatasi, r"satır \d+: 12 sütun bekleniyor"):
             oku(yol)
 
+    # --- son denetim düzeltmeleri: bozulma 2 ile çıkar ---
+    def test_bos_donem_harcamasi(self):
+        yol = self.yaz(kuyruk_metni(TEMEL).replace("- dönem harcaması: 0", "- dönem harcaması:"))
+        with self.assertRaisesRegex(KuyrukHatasi, r"satır \d+: dönem harcaması"):
+            oku(yol)
+
+    def test_eksik_bolum(self):
+        yol = self.yaz(kuyruk_metni(TEMEL).replace("## Slotlar\n", "## Slotlar (güncel)\n"))
+        with self.assertRaisesRegex(KuyrukHatasi, r"bölüm"):
+            oku(yol)
+
+    def test_gorev_satiri_eksik_ya_da_gecersiz(self):
+        with self.assertRaisesRegex(KuyrukHatasi, r"görev"):
+            oku(self.yaz(kuyruk_metni(TEMEL).replace("- görev: AKTİF — \n", "")))
+        with self.assertRaisesRegex(KuyrukHatasi, r"görev"):
+            oku(self.yaz(kuyruk_metni(TEMEL, gorev="ÇALIŞIYOR — ")))
+
+    def test_cli_utf8_olmayan_dosya_2(self):
+        yol = Path(self.dizin.name) / "latin.md"
+        yol.write_bytes(kuyruk_metni(TEMEL).encode("utf-8").replace("Sayaçlar".encode("utf-8"), "Saya\xe7lar".encode("latin-1")))
+        self.assertEqual(self.cli("denetle", "--kuyruk", str(yol)).returncode, 2)
+
+    # --- son denetim düzeltmeleri: son koşunun hatası brifinge çıkar ---
+    def test_ozet_son_kosu_hata(self):
+        k = self.kuyruk(TEMEL, heartbeat="| 2026-11-12 | kurulum | ilk |\n| 2026-11-19 | HATA | kuyruk okunamadı |\n")
+        self.assertIn("son koşu HATA (2026-11-19)", ozet_satiri(k, date(2026, 11, 20)))
+
+    def test_ozet_push_basarisiz(self):
+        k = self.kuyruk(TEMEL, heartbeat="| 2026-11-19 | AKTİF | 3 paket · push başarısız |\n")
+        self.assertIn("push başarısız (2026-11-19)", ozet_satiri(k, date(2026, 11, 20)))
+
+    def test_ozet_temiz_kosuda_ek_yok(self):
+        self.assertNotIn("son koşu", ozet_satiri(self.kuyruk(TEMEL), date(2026, 11, 16)))
+
     # --- özet ---
     def test_bakiye_bilinmiyor(self):
         k = self.kuyruk(TEMEL, bakiye="? (2026-11-19)")
