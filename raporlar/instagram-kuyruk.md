@@ -2,7 +2,7 @@
 *Tek doğruluk kaynağı. Tasarım: `raporlar/tasarim-instagram-haftalik-dongu-2026-11-14.md` · Araç: `sablonlar/araclar/instagram_kuyruk.py` (ozet · denetle · durum) · Pazartesi protokolü: `sablonlar/instagram-pazartesi-oturumu.md`. Kurallar: haftada 3 gönderi, taban 2, en çok 1 video · paket kökü `~/Desktop/Steps On Clouds/Design /Instagram/Paketler/`.*
 
 ## Sayaçlar
-- görev: KURU — kuru koşu bekleniyor
+- görev: AKTİF — kuru koşu geçti (14 Kas)
 - bakiye: 623 (2026-11-14)
 - dönem harcaması: 0
 

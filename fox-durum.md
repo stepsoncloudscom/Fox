@@ -4,7 +4,7 @@
 ## AKTİF CEPHELER
 | Cephe | Durum | Sıradaki adım | Kimde |
 |---|---|---|---|
-| **SoC Instagram — haftalık döngü** | Tasarım onaylı (14 Kas): haftada 3 gönderi, en çok 1 video, 1080p, perşembe 10:00 otomatik hazırlık, pazartesi onay. Kurulum sürüyor. Kuyruk `raporlar/instagram-kuyruk.md` · protokol `sablonlar/instagram-pazartesi-oturumu.md` | 16 Kas ilk oturum: K0/K4/K8/K10 + havuz onayı + T0 Insights | Ayhan |
+| **SoC Instagram — haftalık döngü** | Tasarım onaylı (14 Kas): haftada 3 gönderi, en çok 1 video, 1080p, perşembe 10:00 otomatik hazırlık (görev AKTİF, kuru koşu geçti), pazartesi onay. Hafta 1–2'nin 6 paketi kartta (claude.ai/artifact/GG6rR13BmB4SgW8nic7qyA). Kuyruk `raporlar/instagram-kuyruk.md` · protokol `sablonlar/instagram-pazartesi-oturumu.md` | 16 Kas ilk oturum: K0/K4/K8/K10 + havuz onayı + yüz şartları + 05 (öneri B) + yorumlara kim cevap verir + T0 Insights | Ayhan |
 | **Steps On Clouds — satış** | Odak CloudOne + marka (3 Kas). Growth Sprint S1–S5 açık (`raporlar/soc-growth-sprint-2026-11.md`): sipariş/stok T0 yok, ürün SEO'da "550 TL", iade 15/7 çelişkisi | K0 — Instagram'ın önkoşulu | Ayhan |
 | **Özgür Irmak — site/SEO** | 78 blog + statik sayfalar canlı; haftalık SEO oto-kontrol (Pzt 09:00). Darboğaz tıklanma (3 Kas turu) | Soket görselleri (Ayhan) · GA4 → snippet onarımı · açık teyitler: `raporlar/ozgur-irmak-site-gorsel-icerik-is-listesi-2026-11-09.md` | Ayhan |
 | **Red Lions — Wix sitesi** | Tasarım v01, yayında değil; takvim/kadro blokları hazır. Shop 14 Kas'ta kaldırıldı (menü + sepet + mağaza sayfaları) | Eğitim tarihleri + bölüm sırası + kare seçimi · yayın öncesi sporcu KVKK rızası | Ayhan / Fox |
