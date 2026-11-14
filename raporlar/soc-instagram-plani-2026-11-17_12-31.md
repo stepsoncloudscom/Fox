@@ -25,6 +25,7 @@
 
 ### 2.1 · Görsel dil ve Higgsfield kuralları
 
+- **Spor çizgisi (senin 14 Kas notun).** CloudOne atletik bir çorap. Styling sporda kalır: sneaker, şort, kort, pist, soyunma odası. Referans evren Puma, Nike, Adidas, On, Lululemon. Loafer ve kumaş pantolonlu ikinci tur bu yüzden reddedildi; bu belgede o turdan kalan "loafer" ve "lacivert pantolon" tarifleri geçersiz, sahneler spor diliyle yeniden yazılacak.
 - **High fashion, temiz estetik (senin 14 Kas notun).** Tertemiz ürün, sade mimari, dar palet: beyaz, açık taş, koyu mavi, çoraptaki turkuaz. Kirli çorap, dökük duvar, eskimiş ayakkabı yok. İlk deneme turu bu yüzden reddedildi. Gerçekçilik ışıktan, kumaştan ve film greninden gelir. Lo-fi dil marka hesabının ana dili değil; yalnız senin konuşmanda (08) kalıyor.
 - **Logo yakın planda tutmuyor.** İki deneme turunda da logonun kareyi doldurduğu ya da nesnenin kurgulandığı sahnelerde dokuma logo yeniden çizildi. Logo küçük kaldığında tutuyor. Yakın plan ürün kareleri gerçek fotoğraftan gelir.
 
