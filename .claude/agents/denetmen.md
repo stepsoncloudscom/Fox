@@ -97,7 +97,7 @@ Sorulması gereken ama sorulmayan soru var mı? Görünmez varsayım var mı?
 
 **İnsan Sesi** *(9. mercek — 8 Ağu 2026'da eklendi; prosa içeren HER çıktıda zorunlu)*
 Bu metin okuyucuya "yapay zekâ yazmış" gibi gelir mi? Dilbilgisi doğru, KKK uyumlu ve klişesiz bir metin bu testten yine de kalabilir — tell **cümle mimarisindedir.**
-*Zorunlu ölçüm:* `python3 sablonlar/araclar/sozdizim_tarama.py <dosya>` → **SERT bulgu = otomatik geri gönderme.** Ölçü tablosu ve kalibrasyon: `fox-metin-insan-sesi-korpusu.md`.
+*Zorunlu ölçüm:* `python3 sablonlar/araclar/sozdizim_tarama.py <dosya>` (çok bölümlü dosyada `--bolum "Caption (TR)"` gibi yalnız prosa bölümü — alt metin karışınca yanlış SERT verir) → **SERT bulgu = otomatik geri gönderme.** **Çıkış 3 = ÖLÇÜLEMEDİ** (kısa ya da bölüm yok): temiz değildir, metni kulakla oku ve raporda "ölçülemedi" yaz. Ölçü tablosu ve kalibrasyon: `fox-metin-insan-sesi-korpusu.md`.
 *Sokratik ön-süzgeç:* "AI gibi mi?" sorusundan önce — **bu metnin somut malzemesi var mıydı?** Soyutluk çoğu zaman bir üslup tercihi değil, doldurulmamış bir brif açığının üstünün örtülmesidir. Malzeme eksikse doğru bulgu "kötü yazılmış" değil, **"eksik olgu listesi müşteriye gitmeliydi"**dir.
 *Neden eklendi:* Özgür Irmak Protez Hakkımızda v0.5 bu denetimden **onaylı** geçti; müşteri "yapay zekâya mı yazdırdın" dedi. Denetim zinciri açığı yakalayamadıysa mercek de güncellenir (yerleşik kural).
 

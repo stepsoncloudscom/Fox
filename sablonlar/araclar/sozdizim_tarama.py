@@ -17,8 +17,11 @@ Kullanım:
     python3 sozdizim_tarama.py dosya.md [dosya2.txt ...]
     python3 sozdizim_tarama.py raporlar/            # klasör tarar
     python3 sozdizim_tarama.py --json dosya.md      # makine okunur çıktı
+    python3 sozdizim_tarama.py --bolum "Caption (TR)" paket/metin.md   # yalnız o başlığın altını ölç
 
-Çıkış kodu: 0 = temiz · 1 = en az bir SERT eşik aşıldı · 2 = yalnız uyarı.
+Çıkış kodu: 0 = temiz · 1 = en az bir SERT eşik aşıldı · 2 = yalnız uyarı ·
+3 = en az bir metin ÖLÇÜLEMEDİ (60 kelime / 5 cümle tabanının altında ya da --bolum bulunamadı)
+ve SERT/uyarı yok. 3 "temiz" DEĞİLDİR — kısa metin kulakla okunur. (Kapı: 14 Kas 2026, Denetmen'in 3. kaydı.)
 
 ÖNEMLİ — ölçünün statüsü (Tip A/B kanıt kuralı):
 Buradaki eşikler DIŞ KAYNAKLI BENCHMARK DEĞİLDİR. Marka Bulutu OS'un kendi
@@ -170,14 +173,46 @@ def bul(metin: str, desenler):
     return vurus
 
 
-def analiz(dosya: Path):
+OLCUM_TABANI_KELIME = 60
+OLCUM_TABANI_CUMLE = 5
+
+
+def bolum_metni(ham: str, ad: str):
+    """`## <ad>` başlığının altındaki metni, aynı ya da üst seviyedeki bir sonraki başlığa kadar döndürür.
+    Bulunamazsa None. (14 Kas 2026: caption'a alt metin karışınca ölçü yanlış SERT veriyordu.)"""
+    satirlar = ham.splitlines()
+    hedef = ad.strip().lower()
+    for i, satir in enumerate(satirlar):
+        es = re.match(r"^(#{1,6})\s+(.*?)\s*$", satir)
+        if es and es.group(2).strip().lower() == hedef:
+            seviye = len(es.group(1))
+            govde = []
+            for sonraki in satirlar[i + 1:]:
+                es2 = re.match(r"^(#{1,6})\s", sonraki)
+                if es2 and len(es2.group(1)) <= seviye:
+                    break
+                govde.append(sonraki)
+            return "\n".join(govde)
+    return None
+
+
+def analiz(dosya: Path, bolum: str = None):
     ham = dosya.read_text(encoding="utf-8")
+    if bolum is not None:
+        secilen = bolum_metni(ham, bolum)
+        if secilen is None:
+            return {"dosya": str(dosya), "bolum": bolum, "olculemedi": True, "neden": "bölüm bulunamadı",
+                    "kelime": 0, "cumle": 0}
+        ham = secilen
     metin = govde_metni(ham)
     paras = paragraflar(metin)
     cums = cumleler(" ".join(paras))
     kelime_sayisi = sum(len(c.split()) for c in cums)
-    if kelime_sayisi < 60 or len(cums) < 5:
-        return None  # ölçüm için çok kısa
+    if kelime_sayisi < OLCUM_TABANI_KELIME or len(cums) < OLCUM_TABANI_CUMLE:
+        # Eskiden None dönüp sessizce atlanıyordu ve çıkış 0 "temiz" gibi okunuyordu.
+        ham_kelime = len(govde_metni(ham).split())
+        return {"dosya": str(dosya), "bolum": bolum, "olculemedi": True, "neden": "kısa",
+                "kelime": ham_kelime, "cumle": len(cumleler(govde_metni(ham)))}
 
     uzunluklar = [len(c.split()) for c in cums]
     ort = statistics.mean(uzunluklar)
@@ -218,6 +253,8 @@ def analiz(dosya: Path):
 
     return {
         "dosya": str(dosya),
+        "bolum": bolum,
+        "olculemedi": False,
         "kelime": kelime_sayisi,
         "cumle": len(cums),
         "paragraf": len(paras),
@@ -283,6 +320,14 @@ def degerlendir(sonuc):
 def main():
     argv = [a for a in sys.argv[1:] if a != "--json"]
     json_cikti = "--json" in sys.argv
+    bolum = None
+    if "--bolum" in argv:
+        i = argv.index("--bolum")
+        if i + 1 >= len(argv):
+            print("⚠️  --bolum bir başlık adı ister, ör. --bolum \"Caption (TR)\"", file=sys.stderr)
+            sys.exit(2)
+        bolum = argv[i + 1]
+        del argv[i:i + 2]
     if not argv:
         print(__doc__)
         sys.exit(0)
@@ -297,16 +342,27 @@ def main():
         else:
             print(f"⚠️  bulunamadı: {arg}", file=sys.stderr)
 
-    sert_var = uyari_var = False
+    sert_var = uyari_var = olculemedi_var = False
     toplu = []
 
     for dosya in dosyalar:
         try:
-            sonuc = analiz(dosya)
+            sonuc = analiz(dosya, bolum)
         except (UnicodeDecodeError, OSError) as e:
             print(f"⚠️  okunamadı: {dosya} ({e})", file=sys.stderr)
+            olculemedi_var = True
             continue
-        if sonuc is None:
+        if sonuc["olculemedi"]:
+            olculemedi_var = True
+            toplu.append(sonuc)
+            if not json_cikti:
+                etiket = f" [{bolum}]" if bolum else ""
+                if sonuc["neden"] == "bölüm bulunamadı":
+                    print(f"\n📄 {dosya}{etiket}\n   ⚪ ÖLÇÜLEMEDİ — bölüm bulunamadı: \"{bolum}\"")
+                else:
+                    print(f"\n📄 {dosya}{etiket}\n   ⚪ ÖLÇÜLEMEDİ — kısa ({sonuc['kelime']} kelime, {sonuc['cumle']} cümle; "
+                          f"taban {OLCUM_TABANI_KELIME} kelime / {OLCUM_TABANI_CUMLE} cümle). "
+                          f"Temiz sayılmaz — kulakla oku.")
             continue
         bulgular = degerlendir(sonuc)
         sonuc["bulgular"] = [
@@ -316,7 +372,7 @@ def main():
         if json_cikti:
             continue
 
-        print(f"\n📄 {dosya}")
+        print(f"\n📄 {dosya}" + (f" [{bolum}]" if bolum else ""))
         print(f"   {sonuc['kelime']} kelime · {sonuc['cumle']} cümle · "
               f"{sonuc['paragraf']} paragraf · ort. cümle {sonuc['ortalama_cumle_kelime']} kelime")
         if not bulgular:
@@ -340,7 +396,9 @@ def main():
 
     if sert_var:
         sys.exit(1)
-    sys.exit(2 if uyari_var else 0)
+    if uyari_var:
+        sys.exit(2)
+    sys.exit(3 if olculemedi_var else 0)
 
 
 if __name__ == "__main__":

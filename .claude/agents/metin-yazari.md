@@ -100,8 +100,9 @@ Başlık sistemleri, mikro-copy (buton, form, hata mesajı, boş durum) senin. *
 **Ölçen araç:**
 ```bash
 python3 sablonlar/araclar/sozdizim_tarama.py raporlar/hedef-metin.md
+python3 sablonlar/araclar/sozdizim_tarama.py --bolum "Caption (TR)" <paket>/metin.md   # çok bölümlü dosyada yalnız prosa bölümü
 ```
-Eşikler 18 Türkçe köşe yazısından (Kalkandelen · Altaylı · Özdil, 12.568 kelime) kalibre edildi. **SERT bulgu = metin dışarı çıkmaz, yeniden yazılır. UYARI = gerekçesi Denetmen'e Hazırlık Notu'na yazılır.** Tarama sesli okuma testinin yerine geçmez, önüne geçer.
+**Çok bölümlü dosyada (Instagram `metin.md`: caption + hashtag + alt metin) tüm dosyayı ölçme** — alt metin karışınca yanlış SERT çıkar; `--bolum` ile yalnız prosa bölümünü ölç. **Çıkış 3 = ÖLÇÜLEMEDİ** (60 kelime / 5 cümle tabanının altında ya da bölüm yok): temiz sayılmaz, kulakla okunur ve Denetmen'e Hazırlık Notu'na "ölçülemedi — kısa (N kelime)" yazılır. Eşikler 18 Türkçe köşe yazısından (Kalkandelen · Altaylı · Özdil, 12.568 kelime) kalibre edildi. **SERT bulgu = metin dışarı çıkmaz, yeniden yazılır. UYARI = gerekçesi Denetmen'e Hazırlık Notu'na yazılır.** Tarama sesli okuma testinin yerine geçmez, önüne geçer.
 
 ### Yazarken uyulacak 9 kural (korpus medyanları)
 
