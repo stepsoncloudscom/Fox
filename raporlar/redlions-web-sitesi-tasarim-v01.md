@@ -155,9 +155,11 @@ Kademe adları ve zon eşleşmesi Fox'un sponsorluk görüşmesinden çıkardı�
 - Mobil: dikey düzen, tekne üstte, paketler altta.
 
 ### 9.3 Bireyler
-- "Takımın ürünlerini giy, takımı taşı" türünde kısa bölüm → **Shop**. Bağış dili yok.
+- "Takımın ürünlerini giy, takımı taşı" türünde kısa bölüm → **Shop**. Bağış dili yok. *(14 Kas: Shop kaldırıldı — bu bölüm sitede hiç kurulmamıştı, kurulmayacak.)*
 
-## 10 · Shop [Ayhan: şimdilik şablon]
+## 10 · Shop [KALDIRILDI — 14 Kas 2026]
+> **14 Kas 2026 — Shop kaldırıldı (Ayhan kararı).** Menüden SHOP, header'dan sepet ikonu ve Wix Stores'un site sayfaları (ürün, kategori, sepet, teşekkür) editörden silindi. Aşağıdaki Shop maddeleri geçersizdir; kayıt için duruyor. Wix Stores API'de hâlâ kurulu görünüyor — panel tarafı Ayhan'da.
+
 - Wix Stores, kurgusal yer tutucu ürünlerle iskelet (örn. tişört, şapka, buff — isim/görsel yer tutucu, fiyat yer tutucu).
 - **Satın alma kapalı** ta ki ödeme Ayhan/Hüseyin tarafından bağlanana kadar (Kademe 3). Ürünler "yakında" durumunda ya da sayfa gizli; kurucu Wix'te en temiz yolu seçer.
 - Gerçek ürünler, üretici ve fiyatlar **[Açık]** — Ayhan sonra.
