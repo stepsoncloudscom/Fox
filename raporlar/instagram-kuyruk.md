@@ -38,3 +38,4 @@
 | tarih | mod | özet |
 |---|---|---|
 | 2026-11-14 | kurulum | kuyruk oluşturuldu |
+| 2026-11-14 | kurulum | 1080p yolu: video_upscale (onaylı 720p klip → 1080p, tahmin 2 kredi; generate cost bazı işlerde güvenilmez, gerçek maliyet ilk işte transactions ile doğrulanacak) · alternatif topaz_video, bytedance_video_upscale |
