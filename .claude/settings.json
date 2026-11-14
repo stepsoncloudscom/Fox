@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "cd /Users/ayhanerden/Fox && git pull --ff-only origin main 2>/dev/null || true; echo '=== FOX HAFIZA (GitHub çekildi + otomatik yüklendi) — önce bunu oku, detayları haritadan lazım oldukça çek ==='; cat /Users/ayhanerden/Fox/fox-durum.md"
+            "command": "cd /Users/ayhanerden/Fox && git pull --ff-only origin main 2>/dev/null || true; bash /Users/ayhanerden/Fox/.claude/hooks/fox-durum-boyut.sh /Users/ayhanerden/Fox/fox-durum.md; echo '=== FOX HAFIZA (GitHub çekildi + otomatik yüklendi) — önce bunu oku, detayları haritadan lazım oldukça çek ==='; cat /Users/ayhanerden/Fox/fox-durum.md"
           }
         ]
       }
