@@ -46,6 +46,10 @@
 
 ---
 
+### 2.2 · Onaylanan video adayları (14 Kas)
+
+Ayhan'ın "kalsın" dediği geniş açı lifestyle videolar: **bank** (bağcık, kalkış), **file kenarı** (top toplama), **kort kapısı** (çantayı bırakma; arka plan klip içinde kayıyor, Ayhan bu haliyle kabul etti). Öncesinde tercih ettiği iki video: **servis hazırlığı** ve **pist kenarında esneme** (bileklik süreklilik hatası Denetmen notunda). Hepsi 720p aday; yayın sürümü 1080p'de yeniden üretilecekse klip başına yaklaşık 80 kredi. Sesleri dinlenmedi.
+
 ## 3 · Senden önce gereken kararlar
 
 Planı bunlar kapanmadan da onaylayabilirsin. Yanında yazan maddeler bu cevaplara bağlı.
