@@ -1,0 +1,40 @@
+# Instagram Kuyruğu — @stepsoncloudscom
+*Tek doğruluk kaynağı. Tasarım: `raporlar/tasarim-instagram-haftalik-dongu-2026-11-14.md` · Araç: `sablonlar/araclar/instagram_kuyruk.py` (ozet · denetle · durum) · Pazartesi protokolü: `sablonlar/instagram-pazartesi-oturumu.md`. Kurallar: haftada 3 gönderi, taban 2, en çok 1 video · paket kökü `~/Desktop/Steps On Clouds/Design /Instagram/Paketler/`.*
+
+## Sayaçlar
+- görev: KURU — kuru koşu bekleniyor
+- bakiye: 623 (2026-11-14)
+- dönem harcaması: 0
+
+## Slotlar
+| slot | saat | madde | başlık | hat | yol | video | durum | tur | kredi | paket | not |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-11-19 | 19:00 | 01 | Kort | ürün | arşiv | hayır | havuzda | 0 | 0 | — | K0, K4 · kaydırmalı 5 kare (Steps On Mela) |
+| 2026-11-21 | 19:00 | 02 | CloudOne nedir | satış | arşiv | hayır | havuzda | 0 | 0 | — | K0, K4, K10 · kaydırmalı 5 kare, son karede fiyat + bio linki |
+| 2026-11-22 | 19:00 | 03 | Çorabı çeken eller | marka | arşiv | hayır | havuzda | 0 | 0 | — | İ — 16 Kas havuz onayına bağlı · K4 · tek fotoğraf |
+| 2026-11-24 | 19:00 | 04 | İLK ADIMI ÖĞRETENE | özel gün | Higgsfield | hayır | havuzda | 0 | 0 | — | Öğretmenler Günü · K4, başlık onayı · 14 Kas taslakları |
+| 2026-11-26 | 19:00 | 05 | Antrenman öncesi | ürün | Higgsfield | evet | havuzda | 0 | 0 | — | K4, K8 · Reels 3 plan · 1080p 3 klip × 80 = ~240 kredi |
+| 2026-11-28 | 19:00 | 06 | İpte | marka | Higgsfield | hayır | havuzda | 0 | 0 | — | K4 · aday kare hazır |
+| 2026-12-02 | 19:00 | 07 | Yarın kurmayacağımız cümleler | özel gün | tipografik | hayır | havuzda | 0 | 0 | — | 3 Aralık hazırlığı · K12 · BM teması gözle teyit |
+| 2026-12-03 | 19:00 | 08 | Ayhan'ın sesi | özel gün | gerçek çekim | evet | havuzda | 0 | 0 | — | Dünya Engelliler Günü · K2, K9 · konuşmayı Ayhan onaylar |
+| 2026-12-06 | 19:00 | 09 | Tekneden | marka | arşiv | hayır | havuzda | 0 | 0 | — | İ — 16 Kas havuz onayına bağlı · K11 · Denetmen çıkarılsın diyor |
+| 2026-12-10 | 19:00 | 11 | 20 yıl | özel gün | orijinal+tipografik | hayır | havuzda | 0 | 0 | — | İnsan Hakları Günü · taslak hazır · metin Denetmen'de |
+| 2026-12-12 | 19:00 | 12 | Paket | satış | gerçek çekim | evet | havuzda | 0 | 0 | — | K2, K7 · son sipariş tarihi |
+| 2026-12-15 | 19:00 | 13 | Nerede yapılıyor | özel gün | tipografik | hayır | havuzda | 0 | 0 | — | Yerli Malı Haftası · K6 · yalnız tek kare (haftada 1 video) |
+| 2026-12-17 | 19:00 | 14 | Korttan sokağa | ürün | arşiv | hayır | havuzda | 0 | 0 | — | K4 · kaydırmalı 4–5 kare |
+| 2026-12-19 | 19:00 | 10 | Kortta bir sabah | ürün | Higgsfield | evet | havuzda | 0 | 0 | — | v5'te 8 Ara idi (haftada 1 video) · K4, K8 |
+| 2026-12-21 | 19:00 | 16 | Yeni yılın ilk adımı | satış | Higgsfield | evet | havuzda | 0 | 0 | — | Yılbaşı · K4, K7, K8 |
+| 2026-12-23 | 19:00 | 17 | Giyenden | ürün | davetli | hayır | havuzda | 0 | 0 | — | İ — 16 Kas havuz onayına bağlı · yalnız fotoğraf; video gelirse 28 Ara haftası · davet 24 Kas |
+| 2026-12-25 | 19:00 | 18 | Take a Step Into The Sky | özel gün | Higgsfield | hayır | havuzda | 0 | 0 | — | Christmas · İngilizce · K4, K7 |
+| 2026-12-29 | 19:00 | 19 | 2026'dan | marka | arşiv | hayır | havuzda | 0 | 0 | — | İ — 16 Kas havuz onayına bağlı · katılımcı rızası |
+| 2026-12-31 | 19:00 | 20 | Yarın yine yoldayız | marka | Higgsfield | hayır | havuzda | 0 | 0 | — | İ — 16 Kas havuz onayına bağlı · K4 |
+| — | — | 15 | Pistte akşam | marka | Higgsfield | evet | çıkarıldı | 0 | 0 | — | haftada 1 video — 10 bu slota taşındı (tasarım §6) |
+
+## Kararlar
+| tarih | madde | karar | not |
+|---|---|---|---|
+
+## Heartbeat
+| tarih | mod | özet |
+|---|---|---|
+| 2026-11-14 | kurulum | kuyruk oluşturuldu |
