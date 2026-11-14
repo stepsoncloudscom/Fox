@@ -5,8 +5,8 @@ fr=[
  ("top","“KUTLU<br>OLSUN”",233,"Bugün haklar konuşulur.<br>Kimsenin tebrik edilecek bir durumu yok.",True),
  ("top","“HEPİMİZ<br>ENGELLİ<br>ADAYIYIZ”",144,"Eşitlik, “bir gün bana da olur”<br>diye istenmez.",True),
  ("top","“SEVGİ HER<br>ENGELİ AŞAR”",144,"Merdiveni sevgi kaldırmaz.<br>Rampa yapılır.",True),
- ("top","“BUNA RAĞMEN<br>ÇOK İYİSİN”",144,"“Rağmen”i çıkar.<br>Cümle yine doğru.",True),
- ("bottom","2026:<br>SÖZLEŞME'NİN<br>20. YILI",144,"13 Aralık 2006 – 13 Aralık 2026",False),
+ ("top","“BUNA RAĞMEN<br>ÇOK İYİSİN”",144,"“Buna rağmen”i çıkar.<br>Cümle yine doğru.",True),
+ ("bottom","3 ARALIK",233,"Dünya Engelliler Günü.<br>Yarın bu dört cümle bizde yok.",False),
 ]
 css=f"""@font-face{{font-family:Bebas;src:url(file://{F}/BebasNeue-Regular.ttf)}}
 @font-face{{font-family:Comf;src:url(file://{F}/Comfortaa-Regular.ttf)}}
