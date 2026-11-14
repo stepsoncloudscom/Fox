@@ -54,7 +54,7 @@ Fox'un önerip Ayhan'ın itiraz etmediği çerçeve: kuyrukta 2 haftalık onayl�
 
 - **Kademe:** üretim/denetim Kademe 1 · onay ve zamanlama Kademe 2 (Ayhan) · Fox hiçbir hesaba giriş/şifre girmez.
 - **Kredi kuralı** (memory `kredi-harcayan-uretim-ayhan-yapar`): varsayılan Fox başlatmaz. Bu tasarımda iş bazında iki açık izin var: (a) madde başına en çok 3 deneme karesi, onaysız (Ayhan, 14 Kas); (b) tam üretim yalnız kartta maliyeti yazılmış yön onayından sonra. Bu, 14 Kas kapısı (a) ve Astrid'in "kredi harcayan her adım Kademe 2" kuralının **yalnız bu akış için** istisnasıdır; başka işte geçmez.
-- **Görsel kurallar:** v5 §2.1 aynen (spor çizgisi, geniş açı tam boy, yüz yok, engellilik temalı içerikte YZ insan yok, logo yakın planda gerçek fotoğraftan, gerçek ürün referansı, YZ etiketi K8'e göre).
+- **Görsel kurallar:** v5 §2.1 aynen (spor çizgisi, geniş açı tam boy, üretilmiş yüz görünebilir — Ayhan 14 Kas "Evet, görünsün"; şartlar: kameraya bakan portre yok, YZ etiketi, gerçek kullanıcı gibi sunulmaz — engellilik temalı içerikte YZ insan yok, logo yakın planda gerçek fotoğraftan, gerçek ürün referansı, YZ etiketi K8'e göre).
 - **Kaynak dengesi** (memory `soc-orijinal-yz-dengesi`, `redlions-arsiv-yalniz-soc-gorunen`): orijinaller `Görseller/` altından; `Yapay Zeka Görselleri` tekrar girdi olmaz; Red Lions'tan yalnız SoC görünen kare.
 - **Dil:** Türkçe glyph kontrolü (İ/ı/ğ/ş), `sozdizim_tarama.py` + `slop_tarama.py` her metinde.
 - **Denetmen:** her paket Denetmen'den geçer. DUR alan paket karta çıkmaz.

@@ -33,7 +33,7 @@
 - **Logo yakın planda tutmuyor.** İki deneme turunda da logonun kareyi doldurduğu ya da nesnenin kurgulandığı sahnelerde dokuma logo yeniden çizildi. Logo küçük kaldığında tutuyor. Yakın plan ürün kareleri gerçek fotoğraftan gelir.
 
 - **Referans gerçek ürün.** Her üretimde `Steps On Mela` ve stüdyo karelerinden gerçek çorap referans verilir. Dokuma logo, konç boyu ya da kaburga gerçeğinden sapan kare elenir. Müşteri sitede gördüğü çorabı eline almalı.
-- **Yüz yok.** Üretilen karelerde yalnız diz altı, el, eşya. Bu hem senin kilitli örüntün (anti-portre) hem de YZ'nin en çok ele verdiği yer.
+- **Yüz — güncellendi (14 Kas, Ayhan: "Evet, görünsün").** Üretilmiş yüzler marka hesabında görünebilir. Şartlar (Fox'un koyduğu, Ayhan itiraz etmedi — 16 Kas'ta teyit edilecek): kameraya bakan portre yok (anti-portre örüntüsü), gönderi YZ etiketiyle çıkar, gerçek kullanıcı gibi sunulmaz. Engellilik temalı içerikte YZ insan yok kuralı aynen durur. *(Eski kural "yüz yok — yalnız diz altı, el, eşya" bu kararla kalktı; satır 14 Kas'ta güncellenmemiş kalmıştı, Denetmen yakaladı.)*
 - **Engellilik ve sosyal etki temalı içerikte YZ insan yok.** 07, 08 ve 11 bu kapsamda. Protez YZ ile üretilmez.
 - **Kanıt gerektiren sahne üretilmez.** Üretim atölyesi, gerçek sipariş, gerçek kullanıcı YZ ile "gösterilmez".
 - **Deneme turları yapıldı (14 Kas).** "Hâlâ çok fake" eleştirin (14 Eki) kapanmadı. Toplu üretimden önce üç kare üretip önüne koyarım. Geçmezse yöntem değişir, kredi yanmaz.
