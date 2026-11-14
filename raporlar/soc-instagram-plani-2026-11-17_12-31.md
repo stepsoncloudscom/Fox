@@ -1,5 +1,5 @@
 # Steps On Clouds — Instagram Paylaşım Planı (19 Kasım – 31 Aralık 2026)
-*14 Kasım 2026 · Fox · v3 (Denetmen bulguları + Ayhan'ın 14 Kas revizesi işlendi) · Durum: TASLAK, Ayhan'ın madde madde onayını bekliyor · Hesap: @stepsoncloudscom*
+*14 Kasım 2026 · Fox · v4 (Denetmen bulguları + Ayhan'ın 14 Kas revizeleri: Red Lions kısıtı, Higgsfield, high fashion / temiz estetik) · Durum: TASLAK, Ayhan'ın madde madde onayını bekliyor · Hesap: @stepsoncloudscom*
 
 > Bu belge yalnız plandır. Hiçbir içerik üretilmedi, hiçbir şey yayınlanmadı. Her madde ayrı onaylanır ya da revize edilir. Üretim onaydan sonra başlar.
 > Zemin: `soc-instagram-arastirma-2026-11-14.md` (Growth) · `soc-instagram-gorsel-envanter-2026-11-14.md` (İçerik) · `soc-instagram-cekim-kirilimi-2026-11-14.md` (Astrid) · `denetmen-soc-instagram-plani-2026-11-14.md` (Denetmen, karar: DİKKAT, 18 bulgu). Rakam ve tarihlerin kaynağı o dosyalarda.
@@ -23,7 +23,10 @@
 4. **"UGC" etiketini dürüst kullanıyoruz.** Ekipten birinin telefonla çektiği video "Lo-fi, ekip çekimi" diye geçer ve öyle sunulur. Gerçek kullanıcı içeriği bugün elimizde yok. Madde 17 bunu davetle başlatır. Oyuncuya kullanıcı gibi davrandırmak plan dışı.
 5. **İndirim ve kıtlık dili yok.** 27 Kasım haftasında da yok. Yılbaşı için tek bilgi senin vereceğin son sipariş tarihi.
 
-### 2.1 · Higgsfield kuralları
+### 2.1 · Görsel dil ve Higgsfield kuralları
+
+- **High fashion, temiz estetik (senin 14 Kas notun).** Tertemiz ürün, sade mimari, dar palet: beyaz, açık taş, koyu mavi, çoraptaki turkuaz. Kirli çorap, dökük duvar, eskimiş ayakkabı yok. İlk deneme turu bu yüzden reddedildi. Gerçekçilik ışıktan, kumaştan ve film greninden gelir. Lo-fi dil marka hesabının ana dili değil; yalnız senin konuşmanda (08) kalıyor.
+- **Logo yakın planda tutmuyor.** İki deneme turunda da logonun kareyi doldurduğu ya da nesnenin kurgulandığı sahnelerde dokuma logo yeniden çizildi. Logo küçük kaldığında tutuyor. Yakın plan ürün kareleri gerçek fotoğraftan gelir.
 
 - **Referans gerçek ürün.** Her üretimde `Steps On Mela` ve stüdyo karelerinden gerçek çorap referans verilir. Dokuma logo, konç boyu ya da kaburga gerçeğinden sapan kare elenir. Müşteri sitede gördüğü çorabı eline almalı.
 - **Yüz yok.** Üretilen karelerde yalnız diz altı, el, eşya. Bu hem senin kilitli örüntün (anti-portre) hem de YZ'nin en çok ele verdiği yer.
@@ -35,7 +38,7 @@
 
 **Her maddede sabit:** acıma, ilham, süper-insan ve kurban çerçevesi yok · "protez uyumlu" iddiası yok, görselle de kurulmaz · fiyat 700 TL · Red Lions'ta bireysel hikâye yok, özne ekip · Red Lions arşivinden yalnız içinde Steps On Clouds görünen kare · SoC medikal tavsiye vermez.
 
-**Format dağılımı (20 madde):** 5 Reels · 6 kaydırmalı · 7 tek fotoğraf · 1 tek kare ya da Reels (13) · 1 davetli kullanıcı içeriği (17). Çekirdek 14'te: 5 Reels, 5 kaydırmalı, 3 tek fotoğraf, 1 tek kare ya da Reels. Kıyas raporlarında tek fotoğraf en zayıf format. Planda kalanlar üretimi en ucuz olanlar ve özel gün kareleri. Kaynağa göre: 5 arşiv · 9 Higgsfield · 3 tasarım · 3 gerçek çekim ya da kullanıcı. Raporlar 1.000 takipçinin altını içermiyor, o yüzden sayısal hedef koymadım.
+**Format dağılımı (20 madde):** 5 Reels · 6 kaydırmalı · 7 tek fotoğraf · 1 tek kare ya da Reels (13) · 1 davetli kullanıcı içeriği (17). Çekirdek 14'te: 5 Reels, 5 kaydırmalı, 3 tek fotoğraf, 1 tek kare ya da Reels. Kıyas raporlarında tek fotoğraf en zayıf format. Planda kalanlar üretimi en ucuz olanlar ve özel gün kareleri. Kaynağa göre: 6 arşiv · 8 Higgsfield · 3 tasarım · 3 gerçek çekim ya da kullanıcı. Raporlar 1.000 takipçinin altını içermiyor, o yüzden sayısal hedef koymadım.
 
 ---
 
@@ -80,9 +83,9 @@ Planı bunlar kapanmadan da onaylayabilirsin. Yanında yazan maddeler bu cevapla
 
 | # | Tarih | Format | Kaynak / dil | Hat | İçerik | Kapı |
 |---|---|---|---|---|---|---|
-| **04 · Ç** | Sal 24 Kas | Tek fotoğraf | Higgsfield · Editorial | Özel gün · **Öğretmenler Günü** | **Ders boyu ayakta.** Sınıf kapısının eşiği, tebeşir tozlu zemin, gündelik ayakkabı ve çorap. Diz altı, yüz yok. Öğretmenlik ayakta geçen bir iş, çorap da gündelik kullanım için. Bağ bu kadar ve bu kadarıyla söylenir. Kare gerçek bir öğretmeni ya da okulu temsil ediyormuş gibi sunulmaz. | K1, K4, deneme kareleri |
-| **05 · Ç** | Per 26 Kas | Reels, 15–25 sn | Higgsfield · Lo-fi dilinde | Ürün | **Sabah, çorap.** Yatağın kenarı, çorabı giyme, ayakkabı, kapıdan çıkış. Pencere ışığı, müzik yok, ortam sesi. 3–4 kısa plan, her biri önce durağan kare olarak üretilip onaylanır, sonra hareketlendirilir. Hesabın kendi ürettiği ilk Reels. Metnin sonunda fiyat ve bio linki. | K1, K4, K8 |
-| **06 · Ç** | Cmt 28 Kas | Tek fotoğraf | Higgsfield · Editorial | Marka | **İpte.** Çamaşır ipinde iki çift çorap. Karenin onda biri ürün, gerisi duvar ve gölge. Kişi yok. Metinde indirim lafı geçmez. | K4 |
+| **04 · Ç** | Sal 24 Kas | Tek fotoğraf | Higgsfield · Editorial | Özel gün · **Öğretmenler Günü** | **Ders boyu ayakta.** Sınıf kapısının eşiği, temiz açık zemin, kara tahtanın koyu yeşili arkada, loafer ve çorap. Diz altı, yüz yok. Öğretmenlik ayakta geçen bir iş, çorap da gündelik kullanım için. Bağ bu kadar ve bu kadarıyla söylenir. Kare gerçek bir öğretmeni ya da okulu temsil ediyormuş gibi sunulmaz. | K1, K4, deneme kareleri |
+| **05 · Ç** | Per 26 Kas | Reels, 15–25 sn | Higgsfield · Editorial, temiz | Ürün | **Sabah, çorap.** Yatağın kenarı, çorabı giyme, ayakkabı, kapıdan çıkış. Sade bir oda, beyaz çarşaf, pencere ışığı. Müzik yok, ortam sesi. 3–4 kısa plan, her biri önce durağan kare olarak üretilip onaylanır, sonra hareketlendirilir. Hesabın kendi ürettiği ilk Reels. Metnin sonunda fiyat ve bio linki. | K1, K4, K8 |
+| **06 · Ç** | Cmt 28 Kas | Tek fotoğraf | Higgsfield · Editorial | Marka | **İpte.** Beyaz duvar, koyu mavi gökyüzü, ipte iki çift bembeyaz çorap ve duvara düşen dört gölge. Deneme karesi hazır (`soc-instagram-denemeler/tur-2-ipte.jpg`). Kişi yok. Metinde indirim lafı geçmez. | K4 |
 
 *27 Kasım Cuma (indirim günü):* paylaşım yok.
 *Story:* 05'in kesilmemiş hali · soru kutusu.
@@ -115,18 +118,18 @@ Bu haftada ürün gönderisi yok. Fiyat, link ve çorap 2–3 Aralık içerikler
 | # | Tarih | Format | Kaynak / dil | Hat | İçerik | Kapı |
 |---|---|---|---|---|---|---|
 | **13 · Ç** | Sal 15 Ara | Tek kare ya da Reels | Tasarım (ya da **gerçek çekim**) | Özel gün · **Yerli Malı Haftası** (resmî adıyla Tutum, Yatırım ve Türk Malları Haftası, 12–18 Aralık) | **Nerede yapılıyor.** Üretim yerini söyleyen tipografik kare. Atölyeye gidip telefonla çekersen Reels olur. Atölye YZ ile üretilmez, "yerli" kanıtı uydurulmuş olur. Üretim Türkiye'de değilse ya da teyit edilemezse hafta atlanır. | K6 |
-| **14 · Ç** | Per 17 Ara | Kaydırmalı, 4 kare | Higgsfield · Editorial (makro) | Ürün | **Doku.** Kaburga, ışığa karşı mesh, iplik seviyesinde dokuma logo, iç yüz. Makroda logo ve örgü gerçeğinden saparsa bu madde `Steps On Mela` karelerinden kırpımla yapılır. (Eski "Tekne işi" maddesi çıktı: karelerde SoC yok.) | K4 |
-| **15 · İ** | Cmt 19 Ara | Tek fotoğraf | Higgsfield · Editorial | Marka | **Kış yürüyüşü.** Islak kaldırım, uzun gölge, kadrajın altında çoraplı ayaklar. Gölge özne. | K1, K4 |
+| **14 · Ç** | Per 17 Ara | Kaydırmalı, 4 kare | Arşiv (`Steps On Mela` kırpım) · Editorial | Ürün | **Doku.** Dokuma logo, kaburga ve konç yakın planda, gerçek karelerden kırpılarak. Higgsfield denemesinde logo gerçeğinden saptı, bu yüzden üretilmiyor. (Eski "Tekne işi" maddesi çıktı: karelerde SoC yok.) | K4 |
+| **15 · İ** | Cmt 19 Ara | Tek fotoğraf | Higgsfield · Editorial | Marka | **Kış yürüyüşü.** Açık taş bir meydan, uzun gölge, kadrajın altında loafer ve çorap. Gölge özne. | K1, K4 |
 
 ### Hafta 6–7 · 21–31 Aralık — yılbaşı, Christmas, yıl kapanışı
 
 | # | Tarih | Format | Kaynak / dil | Hat | İçerik | Kapı |
 |---|---|---|---|---|---|---|
-| **16 · Ç** | Pzt 21 Ara | Reels, 15–25 sn | Higgsfield · Lo-fi dilinde | Satış · **Yılbaşı** | **Hediye paketi.** Düz kâğıt, ip, bir çift çorap, saran eller. Geri sayım, "son adet", indirim yok. Hediye anlatısı ürün ve hareket üzerinden. Son sipariş tarihi, fiyat ve bio linki metinde. | K1, K4, K7, K8 |
+| **16 · Ç** | Pzt 21 Ara | Reels, 15–25 sn | Higgsfield · Editorial, temiz | Satış · **Yılbaşı** | **Hediye paketi.** Düz kâğıt, ip, bir çift çorap, saran eller. Geri sayım, "son adet", indirim yok. Hediye anlatısı ürün ve hareket üzerinden. Son sipariş tarihi, fiyat ve bio linki metinde. | K1, K4, K7, K8 |
 | **17 · İ** | Çar 23 Ara | Video ya da fotoğraf | **Kullanıcı içeriği (davetli)** | Ürün | **Giyenden.** Senin tanıdığın, çorabı gerçekten giyen 3–5 kişiye beş maddelik kısa brif gider. Mesajı sen gönderirsin, sipariş verisinden kimseye ulaşılmaz. Gelen içerik yazılı izinle paylaşılır. Çorap hediye edildiyse gönderide belirtilir. Davetle ve brifle geldiği için "kendiliğinden kullanıcı içeriği" diye sunulmaz. **Şartlı:** içerik gelirse. Davet 24 Kasım'da çıkmalı. | izin metni · hediye beyanı için avukat ya da sen |
-| **18 · Ç** | Cum 25 Ara | Tek fotoğraf · İngilizce | Higgsfield · Editorial | Özel gün · **Christmas** | **Eşik.** Kapı eşiğinde adımın ortası: bir ayak güneşte, diğeri gölgede, kış ışığı. İngilizce kısa metin, markanın kendi sloganıyla: "Take a Step Into The Sky". Türkiye'de bu gün kutlanmıyor. Hesabın yurt dışı takipçisi olup olmadığı ölçülmedi, T0'daki ülke dökümü gösterecek. Yurt dışı gönderim yoksa gönderi ürün satmaz, yalnız selam verir. Sitede sloganın `ınto` yazımı düzelmeden İngilizce gönderi siteye yönlendirmez. | K1, K4, K7 |
+| **18 · Ç** | Cum 25 Ara | Tek fotoğraf · İngilizce | Higgsfield · Editorial | Özel gün · **Christmas** | **Eşik.** Sade taş bir kapıda adımın ortası: lacivert pantolon, siyah loafer, beyaz çorap. Deneme karesi hazır (`soc-instagram-denemeler/tur-2-esik.jpg`). İngilizce kısa metin, markanın kendi sloganıyla: "Take a Step Into The Sky". Türkiye'de bu gün kutlanmıyor. Hesabın yurt dışı takipçisi olup olmadığı ölçülmedi, T0'daki ülke dökümü gösterecek. Yurt dışı gönderim yoksa gönderi ürün satmaz, yalnız selam verir. Sitede sloganın `ınto` yazımı düzelmeden İngilizce gönderi siteye yönlendirmez. | K1, K4, K7 |
 | **19 · İ** | Sal 29 Ara | Kaydırmalı, 4–5 kare | Arşiv | Marka | **2026'dan.** İki Empati Koşusu. Sayı yalnız kaynağı varsa yazılır. Yalnız yüz seçilmeyen 6–8 kare. Red Lions kareleri SoC görünmediği için yok. CloudOne'ın 2026'da çıkıp çıkmadığını bilmiyorum (ürün çekimi Temmuz 2025 tarihli), o yüzden listede yok. Malzeme az kalırsa bu madde düşer. | katılımcı rızası |
-| **20 · İ** | Per 31 Ara | Tek fotoğraf | Higgsfield · Editorial | Marka · **Yılbaşı** | **Günün sonu.** Kapının yanında çıkarılmış ayakkabılar, üstlerinde çoraplar. Kişi yok, akşam ışığı. Yılın son karesi. Beyaz çorabın kullanılmış görünmesi senin kararın. | K4 |
+| **20 · İ** | Per 31 Ara | Tek fotoğraf | Higgsfield · Editorial | Marka · **Yılbaşı** | **Günün sonu.** Sade bir köşe, akşam ışığı, ayakkabılar ve çoraplar. Kişi yok. İlk denemesi elendi (çoraplar ayakkabının içinde bacaksız dik durdu, logo yeniden çizildi). Sahne yeniden kurulacak; tutmazsa madde düşer. | K4 |
 
 *Story:* 22–24 Aralık son sipariş tarihi · 31 Aralık yılın kareleri.
 
