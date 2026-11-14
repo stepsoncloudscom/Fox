@@ -12,7 +12,7 @@
 | 2026-11-19 | 19:00 | 01 | Kort | ürün | arşiv | hayır | onay bekliyor | 0 | 0 | 2026-11-19_01 | K0, K4 · kaydırmalı 5 kare (Steps On Mela) · Denetmen DİKKAT: kare1/kare4'te raket deseni (K4) |
 | 2026-11-21 | 19:00 | 02 | CloudOne nedir | satış | arşiv | hayır | onay bekliyor | 0 | 0 | 2026-11-21_02 | K0, K4, K10 · kaydırmalı 5 kare · Denetmen DİKKAT: 'Bio'daki linkten' kare5'te basılı — K0+K10 kapanmadan zamanlanamaz |
 | 2026-11-22 | 19:00 | 03 | Çorabı çeken eller | marka | arşiv | hayır | onay bekliyor | 0 | 0 | 2026-11-22_03 | İ — 16 Kas havuz onayına bağlı · K4 · Denetmen TEMİZ |
-| 2026-11-24 | 19:00 | 04 | İLK ADIMI ÖĞRETENE | özel gün | Higgsfield | hayır | revize | 0 | 0 | 2026-11-24_04 | Öğretmenler Günü · K4, K8 · Denetmen DUR: top sepeti filenin yanlış tarafında → kredisiz rötuş sürüyor |
+| 2026-11-24 | 19:00 | 04 | İLK ADIMI ÖĞRETENE | özel gün | Higgsfield | hayır | onay bekliyor | 1 | 0 | 2026-11-24_04 | Öğretmenler Günü · K4, K8 · Denetmen: ilk tur DUR (sepet) → kredisiz rötuş → yeniden denetim TEMİZ |
 | 2026-11-26 | 19:00 | 05 | Antrenman öncesi | ürün | Higgsfield | evet | deneme karelerinde | 0 | 0 | 2026-11-26_05 | K4, K8 · YÖN ONAYI · öneri B: bank-kalkış tek klip, video_upscale ~2 kredi tahmin (tavan 80) · ses dinlenmedi |
 | 2026-11-28 | 19:00 | 06 | İpte | marka | Higgsfield | hayır | onay bekliyor | 0 | 0 | 2026-11-28_06 | K4, K8 · Denetmen DİKKAT: amblem çizimi çoraptan çoraba değişiyor — gerçek ürünle yan yana bak |
 | 2026-12-02 | 19:00 | 07 | Yarın kurmayacağımız cümleler | özel gün | tipografik | hayır | havuzda | 0 | 0 | — | 3 Aralık hazırlığı · K12 · BM teması gözle teyit |
