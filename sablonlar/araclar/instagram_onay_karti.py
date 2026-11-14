@@ -29,12 +29,16 @@ GORSEL_MAKS_PX = 1600
 FFMPEG_YEDEK = Path.home() / ".local" / "bin" / "ffmpeg"
 
 CSS = """
-:root { --bg:#f7f6f3; --kart:#ffffff; --metin:#1c1c1a; --soluk:#6b6a66; --cizgi:#e3e1dc; --vurgu:#0a8ea0; --uyari:#b4471c; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#141413; --kart:#1f1f1d; --metin:#ecebe7; --soluk:#a3a29d; --cizgi:#33322f; --vurgu:#3cc3d4; --uyari:#f08a5d; } }
-:root[data-theme="dark"] { --bg:#141413; --kart:#1f1f1d; --metin:#ecebe7; --soluk:#a3a29d; --cizgi:#33322f; --vurgu:#3cc3d4; --uyari:#f08a5d; }
+/* Düzen: tek sütun onay listesi — her paket bir kart, karar satırı kartın dibinde. */
+:root { --bg:#f6f7f6; --kart:#ffffff; --metin:#1b1f1e; --soluk:#5f6866; --cizgi:#dfe4e2; --vurgu:#007f8f; --uyari:#b4471c; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#121615; --kart:#1b2120; --metin:#e8eceb; --soluk:#9aa5a3; --cizgi:#2e3735; --vurgu:#3cc3d4; --uyari:#f08a5d; color-scheme: dark; } }
+:root[data-theme="dark"] { --bg:#121615; --kart:#1b2120; --metin:#e8eceb; --soluk:#9aa5a3; --cizgi:#2e3735; --vurgu:#3cc3d4; --uyari:#f08a5d; color-scheme: dark; }
 * { box-sizing:border-box; }
-body { margin:0; background:var(--bg); color:var(--metin); font:16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-main { max-width:900px; margin:0 auto; padding:24px 16px 64px; }
+body { margin:0; background:var(--bg); color:var(--metin); font:16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+       padding-left:max(16px, env(safe-area-inset-left, 0px)); padding-right:max(16px, env(safe-area-inset-right, 0px)); }
+main { max-width:900px; margin:0 auto; padding-block:24px 64px; }
+h1, h2 { text-wrap:balance; }
+.meta { font-variant-numeric:tabular-nums; }
 header p { color:var(--soluk); margin:4px 0 0; }
 section { background:var(--kart); border:1px solid var(--cizgi); border-radius:12px; padding:20px; margin-top:20px; }
 h1 { font-size:1.5rem; margin:0; } h2 { font-size:1.2rem; margin:0 0 4px; } h3 { font-size:.95rem; margin:16px 0 6px; color:var(--soluk); }
@@ -144,15 +148,15 @@ def kart_uret(k: Kuyruk, cikti: Path, paket_koku: Path = PAKET_KOKU, video_esik_
     govde = [_bolum(s, Path(paket_koku), cikti, video_esik_bayt) for s in bekleyen]
     if not govde:
         govde = ['<section><p>Kartta bekleyen paket yok.</p></section>']
+    # Artifact sözleşmesi: yayın iskeleti doctype/html/head/body'yi kendisi ekler.
     sayfa = (
-        '<!doctype html>\n<html lang="tr">\n<head>\n<meta charset="utf-8">\n'
-        '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
         "<title>Instagram Onay Kartı</title>\n"
-        f"<style>{CSS}</style>\n</head>\n<body>\n<main>\n"
+        '<meta name="claude:viewport-fit-sides" content="cover">\n'
+        f"<style>{CSS}</style>\n<main lang=\"tr\">\n"
         "<header><h1>Instagram Onay Kartı</h1>"
-        f"<p>{html.escape(ozet_satiri(k, date.today()))}</p></header>\n"
+        f'<p class="meta">{html.escape(ozet_satiri(k, date.today()))}</p></header>\n'
         + "\n".join(govde)
-        + "\n</main>\n</body>\n</html>\n"
+        + "\n</main>\n"
     )
     index = cikti / "index.html"
     index.write_text(sayfa, encoding="utf-8")

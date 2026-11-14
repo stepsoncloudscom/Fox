@@ -118,6 +118,16 @@ class OnayKartiTestleri(unittest.TestCase):
         self.assertIn(':root[data-theme="dark"]', html)
         self.assertNotIn("<script src=", html)
 
+    def test_artifact_sozlesmesi(self):
+        self.paket("a_04")
+        html = self.uret([satir("2026-11-24", "04", "onay bekliyor", "a_04")])
+        for kalip in (r"<!doctype", r"<html[\s>]", r"<head[\s>]", r"<body[\s>]"):
+            self.assertNotRegex(html.lower(), kalip)
+        self.assertIn('<meta name="claude:viewport-fit-sides" content="cover">', html)
+        self.assertIn("max(16px, env(safe-area-inset-left, 0px))", html)
+        self.assertIn("max(16px, env(safe-area-inset-right, 0px))", html)
+        self.assertIn("color-scheme: dark", html)
+
     def test_bos_kart(self):
         html = self.uret([satir("2026-11-19", "01", "onaylandı", "a_01")])
         self.assertIn("Kartta bekleyen paket yok", html)
